@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="uniform">Aymeri de Narbonne</title>
+        <title type="main">Aymeri de Narbonne [Electronic resource] : chanson de geste : publiée d'après les manuscrits de Londres et de Paris / par Louis Demaison </title>
+        <respStmt>
+          <resp>possible author</resp>
+          <name>Bertrand de Bar-sur-Aube, 12th cent.</name>
+        </respStmt>
+      </titleStmt>
+      <extent>
+        <seg type="designation">Text data</seg>
+        <seg type="size">(1 file : ca. 201 kilobytes)</seg>
+      </extent>
+      <publicationStmt>
+        <authority>[Depositor details removed]<date>1994-01-17</date></authority>
+        <distributor>
+          <orgName type="OTA">University of Oxford Text Archive</orgName>
+          <placeName>Oxford</placeName>
+          <address>
+            <orgName type="OTA">University of Oxford Text Archive</orgName>
+            <orgName type="OUCS">Oxford University Computing
+          Services</orgName>
+            <addrLine>13 Banbury Road</addrLine>
+            <addrLine>Oxford</addrLine>
+            <addrLine>OX2 6NN</addrLine>
+          </address>
+          <email>ota@it.ox.ac.uk</email>
+        </distributor>
+        <idno type="ota">2030</idno>
+        <!--New OTA availability statement-->
+        <availability n="OTA-new" status="free" rend="visible">
+          <licence target="http://creativecommons.org/licenses/by-nc-sa/3.0/">
+	  Distributed by the University of Oxford under a Creative Commons
+	  Attribution-NonCommercial-ShareAlike 3.0 Unported License.</licence>
+        </availability>
+        <!--Old Availability-->
+      </publicationStmt>
+      <notesStmt>
+        <note anchored="true">Mode of access: Online. OTA website</note>
+        <note anchored="true">Title proper from printed source</note>
+        <note type="nb" anchored="true">Please note that only the "texte" is transcribed. This does not include the introduction, glossary or tables of the original</note>
+      </notesStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title>Aymeri de Narbonne : chanson de geste. Tome second</title>
+            <title level="m">Aymeri de Narbonne : chanson de geste : publiée d'après les manuscrits de Londres et de Paris / par Louis Demaison</title>
+            <editor role="editor">Demaison, Louis, 1852-</editor>
+          </titleStmt>
+          <extent>v. 2 ; 23 cm.</extent>
+          <publicationStmt>
+            <publisher>F. Didot et cie</publisher>
+            <pubPlace>Paris</pubPlace>
+            <date>1887</date>
+          </publicationStmt>
+          <seriesStmt>
+            <p>Société des anciene textes fran<g n="ccedil">ç</g>ais</p>
+          </seriesStmt>
+          <notesStmt>
+            <note anchored="true">Title in red and black</note>
+            <note anchored="true">"Tiré <g n="agrave">à</g> cent exemplaires sur ce papier [Whatman]"</note>
+            <note anchored="true">Authorship attributed to Bertrand de Bar-sur-Aube</note>
+            <note anchored="true">Published in two vols: t. 1. Introduction.  t. 2. Texte, glossaire, et tables</note>
+          </notesStmt>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p/>
+      </projectDesc>
+      <samplingDecl>
+        <p/>
+      </samplingDecl>
+      <editorialDecl>
+        <p>Encoding format: Plain text</p>
+        <p>No punctuation</p>
+      </editorialDecl>
+      <refsDecl>
+        <p/>
+      </refsDecl>
+      <classDecl>
+        <taxonomy xml:id="OTASH">
+          <bibl>University of Oxford Text Archive Subject Headings</bibl>
+        </taxonomy>
+        <taxonomy xml:id="lcsh">
+          <bibl>Library of Congress Subject Headings</bibl>
+        </taxonomy>
+      </classDecl>
+    </encodingDesc>
+    <profileDesc>
+      <creation>
+        <date> </date>
+      </creation>
+      <langUsage>
+        <language ident="fro">French, Old</language>
+      </langUsage>
+      <textClass>
+        <keywords scheme="#OTASH">
+          <term type="genre"/>
+        </keywords>
+        <keywords scheme="#lcsh">
+          <term type="genre">Poems -- France -- 13th century</term>
+          <term type="genre">Romances -- France -- 13th century</term>
+          <term type="genre">Gesta -- France -- 13th century</term>
+          <term type="genre">Musical works -- France -- 12th century</term>
+          <term type="genre">Songs -- France -- 12th century</term>
+        </keywords>
+      </textClass>
+      <textClass>
+        <keywords scheme="http://www.ota.ox.ac.uk/processing">
+          <term type="class">legacy</term>
+          <term type="license">Free for non-commercial use</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+    <revisionDesc>
+      <change><date>2001-02-26</date><label>Cataloguer</label><name>Webb, Anton</name>Header changed in accordance with ISBD(ER) guidelines and expanded. Validated against the TEI Lite DTD using XMetal 2.0
+      </change>
+      <change><date>1997-12-18</date><label/><name>Burnard, Lou</name>Header auto-generated from TOMES
+      </change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="OTA-filemap" rend="visible" n="unrestricted">
+        <ab type="file">
+          <seg type="part">1</seg>
+          <seg type="mimetype">text/plain</seg>
+          <seg type="format">Unknown textual format</seg>
+          <ptr type="resourcePart" target="aymeri.2030"/>
+        </ab>
+      </div>
+    </body>
+  </text>
+</TEI>
