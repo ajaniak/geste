@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="Modele.rng" 
+    type="application/xml"  schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="Modele.rng" 
+    type="application/xml"  schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ed_MortAymC" xml:lang="fr" type="ed">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Mort Aymeri de Narbonne</title>
+            <title type="sub">Numérisation de l'édition de Joseph Couraye du Parc</title>
+            <respStmt xml:id="JBC">
+               <resp>sous la direction de</resp>
+               <persName>Jean-Baptiste Camps</persName>
+            </respStmt>
+            <respStmt xml:id="ED">
+               <resp>édition numérique</resp>
+               <persName>Ella Duréault</persName>
+            </respStmt>
+            <respStmt xml:id="AJ">
+               <resp>édition numérique</resp>
+               <persName>Axelle Janiak</persName>
+            </respStmt>
+            <respStmt xml:id="AM">
+               <resp>édition numérique</resp>
+               <persName>Armâne Magnier</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <authority>
+               <persName>
+                  <forename>Jean-Baptiste</forename>
+                  <surname>Camps</surname>
+               </persName>
+               <address>
+                  <orgName>École nationale des chartes</orgName>
+                  <addrLine>65 rue de Richelieu</addrLine>
+                  <addrLine>F-75002 Paris</addrLine>
+               </address>
+               <email>jbcamps@hotmail.com</email>
+            </authority>
+            <availability status="free">
+               <licence target="http://creativecommons.org/publicdomain/mark/1.0/"> Les textes d'auteurs médiévaux sont dans le domaine
+                  public.</licence>
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/"> Le travail d'encodage et d'annotation sont mis à disposition
+                  selon les termes de la licence Creative Commons Attribution - Partage dans les Mêmes Conditions 4.0 International (CC BY-SA 4.0).
+               </licence>
+            </availability>
+            <date>2018</date>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct xml:id="edC">
+               <monogr>
+                  <editor xml:id="Couraye_du_Parc">
+                     <persName>
+                        <forename>Joseph</forename>
+                        <surname>Couraye du Parc</surname>
+                     </persName>
+                  </editor>
+                  <title type="main">La mort Aymeri de Narbonne</title>
+                  <title type="sub">Chanson de geste</title>
+                  <imprint>
+                     <publisher>Firmin Didot</publisher>
+                     <pubPlace>Paris</pubPlace>
+                     <date>1884</date>
+                  </imprint>
+                  <imprint>
+                     <publisher>Société des anciens textes français</publisher>
+                     <pubPlace>Paris</pubPlace>
+                  </imprint>
+               </monogr>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <creation>
+            <origPlace cert="unknown" resp="DEAF" type="lieuComposition">inconnue</origPlace>
+            <origDate cert="unknown" resp="DEAF" notBefore="1213" notAfter="1300" type="dateComposition">entre 1213 et 1300 </origDate>
+            <origPlace cert="unknown" resp="DEAF" type="lieuManuscrit">Bourgogne</origPlace>
+            <origDate cert="unknown" resp="DEAF" type="dateManuscrit" notBefore="1260" notAfter="1280">ca. 1270</origDate>
+         </creation>
+         <langUsage>
+            <!--Je ne suis pas en possession de cette information pour le moment. -->
+            <language cert="" resp="" ident="fro" usage=""></language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc status="draft">
+         <change who="AJ" when="2018-01-10">Réalisation du TeiHeader</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="fr">
+      <front>
+      </front>
+      <body></body>
+      <back></back>
+   </text>
+</TEI>
