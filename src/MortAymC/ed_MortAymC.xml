@@ -81,7 +81,7 @@
          </creation>
          <langUsage>
             <!--Je ne suis pas en possession de cette information pour le moment. -->
-            <language cert="" resp="" ident="fro" usage=""></language>
+            <language cert="unknown" resp="DEAF" ident="fro" usage="">traits bourguignons</language>
          </langUsage>
       </profileDesc>
       <revisionDesc status="draft">
