@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="Modele.rng" 
+<?xml-model href="../Modele.rng" 
     type="application/xml"  schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="Modele.rng" 
+<?xml-model href="../Modele.rng" 
     type="application/xml"  schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ed_MortAymC" xml:lang="fr" type="ed">
    <teiHeader>
@@ -80,18 +80,20 @@
             <origDate cert="unknown" resp="DEAF" type="dateManuscrit" notBefore="1260" notAfter="1280">ca. 1270</origDate>
          </creation>
          <langUsage>
-            <!--Je ne suis pas en possession de cette information pour le moment. -->
-            <language cert="unknown" resp="DEAF" ident="fro" usage="">traits bourguignons</language>
+            <language cert="unknown" resp="DEAF" ident="fro" usage="100">traits bourguignons</language>
          </langUsage>
       </profileDesc>
       <revisionDesc status="draft">
-         <change who="AJ" when="2018-01-10">Réalisation du TeiHeader</change>
+         <change who="#AJ" when="2018-01-10">Réalisation du TeiHeader</change>
       </revisionDesc>
    </teiHeader>
    <text xml:lang="fr">
       <front>
+         
       </front>
-      <body></body>
+      <body>
+         <p></p>
+      </body>
       <back></back>
    </text>
 </TEI>
