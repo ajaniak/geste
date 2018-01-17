@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../odd/out/Modele.rng" 
+    type="application/xml"  schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="../odd/out/Modele.rng" 
+    type="application/xml"  schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ed_GuiBourgG" type="ed" xml:lang="fr">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">Huon de Bordeaux</title>
+                <title type="sub">Numérisation de l'édition de Guessard de 1860</title>
+                <respStmt xml:id="JBC">
+                    <resp>sous la direction de</resp>
+                    <persName>Jean-Baptiste</persName>
+                </respStmt>
+                <respStmt xml:id="ED">
+                    <resp>édition numérique</resp>
+                    <persName>Ella Duréault</persName>
+                </respStmt>
+                <respStmt>
+                    <resp>édition numérique</resp>
+                    <persName>Axelle Janiak</persName>
+                </respStmt>
+                <respStmt xml:id="AM">
+                    <resp>édition numérique</resp>
+                    <persName>Armâne Magnier</persName>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <authority>
+                    <persName>
+                        <forename>Jean-Baptiste</forename>
+                        <surname>Camps</surname>
+                    </persName>
+                    <address>
+                        <orgName>École nationale des chartes</orgName>
+                        <addrLine>65 rue de Richelieu</addrLine>
+                        <addrLine>F-75002 Paris</addrLine>
+                    </address>
+                    <email>jbcamps@hotmail.com</email>
+                </authority>
+                <availability status="free">
+                    <licence target="http://creativecommons.org/publicdomain/mark/1.0/"> Les textes d'auteurs médiévaux sont dans le domaine
+                        public.</licence>
+                    <licence target="http://creativecommons.org/licenses/by-sa/4.0/"> Le travail d'encodage et d'annotation sont mis à disposition
+                        selon les termes de la licence Creative Commons Attribution - Partage dans les Mêmes Conditions 4.0 International (CC BY-SA 4.0).
+                    </licence>
+                </availability>
+                <date>2018</date>
+            </publicationStmt>
+            <sourceDesc>
+                <biblStruct xml:id="edG">
+                    <monogr>
+                        <editor xml:id="Guessard">
+                            <persName>
+                                <forename>François</forename>
+                                <surname>Guessard</surname>
+                            </persName>
+                        </editor>
+                        <editor xml:id="Grandmaison">
+                            <persName>
+                                <forename>Charles</forename>
+                                <surname>Grandmaison</surname>
+                            </persName>
+                        </editor>
+                        <title type="main">Huon de Bordeaux</title>
+                        <title type="sub">Chanson de geste</title>
+                        <imprint>
+                            <publisher >F. Vieweg</publisher>
+                            <pubPlace>Paris</pubPlace>
+                            <date>1860</date>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation>
+                <origPlace cert="unknown" resp="DEAF" type="lieuComposition">Picardie</origPlace>
+                <origDate cert="unknown" resp="DEAF" type="dateComposition" notBefore="1240" notAfter="1260">pas avant 1216</origDate>
+                <origPlace cert="unknown" resp="DEAF" type="lieuManuscrit">Picardie</origPlace>
+                <origDate cert="unknown" resp="DEAF" type="dateManuscrit" notBefore="1240" notAfter="1260">1240 - 1260</origDate>
+            </creation>
+            
+            <langUsage>
+                <language cert="medium" resp="#JBC" ident="fro" usage="100">traits picards</language>
+            </langUsage>
+        </profileDesc>
+        <revisionDesc status="draft">
+            <change who="#AM" when="2018-01-10">Encodage des métadonnées</change>
+        </revisionDesc>
+    </teiHeader>
