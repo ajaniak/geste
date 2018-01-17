@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../Modele.rng" 
+    type="application/xml"  schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="../Modele.rng" 
+    type="application/xml"  schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ed_AimeriD" type="ed" xml:lang="fr">
+<teiHeader>
+   <fileDesc>
+      <titleStmt>
+         <title type="main">Aymeri de Narbonne</title>
+         <title type="sub">Numérisation de l'édition de Demaison de 1887</title>
+         <respStmt xml:id="JBC">
+            <resp>sous la direction de</resp>
+            <persName>Jean-Baptiste Camps</persName>
+         </respStmt>
+         <respStmt xml:id="ED">
+            <resp>édition numérique</resp>
+            <persName>Ella Duréault</persName>
+         </respStmt>
+         <respStmt xml:id="AJ">
+            <resp>édition numérique</resp>
+            <persName>Axelle Janiak</persName>
+         </respStmt>
+         <respStmt xml:id="AM">
+            <resp>édition numérique</resp>
+            <persName>Armâne Magnier</persName>
+         </respStmt>
+      </titleStmt>
+      <publicationStmt>
+         <authority>
+            <persName>
+               <forename>Jean-Baptiste</forename>
+               <surname>Camps</surname>
+            </persName>
+            <address>
+               <orgName>École nationale des chartes</orgName>
+               <addrLine>65 rue de Richelieu</addrLine>
+               <addrLine>F-75002 Paris</addrLine>
+            </address>
+            <email>jbcamps@hotmail.com</email>
+         </authority>
+         <availability status="free">
+            <licence target="http://creativecommons.org/publicdomain/mark/1.0/"> Les textes d'auteurs médiévaux sont dans le domaine
+               public.</licence>
+            <licence target="http://creativecommons.org/licenses/by-sa/4.0/"> Le travail d'encodage et d'annotation sont mis à disposition
+               selon les termes de la licence Creative Commons Attribution - Partage dans les Mêmes Conditions 4.0 International (CC BY-SA 4.0).
+            </licence>
+         </availability>
+         <date>2018</date>
+      </publicationStmt>
+      <sourceDesc>
+         <biblStruct xml:id="edD">
+            <monogr>
+               <editor xml:id="Demaison">
+                  <persName>
+                     <forename>Louis</forename>
+                     <surname>Demaison</surname>
+                  </persName>
+               </editor>
+               <title type="main">Aymeri de Narbonne</title>
+               <title type="sub">Chanson de geste  : publiée d'après les manuscrits de Londres et de Paris</title>
+               <imprint>
+                  <publisher>F. Didot et cie</publisher>
+                  <pubPlace>Paris</pubPlace>
+                  <date>1887</date>
+               </imprint>
+               <imprint>
+                  <publisher>Société des anciens textes français</publisher>
+                  <pubPlace>Paris</pubPlace>
+               </imprint>
+            </monogr>
+         </biblStruct>
+      </sourceDesc>
+   </fileDesc>
+   <profileDesc>
+      <creation>
+         <origPlace cert="unknown" resp="DEAF" type="lieuComposition">inconnue</origPlace>
+         <origDate cert="unknown" resp="DEAF" type="dateComposition" notBefore="1200" notAfter="1220">1200-1220</origDate>
+         <origPlace cert="unknown" resp="DEAF" type="lieuManuscrit">Bourgogne</origPlace>
+         <origDate cert="unknown" resp="DEAF" type="dateManuscrit" notBefore="1260" notAfter="1280">ca. 1270</origDate>
+      </creation>
+      <langUsage>
+         <language cert="unknown" resp="DEAF" ident="fro" usage="100">traits de bourguignons</language>
+      </langUsage>
+   </profileDesc>
+   <revisionDesc status="draft">
+      <change who="#AJ" when="2018-01-15">Encodage du TeiHeader</change>
+   </revisionDesc>
+</teiHeader>
+  <text xml:lang="fr">
+     <front>
+        
+     </front>
+      <body>
+         <p>Some text here.</p>
+      </body>
+     <back>
+        
+     </back>
+  </text>
+</TEI>
