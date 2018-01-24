@@ -88,84 +88,1150 @@
          </langUsage>
       </profileDesc>
       <revisionDesc status="draft">
+         <change who="#AJ" when="2018-01-24">Poursutie de l'intégration du front</change>
+         <change who="#AJ" when="2018-01-22">Début de la structuration du texte: intégration du
+            front</change>
          <change who="#AJ" when="2018-01-10">Réalisation du TeiHeader</change>
       </revisionDesc>
    </teiHeader>
    <text xml:lang="fr">
       <front>
-         <div type="introduction"><p>
-            <pb n="" facs="https://fr.wikisource.org/wiki/Page%3AAnonyme_-_La_Mort_Aymeri_de_Narbonne.djvu/6"/>
-            <lb/>Vers la fin du xiie siècle, le personnage d’Ai <lb/>meri de Narbonne avait acquis dans la
-            poé <lb/>sie épique française une popularité égale à  <lb/>celle de son fils Guillaume d’Orange, le
-            héros primi <lb/>tif de la geste, et l’on composa peu à peu un assez <lb/> grand nombre de poèmes
-            spécialement consacrés à <lb/> ce nouveau héros. Les scribes des manuscrits cycli <lb/>ques purent
-            alors le considérer comme le centre d’un  <lb/>groupe particulier et réunir dans une seule
-            collection  <lb/>toutes les chansons ayant Aimeri de Narbonne pour <lb/> principal acteur, à
-            l’exclusion de poèmes qui, comme <lb/> Aliscans, le Charroi de Nismes, ou le Couronnement
-            Looys célébraient particulièrement la gloire et les <lb/> exploits de Guillaume d’Orange. <lb/></p><p>
-               C’est l’enchaînement de ces poèmes disposés de fa<lb/>çon à présenter en un seul récit tout
-               ce que la légende<lb/> racontait d’Aimeri, qui dut donner à un trouvère épi<lb/>que d’une époque
-               postérieure, l’idée de suppléer à ce<lb/> que cette légende avait d’incomplet et de terminer
-               le
-               <pb n="" facs="https://fr.wikisource.org/wiki/Page%3AAnonyme_-_La_Mort_Aymeri_de_Narbonne.djvu/7"/>
-               livre d’Aimeri en racontant ses dernières batailles, sa<lb/> fin et celle de quelques-uns de ses fils.<lb/></p>
-            
-            <p><lb/> L’auteur du poème semble avouer lui-même cette<lb/> préoccupation de raconter le dénouement de la lé<lb/>gende d’Aimeri, au début de son poème, par exem<lb/>ple. Écoutez, dit-il</p>
-            
-            <p><lb/>Coment les jestes vindent a decliner,<lb/>
-               Les ancienes dont l’en soloit parler ;<lb/>
-               C’est d’Aymeri de Nerbone lo ber… (v. 4-6.)</p>
-            
+         <div type="introduction">
+            <p>
+               <pb n="I"
+                  facs="https://fr.wikisource.org/wiki/Page%3AAnonyme_-_La_Mort_Aymeri_de_Narbonne.djvu/6"/>
+               <lb/>Vers la fin du xiie siècle, le personnage d’Ai <lb/>meri de Narbonne avait
+               acquis dans la poé <lb/>sie épique française une popularité égale à <lb/>celle de son
+               fils Guillaume d’Orange, le héros primi <lb/>tif de la geste, et l’on composa peu à
+               peu un assez <lb/> grand nombre de poèmes spécialement consacrés à <lb/> ce nouveau
+               héros. Les scribes des manuscrits cycli <lb/>ques purent alors le considérer comme le
+               centre d’un <lb/>groupe particulier et réunir dans une seule collection <lb/>toutes
+               les chansons ayant Aimeri de Narbonne pour <lb/> principal acteur, à l’exclusion de
+               poèmes qui, comme <lb/> Aliscans, le Charroi de Nismes, ou le Couronnement Looys
+               célébraient particulièrement la gloire et les <lb/> exploits de Guillaume d’Orange.
+               <lb/></p>
+            <p> C’est l’enchaînement de ces poèmes disposés de fa<lb/>çon à présenter en un seul
+               récit tout ce que la légende<lb/> racontait d’Aimeri, qui dut donner à un trouvère
+               épi<lb/>que d’une époque postérieure, l’idée de suppléer à ce<lb/> que cette légende
+               avait d’incomplet et de terminer le <pb n="II"
+                  facs="https://fr.wikisource.org/wiki/Page%3AAnonyme_-_La_Mort_Aymeri_de_Narbonne.djvu/7"
+               /> livre d’Aimeri en racontant ses dernières batailles, sa<lb/> fin et celle de
+               quelques-uns de ses fils.<lb/></p>
+
+            <p><lb/> L’auteur du poème semble avouer lui-même cette<lb/> préoccupation de raconter
+               le dénouement de la lé<lb/>gende d’Aimeri, au début de son poème, par exem<lb/>ple.
+               Écoutez, dit-il</p>
+
+            <p><lb/>Coment les jestes vindent a decliner,<lb/> Les ancienes dont l’en soloit parler
+               ;<lb/> C’est d’Aymeri de Nerbone lo ber… (v. 4-6.)</p>
+
             <p><lb/> Et ailleurs, après le récit d’une dernière victoire<lb/> de son héros :</p>
-            
-            <p>  <lb/>Or recommence bone chançon nobile,
-               <lb/> Si com barnaje se amonte et decline
-               <lb/> Et d’autre part essauce et puis avile.
-               <lb/>Ainsi reprist danz Aymeris sa vile… (v. 2941-2944.)</p>
-            
-            <p><lb/>Dans un de ses nombreux recommencements où,<lb/> suivant un usage fort en vogue chez les trouvères épi<lb/>ques, il annonce les événements qui vont suivre, l’au<lb/>teur se plaît à rappeler la gloire passée, et pour ainsi<lb/> dire à résumer la carrière du héros dont il va raconter<lb/> la fin :</p>
-            
-            <p><lb/> Seignor, oez chançon de verité,
-               <lb/>Bone et bien fete, nus ne la doit blasmer.
-               <lb/>Il est escrit el role et seelé,
-               <lb/>Ce fu li hom de la crestienté
-               <lb/> Qui toz jorz pot plus barnaje mener
-               <lb/> Et qui plus pot chevalerie amer,
-               <pb n="" facs="https://fr.wikisource.org/wiki/Page%3AAnonyme_-_La_Mort_Aymeri_de_Narbonne.djvu/8"/>
-               
-               
-               <lb/> Petit prometre et larjement doner,
-               <lb/> Que Aymeris de Nerbone li ber :
-               <lb/> Car ne fina en trestot son aé
-               <lb/> De guerre fere, de cenbiax afermer,
-               <lb/> De terres prendre, de chastiax conquester...
-               <lb/>(v. 3391-3401.)</p>
-            
-            <p><lb/>Enfin, dans les derniers vers du poème, par un <lb/>procédé analogue à celui d’un romancier moderne <lb/>qui, après le récit du dénouement, termine en appre<lb/>nant à son lecteur le sort des personnages secondaires <lb/>de son roman, le vieux trouvère nous renseignera<lb/> sur la destinée de tous les fils d’Aimeri qui ont joué <lb/>un rôle dans son œuvre et dans les poèmes auxquels il<lb/> cherche à se rattacher. Beuves de Commarchis, Her<lb/>naut de Gironde et Guibert d’Andrénas à qui il a<lb/> donné un rôle si brillant, retournent dans leurs châ<lb/>teaux, et l’auteur, il est vrai, laisse à d’autres le soin<lb/> de raconter leurs aventures postérieures. Guillaume<lb/> d’Orange aura, dit-il, encore bien des luttes à soutenir <lb/>dans sa vie :
-            </p>            
-            <p><lb/>Onques pés n’ot a la jent paienie. (v. 4156.)
-            </p>            
-            
-            <p><lb/>L’auteur connaissait peut-être le Moniage Guil<lb/>laume ; il semble par ce vers y faire allusion et pour<lb/> ainsi dire y renvoyer ses lecteurs. On verra plus loin<lb/> que dans le cours de son œuvre, il rappelle avec une <lb/>sorte d’insistance la mort d’Aïmer le chétif, comme <lb/>pour n’avoir pas à s’occuper de sa fin qui doit avoir <lb/>été racontée dans les poèmes maintenant perdus, et <lb/>qu’il supposait connue de ses auditeurs.
-            </p>            
-            <p><lb/>Quant à Garin d’Anseüne et à Bernart de Brebant
-            </p>   
-            <pb n="" facs="https://fr.wikisource.org/wiki/Page%3AAnonyme_-_La_Mort_Aymeri_de_Narbonne.djvu/9"/>
-            <p><lb/>qui n’avaient jamais eu une grande popularité et pour <lb/>lesquels la légende donnait peu de détails, le trouvère<lb/> n’hésite pas à raconter leur fin dans la bataille même <lb/>qu’il a imaginée pour la mort de leur père.</p>
-            
-            <p><lb/>Enfin la destinée d’Hermengarde de Pavie qui fi<lb/>gure à côté d’Aimeri dans presque toutes les chan<lb/>sons de geste de ce groupe, a aussi préoccupé l’au<lb/>teur ; elle ne pouvait survivre à son mari et le poète<lb/> nous assure quelle mourut quelques mois après lui <lb/>dans le cloître où elle s’était retirée. Un scribe d’un <lb/>de nos manuscrits pourra donc écrire à juste titre à la<lb/> fin de notre chanson :
-            </p>            
-            
-            <p><lb/>Ci endroit fine li livres de la fin d’Aymeri, et d’Ermen<lb/>garde et de plusieurs de leurs enfants... (B. N., fr. 24370.)
-            </p>            
-            
-            <p><lb/>Les copistes ont bien compris ce caractère de la<lb/> Mort Aymeri, et dans certains manuscrits cycliques<lb/> qui renferment seulement les chansons consacrées aux<lb/> exploits d’Aimeri, notre poème occupe naturellement<lb/> la dernière place : tels sont les manuscrits du Musée<lb/> britannique cotés Old Roy. 20. B. xix, et Harl.<lb/> 1321, dont nous parlons plus loin, et où la Mort Ay<lb/>meri était évidemment considérée comme la conclu<lb/>sion de toutes les chansons de geste sur ce personnage, <lb/>rangées dans un ordre chronologique.
-            </p>            
-            <p><lb/>À côté de ces collections de poèmes sur un même<lb/> personnage, on faisait aussi de ces volumineux ma<lb/>nuscrits où le copiste réunissait toutes les chansons de<lb/> la geste de Guillaume, qu’il pouvait se procurer. Le <lb/>manuscrit du Musée britannique, Old Roy. 20 D.
-            </p>  </div>       
+
+            <p>
+               <lb/>Or recommence bone chançon nobile, <lb/> Si com barnaje se amonte et decline
+               <lb/> Et d’autre part essauce et puis avile. <lb/>Ainsi reprist danz Aymeris sa vile…
+               (v. 2941-2944.)</p>
+
+            <p><lb/>Dans un de ses nombreux recommencements où,<lb/> suivant un usage fort en vogue
+               chez les trouvères épi<lb/>ques, il annonce les événements qui vont suivre,
+               l’au<lb/>teur se plaît à rappeler la gloire passée, et pour ainsi<lb/> dire à résumer
+               la carrière du héros dont il va raconter<lb/> la fin :</p>
+
+            <p><lb/> Seignor, oez chançon de verité, <lb/>Bone et bien fete, nus ne la doit blasmer.
+               <lb/>Il est escrit el role et seelé, <lb/>Ce fu li hom de la crestienté <lb/> Qui toz
+               jorz pot plus barnaje mener <lb/> Et qui plus pot chevalerie amer, <pb n="III"
+                  facs="https://fr.wikisource.org/wiki/Page%3AAnonyme_-_La_Mort_Aymeri_de_Narbonne.djvu/8"/>
+               <lb/> Petit prometre et larjement doner, <lb/> Que Aymeris de Nerbone li ber : <lb/>
+               Car ne fina en trestot son aé <lb/> De guerre fere, de cenbiax afermer, <lb/> De
+               terres prendre, de chastiax conquester... <lb/>(v. 3391-3401.)</p>
+
+            <p><lb/>Enfin, dans les derniers vers du poème, par un <lb/>procédé analogue à celui
+               d’un romancier moderne <lb/>qui, après le récit du dénouement, termine en
+               appre<lb/>nant à son lecteur le sort des personnages secondaires <lb/>de son roman,
+               le vieux trouvère nous renseignera<lb/> sur la destinée de tous les fils d’Aimeri qui
+               ont joué <lb/>un rôle dans son œuvre et dans les poèmes auxquels il<lb/> cherche à se
+               rattacher. Beuves de Commarchis, Her<lb/>naut de Gironde et Guibert d’Andrénas à qui
+               il a<lb/> donné un rôle si brillant, retournent dans leurs châ<lb/>teaux, et
+               l’auteur, il est vrai, laisse à d’autres le soin<lb/> de raconter leurs aventures
+               postérieures. Guillaume<lb/> d’Orange aura, dit-il, encore bien des luttes à soutenir
+               <lb/>dans sa vie : </p>
+            <p><lb/>Onques pés n’ot a la jent paienie. (v. 4156.) </p>
+
+            <p><lb/>L’auteur connaissait peut-être le Moniage Guil<lb/>laume ; il semble par ce vers
+               y faire allusion et pour<lb/> ainsi dire y renvoyer ses lecteurs. On verra plus
+               loin<lb/> que dans le cours de son œuvre, il rappelle avec une <lb/>sorte
+               d’insistance la mort d’Aïmer le chétif, comme <lb/>pour n’avoir pas à s’occuper de sa
+               fin qui doit avoir <lb/>été racontée dans les poèmes maintenant perdus, et <lb/>qu’il
+               supposait connue de ses auditeurs. </p>
+            <p><lb/>Quant à Garin d’Anseüne et à Bernart de Brebant <pb n="IV"
+                  facs="https://fr.wikisource.org/wiki/Page%3AAnonyme_-_La_Mort_Aymeri_de_Narbonne.djvu/9"/>
+               <lb/>qui n’avaient jamais eu une grande popularité et pour <lb/>lesquels la légende
+               donnait peu de détails, le trouvère<lb/> n’hésite pas à raconter leur fin dans la
+               bataille même <lb/>qu’il a imaginée pour la mort de leur père.</p>
+
+            <p><lb/>Enfin la destinée d’Hermengarde de Pavie qui fi<lb/>gure à côté d’Aimeri dans
+               presque toutes les chan<lb/>sons de geste de ce groupe, a aussi préoccupé
+               l’au<lb/>teur ; elle ne pouvait survivre à son mari et le poète<lb/> nous assure
+               quelle mourut quelques mois après lui <lb/>dans le cloître où elle s’était retirée.
+               Un scribe d’un <lb/>de nos manuscrits pourra donc écrire à juste titre à la<lb/> fin
+               de notre chanson : </p>
+
+            <p><lb/>Ci endroit fine li livres de la fin d’Aymeri, et d’Ermen<lb/>garde et de
+               plusieurs de leurs enfants... (B. N., fr. 24370.) </p>
+
+            <p><lb/>Les copistes ont bien compris ce caractère de la<lb/> Mort Aymeri, et dans
+               certains manuscrits cycliques<lb/> qui renferment seulement les chansons consacrées
+               aux<lb/> exploits d’Aimeri, notre poème occupe naturellement<lb/> la dernière place :
+               tels sont les manuscrits du Musée<lb/> britannique cotés Old Roy. 20. B. xix, et
+               Harl.<lb/> 1321, dont nous parlons plus loin, et où la Mort Ay<lb/>meri était
+               évidemment considérée comme la conclu<lb/>sion de toutes les chansons de geste sur ce
+               personnage, <lb/>rangées dans un ordre chronologique. </p>
+            <p><lb/>À côté de ces collections de poèmes sur un même<lb/> personnage, on faisait
+               aussi de ces volumineux ma<lb/>nuscrits où le copiste réunissait toutes les chansons
+               de<lb/> la geste de Guillaume, qu’il pouvait se procurer. Le <lb/>manuscrit du Musée
+               britannique, Old Roy. 20 D. <pb n="V"
+                  facs="https://fr.wikisource.org/wiki/Page%3AAnonyme_-_La_Mort_Aymeri_de_Narbonne.djvu/10"
+               /> xi, celui de la Bibliothèque Nationale, relié en 2 tomes, fr. 24369 et 24370 (anc.
+               La Vallière 23 et 23 A), présentent cet autre type de manuscrit cyclique. On dut
+               alors éprouver quelque difficulté à établir un ordre chronologique entre les chansons
+               du groupe d’Aimeri et de celle du groupe de Guillaume, ces groupes ayant eu une même
+               origine, mais aussi chacun un développement propre. De là le système des incidences.
+               Si l’on jugeait contemporains et simultanés les événements racontés dans deux
+               chansons de gestes dont les héros et le théâtre étaient différents, on intercalait
+               une de ces chansons dans l’autre, de manière à conserver autant que possible l’ordre
+               chronologique dans l’ensemble des récits de tout le cycle.</p>
+            <p>C’est ce qui a été fait pour la Mort Aymeri dans le ms. B. N. fr. 24370 : elle a été
+               insérée dans le Moniage Renouard, et nous verrons que le copiste nous avertit
+               lui-même de ce procédé.</p>
+            <p>Dans ces manuscrits, les incidences, de même que l’ordre des chansons, durent être
+               consacrées assez vite. L’incidence devait toujours avoir lieu dans les Enfances
+               Vivien, pour faire place au Siége de Barbastre, et dans le Moniage Renouard, pour la
+               Mort Aymeri.</p>
+            <p>Le scribe du manuscrit du Musée britannique, Old Roy. 20, B. xix, qui renferme une
+               des collections les plus complètes de chansons de la geste de Guillaume d’Orange, ne
+               fait pas l’incidence habituelle, aussi se croit-il obligé d’avertir ses lecteurs de
+               la disposition exceptionnelle de son manuscrit ; au f° 126 v°, dans la marge
+               inférieure, il écrit :</p>
+
+            <pb n="VI"
+               facs="https://fr.wikisource.org/wiki/Page%3AAnonyme_-_La_Mort_Aymeri_de_Narbonne.djvu/11"/>
+            <p>En tant comme Viviens fu avecques la marcheande, fu li sieges de Barbastre et li
+               couronemens de Guibert.</p>
+            <p>Et la bataille des Sajetaires, si fu quant Renouars fu moines. Mais pour ce que il
+               n’y a fait nul incidences, est chascuns livres mis par soi et non pas en
+               ordonances.</p>
+            <p>Cette curieuse note montre donc que l’incidence était ordinairement faite pour le
+               Siège de Barbastre et la Mort Aymeri et que les lecteurs du xiiie ou du xive siècle,
+               étaient habitués à trouver dans les manuscrits « mis en ordonnance », ces poèmes
+               intercalés, l’un dans les Enfances Vivien et l’autre dans le Moniage Renouart.</p>
+            <p>La Chanson de la Mort Aymeri, dont la composition est postérieure à la plupart des
+               autres chansons du même cycle, ne pouvait renfermer aucun élément traditionnel,
+               historique ou légendaire. On peut remarquer seulement la présence d’un certain Hugues
+               Capet révolté contre l’empereur Louis, qui a été souvent considéré comme le dernier
+               des Carolingiens par nos vieux poètes (Hugues Capet, p. xix, xx) ; on a déjà
+               plusieurs fois signalé ce souvenir des luttes entre les derniers Carolingiens et les
+               Capétiens <note n="1">Hist. litt., xxii, 502. — L. Gautier, Épop., 2e éd., IV, 90-91.
+                  — Hugues Capet, édition du marquis de La Grange, p. xliv et ss.</note>. C’est,
+               croyons-nous, un fait isolé, et il est bien douteux qu’au xiiie siècle ce souvenir
+               ait été encore populaire.</p>
+            <p>Signalons encore, d’après M. Gautier (Épop., 2e éd., IV, 88), un autre souvenir
+               historique plus incertain encore, le récit du siège de Narbonne par les Sarrazins <pb
+                  n="VII"
+                  facs="https://fr.wikisource.org/wiki/Page%3AAnonyme_-_La_Mort_Aymeri_de_Narbonne.djvu/12"
+               /> au début de la chanson, qui dériverait, par l’intermédiaire des nombreux récits
+               analogues qu’on rencontre dans tout le cycle de Guillaume, du siège et de la prise de
+               cette ville par Alsamah, en 721.</p>
+            <p>Mais si notre chanson ne reproduit aucun souvenir historique précis, aucune légende
+               particulière, elle suppose la connaissance des plus anciennes chansons du cycle,
+               s’appuie sur l’ensemble des traditions épiques relatives à Guillaume d’Orange, et met
+               en scène des personnages que la littérature épique avait depuis longtemps rendus
+               populaires.</p>
+            <p>Les poèmes composés sur Guibert d’Andrenas, le dernier fils d’Aimeri, sont ceux que
+               notre auteur semble se rappeler plus particulièrement et aux quels il cherche surtout
+               à rattacher son œuvre ; il a, en effet, donné à ce personnage un rôle d’une
+               importance exceptionnelle : Aimeri prisonnier des Paiens est délivré par Guibert
+               d’Andrenas (v. 1742 et ss.) ; dans les nombreux combats singuliers entre un Sarrasin
+               et un chevalier chrétien, c’est toujours lui qui est le champion victorieux (v. 2678
+               et ss.) ; son armement avant la dernière bataille avec les Sagittaires est décrit
+               avec une complaisance remarquable, et ce récit ne comprend pas moins de quatre
+               laisses (cviii, cix, cx, cxi), tandis que les autres fils d’Aimeri, Guillaume
+               d’Orange lui-même, sont tous réduits à un rôle insignifiant.</p>
+            <p>Il est cependant très douteux, que l’auteur de la Mort Aymeri ait connu la chanson de
+               Guibert d’Andrenas. Dans ce poème encore inédit, Aimeri promet Narbonne à son filleul
+               Aymeriet et pour dédommager <pb n="VIII"
+                  facs="https://fr.wikisource.org/wiki/Page%3AAnonyme_-_La_Mort_Aymeri_de_Narbonne.djvu/13"
+               /> son fils Guibert dépossédé de son patrimoine, il entreprend avec lui et ses autres
+               enfants la conquête d’Andrenas:; or dans notre chanson, Aymeriet ne joue aucun rôle
+               et semble oublié:; Aimeri a même un autre filleul, Auquaires, pour lequel il combat
+               les Sagittaires. Il est vrai qu’aux vers 4161 et ss. on lit::</p>
+            <p><lb/> Et Guibelins qui ot grunt seignorie,<lb/> O lui mena sa bele Compagnie<lb/>
+               Tout droitement a Andrenas la riche:;<lb/> Et de Nerbone tint la terre en
+               baillie<lb/> Aymeriez qui ot la seignorie<lb/> Que li dona ses parrains en sa
+               vie,<lb/> Quant de ses filz ot fet la departie. (V. 4161-4167.)<lb/></p>
+
+            <p><lb/> Mais ces vers ont probablement été intercalés plus tard, quand la Mort Aymeri
+               eut trouvé sa place dans les manuscrits cycliques immédiatement après Guibert
+               d’Andrenas .</p>
+            <p>Il est fait des allusions beaucoup plus fréquentes à d’autres traditions sur le
+               personnage de Guibert d’Andrenas::</p>
+            <p><lb/>
+               <note>V. 240</note>Biau fil Guibert, que vos ce ne savez,<lb/> Qui estiez sor
+               Sarrazins alez<lb/> Au port d’Ossau sor Judas l’Amiré...<lb/>
+               <lb/>
+               <note>V. 470</note>..............cent chevalier,<lb/> Itant l’en ot ses filz Guiberz lessié...<lb/>
+               <lb/>
+               <note>V. 544</note>Au port d’Ossau envoie Aufelis<lb/> Por Guibert guerre lo menor de
+               ses filz<lb/> Qui ert en ost sor Judas l’arrabi.... <pb n="IX"
+                  facs="https://fr.wikisource.org/wiki/Page%3AAnonyme_-_La_Mort_Aymeri_de_Narbonne.djvu/14"/>
+               <note>V. 615</note><lb/>Ses filz Guiberz en a mené ses homes <lb/> Au port d’Ossau
+               est alez sor mon oncle. <note>V. 1734</note><lb/>Des porz d’Ossau repaire
+               Guibelins... <lb/>Bien a gasté le regne as Sarrazins...</p>
+            <p>Cette expédition de Guibert contre Judas aux ports d’Ossau, à laquelle la Mort Aymeri
+               fait des allusions si précises, nous est maintenant inconnue et n’a point laissé
+               d’autres traces, à notre connaissance, dans ce qui nous reste de notre ancienne
+               poésie épique ; elle devait, croyons-nous, être racontée dans une chanson de geste
+               perdue et qui était familière à notre trouvère.</p>
+            <p>Il en est de même pour les mentions fréquentes dans notre chanson des aventures
+               d’Aïmer le Chétif en Espagne ; on sait qu’il a existé sur ce personnage toute une
+               légende que nous connaissons seulement par des allusions assez vagues d’autres
+               chansons de geste :</p>
+            <p>
+               <lb/>Ne manda pas Aïmer lo chetif, <lb/> Que en Espaigne ont Sarrazins ocis.....
+                  <note>(V. 547-8.)</note></p>
+
+            <p>
+               <lb/> Mais un domaje merveillos li refis <lb/>Quant li ocis Aïmer lo chetif ; <lb/> A
+               Porpaillart la teste li toli...<note> (V. 591-3.)</note></p>
+
+            <p><lb/> Ja fu il pere au chetif Aïmer <lb/> Que oceïstes a Porpaillart sor mer <lb/>
+               Qui nos lignajes a pris et afolez <lb/> Et detruites nos jestes. <note>(V.
+                  1384-7.)</note></p>
+
+
+            <p> La chanson d’Aimeri de Narbonne était aussi bien connue de notre auteur : <pb n="X"
+                  facs="https://fr.wikisource.org/wiki/Page%3AAnonyme_-_La_Mort_Aymeri_de_Narbonne.djvu/15"/>
+               <note>V. 588</note><lb/>Et Charlemaine, li rois de Saint Denis <lb/> Si li dona
+               Nerbonois a tenir...</p>
+
+            <p>
+               <lb/><note>V. 2413</note>Charles li rois a la barbe florie <lb/> L’arst et fondi
+               quant ot Nerbone prise...</p>
+            <p>
+               <lb/>
+               <note>V. 3032</note>El fu mon pere l’amiral Salatré. <lb/> Mès Charlemaine li fist lo
+               chief coper <lb/> Quant il conquist Nerbone la cité...</p>
+
+            <p>Salatré ne figure pas, il est vrai, dans Aimeri de Narbonne, mais il est évident que
+               notre trouvère connaissait au moins l’antique légende de la prise de Narbonne par
+               Charlemagne, mise en oeuvre dans la chanson d’Aimeri de Narbonne. De même dans
+               l’attribution de la prise de la ville fabuleuse d’Esclabarie par Charlemagne (v. 2411
+               et ss.) et dans l’énumération de ses conquêtes imaginaires (v. 3075 et ss.), notre
+               poème se conforme à de vieilles traditions répandues dans la plupart des productions
+               épiques du moyen âge. (Cf. G. Paris, Hist. poét. de Charlem. p. 258 et 286.)</p>
+
+            <p> La Mort Aymeri connaissait encore quelques poèmes qui nous ont été conservés. La
+               Prise d’Orange, par exemple :</p>
+
+            <p>
+               <lb/> Li quens Guillaume a la chiere hardie <lb/> Vet a Orange sa fort cité antie,
+               <lb/> Ou lessié ot dame Guibourc s’amie... <lb/>
+               <note>(V. 4153-4155, Éd. Jonkbloet.)</note></p>
+
+            <p>Il faut encore remarquer que ce passage a pu être <pb n="XI"
+                  facs="https://fr.wikisource.org/wiki/Page%3AAnonyme_-_La_Mort_Aymeri_de_Narbonne.djvu/16"
+               /> refait, comme nous venons de le dire à propos de la mention d’Aymeriet.</p>
+
+            <p> Rollant :</p>
+
+            <p><lb/><note>V. 2663</note>Puis icele ore que vos avez oï <lb/>Que Rollanz fu a
+               Roncevax traïz...</p>
+            <p>
+               <lb/><note>V. 3078O</note>ncle Rollant qui fu mors en Epaigne <lb/>En la bataille
+               fiere...</p>
+
+            <p>Floovant :</p>
+
+            <p><lb/>
+               <note>V. 3315</note>Li rois Judas en ot la teste armée <lb/>Quant Floevent li copa a
+               s’espée.</p>
+
+
+            <p>Dans ces vers notre auteur n’a emprunté à la chanson de Floovant que le nom de son
+               héros, car ce poème, au moins dans l’état où il nous est parvenu, ne contient pas de
+               récit de combat avec un païen du nom de Judas, auquel le poète semble ici faire
+               allusion.</p>
+
+            <p>Enfin on peut signaler une curieuse mention des reliques rapportées par Charlemagne à
+               l’abbaye de Saint-Denis ; le trouvère de la Mort Aymeri connaissait donc la chanson
+               du Pélerinage de Charlemagne à Constantinople qu’il désigne comme une des gestes de
+               France :</p>
+
+            <p><lb/>Charles li rois a la barbe florie, <lb/> De Jersalem aporta les reliques <lb/>De
+               cel saint fust ou il sofri martire <pb n="XII"
+                  facs="https://fr.wikisource.org/wiki/Page%3AAnonyme_-_La_Mort_Aymeri_de_Narbonne.djvu/17"/>
+               <lb/> Et la corone qu’il ot el chief d’espines <lb/> Et les sains clox et la sainte
+               chemise <lb/> Qu’enprès sa char avoit sainte Marie, <lb/> Quant ele fu de son chier
+               fil delivre ; <lb/> Ce aporta en France la garnie. <lb/> Ce fu une des jestes
+                  <note>(v. 3065-3073.)</note></p>
+
+            <p>Là encore il faut remarquer que le passage est probablement interpolé et ne se trouve
+               que dans une famille de nos manuscrits.</p>
+
+            <p>La mort de Garin d’Anseüne que notre auteur raconte, avait déjà été rapportée dans le
+               Covenans Vivien ; d’après cette chanson, Garin d’Anseüne serait mort à Roncevaux avec
+               Rollant. La Mort Aymeri ne connaissait donc pas ce poème qui lui est antérieur, comme
+               il semble ignorer également toutes les chansons du groupe de Vivien ; ainsi il ne
+               fait aucune allusion à l’histoire de la captivité de Garin racontée dans les Enfances
+               Vivien, légende qui fut cependant assez populaire parmi les trouvères postérieurs.
+               Enfin la Chanson de Sesnes raconte aussi la mort d’un Garin d’Anseüne qui ne peut
+               être identifié avec le fils d’Aimeri.</p>
+
+            <p><lb/>A tant ez Murgalé forment esperonant, <lb/> Tot par devant les autres s’an vont
+               li Turs poignant, <lb/> La lance sor le fautre, l’escu au piz poignant ; <lb/> Et va
+               ferir Garin d’Anseune la grant, <lb/> Que l’escu li perce et l’auberc jazerant :
+               <lb/> Tant com hante li dure l’a abatu sanglant. <note>(Éd. Fr. Michel. II,
+                  68-9.)</note></p>
+
+            <p>Les Sagittaires qui ont une si grande importance <pb n="XIII"
+                  facs="https://fr.wikisource.org/wiki/Page%3AAnonyme_-_La_Mort_Aymeri_de_Narbonne.djvu/18"
+               /> dans la seconde partie de notre poème, sont les centaures de l’antiquité. Le mot
+               sagittaire avait été employé dès les premiers temps du moyen âge pour désigner le
+               monstre, moitié homme, moitié cheval, comme le montre Isidore de Séville : «
+               Sagittarius vir equinis cruribus deformatus cui sagittam et arcum adjungunt... unde
+               et Sagittarius est vocatus » (Étym., III, 165). On sait d’ailleurs combien furent
+               répandues au moyen âge ces traditions sur les monstres que l’antiquité avait
+               inventés, cyclopes, centaures, cynocéphales, pygmées et sirènes. Les monuments
+               figurés, sculptures et miniatures, nous en présentent de nombreux spécimens et les
+               encyclopédies d’Honorius d’Autun ou de Barthélemy de Glanvil, par exemple,
+               compilations renfermant toutes les notions scientifiques du temps, contiennent de
+               nombreux passages sur ces monstres</p>
+
+            <p>On trouve surtout dans les bestiaires de nombreux articles consacrés aux centaures,
+               aux onocentaures ou aux sagittaires : citons, entre autres, le bestiaire de Pierre le
+               Picart, en prose du xiiie siècle, publié par le père Cahier dans ses Mélanges
+               d’archéologie (t. IV, p. 76) :</p>
+
+            <p><quote>Phisiologe nos dist que en l’une partie des desers d’Ynde sont une gent qui
+                  ont une corne ou front et sont homes salvages ; cele gent guerroient adès contre
+                  les Sagetaires et li Sagetaire contre eus...</quote></p>
+
+            <p>Ce monstre a déjà été souvent introduit dans la poésie narrative du xiie siècle, et,
+               dans le Roman de Troie, nous trouvons décrit de la façon la <pb n="XIV"
+                  facs="https://fr.wikisource.org/wiki/Page%3AAnonyme_-_La_Mort_Aymeri_de_Narbonne.djvu/19"
+               /> plus précise, un sagittaire qui appartient visiblement à la tribu sauvage qui
+               figure dans la Mort Aymeri. Il est même très probable que c’est à ce roman, dont le
+               succès a été immense, que notre auteur l’a emprunté. Voici la description de cet être
+               fabuleux dans le Roman de Troie :</p>
+
+
+            <p>
+               <lb/> Il ot o lui un sajetaire <lb/> Qui molt fu fels et deputaire. <lb/> Des le
+               nombril tot contreval <lb/>Ot cors en forme de cheval. <lb/> Il n’est riens nule,
+               s’il volsist, <lb/> Que l’isnelece n’ateinsist. <lb/> Cors, chiere, bras a noz
+               senblanz <lb/> Avoit, mes n’ert pas avenanz. <lb/> Il ne fu ja de draps vestuz <lb/>
+               Car come beste esteit peluz... <lb/> Un arc portot, non pas d’aubor, <lb/> Mès de
+               cuir et de gluz boillie <lb/> Soldez par estrange mestrie... <lb/> Es granz terres
+               desabitées <lb/> Sont et conversent vers midi... <note>(Éd. Joly, p.
+               174-175.)</note></p>
+
+            <p> Ainsi dans Garin de Monglane (B. N. fr. 24304, fol. 101), on lit la description d’un
+               cheval né d’une jument sauvage et d’un sagittaire ; dans Aliscans, les Sagittaires
+               sont mentionnés avec quelques-unes des particularités reproduites dans notre
+               chanson.</p>
+
+
+            <p><lb/> Desous l’abisme ou desoivre livent, <lb/> Iluec dist on ke Lucifer descent ;
+               <lb/> Outre cest regne n’a hom abitement, <pb n="XV"
+                  facs="https://fr.wikisource.org/wiki/Page%3AAnonyme_-_La_Mort_Aymeri_de_Narbonne.djvu/20"/>
+               <lb/>Fors Sajetaires et Noirons ensement. <lb/>Onqes n’i ot .i. seul grain de froment
+               : <lb/>D’espices vivent et d’odour de pieument... <note>(Éd. Guessard et Montaiglon,
+                  p. 171-172.)</note></p>
+
+
+            <p>On peut rapprocher ce texte du suivant tiré, du Roman d’Alexandre.</p>
+
+            <p>
+               <lb/> Ains i conversent tigre et lupart et lyon, <lb/>Saytaire cornut et li
+               escorpion.... <note>(Éd. Michelant, p. 259, 260.)</note></p>
+
+            <p>Dans le roman inédit de Charles-le-Chauve (B. N. fr. 24372), un sagittaire habite au
+               milieu d’une forêt et poursuit les hommes, qu’il enferme dans son château pour les
+               manger ensuite ; il est tué par le héros du roman, Dieudonné, qui délivre ses
+               prisonniers. Mais rien n’indique que l’auteur de ce roman ait voulu lui prêter les
+               formes monstrueuses du centaure ; c’est seulement un géant ou un ogre, comme on en
+               voit tant dans les romans de ce genre, et rien dans le récit si détaillé du combat de
+               Dieudonné contre lui ne fait supposer que le poète ait voulu en faire un être à forme
+               monstrueuse.</p>
+
+            <p>C’est donc à quelque poème plus ancien, que notre trouvère doit l’idée des
+               Sagittaires et probablement au roman de Troie : ce n’était pas la première fois
+               d’ailleurs qu’on prêtait dans les chansons de geste des formes monstrueuses aux
+               peuples sarrazins, adversaires des Français, et la chanson de Rollant en présente
+               déjà un exemple. Mais le rôle important que ces monstres jouent dans notre chanson,
+               n’est qu’un procédé d’un trouvère épique de la dernière époque, qui cherchait
+               l’originalité et la nouveauté. </p>
+            <pb n="XVI"
+               facs="https://fr.wikisource.org/wiki/Page%3AAnonyme_-_La_Mort_Aymeri_de_Narbonne.djvu/21"/>
+            <p>La Mort Aymeri perdit assez vite sa popularité, et nous n’en avons trouvé aucune
+               trace dans les vastes collections de romans en prose faites au xve siècle. Ces
+               compilations étaient rédigées d’après nos chansons de gestes depuis longtemps soudées
+               les unes aux autres dans les mss. cycliques ; le manuscrit de la B. N. fr. 1497, par
+               exemple, a du être fait sur un ensemble de poèmes disposés comme dans les manuscrits
+               de la même bibliothèque fr. 368 ou fr. 774 ; cette rédaction en prose comprend :
+               Aimeri de Narbonne..., le Siège de Barbastre, les Enfances Vivien, le Covenans
+               Vivien, Aliscans, Renouart, le Moniage Renouart et le Moniage Guillaume. C’est
+               justement dans cet ordre que se présentent, sous leur ancienne forme rimée, les six
+               ou sept dernières chansons que nous venons de citer dans les manuscrits de la B. N.,
+               fr. 368 et 774. Les manuscrits comprenant exclusivement les chansons du groupe
+               d’Aimeri, où notre poème avait sa place normale, comme les mss. du Musée britannique
+               Roy. 20.B.XI. et Harl. 1321, présentent un type cyclique qui dû être abandonné assez
+               tôt. Et quand le goût des lecteurs du xve siècle se porta vers les romans en prose,
+               ce furent plutôt les manuscrits groupant tous les poèmes de Guillaume, Vivien et
+               Renouart, en un seul livre, comme ceux dont nous venons de parler, qui durent servir
+               de point de départ aux derniers remanieurs de notre vieille poésie épique. Ce fait
+               peut expliquer pourquoi la Mort Aymeri n’a pas été comprise dans leur travail. </p>
+            <p>La seule trace que la Mort Aymeri ait laissée dans la littérature du siècle suivant,
+               a déjà été signa- <pb n="XVII"
+                  facs="https://fr.wikisource.org/wiki/Page%3AAnonyme_-_La_Mort_Aymeri_de_Narbonne.djvu/22"
+               /> lée par M. le marquis de La Grange, dans la préface de son édition de Hugues
+               Capet. Voici le passage de ce poème où l’on trouve une allusion à la Mort Aymeri
+               :</p>
+
+
+            <p><lb/>Car Aymeris, cez perez, qui le poil ot ferant, <lb/> Ernaulz et Guibellins et
+               Bernars de Brabant, <lb/>Et Garin d’Anseüne, furent ochis en camp, <lb/>Droit par
+               devant Nerbonne, de le gent mescreant. <note>(Édit. du Mis de La Grange, p.
+                  42).</note></p>
+
+
+
+            <p>Il faut remarquer que ce témoignage est assez inexact : ce n’est pas devant Narbonne,
+               mais au siège d’Esclabarie, qu’Aimeri trouve la mort ; et de plus, ni Hernaut de
+               Gironde, ni Guibelin ne meurent avec leur père.</p>
+
+            <p> Dans le poème de Doon de Nanteuil, maintenant perdu, et dont M. P. Meyer a pu
+               retrouver quelques fragments dans les papiers du président Fauchet, on pourrait
+               peut-être reconnaître un souvenir confus de la Mort Aymeri dans ce vers :</p>
+
+
+            <p><lb/>Et cosins Aimeri qui occit le dragon... <note>(Romania, XIII, 17.)</note></p>
+
+            <p>Dans notre poème on voit en effet, non pas Aymeri, mais ses fils, lutter contre une
+               guivre.</p>
+
+            <p>L’Italie a connu la Mort Aymeri ; ce poème n’a pas laissé plus de traces, il est
+               vrai, dans les Reali que dans nos romans en prose du xve siècle, et peut-être pour la
+               même raison, mais il se trouvait au com- <pb n="XVIII"
+                  facs="https://fr.wikisource.org/wiki/Page%3AAnonyme_-_La_Mort_Aymeri_de_Narbonne.djvu/23"
+               />mencement du xve siècle dans la collection de manuscrits appartenant aux Gonzagues
+               et dont la Romania a publié le catalogue (1880, p. 512). Le n° 50 de cette pièce
+               curieuse est ainsi conçu :</p>
+
+            <p><lb/>Item Aymericus de Nerbona. Incipit : <lb/> Bone canzun plest vos che vos di.
+               <lb/>Et finit : sil ne faust l’istorie</p>
+
+            <p>On a déjà reconnu le premier vers pour appartenir à Girart de Vienne, et l’on voit
+               que le dernier est celui qui termine la Mort Aymeri. Ce manuscrit devait comprendre à
+               peu près toutes les chansons qui se trouvent actuellement dans le manuscrit du Musée
+               britannique Old. Roy. 20 B. xx, qui lui aussi commence par Girart de Vienne et se
+               termine par la Mort Aymeri ; si l’altération de la langue n’est pas due au rédacteur
+               de cet inventaire, le texte de la Mort Aymeri contenu dans ce ms. avait reçu une
+               forme italianisée.</p>
+
+            <p>Parmi les romances espagnoles qui tirent leur origine des traditions épiques de la
+               France, on a depuis longtemps signalé deux de ces romances, où l’on s’accorde à
+               reconnaître dans la forme Benalmenique ou Almenique, le nom d’Aimeri de Narbonne ;
+               mais on n’avait pas encore retrouvé dans notre littérature épique, le récit qui fait
+               le sujet de ces romances ; il est impossible de n’être pas frappé de la grande
+               analogie entre la première partie de la Mort Aymeri et la donnée d’un de ces petits
+               poèmes. Dans les deux récits nous voyons le Soudan de Babylone assembler une vaste
+               armée, armer une flotte, traverser la mer, débar- <pb n="XIX"
+                  facs="https://fr.wikisource.org/wiki/Page%3AAnonyme_-_La_Mort_Aymeri_de_Narbonne.djvu/24"
+               />quer près de Narbonne ; on retrouve dans la romance du comte Almenique, comme dans
+               la Mort Aymeri, le siège de la ville, la prise du comte, les traitements ignominieux
+               qu’on lui fait souffrir et même le roussin ou le sommier sur lequel on le fait monter
+               par dérision ; dans la chanson de geste, Hermangarde offre de rendre Narbonne au
+               Sarrazin pour sauver son mari ; de même dans la romance, la comtesse offre au Soudan
+               la ville de Narbonne et une énorme rançon ; le comte l’en dissuade :</p>
+            <p><quote>Merci, comtesse, pour vos bonnes paroles ; ne donez pour moi, dame, un seul
+                  maravedi ; mes blessures sont mortelles, je n’en puis guérir ; adieu, adieu
+                  contesse...</quote></p>
+            <p>Aimeri tient à peu près le même langage :</p>
+            <p><lb/>Franche comtesse, ja fustes vos m’amie. <lb/>Je morrai ja, que près sui del
+               juïse... <lb/>Mès une chose vos vueil prier et dire : <lb/>Por amor Deu, lo fil
+               sainte Marie <lb/>Por nule rien que Sarrazin vos dient, <lb/>De la cité ne lor rendez
+               vos mie <lb/>Ançois me lessiez ardre <note>(v. 1402-1409.)</note></p>
+            <p>Enfin, comme on enmène Almenique prisonnier, sa femme s’écrie : « Dieu vous fasse
+               rencontrer Roland le paladin. » Aymeri de Narbonne, lié sur un mauvais cheval et sur
+               le point d’être envoyé à Babylone, tient un langage analogue : Beau sire
+               Guibert...</p>
+            <p><lb/>Dex m’envoit vostre aïe ! ﻿<note>(V. 1609)</note></p>
+            <pb n="XX"
+               facs="https://fr.wikisource.org/wiki/Page:Anonyme_-_La_Mort_Aymeri_de_Narbonne.djvu/25"/>
+            <p>Voici d’ailleurs, d’après l’édition de MM. Wolf et Hofman, Primavera y Flor de
+               romances, II, p. 414-415, le texte de cette romance, que nous n’hésitons pas à
+               considérer comme dérivée de la chanson de geste française.</p>
+            <p>
+               <lb/>Del Soldan de Babilonia, <lb/>De ese os quiero decir, <lb/>Que le dé Dios mala
+               vida <lb/>Y á la postre peor fin ! <lb/>Armó naves y galeras, <lb/>Pasan de sesanta
+               mil, <lb/>Para ir a combatir <lb/>A Narbona la gentil. <lb/>Allá van á echar áncoras,
+               <lb/>Allá al puerto de Sant Gil, <lb/>Cativado han el conde, <lb/> Al conde
+               Benalmenique. <lb/> Desciéndenlo de una torre, <lb/> Cabálganlo en un rocin, <lb/> La
+               cola le dan por riendas <lb/> Por mas deshonrado ir. <lb/> Cient azotes dan al conde
+               <lb/> Y otros tantos al rocin ; <lb/> Al rocin porque anduviese, <lb/> Y al conde por
+               lo rendir. <lb/>La condesa, desque lo supo, <lb/>Sáleselo á recebir : <lb/> « Pésame
+               de vos, señor <lb/> Conde, de veros asi, <lb/> Daré yo per vos, el conde, <lb/> Las
+               doblas sesenta mil, <lb/> Y si no bastaren, conde, <lb/> A Nerbona la gentil. <lb/>
+               Si esto no bastaré, el conde, <lb/> A tres hijas que yo pari ;<pb n="XXI"
+                  facs="https://fr.wikisource.org/wiki/Page:Anonyme_-_La_Mort_Aymeri_de_Narbonne.djvu/26"/>
+               <lb/>Yo la pariera, buen conde, <lb/>Yvos las hubistes en mi ; <lb/> Y si no bastaré,
+               conde <lb/> Señor, védesme aqui á mi. <lb/> — Muchas mercedes, condesa, <lb/> Por
+               vuestro tan buen decir : <lb/> No dedes por mi, señora, <lb/> Tan solo un maravedi
+               <lb/> Heridas tengo de muerte, <lb/> De ellas ne puedo guarir : <lb/> Adios, adios,
+               la condesa, <lb/>Que ya me mandan ir de aqui. <lb/>— Vayádes con Dios, el conde,
+               <lb/>Y con la gracia de Sant Gil : <lb/>Dios os le eche en suerte <lb/> A ese Roldan
+               paladin. » </p>
+            <p>La chanson de la Mort Aymeri est anonyme comme la plupart des chansons de geste. Nous
+               ne pensons pas qu’il vaille la peine de discuter l’attribution de notre poème à un
+               certain Huon :</p>
+            <p><lb/>Nus nom ne puet chançon de geste dire <lb/> Que il ne mente la ou li vers
+               define, <lb/>As mos drecier et a tailler la rime. <lb/>Ce est bien voirs, gramaire le
+               devise, <lb/> Uns hom la fist de l’anciene vie, <lb/>Hues ot non, si la mist en un
+               livre <lb/> Et seela el mostier Saint Denise... <note>(v. 3055-3061).</note></p>
+            <p>On sait la confiance qu’il faut accorder à tout ce que les auteurs de chansons de
+               geste, débitent sur l’ancienneté et l’origine de leur œuvre ; d’ailleurs il faut
+               remarquer que le passage assez obscur que nous ci- <pb n="XX"
+                  facs="https://fr.wikisource.org/wiki/Page:Anonyme_-_La_Mort_Aymeri_de_Narbonne.djvu/27"
+               /> tons ne se trouve que dans deux de nos manuscrits et est évidemment interpolé.</p>
+            <p>Nous n’avons relevé dans notre poème aucun indice qui permette de déterminer la date
+               ni le pays où il a été composé ; on trouve, il est vrai (v. 1331), une invocation à
+               saint Pol de Valcois et il existe une localité de ce nom en France <note n="1"
+                  >Vauquois (Meuse)</note> : la mention d’un village aussi peu connu, pourrait
+               servir à déterminer assez exactement la région où aurait été composée la Mort Aymeri
+               ; mais on trouve déjà ce nom souvent mentionné dans des chansons de gestes
+               antérieures ; ainsi dans la Prise d’Orange :</p>
+            <p>
+               <lb/>Trestuit li home dusqu’as porz de Vauquois. <note>(V. 1136, éd.
+                  Jonkbloet.)</note>
+            </p>
+            <p>C’est donc à un poème plus ancien que l’auteur de la Mort Aymeri a emprunté ce nom de
+               lieu que le besoin de la rime seul lui a fait choisir.</p>
+            <p>Aucun indice ne permet de dater la Mort Aymeri ; M. Paulin Paris, dans l’Histoire
+               littéraire, xxii, p. 501, et M. le marquis de la Grange, dans son édition de Hugues
+               Capet, p. xliii et ss., ont cru pouvoir fixer la date de sa composition à la fin du
+               xiiie siècle et même au xive siècle. Nous croyons qu’il faut reculer cette date plus
+               loin et la fixer vers la fin du xiie siècle ; c’est l’étude de la versification et de
+               la langue qui permet d’arriver à cette conclusion.</p>
+            <p> La Mort Aymeri est en vers décasyllabiques avec <pb n="XXXIII"
+                  facs="https://fr.wikisource.org/wiki/Page:Anonyme_-_La_Mort_Aymeri_de_Narbonne.djvu/28"
+               /> coupe après la quatrième syllabe ; chaque tirade est terminée par un petit vers
+               hexasyllabique à finale féminine ; la plus grande partie du poème est assonancée et
+               les parties rimées paraissent avoir subi un remaniement.</p>
+            <p>Ces caractères indiquent déjà une certaine ancienneté. À la vérité, M. Gautier
+               (Épopées, 2e éd., I. p. 334, note ; IV, 21, note) croit qu’il y eut au xiiie siècle
+               des poètes, qui composèrent des chansons de geste en assonances pour leur donner un
+               caractère ancien et leur assurer ainsi un plus grand succès. Mais, pour la chanson de
+               la Mort Aymeri, cette hypothèse nous semble peu probable si l’auteur avait employé
+               cette forme archaïque pour donner un certain vernis d’antiquité à son œuvre et la
+               faire accueillir avec plus de faveur, il faut avouer qu’il eut été mal inspiré,
+               puisque, comme nous le verrons plus loin, tous les copistes de notre chanson dont
+               nous pouvons actuellement apprécier le travail, sont d’accord pour faire disparaître
+               autant que possible cette trace d’ancienneté.</p>
+            <p>Il est possible qu’au xiiie siècle, un trouvère ait composé une chanson de geste en
+               rimes archaïques, pour relier son œuvre à d’autres poèmes plus anciens, déjà
+               populaires, et pour permettre de rassembler dans, un même ms. tous ces poèmes, qui
+               par la similitude de leur versification pouvaient passer pour un seul et même roman.
+               Mais encore, croyons-nous, faut-il admettre qu’une semblable tentative ait été faite
+               au moins au commencement du xiiie siècle : en effet, le ms. le plus ancien, qui peut
+               remonter au dernier tiers <pb n="XIV"
+                  facs="https://fr.wikisource.org/wiki/Page:Anonyme_-_La_Mort_Aymeri_de_Narbonne.djvu/29"
+               /> du xiiie siècle, ne présente presque plus rien des assonances primitives et, comme
+               nous le verrons, au moins trois successions de copistes ont travaillé à refaire les
+               rimes à la nouvelle mode. Il y avait donc alors bien des années que les assonances
+               n’étaient plus admises, qu’elles qu’aient été les raisons qui avaient pu autrefois
+               faire préférer l’assonance à la rime.</p>
+            <p>La Mort Aymeri contient d’assez fréquents exemples de laisses similaires ii, liii,
+               lxv, lxxii, lxxxiii, civ, cviii) et plusieurs recommencements (xv, lxxxvi, lxxxix,
+               xcvi, xcviii, vers 2941, 3089).</p>
+            <p>L’examen des assonances peut donner lieu aux remarques suivantes. Ai + n assone avec
+               e + n dans la tirade xxix : montaigne, tiegne.</p>
+            <p>E fermé est toujours issu de a latin avec les exceptions ordinaires Dé, ert ; e
+               ouvert a toujours pour origine e latin entravé ; dans la tirade ci, on trouve
+               cependant frete, fere où e est une réduction de ai ; on ne trouve à l’assonance aucun
+               mot où e = i latin entravé ; notre rimeur distinguait peut-être trois e, l’un issu de
+               a latin, l’autre de e entravé et le troisième de i entravé.</p>
+            <p>An et en sont confondus, bien qu’il y ait même dans la première partie quelques
+               laisses où l’on ne rencontre que des finales en an.</p>
+            <p>Les assonances apprennent peu de chose sur la déclinaison qui était certainement
+               encore observée à l’époque de notre poème ; toutefois, on trouve au cas direct la
+               forme conte (xxvi), et assez souvent au cas régime les formes ber (i, vii, ix) et
+               emperere (cix).</p>
+            <pb n="XXV"
+               facs="https://fr.wikisource.org/wiki/Page:Anonyme_-_La_Mort_Aymeri_de_Narbonne.djvu/30"/>
+            <p>Les formes avomes (v. 188, 2236), et lessomes (v. 2306), que l’accord des mss. rend
+               assez certaines, sont fréquentes dans le nord-est du domaine roman <note n="1">Voyez
+                  Raoul de Cambrai, éd. de la Société, p. lxx.</note>.</p>
+            <p>Les imparfaits ploroient, cochoient, reclamoient dans la tirade xlv, en o ouvert
+               féminin, se rencontrent surtout en Normandie.</p>
+            <p>Dans les assonances en oi, on trouve les 2e personnes du pluriel, sachoiz, orroiz,
+               vendroiz (xlvii, lv) ; mais les formes analogiques ez sont très fréquentes dans les
+               tirades en é.</p>
+            <p>Les deux formes infinitives, veoir (v. 2224) et veïr (v. 532) se rencontrent
+               également à l’assonance ; la forme veïr est surtout picarde <note n="2">Voyez Raoul
+                  de Cambrai, ibid.</note></p>
+            <p>Les participes passés féminins iée ne sont pas réduits à ie : abessiée, eslessiée,
+               perciée, et l’on trouve ces formes dans les tirades en ie féminin ; cependant, vers
+               la fin du poème, on voit otroïe, bautisie (cxxvii), adrecie (cxxxv), dans des tirades
+               en i féminin ; mais ces passages ont évidemment été remaniés et ces formes
+               contractées sont dues au renouveleur.</p>
+            <p>Enfin signalons l’emploi de la négation archaïque giens (v. 163, 2442). M. G. Paris
+               qui a étudié ce mot dans les Mémoires de la Société de linguistique de Paris, I, p.
+               189, remarque que giens avait cessé d’être usité vers la fin du xiie siècle, et le
+               dernier exemple qu’il cite, est tiré de la Vie de Saint de Saint Thomas de
+               Cantorbéry, de Garnier de Pont Sainte-Maxence, composée vers 1182 les exemples réunis
+               par M. Go-<pb n="XXVI"
+                  facs="https://fr.wikisource.org/wiki/Page:Anonyme_-_La_Mort_Aymeri_de_Narbonne.djvu/31"
+               /> defroy dans son dictionnaire sont tous également du xiie siècle.</p>
+            <p>On voit que rien ne permet de déterminer d’une façon précise le dialecte de notre
+               chanson et que la date de sa composition peut être fixée au dernier tiers du xiie
+               siècle ; ajoutons que si, comme nous le croyons, l’auteur a emprunté les Sagittaires
+               au Roman Troie, ce poème, ayant été composé vers 1155, la Mort Aymeri peut avoir été
+               écrite entre les années 1170 et 1180.</p>
+            <p>La chanson de la Mort Aymeri nous a été conservée dans quatre manuscrits, tous
+               exécutés en France.</p>
+            <p>A. — Le ms. que nous désignons par A, appartient au Musée Britannique, Old Roy. 20,
+               D. xi ; il a été décrit par M. F. Michel, dans ses rapports au Ministre. (Documents
+               inédits, p. 80-2.) C’est un volume in-folio, sur parchemin, de 69 centimètres de
+               hauteur, contenant 318 feuillets ; il est écrit sur trois colonnes de chacune 53
+               vers. L’écriture et le style des miniatures qui le décorent semblent dater de la
+               première moitié du xive siècle. Le copiste était soigneux, son texte ne présente pas
+               de lacunes importantes et offre un sens acceptable.</p>
+            <p>Les chansons que renferme ce beau manuscrit sont énumérées avec détail dans le
+               rapport de M. Francisque Michel auquel nous renvoyons ; chaque chanson est ornée
+               d’une petite miniature accompagnée d’une courte rubrique. La miniature de notre poème
+               représente le combat des compagnons d’Aimeri avec <pb n="XXVII"
+                  facs="https://fr.wikisource.org/wiki/Page:Anonyme_-_La_Mort_Aymeri_de_Narbonne.djvu/32"
+               />les Sagittaires ; ceux-ci figurés sous la forme de monstres moitié hommes moitié
+               quadrupèdes sans autres armes qu’un arc et une flèche. Voici, la rubrique qui la
+               précède : </p>
+            <p><quote>Cy parole du roi Loys et d’Aymeri et de ses enfans et de bataille que il orent
+                  encontre les Saytaires.</quote></p>
+            <p>B. — Le ms. que nous nommons B est celui de la Bibliothèque nationale, fr. 24370,
+               ancien La Vall. 23 A. C’est comme le précédent un des mss. cycliques de la geste de
+               Guillaume, les plus complets. Il est de plus petite dimension et l’exécution est bien
+               inférieure. D’après les caractères paléographiques, il est moins ancien et doit avoir
+               été écrit dans la deuxième moitié du xive siècle.</p>
+            <p>Nous n’insistons pas sur ce ms. bien connu ; rappelons seulement que la chanson de la
+               Mort Aymeri se trouve au fol. 7 r°, (le ms. est divisé en deux tomes). La miniature
+               du commencement représente le juif expliquant les songes à Aimeri et on lit au
+               commencement :</p>
+            <p><quote>Incidences. Ici commence la bataille des Sagytaires et la mort
+                  d’Aimeri.</quote></p>
+            <p>Comme notre chanson se trouve intercalée dans le Moniage Renoart, un scribe a dû
+               refaire le dernier couplet de cette première partie du Moniage Renoart et le dernier
+               couplet de la Mort Aymeri pour relier entre elles ces deux chansons.</p>
+            <pb n="XXVIII"
+               facs="https://fr.wikisource.org/wiki/Page:Anonyme_-_La_Mort_Aymeri_de_Narbonne.djvu/33"/>
+            <p>Voici le couplet qui précède notre poème :</p>
+            <p>
+               <lb/> En l’abbeye Rainouart demora, <lb/> Molt longuement y fu et sejorna ;
+               <lb/>Chascuns des moines si forment le douta <lb/> Que volentiers ses bons li otroia
+               <lb/> Et le servi et honneur li porta. <lb/> Plus n’en dirai ; mais a qui il plaira,
+               <lb/> Ens en ce livre, l’estoire trouvera <lb/> Des grans travaus que il puis endura.
+               <lb/> Or entendez, pour Dieu qui tout crea, <lb/> Bone chançon, tele n’oïs (sic)
+               pieça, <lb/> Comment li rois qui France gouverna, <lb/> Fu a Loon ou ses barons manda
+               ; <lb/> Moult en y vint et molt en demora ; <lb/> Un en i ot qui petit le prisa.
+               <lb/>Ains jure Dieu qu’il le corroucera ; <lb/> Hues Chapès, ainssi on le nomma.
+               <lb/> Riches homs fu et si grant gent mena <lb/> Que Looys par force guerroia <lb/>Et
+               de sa terre li arst et essilla. <lb/>Li roys trouva qui petit li aida, <lb/>Car des
+               preudommes si petit adaigna <lb/>Que a sa court molt peu en repaira. <lb/>Li rois se
+               doute et moult grant paor a <lb/>Que sa couronne ne perde et ce qu’il a. </p>
+            <p>À la fin de la chanson on lit :</p>
+            <p>
+               <lb/>Oy avez d’Aimeri le baron <lb/>Et de Bernart qui ot cuer de lyon <lb/>Et de
+               Guerin qui fut de grant renon, <lb/> Comment il furent mis a destruccion <lb/>Et .x.
+               m. autres dont ne fas mencion, <lb/> Des Sagitaires qui estoient felon. <lb/> Et
+               d’Ermengart a la gente façon <pb n="XXIX"
+                  facs="https://fr.wikisource.org/wiki/Page:Anonyme_-_La_Mort_Aymeri_de_Narbonne.djvu/34"/>
+               <lb/> De ceuls lairons ; ci endroit la chanson <lb/>De Raynouart vous recommenceron,
+               <lb/>Qui servoit Dieu par bonne entencion <lb/>Mais ne savoit ne syaume ne leçon,
+               <lb/> Mais o les autres chantoit a si haut ton, <lb/>Que n’i pooit entendre se lui
+               non. <lb/>Ceuls en pesoit de la religion, <lb/> Mais si hardi n’avoit en la maison
+               <lb/>S’il en parlast, tost eüst d’un baston <lb/>Et du poing en la teste. </p>
+            <p>On lit ensuite cette rubrique :</p>
+            <p><quote>Ci endroit fine li livres de la fin d’Aymeri et d’Ermengart et de plusieurs de
+                  leurs enfans et retourne a conter de Renuart qui estoit moines.</quote></p>
+            <p>C. — Le ms. C du Musée britannique, coté Old Roy. 20. B. xix, est un grand in-4° sur
+               parchemin, de 27 centimètres de hauteur, et de 191 feuillets. Il est écrit sur 2
+               colonnes de 45 vers chacune, et, pensons-nous, vers le milieu du xiiie siècle ; c’est
+               le plus ancien de nos ms., les abréviations y abondent et le scribe est peu
+               soigneux.</p>
+            <p>Au commencement du volume se trouve une miniature au-dessous de laquelle on lit :</p>
+            <p><quote>Ci commence la geste, com di li escrit de Garin de Monglanne et des quatre
+                  fiz.</quote></p>
+            <p>Les poèmes renfermés dans ce ms. sont : <list>
+                  <item>F. 1 a. Girart de Viane.</item>
+                  <item>F. 10. c. Id., 2e partie.</item>
+
+                  <pb n="XXX"
+                     facs="https://fr.wikisource.org/wiki/Page:Anonyme_-_La_Mort_Aymeri_de_Narbonne.djvu/35"/>
+                  <item>F. 39 d. Aimeri de Narbonne.</item>
+                  <item>F. 66 a. Departement des enfans Aymeri.</item>
+                  <item>F. 86 c. Siege de Narbonne.</item>
+                  <item>F. 110 d. Siege de Barbastre.</item>
+                  <item>F. 152 b. Guibert d’Andrenas.</item>
+                  <item> F. 166 a. Mort Aymeri de Narbonne.</item>
+
+               </list></p>
+            <p>Le dernier couplet de Guibert d’Andrenas, dans ce ms., a été refait pour annoncer la
+               Mort d’Aymeri.</p>
+            <p>
+               <lb/>Dedenz Nerbone fu li quens Aym. <lb/>Et Hermenjarz la contesse jentils <lb/> Et
+               ses fillex de cui il fu serviz. <lb/>Avuec els ot molt po de lor amis, <lb/>Molt fu
+               li quens soventes fois pensis, <lb/>Quant en Nerbone remest si escharis. <lb/> Einsi
+               i furent après v. anz ou vi. <lb/>Que il ne virent gaires nul de lor filz. <lb/>Si fu
+               li quens molt vielz et afebliz ; <lb/>Ne se pot gaires aidier li quens jentils
+               <lb/>Qui plus avoit de vii xx ans et dis. <lb/>Molt bien le sert ses fillex Aymeris
+               <lb/> Cui il avoit doné tot son païs, <lb/>Tant quant. i. max est à Ay. pris <lb/> Si
+               con Deu plot lo roi de paradis ; <lb/>Ne pot lever ne par nuit ne par dis,
+               <lb/>Forment en plore Herm. la jentils : <lb/> Car ele quide que ja n’eschapast vis ;
+               <lb/>Si n’estoit molt troblé tot le païs ; <lb/>Et d’autre part estoit molt entrepris
+               <lb/> En doce France li fors roiz Looys <lb/> Qui molt avoit de cruels enemis, <lb/>
+               De tex don il deüst estre serviz ; <lb/> Mès en France ot. i. haut baron de pris
+               <lb/> Hue Chapet ot non, ce m’est avis <lb/> Riche d’avoir et enforcié d’amis. <pb
+                  n="XXXI"
+                  facs="https://fr.wikisource.org/wiki/Page:Anonyme_-_La_Mort_Aymeri_de_Narbonne.djvu/36"/>
+               <lb/> N’ot a cel tens ne baron ne marchis <lb/> En tote France qui si fust poestis.
+               <lb/>Si ot lo roi si de guerre entrepris, <lb/>Q’avoir voloit la terre et lo païs
+               <lb/> Et estre rois et del regne sesiz ; <lb/> Si avoit ja viles et chatiax pris
+               <lb/> Et tant avoit ja maté Looys <lb/> Qu’issir n’osoit des portes de Paris <lb/>Et
+               bien cuidoit li bon rois seignoris <lb/> Qu’il perdist la corone. </p>
+            <p>D. — D désigne le ms. du Musée britannique, coté Harl. 1321<note n="1">Fr. Michel,
+                  loc. cit.. p. 115.</note>.</p>
+            <p>C’est un grand in-4° sur parchemin, de 214 feuillets, écrit sur 2 colonnes de 40 vers
+               chacune. Il a dû être exécuté à la fin du xiiie siècle. Il est mal écrit et les
+               fautes y sont innombrables ; c’est, de nos mss., le plus mal exécuté.</p>
+            <p>Les feuillets ne se suivent pas en ordre régulier ; ce qui rend assez difficile de
+               distinguer les différentes chansons entre elles. De plus un certain nombre de
+               feuillets sont perdus. Voici la liste des poèmes : Girart de Viane. Le premier
+               feuillet manque. Le poème commence : Filz, dist li pere, je vos dirai encors. <list>
+                  <item>Aimeri de N. f. 35, vo. b.</item>
+
+                  <item>Département des enfans Aimeri. f. 66. Même rédaction que celui du ms. 20. B.
+                     xix.</item>
+
+                  <item>Siège de Narbonne, f. 86. </item>
+                  <item> Siège de Barbastre, f. 118 à 133, 166 à 181, 150 à 165, et enfin 208 à
+                     214.</item>
+                  <pb n="XXXII"
+                     facs="https://fr.wikisource.org/wiki/Page:Anonyme_-_La_Mort_Aymeri_de_Narbonne.djvu/37"/>
+                  <item> Guibers d’Andrenas, f. 134.</item>
+
+                  <item>Mort Aymeri de Narbonne, f. 149 ; un feuillet suivant est perdu ; la suite
+                     du poème reprend au f. 182 jusqu’au f. 207 ; il manque un feuillet pour
+                     compléter la chanson.</item>
+               </list></p>
+            <p>Aymeri de Narbonne, le Département des enfans Aymeri, et le Siège de Narbonne ne sont
+               pas séparés entre eux, et ne forment pour ainsi dire qu’un seul poème sans qu’aucune
+               miniature ni grande lettre ne les distingue du poème précédent. Il en est de même de
+               la Mort Aymeri qui fait corps avec Guibert d’Andrenas. Cette circonstance est cause
+               que la Mort Aymeri et le Siège de Narbonne n’avaient pas été jusqu’à présent signalés
+               dans ce manuscrit.</p>
+            <p>D2. — On a récemment découvert dans une reliure à la Bibliothèque de Dusseldorf, deux
+               fragments de parchemin ayant appartenu à un ms. de la Mort Aymeri écrit au xive
+               siècle ; ils forment chacun la partie supérieure de deux feuillets, et donnent ainsi
+               quatre fragments correspondants aux vers de notre édition 511-543, 580-612, 725-742,
+               772-791 ; nous avons pu consulter une photographie de ces fragments, grâce à
+               l’obligeance de M. Stengel qui les a publiés dans la Zeitschrift fur romanische
+               Philologie, 1882 p. 357, travail auquel nous renvoyons le lecteur.</p>
+            <p>Laissant de côté pour le moment le fragment de M. Stengel, les quatre mss. se
+               classent en deux familles : A B forment un premier groupe et C et D l’autre. Cette
+               division résulte des faits suivants : A et B ont ensemble quelques passages omis dans
+                  <pb n="XXXIII"
+                  facs="https://fr.wikisource.org/wiki/Page:Anonyme_-_La_Mort_Aymeri_de_Narbonne.djvu/38"
+               /> C et dans D, et de même C et D contiennent beaucoup de vers qui ne se trouvent pas
+               dans A ou dans B : ainsi A et B donnent seuls les vers 1157, 1265, 2901, 3037, 3122
+               et 3123. Plus nombreux sont les cas où C et D ont des vers qu’on ne lit pas dans A ou
+               B : par exemple, les vers 162 et 163, 239, 261, 266, 291, 381, 700, 701.</p>
+            <p>De plus il est très fréquent de voir A et B donner une même leçon, et C et D
+               s’accorder à en donner une différente. Toutes ces variantes sont notées dans
+               l’édition et nous nous contentons ici de renvoyer à quelques exemples
+               caractéristiques pris au hasard : v. 200, 307, 335, 346, 367, 396, 410, 430, 451,
+               478, 595, etc.</p>
+            <p>Quelques noms propres sont différents dans AB et dans CD : par exemple, Acaire dans
+               AB et Auquaires dans CD v. 1649, 1664, etc. ; Madras dans AB et Maudras dans CD. v.
+               644, 649 ; Pincernie dans AB et Corcenie dans CD v. 2424, etc.</p>
+            <p>Enfin les deux mss. C et D ont subi un même remaniement, qui a été épargné aux autres
+               mss. ; parfois ils corrigent ça et là quelques assonances assez libres que conservent
+               encore A et B, ou le plus souvent, ils convertissent sans exception en rimes exactes
+               certaines tirades primitivement en assonances. Citons d’abord le début qui est
+               entièrement différent dans AB et dans CD.</p>
+            <p>C et D débutent ainsi :</p>
+            <p>
+               <lb/> Ce fu en mai que la rouse est florie, <lb/> L’oriax chante et li rousignax
+               crie, <pb n="XXXIV"
+                  facs="https://fr.wikisource.org/wiki/Page:Anonyme_-_La_Mort_Aymeri_de_Narbonne.djvu/39"/>
+               <lb/>Fuellissent bois et l’erbe est reverdie, <lb/>Chascuns amanz est joianz per
+               s’amie. <lb/> Dedenz Nerbone la fort cite garnie﻿<note>(D antie.)</note>
+               <lb/> Fu Aymeris a la barbe florie ; <lb/> Sus el palès, en sa chambre
+                  votie,﻿<note>(D la sale v.)</note>
+               <lb/> Gisoit li quens de sa grant maladie <lb/>Qui bien quidoit par tens finer la
+               vie, <lb/> Car la viellece durement l’afeblie, <lb/> Si que del lit ne pooit lever
+               mie. <lb/> Dex quel domaje ! dame sainte Marie... </p>
+            <p>Le feuillet suivant du ms. D étant perdu et le ms. C continuant d’ailleurs à refaire
+               des rimes exactes, il n’est pas possible d’apprécier l’importance de ce premier
+               remaniement commun à C et D.</p>
+            <p>Dans la laisse xciv assonant en i, nous voyons C et D refaire de même les rimes des
+               vers suivants :</p>
+            <p>
+               <note> Vers 2814 </note>— <title>AB.</title><lb/>Il tret l’espëe dont li pons fu d’or
+               fin. <title>CD.</title><lb/>Et si a tret lo branc d’acier bruni.</p>
+            <p><note>Vers 2824 —</note>
+               <title>AB.</title><lb/>...... qui fu au roi Pepin. <title>CD</title><lb/>...... dont
+               li branc fu forbis.</p>
+            <p><note>Vers 2825 — </note><title>AB.</title><lb/>Chieres reliques i ot de Saint
+               Martin. <title>CD</title><lb/>.........................avoit el pont mis.</p>
+            <p>Dans la laisse suivante, assonant en e, les vers refaits de la sorte par CD sont bien
+               plus nombreux, et enfin tous sont rimés dans le couplet xcvi.</p>
+            <p>Les trois couplets xcviii, xcxix, c, où se trouve établie la distinction des trois
+               gestes et qui nous semblent interpolés, ne se trouvent pas dans CD qui continuent
+               ensuite à réduire en rimes exactes toutes les asso- <pb n="XXXV"
+                  facs="https://fr.wikisource.org/wiki/Page:Anonyme_-_La_Mort_Aymeri_de_Narbonne.djvu/40"
+               /> nances déjà souvent retouchées dans AB ; c’est vers la tirade cxvii ou cxviii où
+               les autres mss. ont conservé bien peu des finales primitives que le remaniement
+               particulier de CD semble s’arrêter ; voici un exemple du rajeunissement propre aux
+               deux mss. de cette famille, tiré du couplet cxii :</p>
+            <p><title>C D</title>
+               <lb/>Premiers s’en ist li fors rois Loois,﻿<note>(D bons r.)</note>
+               <lb/>Hernauz et Bueves et Bernarz li floriz, <lb/>Et d’Anseüne Garins li dus
+                  jentils,﻿<note>(D li marchis)</note>
+               <lb/> Et d’Orenge Guill. li marchis.﻿<note>(D omis)</note>
+               <lb/> « Droiz empereres, » ce dit li quens hardiz, <lb/>« Or en irons assaillir, ce
+               m’est vis, <lb/>« Cele cité qui si est seignoris,﻿<note>(D tant e.)</note>. <lb/>«
+               Cil qui la tienent, ne sont pas nos amis. <lb/>« Ce ne sont pas Paiens ne Arrabiz,
+               <lb/> « Mès Sajetaires cuverz et maleïz. <lb/> « Des ars turqois sont si duit et
+               apris <lb/>« Que qui i fierent, n’en puet eschaper vis.﻿<note>(C omis)</note>. <lb/>«
+               Les quarrax traient qui sont d’acier forbiz﻿<note>(D brunis)</note>
+               <lb/> « Et de venin entoschié et espris. <lb/> « Qui il ateignent, bien est de la
+               mort fis ; <lb/>« Nel puet garir, elme n’escu votiz, <lb/> « Auberz ne vieille
+               broine. » </p>
+            <p><title>A B</title>
+               <lb/> Premiers s’en ist li bon rois Loeys, <lb/>« Ernaus et Bueves et Bernars et
+               Garins : <lb/>« Drois empereres, » li quens Guill. dist, <lb/>« Nous en irons la cité
+               assaillir <lb/> « Esclabarie qui est el pui antif. <lb/>« Iceux la tienent qui ne
+               nous sont amis. <pb n="XXXVI"
+                  facs="https://fr.wikisource.org/wiki/Page:Anonyme_-_La_Mort_Aymeri_de_Narbonne.djvu/41"/>
+               <lb/> « Ce ne sont pas Paien ne Sarrazin <lb/> « Mais Turs felons du regne d’Orquanie
+               <lb/> « Et Sagitaire a qui ja Diex n’aït ; <lb/> « Des ars turquois traient par tel
+               aïr <lb/>« Les grans querriaus entoschiés de venin, <lb/>« Qui a lor cox ne puet arme
+               garir, <lb/>« Haubers, elme ne broigne. » </p>
+            <p>Les faits que nous venons d’exposer séparent donc nos quatre mss. en deux groupes
+               bien distincts : A et B d’une part, C et D de l’autre.</p>
+            <p>Si nous désignons par x le ms. sur lequel A et B ont été copiés, et par y celui d’où
+               C et D dérivent, x ou y représentent-ils l’original ou bien sont-ils chacun une copie
+               distincte de cet original o ? C’est cette dernière hypothèse que confirment les faits
+               suivants. Le ms. x n’est pas l’original, mais une copie, car A et B offrent les mêmes
+               lacunes comblées par C et D et présentent souvent une mauvaise leçon là où C et D en
+               fournissent une bonne. Nous avons toujours noté dans les variantes de notre texte,
+               les passages manquant à AB, et reproduit les leçons de ces deux mss., quand nous leur
+               avons préféré celles de C ou de D. Mais lacunes ou mauvaises leçons ne sont pas
+               toujours évidentes, et nous devons signaler ici comme étant certainement des lacunes
+               dans AB et non des interpolations dans CD, les vers 403, 755-759, 765, 1296, 1580,
+               1674-1683 ; de même la leçon de CD est certainement meilleure que celle d’AB, dans
+               les vers 206, 420, 548, 865, 879, 1120, etc.</p>
+            <p>La même expérience pour y amène la même conclusion il faut remarquer cependant
+               qu’elle est beau <pb n="XXXVII"
+                  facs="https://fr.wikisource.org/wiki/Page:Anonyme_-_La_Mort_Aymeri_de_Narbonne.djvu/42"
+               /> coup moins caractéristique pour C et D que pour l’autre groupe : ainsi il n’est
+               pas absolument certain que les quelques vers manquant à CD, aient été dans
+               l’original, et de même le choix des leçons de AB de préférence à celles de CD, est
+               plus douteux ; citons cependant comme des lacunes à peu près certaines dans le texte
+               de CD, les vers 1686, 2901, et comme exemples de mauvaises leçons dans les mêmes
+               mss., les vers 302, 1920, 2333. Quoiqu’il en soit, les très nombreux passages dont
+               nous venons de parler, où C et D ont subi un remaniement commun, établissent de la
+               façon la plus certaine leur dépendance d’un ms. y, distinct de l’original.</p>
+            <p>Non seulement x et y ne sont que des copies dérivées de o, mais il est certain qu’il
+               a existé entre ces deux mss. et l’original au moins un intermédiaire. Nos quatre mss.
+               contiennent en effet quelques passages portant des traces évidentes d’un même
+               remaniement. Nous nommons o le ms. déjà remanié, d’où dérivent tous les mss. de la
+               chanson de la Mort Aymeri maintenant connus ; on peut même distinguer dans ces
+               passages altérés communs à tous nos mss., l’œuvre d’au moins trois remanieurs ; o
+               représenterait alors, non plus le ms. que nous essayons de reproduire, mais une
+               succession de trois mss., dérivant l’un de l’autre ; ce fait n’a d’ailleurs aucun
+               intérêt pour la critique du texte. Un premier remaniement se remarque dans la laisse
+               ix ; les passages qui la précèdent ou la suivent, ne semblent pas remaniés, dans AB,
+               et par conséquent dans o ; or, au milieu de ce couplet, on lit une tirade de 34 vers
+               exactement rimés en on, à l’exception d’un <pb n="XXXVIII"
+                  facs="https://fr.wikisource.org/wiki/Page:Anonyme_-_La_Mort_Aymeri_de_Narbonne.djvu/43"
+               /> seul ; c’est une longue prière d’Aimeri, sur le point d’être brûlé, vif. La
+               présence de plus de 30 rimes exactes dans un passage en assonances assez libres (or,
+               ox, ont), doit être imputée à un remanieur ; il est fréquent d’ailleurs de voir les
+               rimeurs choisir une prière ou une invocation de ce genre, pour exercer leur talent
+               poétique ; ainsi la dernière prière de Rollant dans le ms. d’Oxford a 5 vers, 9 dans
+               le ms. de Cambridge et 16 dans celui de Châteauroux. (Oxford, laisse clxxviii, v.
+               2334, Voy. P. Meyer, Recueil d’anciens textes, p. 211, 228).</p>
+            <p>Vers le milieu du poème, on observe de nouvelles traces d’altérations. À partir de la
+               laisse lxxiv qui présente une longueur jusqu’alors inusitée, les assonances
+               deviennent moins libres et les finales el, ef, par exemple, dans les couplets en e,
+               les finales in ist, dans les couplets en i, deviennent de plus en plus rares. Chaque
+               couplet, au lieu de présenter des assonances entremêlées, est souvent composé d’une
+               succession de tirades rimées exactement, genre de remaniement signalé chez les
+               rimeurs du xiiie siècle <note n="1">Cf. G. Paris, préface de la Vie de saint Alexis
+                  du xiiie siècle, p. 200.</note>. À mesure qu’on avance dans la chanson, la
+               tendance à rimer s’accentue ; ainsi la laisse ciii sur 19 vers, en a 14 rimés : la
+               laisse civ, 13 sur 14 ; la laisse cv, 18 sur 21 ; la laisse cix, 23 sur 24, etc. ;
+               enfin nous arrivons à la laisse cix, où pas une seule assonance n’a été conservée, et
+               tout le reste du poème est entièrement rimé à peu d’exceptions près.</p>
+            <pb n="XXXIX"
+               facs="https://fr.wikisource.org/wiki/Page:Anonyme_-_La_Mort_Aymeri_de_Narbonne.djvu/44"/>
+            <p>Les mss. A et B reproduisent toujours si exactement la même leçon, qu’à priori on
+               pourrait croire B, qui est le moins ancien copié sur A ; mais il est quelques cas où
+               B comble une lacune dans A, ou donne une meilleure leçon que ce ms., par exemple au
+               vers 218 ; ces deux mss. sont donc indépendants. Cependant les divergences sont si
+               rares qu’il faut les supposer tous les deux très rapprochés de l’exemplaire commun,
+               d’où ils dérivent.</p>
+            <p>Si A et B peuvent être copiés directement sur un même ms., il n’en est pas de même de
+               C et de D qu’une plus grande distance doit séparer de y ; en effet, les variantes du
+               texte notées plus loin, montrent combien sont nombreuses et importantes les
+               divergences entre ces deux mss. ; plusieurs remaniements particuliers, différents de
+               celui qui leur est commun et dont nous avons parlé, contribuent à rendre très
+               probable l’existence de plusieurs copies entre chacun d’eux et y, ms. original de
+               leur famille.</p>
+            <p>Ainsi dans D, au milieu de la laisse lviii, un remanieur a commencé à modifier
+               quelques finales. La laisse lix est entièrement et très exactement rimée et il en est
+               de même des tirades suivantes jusqu’à la laisse lxviii, à partir duquel il se borne à
+               corriger quelques assonances trop libres ; enfin son travail semble s’arrêter à la
+               laisse lxxii, qui n’est pas plus remaniée qu’elle ne l’est dans la famille AB. Voici
+               un exemple pris au commencement de la laisse lxi : </p>
+            <pb n="XL"
+               facs="https://fr.wikisource.org/wiki/Page:Anonyme_-_La_Mort_Aymeri_de_Narbonne.djvu/45"/>
+            <p><title>D.</title>
+               <lb/> « Seignor », fet il, « fetes moi escouter, <lb/>« Par Mahomet, conseil veill je
+               rover <lb/>« De ce que dit Herm. al vis cler. <lb/> « Je li jurrai, sel volez
+               creanter, <lb/> « Que Ay. ferai quite clamer <lb/>« Et de la mort salvement aquiter,
+               <lb/> « Se il me font la cité delivrer. <lb/>« Quant nos l’avrons, ja ne vos quier
+               celer, <lb/> « Si le feron an Espangne mener, <lb/>« En Babiloine qui est ostre la
+               mer, <lb/> « La le ferai en ma chartre giter <lb/> « Et feu grezois ferai avec boter
+               <lb/> « Et toz lor cors ardoir et anbraser. » <lb/> Paien responent : « Molt avez dit
+               que ber, <lb/> « Quanque vodroiz bien vodron creanter. <lb/> « Car roi estes et
+               sires. » </p>
+            <p><title>C.</title>
+               <lb/> Seignor, » fet il, « un petit m’entendez, <lb/> « Par Mah. quel conseil me
+               donez ? <lb/> « Je feré ja ci Mahon aporter <lb/>« Et jurerai desus, se vos volez,
+               <lb/> « Que Ay. ne sera ars el ré ; <lb/> « Ice ferai, se vos le me loez, <lb/> « Et
+               quant seré sesi de la cité, <lb/> « Puis l’en feré an Escopas mener, <lb/> « En
+               Babiloine l’amirable cité, <lb/> « En la chartre trebuchier et jeter ; <lb/> « A feu
+               grezois le ferè alumer, <lb/> « Tote la boche et lo vis et lo nés, <lb/> « Et tot son
+               cors traveiller et pener. » <pb n="XLI"
+                  facs="https://fr.wikisource.org/wiki/Page:Anonyme_-_La_Mort_Aymeri_de_Narbonne.djvu/46"/>
+               <lb/> Et cil dient : « Nos l’otroions assez, <lb/>« Que or en fetes totes vos
+               volentez, <lb/> « Sire amiral de Perse. » </p>
+            <p><title>AB.</title>
+               <lb/> « Seignour, » dist il, « un petit m’entendez, <lb/> « Par Mahom quel conseil me
+               donez ? <lb/> « Je le ferai devant moi aporter <lb/> « Et jurerai dessuz, se vous
+               volez, <lb/> « Que Ay. ne sera ars el ré ; <lb/> « Et quant saisi serons de la cité,
+               <lb/> « Si le ferai en Espagne mener, <lb/> « En Babiloine l’amirable cité <lb/> « Et
+               en la chartre trebuchier et jeter ; <lb/> « A feu grezois le ferai alumer <lb/> «
+               Toute la boche et le vis et le nés. » <lb/> Et il l’ont dit : « Nous l’otroions assez
+               <lb/> « Or an fetes toutes vos volentés, <lb/> « Sire amiral de Perse. » </p>
+            <p>Signalons encore dans quelques couplets où les finales an, en sont entremêlées, la
+               réduction de ces dernières en an, dans le ms. D.</p>
+            <p>
+               <lb/>
+               <title>Laisse xii.</title><title>AB</title>Tel poor ai que toz li cuer me ment.
+                  <lb/><title> D</title>............m’en esprant. <lb/><title> AB</title>clocher
+               Saint Vincent. <lb/><title> D</title>..........Saint Jehan. <lb/>
+               <title>Laisse xvii.</title><title>AB</title>Fais departir ton or et ton argent. <lb/>
+               <title>D</title>...........l’or fin et l’argent blanc. <lb/>
+               <title>AB</title>Done le tost por Deu omnipotent. <lb/><title>
+               D</title>...............le roiamant <pb n="XLII"
+                  facs="https://fr.wikisource.org/wiki/Page:Anonyme_-_La_Mort_Aymeri_de_Narbonne.djvu/47"/>
+               <lb/><title>Laisse XX.</title><title>AB</title>........lui fera secors gent.
+                  <lb/><title> D</title>........lui sera secorant. </p>
+            <p>Le ms. C est celui qui a subi le plus de rajeunissements. Nous avons déjà vu que C et
+               D contenaient un début également refait : C continue à remanier de même toute la
+               première partie de la chanson ; comme un feuillet de notre chanson manque dans le ms.
+               D, il est impossible de voir où commence ce remaniement particulier à C. Quoiqu’il en
+               soit, le ms. C change les assonances en rimes dans toute la première partie de la
+               chanson. Son travail semble s’arrêter à la laisse lx. Peut-être faudrait-il supposer
+               plusieurs auteurs à ce changement ; car tandis que dans quelques tirades, toutes les
+               finales sont refaites sans exception, dans d’autres, on s’est borné à changer
+               quelques assonances qui paraissaient trop libres, procédé que nous avons remarqué
+               dans presque tous les remaniements, dont nous avons parlé.</p>
+            <p>Souvent aussi, quand le remanieur rencontrait un vers difficile à réduire, il le
+               transcrivait tel qu’il le trouvait ; mais il poursuivait en refaisant les finales des
+               vers suivants sur le nouveau modèle donné par ce vers. C’est ainsi que dans une même
+               laisse en assonance é, on voit une partie rimée en é, la suivante en ez, une autre en
+               er. Par exemple, la laisse xi dans ce ms., présente les 7 premiers vers en er, et les
+               5 derniers en ez, la tirade xxvii a 10 rimes as de suite, et les 7 suivantes en a. La
+               tirade xliv a successivement 22 rimes en er, les 3 suivantes ez, les 8 autres er, et
+               les 12 dernières é. Les tirades lviii, lix, ne <pb n="XLIII"
+                  facs="https://fr.wikisource.org/wiki/Page:Anonyme_-_La_Mort_Aymeri_de_Narbonne.djvu/48"
+               /> sont plus que peu remaniées. Nous donnons ici comme exemple de ce remaniement le
+               commencement de la laisse xi :</p>
+            <p><title>C</title>
+               <lb/>Quant Aymeris ot sa feme parler <lb/>Et entor lui ses chevaliers plorer, <lb/>
+               Molt belement commença a parler : <lb/> « Seigneur, » fet il, « lessiez ce duel ester
+               <lb/> « Que, se Deu plest qui tot a a sauver, <lb/> « Encor porrai garir et
+               respasser. » <lb/> Quant Hermanjarz ot le conte parler, <lb/> Ne fust si lie por
+               .xiiii. citez. </p>
+            <p><title/>D <lb/>Quant Nam. ot sa fame parler, <lb/>Environ lui son barnaje plorer,
+               <lb/>Ovri les ex, ses a reconfortez : <lb/>« Segnor, » dist il, « merci por amor Dé
+               <lb/> « Je ai tel mal, ne me puis remuer. » <lb/> Dame Herm. ot son segnor parler,
+               <lb/> Ne fust si liée por .xiiii. citez. </p>
+            <p>
+               <title> AB</title>
+               <lb/>Quant Aymeris ot sa feme parler <lb/> Et entour lui ses chevaliers plorer, <lb/>
+               Ouvri les iex, ses a reconfortez : <lb/> « Seigneur, » dist il, « merci pour amor Dé
+               ; <lb/> « Tel doulour ai, ne me puis remuer. » <lb/> Dame Ermengarde ot son seignour
+               parler, <lb/> Ne fu si liée por .xiiii. citez. </p>
+            <pb n="XLIV"
+               facs="https://fr.wikisource.org/wiki/Page:Anonyme_-_La_Mort_Aymeri_de_Narbonne.djvu/49"/>
+            <p>Le texte original n’est pas longtemps conservé dans ce ms. et dès la laisse lxxviii
+               nous trouvons de nouvelles tentatives vers des rimes plus exactes.</p>
+            <p>Cette laisse ne contient qu’un vers refait :</p>
+
+            <p><lb/>Non ferez, pere, ce a dit Guibelins </p>
+            <p>C corrige la fin : Guiberz li respondi et conserve ailleurs d’autres finales en in.
+               La laisse suivante renferme trois ou quatre vers refaits. Mais c’est à la laisse lxxx
+               que commence réellement le nouveau travail du rimeur. Dans l’original, ce couplet
+               était assonant en é ; C a refait les rimes en ie sans exception dans la 1re partie ;
+               puis il fait un 2e couplet de la 2e partie, où il laisse presque toutes les
+               assonances primitives. Enfin dans la suite du poème, C a continué à rimer exactement
+               de nombreux passages ; mais le plus souvent il s’est contenté de faire disparaître
+               les assonances trop libres, en laissant assez ordinairement les autres intactes. À la
+               laisse xciv, nous avons déjà signalé un rajeunissement que C a en commun avec D ;
+               mais ce ms. est plus complètement et tout particulièrement refait, et tandis que D
+               garde encore bon nombre d’assonances, C rime presque sans exception. Dans les laisses
+               suivantes, on ne trouve plus que les modifications communes au texte de C et de D ;
+               cependant quand D garde encore çà et là quelques assonances, le ms. C les fait
+               toujours disparaître. Voici un exemple de ce second remaniement particulier au au ms.
+               C, tiré de la laisse lxxvi.</p>
+            <pb n="XLV"
+               facs="https://fr.wikisource.org/wiki/Page:Anonyme_-_La_Mort_Aymeri_de_Narbonne.djvu/50"/>
+            <p><title>C</title>
+               <lb/> Auquaires broches, li filleus Ay. <lb/> Qui l’oriflanbe paumoia et brandi ;
+               <lb/> Mainte viele le jor i retenti, <lb/> De maint oisel i oïst en lo cri : <lb/>
+               Chante li melles avueques li mauviz, <lb/>Jais et calandres chascun s’i esjoït.</p>
+            <p><title>D</title>
+               <lb/> Aucaire broche, le fillell Nameri <lb/>Qui l’oriflanbe palmoia et brandi ;
+               <lb/> Mainte viele i oïssiez tantir, <lb/> De tant oissiax i oïssiez le cri : <lb/>
+               Chante la melle, la turtre et la malviz <lb/> Jais et calandres, chascun an son
+               latin.</p>
+            <p><title>A B</title>
+               <lb/> Aquaires point li fillex Ay. <lb/> El premier chief l’oriflanbe brandi ; <lb/>
+               Mainte viele i oïssiés tentir, <lb/> De mains oisiaux i oïssiés le cri : <lb/> Chante
+               la merle et chante li mauvis, <lb/> Et autre oisel, chascuns en son latin.</p>
+            <p>En résumé, les mss. C et D ont un et peut-être deux passages remaniés qui se trouvent
+               dans tous les mss. qui nous ont conservé la Mort Aymeri, deux parties communes
+               également refaites, et enfin chacun <pb n="XLVI"
+                  facs="https://fr.wikisource.org/wiki/Page:Anonyme_-_La_Mort_Aymeri_de_Narbonne.djvu/51"
+               /> deux morceaux différents ayant subi un rajeunissement particulier.</p>
+            <p>Enfin le fragment D2 se classe à côté de D ; on voit en effet aux vers 524, 566, 623,
+               669 et 673, D et D2 avoir une leçon commune que détruit l’accord complet de C d’une
+               part et des mss. de l’autre famille AB.</p>
+            <p>On pourrait dresser ainsi le tableau de nos mss. : <graphic
+                  url="https://fr.wikisource.org/wiki/Page:Anonyme_-_La_Mort_Aymeri_de_Narbonne.djvu/51"
+               /></p>
+            <p>Notre classification des mss. aboutissant à la constitution de deux familles, voici
+               comme nous avons procédé pour l’établissement du texte. Il est bien évident qu’une
+               leçon fournie par une des familles et confirmée même par un seul des mss. de l’autre
+               famille, doit être considérée comme certaine ; mais il est loin d’en être de même,
+               quand les leçons des deux familles diffèrent entre elles. Quand ces leçons sont
+               également acceptables, à défaut d’une raison particulière, nous avons toujours
+               préféré le texte de y, ms. original de la famille de C et de D, si ces deux mss. nous
+               permettent de l’établir d’une façon certaine ; mais, dans les très nombreux passages
+               où ils ont été remaniés, nous avons dû conserver le texte de l’autre famille x fourni
+               par A et B. Voici les raisons de la préférence que nous accordons à y sur x ; C et D,
+               qui sont les <pb n="XLVII"
+                  facs="https://fr.wikisource.org/wiki/Page:Anonyme_-_La_Mort_Aymeri_de_Narbonne.djvu/52"
+               /> plus anciens mss., présentent entre eux d’assez notables différences ; il faut
+               donc les supposer très éloignés du ms. original de leur famille y, qui, par
+               conséquent, devait être beaucoup plus ancien et assez rapproché de l’original. AB, au
+               contraire, sont bien plus récents, et comme ils présentent à peu près toujours le
+               même texte, ils ont été probablement copiés directement sur un même ms. x, qui
+               vraisemblablement était contemporain et d’un siècle plus jeune que le ms. y ; il
+               devait, par conséquent, présenter moins fidèlement l’original ; nous avons vu, en
+               effet, le nombre énorme de vers qui manquent au texte de A ou de B et dont le plus
+               grand nombre devait évidemment se trouver dans l’original, tandis que des lacunes
+               incontestables dans le texte de CD sont fort rares ; nous avons de même noté plus
+               haut un grand nombre de leçons de CD préférables à celle de AB, et nous avons dit, au
+               contraire, combien il était difficile de trouver des cas où CD donnent certainement
+               une version moins bonne que celle des autres mss. Il est vrai que le texte du ms. x
+               n’a pas été soumis à des remaniements systématiques comme celui de C et D ; malgré
+               cela, ces deux derniers mss. nous permettent de constater que la famille d’A et de B
+               n’a pas échappé aux rajeunissements et qu’une longue succession de copies a du
+               altérer insensiblement le texte original dans AB : on peut se reporter aux vers
+               suivants où AB ont des assonances corrigées en vue d’une rime plus exacte, 560, 891,
+               973, 2411, 2442, 2449, 2453, 3577. On voit que ces rajeunissements d’AB s’étendent à
+               toutes les parties de la chan- <pb n="XLVIII"
+                  facs="https://fr.wikisource.org/wiki/Page:Anonyme_-_La_Mort_Aymeri_de_Narbonne.djvu/53"
+               />son et même à des passages où l’on ne soupçonnerait jamais, sans le contrôle fourni
+               par CD, qu’il y a eu un remaniement. Nous ne pouvons déterminer le nombre et
+               l’importance de ces rajeunissements ; mais si l’on considère combien de fois le texte
+               du ms. D, par exemple, a passé par les mains des rimeurs et que, malgré cela, un
+               nombre considérable de vers de l’original, qu’on ne trouve plus dans AB, ont
+               subsisté, il faut supposer qu’un travail presque inconscient, de plusieurs
+               générations de copistes, a altéré profondément le texte du ms. x, et, par conséquent,
+               préférer toujours la leçon du ms. original de l’autre famille y, aussi souvent qu’il
+               est possible de l’établir d’une manière certaine. En résumé, si C et D ont chacun
+               isolément beaucoup moins de valeur que les mss. de l’autre famille, leur accord nous
+               donne toujours une leçon que nous considérons comme préférable. </p>
+            <p>Pour le choix des formes, nous avons toujours suivi C, le plus ancien de nos
+               manuscrits. En effet, les mss. AB qui, ayant été les moins remaniés, offrent souvent
+               la seule leçon admissible, ont été écrits au xive siècle, et leur graphie présente
+               toutes les altérations ordinaires des textes de cette époque ; le ms. D plus ancien,
+               mais écrit avec négligence, présente de plus des formes tout à fait anormales
+                  <note>Une particularité remarquable de ce ms. est l’emploi du d dans les mots
+                  comme : camoisied, pid, vieillard, ploreid, pied, void, sod, avroid, fenid,
+                  veissiéd.</note>, et ignore complètement les règles de la déclinaison. Nous
+               cherchons donc dans le texte qui suit, à reproduire les formes du ms. <pb n="XLIX"
+                  facs="https://fr.wikisource.org/wiki/Page:Anonyme_-_La_Mort_Aymeri_de_Narbonne.djvu/54"
+               /> C, mais, comme nous avons eu souvent à choisir des leçons étrangères à ce ms.,
+               voici quelques-unes des modifications que nous avons fait subir à ces passages
+               empruntés aux autres mss. ; ce ne sont en général que des notations habituelles au
+               scribe du ms. C, qui ne supposent pas une bien grande différence de graphie avec les
+               autres mss. </p>
+            <p>La diphtongue ai venant de a latin et une gutturale devenue semi-voyelle, est
+               toujours notée e : fere, plest, lesser, mes.</p>
+            <p>Le son de l’o fermé, noté de différentes manières dans les ms. A B D, est représenté
+               par o dans C, et il en est de même du son ou, formé par la vocalisation de l ; lor,
+               seignor, nos, sol, corone, podre, vodrent. Cependant ce ms. hésite pour certains mots
+               et l’on trouve même à l’assonance la forme angoisseus, orgoillex, que nous avons
+               rétablies angoissos, orgoillos.</p>
+            <p>Le g doux est toujours noté par un j : jent, larjement, coraje</p>
+            <p>C n’emploie pas l’h initial des mots d’origine latine ; ier, erbe, orrible, umilité,
+               enoré.</p>
+            <p>S et z ne sont pas confondus ; le z provient de s latin précédé d’une dentale ; ainsi
+               les adjectifs ou participes atus, itus, etus, les 2e personnes du pluriel, atis,
+               etis, sont notés ez, oiz, etc. ; comme dans beaucoup d’autres textes ce z est aussi
+               employé avec la nasale ou l mouillée : anz, dedenz, filz, melz, vielz.</p>
+            <p>Telles sont les principales notations habituelles du scribe du ms. C qui se
+               distinguent des formes employées dans les autres ms., et que nous employons <pb n="L"
+                  facs="https://fr.wikisource.org/wiki/Page:Anonyme_-_La_Mort_Aymeri_de_Narbonne.djvu/55"
+               />toujours dans notre texte ; ajoutons de plus que nous appliquons les règles de la
+               déclinaison peut-être plus rigoureusement que le ms. C qui contient bien des des
+               irrégularités ; les autres mss., et surtout D les ignorent complètement. </p>
+            <p>Que notre commissaire responsable, M. P. Meyer, nous permette, en finissant, de lui
+               témoigner toute notre reconnaissance pour les conseils, dont nous avons eu si souvent
+               à profiter et les soins incessants qu’il a bien voulu donner à l’impression de ce
+               travail.</p>
+         </div>
+         <div type="titre">
+            <pb n="LI" facs="https://fr.wikisource.org/wiki/Page:Anonyme_-_La_Mort_Aymeri_de_Narbonne.djvu/56"/>
+          <p> <title> LA MORT
+               AYMERI DE NARBONNE</title></p>
+            <pb n="LII" facs="https://fr.wikisource.org/wiki/Page:Anonyme_-_La_Mort_Aymeri_de_Narbonne.djvu/57"/></div>
+         
       </front>
-      <body>
-         <p/>
+      <body xml:lang="fro">
+         <pb n="LIII" facs="https://fr.wikisource.org/wiki/Page:Anonyme_-_La_Mort_Aymeri_de_Narbonne.djvu/58"/>
+         <head>La mort d'Aimeri</head> 
+         <lg type="laisse">
+            <l>
+               <w></w>
+            </l>
+         </lg>
       </body>
       <back/>
    </text>
