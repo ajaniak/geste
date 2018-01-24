@@ -1216,15 +1216,13 @@
                témoigner toute notre reconnaissance pour les conseils, dont nous avons eu si souvent
                à profiter et les soins incessants qu’il a bien voulu donner à l’impression de ce
                travail.</p>
-         </div>
-         <div type="titre">
-            <pb n="LI" facs="https://fr.wikisource.org/wiki/Page:Anonyme_-_La_Mort_Aymeri_de_Narbonne.djvu/56"/>
-          <p> <title> LA MORT
-               AYMERI DE NARBONNE</title></p>
-            <pb n="LII" facs="https://fr.wikisource.org/wiki/Page:Anonyme_-_La_Mort_Aymeri_de_Narbonne.djvu/57"/></div>
-         
+         </div>            
       </front>
       <body xml:lang="fro">
+         <pb n="LI" facs="https://fr.wikisource.org/wiki/Page:Anonyme_-_La_Mort_Aymeri_de_Narbonne.djvu/56"/>
+         <head> LA MORT
+            AYMERI DE NARBONNE</head>
+         <pb n="LII" facs="https://fr.wikisource.org/wiki/Page:Anonyme_-_La_Mort_Aymeri_de_Narbonne.djvu/57"/>
          <pb n="LIII" facs="https://fr.wikisource.org/wiki/Page:Anonyme_-_La_Mort_Aymeri_de_Narbonne.djvu/58"/>
          <head>La mort d'Aimeri</head> 
          <lg type="laisse">
