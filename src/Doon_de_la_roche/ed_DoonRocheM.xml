@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="Modele.rng" type="application/xml"  schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="Modele.rng" type="application/xml"  schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ed_DoonRocheM" type="ed" xml:lang="fr">
+  <teiHeader>
+     <fileDesc>
+        <titleStmt>
+           <title type="main">Doon de la Roche</title>
+           <title type="sub">Numérisation de l'édition de P.Meyer et G. Huet de 1921</title>
+           <respStmt xml:id="JBC">
+              <resp>sous la direction de</resp>
+              <persName>Jean-Baptiste Camps</persName>
+           </respStmt>
+           <respStmt xml:id="ED">
+              <resp>édition numérique</resp>
+              <persName>Ella Duréault</persName>
+           </respStmt>
+           <respStmt xml:id="AJ">
+              <resp>édition numérique</resp>
+              <persName>Axelle Janiak</persName>
+           </respStmt>
+           <respStmt xml:id="AM">
+              <resp>édition numérique</resp>
+              <persName>Armâne Magnier</persName>
+           </respStmt>
+        </titleStmt>
+        <publicationStmt>
+           <authority>
+              <persName>
+                 <forename>Jean-Baptiste</forename>
+                 <surname>Camps</surname>
+              </persName>
+              <address>
+                 <orgName>École nationale des chartes</orgName>
+                 <addrLine>65 rue de Richelieu</addrLine>
+                 <addrLine>F-75002 Paris</addrLine>
+              </address>
+              <email>jbcamps@hotmail.com</email>
+           </authority>
+           <availability status="free">
+              <licence target="http://creativecommons.org/publicdomain/mark/1.0/"> Les textes d'auteurs médiévaux sont dans le domaine
+                 public.</licence>
+              <licence target="http://creativecommons.org/licenses/by-sa/4.0/"> Le travail d'encodage et d'annotation sont mis à disposition
+                 selon les termes de la licence Creative Commons Attribution - Partage dans les Mêmes Conditions 4.0 International (CC BY-SA 4.0).
+              </licence>
+           </availability>
+           <date>2018</date>
+        </publicationStmt>
+        <sourceDesc>
+           <biblStruct xml:id="edM">
+              <monogr>
+                 <editor xml:id="Meyer">
+                    <persName>
+                       <forename>Paul</forename>
+                       <surname>Meyer</surname>
+                    </persName>
+                 </editor>
+                 <editor xml:id="Huet">
+                    <persName>
+                       <forename>Gédéon</forename>
+                       <surname>Huet</surname>
+                    </persName>
+                 </editor>
+                 <title type="main">Doon de la Roche</title>
+                 <title type="sub">Chanson de geste</title>
+                 <imprint>
+                    <publisher>E. Champion</publisher>
+                    <pubPlace>Paris</pubPlace>
+                    <date>1921</date>
+                 </imprint>
+                 <imprint>
+                    <publisher>Société des anciens textes français (65)</publisher><!-- (65)? -->
+                    <pubPlace>Paris</pubPlace>
+                 </imprint>
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+     </fileDesc>
+     <profileDesc>
+        <creation>
+           <origPlace cert="unknown" resp="DEAF" type="lieuComposition">Lorraine</origPlace>
+           <origDate cert="unknown" resp="#DEAF" notBefore="1200" notAfter="1220" type="dateComposition">1200-1220
+           </origDate>
+           
+           <origPlace cert="unknown" resp="DEAF" type="lieuManuscrit">Lorraine</origPlace>
+           <origDate cert="unknown" resp="DEAF" type="dateManuscrit" notBefore="1480" notAfter="1500">1480-1500</origDate>
+        </creation>
+        <langUsage>
+           
+           <language cert="unknown" resp="#ED" ident="fro" usage="100">Lorraine</language>
+        </langUsage>
+     </profileDesc>
+     <revisionDesc>
+        <change who="#ED" when="2018-01-10">Encodage des métadonnées</change>
+     </revisionDesc>
+  </teiHeader>
+  
+  <text xml:lang="fre">
+     <front></front>
+      <body>
+         <p>Some text here.</p>
+      </body>
+     <back></back>
+  </text>
+</TEI>
