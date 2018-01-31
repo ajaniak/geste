@@ -89,7 +89,7 @@
       </profileDesc>
       <revisionDesc status="draft">
          <!-- Les notes de bas de pages n'ont pas encore réintégrés dans le body -->
-         <!-- Les span avec les corrections de coquille n'ont pas été supprimés dans la div vocabulaire!! -->
+         <!-- Les span avec les corrections de coquille n'ont pas été supprimés dans les différentes div du back!! -->
          <change who="#AJ" when="2018-01-31">Structuration du body en laisse et en vers. Mise en place des lb et des pb. Intégration des pages de titres dans le front.Intégration de l'index de vocabulaire dans le back</change>
          <change who="#AJ" when="2018-01-24">Poursutie de l'intégration du front</change>
          <change who="#AJ" when="2018-01-22">Début de la structuration du texte: intégration du
@@ -1463,7 +1463,7 @@
          </lg>
  
 <lg type="laisse">
-   <pb n="7" facs="Page:Anonyme - La Mort Aymeri de Narbonne.djvu/64"/>
+   <pb n="7" facs="https://fr.wikisource.org/wiki/Page:Anonyme_-_La_Mort_Aymeri_de_Narbonne.djvu/64"/>
 <l><lb/>Gautiers de Termes est el palès entrez,</l><l><lb/>
 Qui fu neveu dant Aymeri lo ber&#160;;</l><l><lb/>
 Bel ot lo cors, eschevi et molé,</l><l><lb/>
@@ -1490,7 +1490,7 @@ Tel duel l’en prist de son ami charnel</l><l><lb/>
 Li cuers li ment, que ne pot endurer,</l><l><lb/>
     Desor lo marbre estoit cheüz pasmez.</l>
 
- <pb n="8" facs="Page:Anonyme - La Mort Aymeri de Narbonne.djvu/65"/>
+ <pb n="8" facs="https://fr.wikisource.org/wiki/Page:Anonyme_-_La_Mort_Aymeri_de_Narbonne.djvu/65"/>
 
 <l><lb/>Quant se redrece si est haut escrïez</l><l><lb/>
 Et se clama chetif maleüré&#160;:</l><l><lb/>
@@ -1519,7 +1519,7 @@ Dame Hermenjarz li prist a demander&#160;:</l><l><lb/>
 Gautiers l’oï, si comence a plorer&#160;;</l><l><lb/>
     Dame Hermenjarz lo prist a regreter&#160;:</l>
 
- </l><pb n="9" facs="Page:Anonyme - La Mort Aymeri de Narbonne.djvu/66"/>
+ </l><pb n="9" facs="https://fr.wikisource.org/wiki/Page:Anonyme_-_La_Mort_Aymeri_de_Narbonne.djvu/66"/>
 
 <l><lb/>«&#160;Aymeri sire, dels est que vos morez&#160;!</l><l><lb/>
 «&#160;Bien deüssiez encor a nos parler</l><l><lb/>
@@ -1549,7 +1549,7 @@ I fist plorer maint fil de palazine</l><l><lb/>
 
  
 <lg type="laisse">
-    </l><pb n="10" facs="Page:Anonyme - La Mort Aymeri de Narbonne.djvu/67"/>
+    </l><pb n="10" facs="https://fr.wikisource.org/wiki/Page:Anonyme_-_La_Mort_Aymeri_de_Narbonne.djvu/67"/>
 <l><lb/>Granz fu li dels en la bone cité</l><l><lb/>
 Tot por lo conte dant Aymeri lo ber.</l><l><lb/>
 Hermenjart tienent, ne la porent tenser</l><l><lb/>
@@ -1574,7 +1574,7 @@ Por lo païs veoir et esgarder.</l><l><lb/>
 Quant vit lo conte de la mort apressé,</l><l><lb/>
     Et Guibelins ert en Espaigne alez</l>
 
- <pb n="11" facs="Page:Anonyme - La Mort Aymeri de Narbonne.djvu/68"/>
+ <pb n="11" facs="https://fr.wikisource.org/wiki/Page:Anonyme_-_La_Mort_Aymeri_de_Narbonne.djvu/68"/>
 
 <l><lb/>Et que li rois est en France mellez,</l><l><lb/>
 Honir le vuelent li baron del regné,</l><l><lb/>
@@ -1603,7 +1603,7 @@ Et Aymeri son seignor regreta&#160;:</l><l><lb/>
 «&#160;Quant vos morez c’est domajes et mal&#160;;</l><l><lb/>
     «&#160;Se nostre Sire lo feïst parigal</l>
 
- <pb n="12" facs="Page:Anonyme - La Mort Aymeri de Narbonne.djvu/69"/>
+ <pb n="12" facs="https://fr.wikisource.org/wiki/Page:Anonyme_-_La_Mort_Aymeri_de_Narbonne.djvu/69"/>
 
 <l><lb/>«&#160;Que li miens cors quant et vos deviast,</l><l><lb/>
 «&#160;Dedenz mon cuer tele joie n’entra.</l><l><lb/>
@@ -1632,7 +1632,7 @@ Et lo viaire et les euz qu’ot troblez&#160;:</l><l><lb/>
 
  
 <lg type="laisse">
-   <pb n="13" facs="Page:Anonyme - La Mort Aymeri de Narbonne.djvu/70"/>
+   <pb n="13" facs="https://fr.wikisource.org/wiki/Page:Anonyme_-_La_Mort_Aymeri_de_Narbonne.djvu/70"/>
 <l><lb/>— Seignor baron,&#160;» dist Aymeris li frans,</l><l><lb/>
 Li riches quens, li hardiz, li vaillanz,</l><l><lb/>
 «&#160;Je ai tel mal onques mès n’oi si grant</l><l><lb/>
@@ -1654,7 +1654,7 @@ Qui plus reluisent que chandoile ardant.</l><l><lb/>
 «&#160;Devant aloit .i.noirs oisels volanz,</l><l><lb/>
     «&#160;Granz come bues estoit en son estant,</l>
 
- <pb n="14" facs="Page:Anonyme - La Mort Aymeri de Narbonne.djvu/71"/>
+ <pb n="14" facs="https://fr.wikisource.org/wiki/Page:Anonyme_-_La_Mort_Aymeri_de_Narbonne.djvu/71"/>
 
 <l><lb/>«&#160;Tot li plus cointe si ravissoit avant,</l><l><lb/>
 «&#160;Et s’asseoit en son la tor plus grant</l><l><lb/>
@@ -1682,7 +1682,7 @@ Qui plus reluisent que chandoile ardant.</l><l><lb/>
 «&#160;En riviere ère alez o un faucon,</l><l><lb/>
     «&#160;S’avoie pris une ane et un mallon,</l>
 
- <pb n="15" facs="Page:Anonyme - La Mort Aymeri de Narbonne.djvu/72"/>
+ <pb n="15" facs="https://fr.wikisource.org/wiki/Page:Anonyme_-_La_Mort_Aymeri_de_Narbonne.djvu/72"/>
 
 <l><lb/>«&#160;Je m’en venoie toz liez et toz joios&#160;:</l><l><lb/>
 «&#160;D’une montaigne sailloient .xiiii.ors</l><l><lb/>
@@ -1712,7 +1712,7 @@ Qui plus reluisent que chandoile ardant.</l><l><lb/>
 «&#160;Sivant l’aloit l’estoire des levriers.</l><l><lb/>
     «&#160;Une merveille lo vi senefier&#160;:</l>
 
- <pb n="16" facs="Page:Anonyme - La Mort Aymeri de Narbonne.djvu/73"/>
+ <pb n="16" facs="https://fr.wikisource.org/wiki/Page:Anonyme_-_La_Mort_Aymeri_de_Narbonne.djvu/73"/>
 
 <l><lb/>«&#160;Très devant moi a la terre cochier,</l><l><lb/>
 «&#160;Si me besoit et les mains et les piez,</l><l><lb/>
@@ -1742,7 +1742,7 @@ Qui plus reluisent que chandoile ardant.</l><l><lb/>
 Sajes hom fu et de grant sens porpris,</l><l><lb/>
     Il ot un livre paré de toz latins</l>
 
- <pb n="17" facs="Page:Anonyme - La Mort Aymeri de Narbonne.djvu/74"/>
+ <pb n="17" facs="https://fr.wikisource.org/wiki/Page:Anonyme_-_La_Mort_Aymeri_de_Narbonne.djvu/74"/>
 
 <l><lb/>Ou li art sont et li sonje descrit&#160;;</l><l><lb/>
 Lo livre prent, s’entra en un jardin</l><l><lb/>
@@ -1770,7 +1770,7 @@ Vint en la chanbre, sor l’esponde s’asist&#160;:</l><l><lb/>
 «&#160;De totes parz en abatoit les pans,</l><l><lb/>
     «&#160;Ce est l’orgoil Corsuble l’amirant</l>
 
- <pb n="18" facs="Page:Anonyme - La Mort Aymeri de Narbonne.djvu/75"/>
+ <pb n="18" facs="https://fr.wikisource.org/wiki/Page:Anonyme_-_La_Mort_Aymeri_de_Narbonne.djvu/75"/>
 
 <l><lb/>«&#160;Qui te ferra de son espié trenchant</l><l><lb/>
 «&#160;Par mi lo cors, ja n’i avras garant.</l><l><lb/>
@@ -1800,7 +1800,7 @@ Vint en la chanbre, sor l’esponde s’asist&#160;:</l><l><lb/>
 </lg><lg type="laisse">
     <l><lb/>«&#160;Aymeri sire, de l’autre avison,</l>
 
- <pb n="19" facs="Page:Anonyme - La Mort Aymeri de Narbonne.djvu/76"/>
+ <pb n="19" facs="https://fr.wikisource.org/wiki/Page:Anonyme_-_La_Mort_Aymeri_de_Narbonne.djvu/76"/>
 
 <l><lb/>«&#160;Quant en riviere fustes o lo faucon,</l><l><lb/>
 «&#160;Pris aviez une ane et un mallon,</l><l><lb/>
@@ -1829,7 +1829,7 @@ Vint en la chanbre, sor l’esponde s’asist&#160;:</l><l><lb/>
 «&#160;Que vos veïstes soz lo pin verdoiant,</l><l><lb/>
     «&#160;Tote estoit noire mès un bras qu’ele ot blanc,</l>
 
-<pb n="20" facs="Page:Anonyme - La Mort Aymeri de Narbonne.djvu/77"/>
+<pb n="20" facs="https://fr.wikisource.org/wiki/Page:Anonyme_-_La_Mort_Aymeri_de_Narbonne.djvu/77"/>
 
 <l><lb/>«&#160;Ce seront duel et poine et ahan</l><l><lb/>
 «&#160;Que li feront Sarrazin mescreant.</l><l><lb/>
@@ -1860,7 +1860,7 @@ Ançois s’asistrent sor lo marbre jonchié</l><l><lb/>
 Tot environ Aymeri lo guerrier.</l><l><lb/>
     Lo riche conte servirent volentiers,</l>
 
- <pb n="21" facs="Page:Anonyme - La Mort Aymeri de Narbonne.djvu/78"/>
+ <pb n="21" facs="https://fr.wikisource.org/wiki/Page:Anonyme_-_La_Mort_Aymeri_de_Narbonne.djvu/78"/>
 
 <l><lb/>Et la contesse ou il n’ot qu’enseignier.</l><l><lb/>
 Mes entr’els .ii.i ot petit mangier</l><l><lb/>
@@ -1889,7 +1889,7 @@ Par mi la porte issi de la cité,</l><l><lb/>
 Broche Bauçant par andox les costez,</l><l><lb/>
     Et il li va coranz et abrivez.</l>
 
-<pb n="22" facs="Page:Anonyme - La Mort Aymeri de Narbonne.djvu/79"/>
+<pb n="22" facs="https://fr.wikisource.org/wiki/Page:Anonyme_-_La_Mort_Aymeri_de_Narbonne.djvu/79"/>
 
 <l><lb/>Tant a au soir et au matin erré</l><l><lb/>
 A granz jornées et a malvès ostés,</l><l><lb/>
@@ -1918,7 +1918,7 @@ Cortoisement l’en prist a apeler&#160;:</l><l><lb/>
 «&#160;Car il se muert, en li a deviné,</l><l><lb/>
     «&#160;Uns siens juïs qui est des arz parez.</l>
 
-<pb n="23" facs="Page:Anonyme - La Mort Aymeri de Narbonne.djvu/80"/>
+<pb n="23" facs="https://fr.wikisource.org/wiki/Page:Anonyme_-_La_Mort_Aymeri_de_Narbonne.djvu/80"/>
 
 <l><lb/>— Molt volentiers,&#160;» dist Looys li ber.</l><l><lb/>
     ﻿«&#160;Je irai a Nerbone.&#160;»</l>
@@ -1946,7 +1946,7 @@ Et a Orenge Guillaume lo hardi&#160;;</l><l><lb/>
 Au port d’Ossau envoia Aufelis</l><l><lb/>
     Por Guibert querre lo menor de ses filz</l>
 
-<pb n="24" facs="Page:Anonyme - La Mort Aymeri de Narbonne.djvu/81"/>
+<pb n="24" facs="https://fr.wikisource.org/wiki/Page:Anonyme_-_La_Mort_Aymeri_de_Narbonne.djvu/81"/>
 
 <l><lb/>Qui ert en ost sor Judas l’arrabi.</l><l><lb/>
 Ne manda pas Aïmer lo chetif</l><l><lb/>
@@ -1973,7 +1973,7 @@ Tant a au soir et au matin erré</l><l><lb/>
 Qu’a un batel passa otre la mer&#160;;</l><l><lb/>
     En Babiloine est li gloz arrivez</l>
 
- <pb n="25" facs="Page:Anonyme - La Mort Aymeri de Narbonne.djvu/82"/>
+ <pb n="25" facs="https://fr.wikisource.org/wiki/Page:Anonyme_-_La_Mort_Aymeri_de_Narbonne.djvu/82"/>
 
 <l><lb/>Por lo mesaje jehir et raconter</l><l><lb/>
     A l’amiré de Perse.</l>
@@ -2001,7 +2001,7 @@ Com se contient li forz quens Aymeris&#160;?</l><l><lb/>
 «&#160;Et Charlemaine, li rois de Saint Denis,</l><l><lb/>
     «&#160;Si li dona Nerbonois a tenir&#160;:</l>
 
- <pb n="26" facs="Page:Anonyme - La Mort Aymeri de Narbonne.djvu/83"/>
+ <pb n="26" facs="https://fr.wikisource.org/wiki/Page:Anonyme_-_La_Mort_Aymeri_de_Narbonne.djvu/83"/>
 
 <l><lb/>«&#160;Ma terre tient et quite lo païs</l><l><lb/>
 «&#160;Mahomet sire, donez m’en esclarcir</l><l><lb/>
@@ -2027,7 +2027,7 @@ Com se contient li forz quens Aymeris&#160;?</l><l><lb/>
 «&#160;Du riche pere qui soef te nori&#160;;</l><l><lb/>
     «&#160;Va, si sesis la terre.&#160;»</l>
 
- <pb n="27" facs="Page:Anonyme - La Mort Aymeri de Narbonne.djvu/84"/>
+ <pb n="27" facs="https://fr.wikisource.org/wiki/Page:Anonyme_-_La_Mort_Aymeri_de_Narbonne.djvu/84"/>
 </lg><lg type="laisse">
 
 <l><lb/>Li rois Corsolz en apela ses homes&#160;:</l><l><lb/>
@@ -2055,7 +2055,7 @@ Grant .iiii.liues, que d’amont que de jus,</l><l><lb/>
 Dex&#160;! tant pan d’or et tant riche aigle i luist.</l><l><lb/>
     Contre soleil gietent clarté et bruit.</l>
 
- <pb n="28" facs="Page:Anonyme - La Mort Aymeri de Narbonne.djvu/85"/>
+ <pb n="28" facs="https://fr.wikisource.org/wiki/Page:Anonyme_-_La_Mort_Aymeri_de_Narbonne.djvu/85"/>
 
 <l><lb/>.X. roi païen se sont de l’ost issu,</l><l><lb/>
 En Babiloine en sont corant venu&#160;;</l><l><lb/>
@@ -2082,7 +2082,7 @@ Dist l’amiral&#160;: «&#160;Venez avant Maudras&#160;:</l><l><lb/>
 «&#160;Dites mes homes que ne demorent pas.&#160;»</l><l><lb/>
     Li gloz en va, onques mot ne parla,</l>
 
- <pb n="29" facs="Page:Anonyme - La Mort Aymeri de Narbonne.djvu/86"/>
+ <pb n="29" facs="https://fr.wikisource.org/wiki/Page:Anonyme_-_La_Mort_Aymeri_de_Narbonne.djvu/86"/>
 
 <l><lb/>Qui plus tost cort que brachez ne chevals.</l><l><lb/>
 Icelui jor .iiii.terres cercha&#160;;</l><l><lb/>
@@ -2111,7 +2111,7 @@ Soz Babiloine se lojent en la plaigne&#160;:</l><l><lb/>
 Et cels de Meque qui Mahomet aportent.</l><l><lb/>
     Li rois Galafres lor amaine un estoire</l>
 
- <pb n="30" facs="Page:Anonyme - La Mort Aymeri de Narbonne.djvu/87"/>
+ <pb n="30" facs="https://fr.wikisource.org/wiki/Page:Anonyme_-_La_Mort_Aymeri_de_Narbonne.djvu/87"/>
 
 <l><lb/>XX. .m.turs de la jent d’Antioche.</l><l><lb/>
 Soz Babiloine encontrent les estoires&#160;;</l><l><lb/>
@@ -2141,7 +2141,7 @@ Et char salée et autre manantie,</l><l><lb/>
 Hauberz et elmes et espées forbies,</l><l><lb/>
     Destriers de garde et bons murs de Sulie.</l>
 
- <pb n="31" facs="Page:Anonyme - La Mort Aymeri de Narbonne.djvu/88"/>
+ <pb n="31" facs="https://fr.wikisource.org/wiki/Page:Anonyme_-_La_Mort_Aymeri_de_Narbonne.djvu/88"/>
 
 <l><lb/>Quant ce fu chose, que li nés sont garnies,</l><l><lb/>
 Tréent lor ancre, si ont drecié lor sigle.</l><l><lb/>
@@ -2169,7 +2169,7 @@ Tréent et lancent et batent et ocient.</l><l><lb/>
 Dame Hermenjarz s’en est molt esmarie,</l><l><lb/>
     Deu reclama lo fil sainte Marie,</l>
 
- <pb n="32" facs="Page:Anonyme - La Mort Aymeri de Narbonne.djvu/89"/>
+ <pb n="32" facs="https://fr.wikisource.org/wiki/Page:Anonyme_-_La_Mort_Aymeri_de_Narbonne.djvu/89"/>
 
 <l><lb/>Li glorios que il li face aïe&#160;:</l><l><lb/>
 «&#160;Aymeri sire, or sui je mal baillie</l><l><lb/>
@@ -2199,7 +2199,7 @@ De son lit ist soef et belement&#160;:</l><l><lb/>
 Enbracié l’a Hues de Montaiment&#160;:
 
  </l>
-    <pb n="33" facs="Page:Anonyme - La Mort Aymeri de Narbonne.djvu/90"/>
+    <pb n="33" facs="https://fr.wikisource.org/wiki/Page:Anonyme_-_La_Mort_Aymeri_de_Narbonne.djvu/90"/>
 
 <l><lb/>«&#160;Seignor baron,&#160;» dist Aymeris li frans,</l><l><lb/>
 «&#160;Ne m’atachiez ne de tant ne de quant.</l><l><lb/>
@@ -2224,7 +2224,7 @@ Bien li aïdent Joceaumes et Guimanz</l><l><lb/>
 Et Hermenjarz au jent cors avenant.</l><l><lb/>
 Quant il se sent es estriers maintenant,
 
- </l><pb n="34" facs="Page:Anonyme - La Mort Aymeri de Narbonne.djvu/91"/>
+ </l><pb n="34" facs="https://fr.wikisource.org/wiki/Page:Anonyme_-_La_Mort_Aymeri_de_Narbonne.djvu/91"/>
 
 <l><lb/>Dont fu plus fiers que Sesnes ne joianz&#160;;</l><l><lb/>
 Com il s’afiche sor les estriers devant,</l><l><lb/>
@@ -2252,7 +2252,7 @@ Mil chevalier le sivent contreval&#160;;</l><l><lb/>
 Quens Aymeris ses cors les chadela.</l><l><lb/>
 Si est venuz as tentes l’amiral,
 
- </l><pb n="35" facs="Page:Anonyme - La Mort Aymeri de Narbonne.djvu/92"/>
+ </l><pb n="35" facs="https://fr.wikisource.org/wiki/Page:Anonyme_-_La_Mort_Aymeri_de_Narbonne.djvu/92"/>
 
 <l><lb/>Trenche les fetes, les cordes et les las,</l><l><lb/>
 Mil pavelions i verse d’un estal</l><l><lb/>
@@ -2281,7 +2281,7 @@ Et Aymeris li broche par vertu&#160;:</l><l><lb/>
 Granz cox se fierent par desus les escuz,</l><l><lb/>
 Desoz les bocles les ont frez et fenduz,
 
- </l><pb n="36" facs="Page:Anonyme - La Mort Aymeri de Narbonne.djvu/93"/>
+ </l><pb n="36" facs="https://fr.wikisource.org/wiki/Page:Anonyme_-_La_Mort_Aymeri_de_Narbonne.djvu/93"/>
 
 <l><lb/>Comunement chaïrent anbedui.</l><l><lb/>
 Quens Aymeris se senti abatu,</l><l><lb/>
@@ -2311,7 +2311,7 @@ Mès ainz li quens des arçons ne se mut.</l><l><lb/>
 Li Sarrazins se departi de lui,</l><l><lb/>
 Quens Aymeris l’a avant porseü,
 
- </l><pb n="37" facs="Page:Anonyme - La Mort Aymeri de Narbonne.djvu/94"/>
+ </l><pb n="37" facs="https://fr.wikisource.org/wiki/Page:Anonyme_-_La_Mort_Aymeri_de_Narbonne.djvu/94"/>
 
 <l><lb/>De Finamonde l’a el elme feru.</l><l><lb/>
 Trenchié li a lo mestre coing desus,</l><l><lb/>
@@ -2342,7 +2342,7 @@ Quant l’amirals a escrié ses druz&#160;:</l><l><lb/>
 
 <l><lb/>Li amiralz ot les estriers recovré,
 
- </l><pb n="38" facs="Page:Anonyme - La Mort Aymeri de Narbonne.djvu/95"/>
+ </l><pb n="38" facs="https://fr.wikisource.org/wiki/Page:Anonyme_-_La_Mort_Aymeri_de_Narbonne.djvu/95"/>
 
 <l><lb/>Quens Aymeris l’ot forment estoné,</l><l><lb/>
 Quassé son elme et el chief l’a navré&#160;;</l><l><lb/>
@@ -2370,7 +2370,7 @@ A sa voiz clere comença a crier&#160;:</l><l><lb/>
 «&#160;Melz vos venist tot premerains aler&#160;:</l><l><lb/>
 «&#160;Ja penrez fin, se a cop m’atendez.&#160;»
 
- </l><pb n="39" facs="Page:Anonyme - La Mort Aymeri de Narbonne.djvu/96"/>
+ </l><pb n="39" facs="https://fr.wikisource.org/wiki/Page:Anonyme_-_La_Mort_Aymeri_de_Narbonne.djvu/96"/>
 
 <l><lb/>Aymeris l’ot, si est vers lui tornez,</l><l><lb/>
 Granz cox se donent sor les escuz dorez,</l><l><lb/>
@@ -2399,7 +2399,7 @@ Et lo cheval a l’espée encontré,</l><l><lb/>
 Deci en terre l’a trenchié et copé&#160;;</l><l><lb/>
 Tot en un mont abat en mi lo pré.
 
- </l><pb n="40" facs="Page:Anonyme - La Mort Aymeri de Narbonne.djvu/97"/>
+ </l><pb n="40" facs="https://fr.wikisource.org/wiki/Page:Anonyme_-_La_Mort_Aymeri_de_Narbonne.djvu/97"/>
 
 <l><lb/>L’enseigne verse et li hui est levez,</l><l><lb/>
 Poignant i vienent .m.Sarrazin armé</l><l><lb/>
@@ -2427,7 +2427,7 @@ Il le regrete que molt dolenz en fu&#160;:</l><l><lb/>
 «&#160;Mahomet sire, po m’avez secoru,</l><l><lb/>
 «&#160;Vos estes or matez et confonduz&#160;!&#160;»
 
- </l><pb n="41" facs="Page:Anonyme - La Mort Aymeri de Narbonne.djvu/98"/>
+ </l><pb n="41" facs="https://fr.wikisource.org/wiki/Page:Anonyme_-_La_Mort_Aymeri_de_Narbonne.djvu/98"/>
 
 <l><lb/>.XIIII. roi li ont Flori rendu,</l><l><lb/>
 Un bon cheval qui d’Alixandre fu&#160;;</l><l><lb/>
@@ -2456,7 +2456,7 @@ Qui gist sor la colonbe.
 Il apela Brugant et Manesier</l><l><lb/>
 Et tant des autres, .xx.roi furent paien&#160;;
 
- </l><pb n="42" facs="Page:Anonyme - La Mort Aymeri de Narbonne.djvu/99"/>
+ </l><pb n="42" facs="https://fr.wikisource.org/wiki/Page:Anonyme_-_La_Mort_Aymeri_de_Narbonne.djvu/99"/>
 
 <l><lb/>Des autres homes a fet lo tré voidier</l><l><lb/>
 Et a .ccc.se fist eschaugaitier</l><l><lb/>
@@ -2487,7 +2487,7 @@ Il apela sa jent et son barnaje&#160;:</l><l><lb/>
 «&#160;Il i vendra, de ce n’ai je pas garde&#160;;</l><l><lb/>
 «&#160;Si la ferons sor la riviere d’Aude&#160;:
 
- </l><pb n="43" facs="Page:Anonyme - La Mort Aymeri de Narbonne.djvu/100"/>
+ </l><pb n="43" facs="https://fr.wikisource.org/wiki/Page:Anonyme_-_La_Mort_Aymeri_de_Narbonne.djvu/100"/>
 
 <l><lb/>«&#160;L’erbe i est vert, la praerie larje,</l><l><lb/>
 «&#160;Li olivier i sont qui font l’onbraje&#160;:</l><l><lb/>
@@ -2520,7 +2520,7 @@ Si li a dit d’Aymeri lo mesaje&#160;:</l><l><lb/>
 «&#160;Et si direz au viellart a la barbe</l><l><lb/>
 «&#160;Que je li mant par nos .ii.la bataille.&#160;»
 
- </l><pb n="44" facs="Page:Anonyme - La Mort Aymeri de Narbonne.djvu/101"/>
+ </l><pb n="44" facs="https://fr.wikisource.org/wiki/Page:Anonyme_-_La_Mort_Aymeri_de_Narbonne.djvu/101"/>
 
 <l><lb/>Cils est montez sor un mulet d’Arabe,</l><l><lb/>
 Corant s’entorne contreval lo rivaje&#160;;</l><l><lb/>
@@ -2550,7 +2550,7 @@ Li Sarrazins a parlé tot premiers&#160;:</l><l><lb/>
 «&#160;Et tel vassal n’i a meillor soz ciel&#160;;</l><l><lb/>
 «&#160;Se il te trove armé sor ton destrier
 
- </l><pb n="45" facs="Page:Anonyme - La Mort Aymeri de Narbonne.djvu/102"/>
+ </l><pb n="45" facs="https://fr.wikisource.org/wiki/Page:Anonyme_-_La_Mort_Aymeri_de_Narbonne.djvu/102"/>
 
 <l><lb/>«&#160;Tel te donra de l’espée d’acier,</l><l><lb/>
 «&#160;Tot par mi l’elme ou l’escarbocle siet</l><l><lb/>
@@ -2579,7 +2579,7 @@ Quant Aymeris par lo braz lo retient&#160;:</l><l><lb/>
 «&#160;Il m’avra ja armé sor mon destrier.&#160;»</l><l><lb/>
 Quant cil l’oï onques ne fu si liez,
 
- </l><pb n="46" facs="Page:Anonyme - La Mort Aymeri de Narbonne.djvu/103"/>
+ </l><pb n="46" facs="https://fr.wikisource.org/wiki/Page:Anonyme_-_La_Mort_Aymeri_de_Narbonne.djvu/103"/>
 
 <l><lb/>Vint au mulet et es arçons s’asiet,</l><l><lb/>
 Par mi la porte s’en vint tost eslessiez.</l><l><lb/>
@@ -2607,7 +2607,7 @@ Pierres et pasmes i gietent grant clarté&#160;;</l><l><lb/>
 Il n’est oisel qui tant par ait biauté,</l><l><lb/>
 Poisson ne beste qui n’i soit figuré&#160;;
 
- </l><pb n="47" facs="Page:Anonyme - La Mort Aymeri de Narbonne.djvu/104"/>
+ </l><pb n="47" facs="https://fr.wikisource.org/wiki/Page:Anonyme_-_La_Mort_Aymeri_de_Narbonne.djvu/104"/>
 
 <l><lb/>.II. aumatiz i ot d’arjent fondez,</l><l><lb/>
 A blanc ivoire, a cristal seelé&#160;;</l><l><lb/>
@@ -2637,7 +2637,7 @@ Qu’ele forment se dote.
 
 <l><lb/>Danz Aymeris s’en ist par mi la porte&#160;;
 
- </l><pb n="48" facs="Page:Anonyme - La Mort Aymeri de Narbonne.djvu/105"/>
+ </l><pb n="48" facs="https://fr.wikisource.org/wiki/Page:Anonyme_-_La_Mort_Aymeri_de_Narbonne.djvu/105"/>
 
 <l><lb/>Clerc et chanoine et ces moine ploroient,</l><l><lb/>
 A oroison a terre se cochoient&#160;;</l><l><lb/>
@@ -2668,7 +2668,7 @@ A voiz escrie a Corsolt l’amirant&#160;:</l><l><lb/>
 «&#160;Roi, car t’adobes. Que vas tu gopillant&#160;?</l><l><lb/>
 «&#160;Se vels bataille, encui l’avras molt grant,
 
- </l><pb n="49" facs="Page:Anonyme - La Mort Aymeri de Narbonne.djvu/106"/>
+ </l><pb n="49" facs="https://fr.wikisource.org/wiki/Page:Anonyme_-_La_Mort_Aymeri_de_Narbonne.djvu/106"/>
 
 <l><lb/>«&#160;Ainz n’eüs tel en trestot ton vivant.</l><l><lb/>
 «&#160;Dame Hermenjarz o lo cors avenant</l><l><lb/>
@@ -2699,7 +2699,7 @@ Dist l’amirals&#160;: «&#160;Tu ne plains mie toi,</l><l><lb/>
 «&#160;Or te defi de Mahom et de moi.&#160;»</l><l><lb/>
 Lors lessent corre les destriers demanois,
 
- </l><pb n="50" facs="Page:Anonyme - La Mort Aymeri de Narbonne.djvu/107"/>
+ </l><pb n="50" facs="https://fr.wikisource.org/wiki/Page:Anonyme_-_La_Mort_Aymeri_de_Narbonne.djvu/107"/>
 
 <l><lb/>Bessent les lances o les confanons froiz,</l><l><lb/>
 Granz cox se donent es escuz vianois,</l><l><lb/>
@@ -2728,7 +2728,7 @@ Que del auberc sont li doble ronpu&#160;;</l><l><lb/>
 Tot de plain l’a par mi lo cors feru,</l><l><lb/>
 De l’autre part s’en est l’espié issuz
 
- </l><pb n="51" facs="Page:Anonyme - La Mort Aymeri de Narbonne.djvu/108"/>
+ </l><pb n="51" facs="https://fr.wikisource.org/wiki/Page:Anonyme_-_La_Mort_Aymeri_de_Narbonne.djvu/108"/>
 
 <l><lb/>A tot le fer et une aune de fust&#160;:</l><l><lb/>
 Li confanons remest dedenz l’escu.</l><l><lb/>
@@ -2758,7 +2758,7 @@ Grant cop li done sor son escu a or,</l><l><lb/>
 Qu’il li peçoie et l’auberc li desclot,</l><l><lb/>
 Et son espié li passe lez lo cors&#160;;
 
- </l><pb n="52" facs="Page:Anonyme - La Mort Aymeri de Narbonne.djvu/109"/>
+ </l><pb n="52" facs="https://fr.wikisource.org/wiki/Page:Anonyme_-_La_Mort_Aymeri_de_Narbonne.djvu/109"/>
 
 <l><lb/>Plaine sa lance l’abat del destrier sor.</l><l><lb/>
 Bien le garissent deable de la mort,</l><l><lb/>
@@ -2788,7 +2788,7 @@ Li navré braient et li mort chient jus,</l><l><lb/>
 Li destrier fuient par mi lo pré herbu&#160;;</l><l><lb/>
 Et seles voides et les poitrax ronpuz.
 
- </l><pb n="53" facs="Page:Anonyme - La Mort Aymeri de Narbonne.djvu/110"/>
+ </l><pb n="53" facs="https://fr.wikisource.org/wiki/Page:Anonyme_-_La_Mort_Aymeri_de_Narbonne.djvu/110"/>
 
 <l><lb/>Verser i firent tresqu’a .iiii.mil Turs</l><l><lb/>
 A la premiere pointe.
@@ -2819,7 +2819,7 @@ Estort son cop, si l’abati el chanp.</l><l><lb/>
 Qui vont ferir Aymeri lo ferrant,</l><l><lb/>
 .V. en l’escu et .iiii.en l’auberc blanc
 
- </l><pb n="54" facs="Page:Anonyme - La Mort Aymeri de Narbonne.djvu/111"/>
+ </l><pb n="54" facs="https://fr.wikisource.org/wiki/Page:Anonyme_-_La_Mort_Aymeri_de_Narbonne.djvu/111"/>
 
 <l><lb/>Et .iii.en l’elme et .iii.sus l’auferrant&#160;;</l><l><lb/>
 Abatu ont dant Aymeri el chanp&#160;;</l><l><lb/>
@@ -2847,7 +2847,7 @@ Dont est montez l’estoire perillos&#160;:</l><l><lb/>
 Qui nos François tornerent al desoz,</l><l><lb/>
 Ce fu domaje et perte&#160;!
 
- </l><pb n="55" facs="Page:Anonyme - La Mort Aymeri de Narbonne.djvu/112"/>
+ </l><pb n="55" facs="https://fr.wikisource.org/wiki/Page:Anonyme_-_La_Mort_Aymeri_de_Narbonne.djvu/112"/>
 </l></lg>
 <lg type="laisse">
 
@@ -2872,7 +2872,7 @@ De .xx. qu’il erent ont les .v.abatuz</l><l><lb/>
 Qui el chemin orent les chiés perduz&#160;:</l><l><lb/>
 Or ne furent que .xv.
 
- </l><pb n="56" facs="Page:Anonyme - La Mort Aymeri de Narbonne.djvu/113"/>
+ </l><pb n="56" facs="https://fr.wikisource.org/wiki/Page:Anonyme_-_La_Mort_Aymeri_de_Narbonne.djvu/113"/>
 </l></lg>
 <lg type="laisse">
 
@@ -2901,7 +2901,7 @@ Si li osterent lo auberc fremillon&#160;;</l><l><lb/>
 Tot remest sengles en l’hermin peliçon.</l><l><lb/>
 Par desoz ot lo vermeil siglaton&#160;;
 
- </l><pb n="57" facs="Page:Anonyme - La Mort Aymeri de Narbonne.djvu/114"/>
+ </l><pb n="57" facs="https://fr.wikisource.org/wiki/Page:Anonyme_-_La_Mort_Aymeri_de_Narbonne.djvu/114"/>
 
 <l><lb/>Gros ot les braz et carrez ot les poinz,</l><l><lb/>
 Fiere la chiere et regart de lion,</l><l><lb/>
@@ -2930,7 +2930,7 @@ Dame nel voit que vers li n’ait amor&#160;:</l><l><lb/>
 «&#160;Et tu meïsmes en est li plus cruos&#160;;</l><l><lb/>
 «&#160;Mahomet te confonde&#160;!&#160;»
 
- </l><pb n="58" facs="Page:Anonyme - La Mort Aymeri de Narbonne.djvu/115"/>
+ </l><pb n="58" facs="https://fr.wikisource.org/wiki/Page:Anonyme_-_La_Mort_Aymeri_de_Narbonne.djvu/115"/>
 </l></lg>
 <lg type="laisse">
 
@@ -2960,7 +2960,7 @@ Par maltalent en est en piez sailliz,</l><l><lb/>
 En sa main tient un baston pomerin</l><l><lb/>
 De la retaille d’un espié poitevin,
 
- </l><pb n="59" facs="Page:Anonyme - La Mort Aymeri de Narbonne.djvu/116"/>
+ </l><pb n="59" facs="https://fr.wikisource.org/wiki/Page:Anonyme_-_La_Mort_Aymeri_de_Narbonne.djvu/116"/>
 
 <l><lb/>Par mi lo chief vost lo conte ferir,</l><l><lb/>
 Quant .iiii.roi li corurent tolir&#160;;</l><l><lb/>
@@ -2992,7 +2992,7 @@ Premiers parla Corsolz li amirés&#160;:</l><l><lb/>
 «&#160;Seignor,&#160;» dist il, «&#160;un petit m’entendez&#160;:</l><l><lb/>
 «&#160;Par Mahomet, quel conseil me donez&#160;?
 
- </l><pb n="60" facs="Page:Anonyme - La Mort Aymeri de Narbonne.djvu/117"/>
+ </l><pb n="60" facs="https://fr.wikisource.org/wiki/Page:Anonyme_-_La_Mort_Aymeri_de_Narbonne.djvu/117"/>
 
 <l><lb/>«&#160;Par Tervagan, mon seignor naturel,</l><l><lb/>
 «&#160;Je ne vosisse por trois de mes citez</l><l><lb/>
@@ -3023,7 +3023,7 @@ De traïson et de grant felonie.</l><l><lb/>
 Par lo conseil que Sarrazin li dient</l><l><lb/>
 Devant Nerbone fet fere une aramie&#160;;
 
- </l><pb n="61" facs="Page:Anonyme - La Mort Aymeri de Narbonne.djvu/118"/>
+ </l><pb n="61" facs="https://fr.wikisource.org/wiki/Page:Anonyme_-_La_Mort_Aymeri_de_Narbonne.djvu/118"/>
 
 <l><lb/>De char salée et de feu l’a esprise&#160;;</l><l><lb/>
 Trestot lo giet d’une pierre petite</l><l><lb/>
@@ -3054,7 +3054,7 @@ Des esglentiers li batent les costez,</l><l><lb/>
 En .xxx.lex en font lo sanc voler.</l><l><lb/>
 Vienent au feu, enz le vuelent jeter.
 
- </l><pb n="62" facs="Page:Anonyme - La Mort Aymeri de Narbonne.djvu/119"/>
+ </l><pb n="62" facs="https://fr.wikisource.org/wiki/Page:Anonyme_-_La_Mort_Aymeri_de_Narbonne.djvu/119"/>
 
 <l><lb/>S’il ot poor ne l’estuet demander&#160;;</l><l><lb/>
 Deu reclama qui en croiz fu penez&#160;:</l><l><lb/>
@@ -3082,7 +3082,7 @@ Et si li prient por sainte charité&#160;:</l><l><lb/>
 «&#160;Que nos rendist lo conte naturel,</l><l><lb/>
 ﻿«&#160;Lo seignor de Narbone.&#160;»
 
- </l><pb n="63" facs="Page:Anonyme - La Mort Aymeri de Narbonne.djvu/120"/>
+ </l><pb n="63" facs="https://fr.wikisource.org/wiki/Page:Anonyme_-_La_Mort_Aymeri_de_Narbonne.djvu/120"/>
 </l></lg>
 <lg type="laisse">
 
@@ -3109,7 +3109,7 @@ Deu reclama par ses saintismes nons&#160;:</l><l><lb/>
 «&#160;Quant tu noias lo pueple Faraon&#160;;</l><l><lb/>
 «&#160;Flueve Jordain feïs issir des fonz,
 
- </l><pb n="64" facs="Page:Anonyme - La Mort Aymeri de Narbonne.djvu/121"/>
+ </l><pb n="64" facs="https://fr.wikisource.org/wiki/Page:Anonyme_-_La_Mort_Aymeri_de_Narbonne.djvu/121"/>
 
 <l><lb/>«&#160;Si t’asseïs en mi sor un perron,</l><l><lb/>
 «&#160;L’eve bruiant si te clost environ,</l><l><lb/>
@@ -3137,7 +3137,7 @@ Dame Hermenjarz l’apela de la tor&#160;:</l><l><lb/>
 «&#160;Sire amiral, entendez ma reson&#160;:</l><l><lb/>
 «&#160;Respitiez moi, se vos plest, cest prison&#160;;
 
- </l><pb n="65" facs="Page:Anonyme - La Mort Aymeri de Narbonne.djvu/122"/>
+ </l><pb n="65" facs="https://fr.wikisource.org/wiki/Page:Anonyme_-_La_Mort_Aymeri_de_Narbonne.djvu/122"/>
 
 <l><lb/>«&#160;N’i doit ardoir, jel requier par amor&#160;;</l><l><lb/>
 «&#160;Escotez ma parole.&#160;»
@@ -3166,7 +3166,7 @@ Et .xxx. rois sarrazins d’otremer.</l><l><lb/>
 Premiers parla Corsolz li amirés&#160;:</l><l><lb/>
 «&#160;Seignor,&#160;» dist il, «&#160;un petit m’entendez.
 
- </l><pb n="66" facs="Page:Anonyme - La Mort Aymeri de Narbonne.djvu/123"/>
+ </l><pb n="66" facs="https://fr.wikisource.org/wiki/Page:Anonyme_-_La_Mort_Aymeri_de_Narbonne.djvu/123"/>
 
 <l><lb/>«&#160;Par Mahomet, quel conseil me donez</l><l><lb/>
 «&#160;De la parole que vos oï avez&#160;?</l><l><lb/>
@@ -3196,7 +3196,7 @@ Dame Hermenjart apela de la tor&#160;:</l><l><lb/>
 «&#160;Par cele foi que je doi cest seignor,</l><l><lb/>
 «&#160;Je n’ardrai pas Aymeri lo baron,
 
- </l><pb n="67" facs="Page:Anonyme - La Mort Aymeri de Narbonne.djvu/124"/>
+ </l><pb n="67" facs="https://fr.wikisource.org/wiki/Page:Anonyme_-_La_Mort_Aymeri_de_Narbonne.djvu/124"/>
 
 <l><lb/>«&#160;Se vos me fetes delivrer ce donjon</l><l><lb/>
 «&#160;Et la cité qui fu mon ancesor,</l><l><lb/>
@@ -3226,7 +3226,7 @@ Et le monterent sor un mul aufarin&#160;;</l><l><lb/>
 Droit a Narbone acueillent lor chemin.</l><l><lb/>
 Totes les portes lor a l’en fet ovrir&#160;;
 
- </l><pb n="68" facs="Page:Anonyme - La Mort Aymeri de Narbonne.djvu/125"/>
+ </l><pb n="68" facs="https://fr.wikisource.org/wiki/Page:Anonyme_-_La_Mort_Aymeri_de_Narbonne.djvu/125"/>
 
 <l><lb/>A joie grant les va l’en recoillir.</l><l><lb/>
 Quant paien sont dedenz la cité mis</l><l><lb/>
@@ -3255,7 +3255,7 @@ Et les mameles copent a lor oissors,</l><l><lb/>
 Et as puceles les ronpent a tortor&#160;;</l><l><lb/>
 Es mostiers vont et biax et glorios&#160;;
 
- </l><pb n="69" facs="Page:Anonyme - La Mort Aymeri de Narbonne.djvu/126"/>
+ </l><pb n="69" facs="https://fr.wikisource.org/wiki/Page:Anonyme_-_La_Mort_Aymeri_de_Narbonne.djvu/126"/>
 
 <l><lb/>En despit Deu les roberent trestoz,</l><l><lb/>
 Et .v.cent moines i ocistrent lo jor&#160;;</l><l><lb/>
@@ -3285,7 +3285,7 @@ Sovent regrete Looys son seignor&#160;:</l><l><lb/>
 «&#160;Ne me verrez ja, sire, a nul jor.</l><l><lb/>
 «&#160;Ha, mi enfant, or me demorez vos&#160;;
 
- </l><pb n="70" facs="Page:Anonyme - La Mort Aymeri de Narbonne.djvu/127"/>
+ </l><pb n="70" facs="https://fr.wikisource.org/wiki/Page:Anonyme_-_La_Mort_Aymeri_de_Narbonne.djvu/127"/>
 
 <l><lb/>«&#160;Biax sire Guiberz, que ne le savez vos,</l><l><lb/>
 «&#160;Que je sui pris et menez a dolor&#160;!</l><l><lb/>
@@ -3314,7 +3314,7 @@ Et si n’i a .i.sol mangier dont vive&#160;:</l><l><lb/>
 De son avoir chanjast une partie,</l><l><lb/>
 .V. muis d’arjent por un mui de farine,
 
- </l><pb n="71" facs="Page:Anonyme - La Mort Aymeri de Narbonne.djvu/128"/>
+ </l><pb n="71" facs="https://fr.wikisource.org/wiki/Page:Anonyme_-_La_Mort_Aymeri_de_Narbonne.djvu/128"/>
 
 <l><lb/>Et .xxx.solz por un sestier de sidre,</l><l><lb/>
 Por un tret d’eve, .c.mars d’or a devise&#160;;</l><l><lb/>
@@ -3343,7 +3343,7 @@ Il en apele Auquaire d’Aumarie&#160;:</l><l><lb/>
 «&#160;Et si direz a Clarissant m’amie,</l><l><lb/>
 «&#160;Qu’el viegne a moi, et si nel lesse mie&#160;;
 
- </l><pb n="72" facs="Page:Anonyme - La Mort Aymeri de Narbonne.djvu/129"/>
+ </l><pb n="72" facs="https://fr.wikisource.org/wiki/Page:Anonyme_-_La_Mort_Aymeri_de_Narbonne.djvu/129"/>
 
 <l><lb/>«&#160;.XIIII. mil amoint de ses meschines.</l><l><lb/>
 «&#160;Je lor dorrai Nerbone tote quite</l><l><lb/>
@@ -3374,7 +3374,7 @@ Et arrivent au port soz Muciterne.</l><l><lb/>
 En Femenie conterent les noveles</l><l><lb/>
 A Clarissant et as autres puceles.
 
- </l><pb n="73" facs="Page:Anonyme - La Mort Aymeri de Narbonne.djvu/130"/>
+ </l><pb n="73" facs="https://fr.wikisource.org/wiki/Page:Anonyme_-_La_Mort_Aymeri_de_Narbonne.djvu/130"/>
 
 <l><lb/>.XIIII. mil s’en conroient de beles</l><l><lb/>
 Des plus cortoises qui furent en la terre.</l><l><lb/>
@@ -3404,7 +3404,7 @@ Dame Hermenjart apelent en riant&#160;:</l><l><lb/>
 Ele s’escrie&#160;: «&#160;Taisiez, mauvese jent,</l><l><lb/>
 «&#160;Qui si m’avez traïe malement.
 
- </l><pb n="74" facs="Page:Anonyme - La Mort Aymeri de Narbonne.djvu/131"/>
+ </l><pb n="74" facs="https://fr.wikisource.org/wiki/Page:Anonyme_-_La_Mort_Aymeri_de_Narbonne.djvu/131"/>
 
 <l><lb/>«&#160;Forz est la tor, n’i enterrez oan&#160;;</l><l><lb/>
 «&#160;Toz li mortiers en fu pestri a sanc&#160;;</l><l><lb/>
@@ -3434,7 +3434,7 @@ Dist l’amirals&#160;: «&#160;Je n’en ferai neent&#160;;</l><l><lb/>
 <l><lb/>Or a li rois toz ses fès aconpliz,</l><l><lb/>
 Ne mès la tor dont il n’est pas sesiz&#160;;
 
- </l><pb n="75" facs="Page:Anonyme - La Mort Aymeri de Narbonne.djvu/132"/>
+ </l><pb n="75" facs="https://fr.wikisource.org/wiki/Page:Anonyme_-_La_Mort_Aymeri_de_Narbonne.djvu/132"/>
 
 <l><lb/>En Femenie en a ses mes tramis</l><l><lb/>
 Por Clarissant au jent cors seignori,</l><l><lb/>
@@ -3464,7 +3464,7 @@ Vint a ses jenz, fierement lor a dit&#160;:</l><l><lb/>
 Et cil ont dit&#160;: «&#160;Tot a vostre plesir.&#160;»</l><l><lb/>
 Isnelement se sont a terre mis&#160;;
 
- </l><pb n="76" facs="Page:Anonyme - La Mort Aymeri de Narbonne.djvu/133"/>
+ </l><pb n="76" facs="https://fr.wikisource.org/wiki/Page:Anonyme_-_La_Mort_Aymeri_de_Narbonne.djvu/133"/>
 
 <l><lb/>La veïssiez tant blans aubers vestir,</l><l><lb/>
 Lacier tanz elmes et ceindre branz forbiz,</l><l><lb/>
@@ -3492,7 +3492,7 @@ L’escu del col li a fret et parti</l><l><lb/>
 Et lo auberc derrot et desarti&#160;;</l><l><lb/>
 Par mi lo cors li met l’espié bruni
 
- </l><pb n="77" facs="Page:Anonyme - La Mort Aymeri de Narbonne.djvu/134"/>
+ </l><pb n="77" facs="https://fr.wikisource.org/wiki/Page:Anonyme_-_La_Mort_Aymeri_de_Narbonne.djvu/134"/>
 
 <l><lb/>Que mort l’abat del destrier arrabi&#160;;</l><l><lb/>
 Tire sa resne si est d’ax departi.</l><l><lb/>
@@ -3520,7 +3520,7 @@ Granz fu la plaigne et larjes li sablons&#160;;</l><l><lb/>
 Li rois Guiberz chevauche Pliemont,</l><l><lb/>
 Un vair destrier qui fu a l’aumaçor
 
- </l><pb n="78" facs="Page:Anonyme - La Mort Aymeri de Narbonne.djvu/135"/>
+ </l><pb n="78" facs="https://fr.wikisource.org/wiki/Page:Anonyme_-_La_Mort_Aymeri_de_Narbonne.djvu/135"/>
 
 <l><lb/>Que il conquist desoz Inde maior.</l><l><lb/>
 Sarrazin voient que il ne la garront</l><l><lb/>
@@ -3547,7 +3547,7 @@ Totes les pierres en devale et confont,</l><l><lb/>
 Tot le copa entreci qu’al pomon&#160;;</l><l><lb/>
 Trois moz li dit par contralioison&#160;:
 
- </l><pb n="79" facs="Page:Anonyme - La Mort Aymeri de Narbonne.djvu/136"/>
+ </l><pb n="79" facs="https://fr.wikisource.org/wiki/Page:Anonyme_-_La_Mort_Aymeri_de_Narbonne.djvu/136"/>
 
 <l><lb/>«&#160;Otre&#160;! paien, fil a putain, gloton,</l><l><lb/>
 «&#160;Dex destruie ta jeste&#160;!&#160;»
@@ -3577,7 +3577,7 @@ Dist Aymeris&#160;: «&#160;Jel te pardoig, biax filz&#160;;</l><l><lb/>
 «&#160;Li rois Corsolz m’a malement bailli,</l><l><lb/>
 «&#160;Arse a ma terre et gasté mon païs
 
- </l><pb n="80" facs="Page:Anonyme - La Mort Aymeri de Narbonne.djvu/137"/>
+ </l><pb n="80" facs="https://fr.wikisource.org/wiki/Page:Anonyme_-_La_Mort_Aymeri_de_Narbonne.djvu/137"/>
 
 <l><lb/>«&#160;Et ma cité et mon donjon a pris,</l><l><lb/>
 «&#160;Et moi navré de son espié forbi</l><l><lb/>
@@ -3601,7 +3601,7 @@ Huimès devons as enfanz revenir,</l><l><lb/>
 Au conte Hernaut, a Buevon, a Garin</l><l><lb/>
 Et a Guillaume d’Orange lo marchis
 
- </l><pb n="81" facs="Page:Anonyme - La Mort Aymeri de Narbonne.djvu/138"/>
+ </l><pb n="81" facs="https://fr.wikisource.org/wiki/Page:Anonyme_-_La_Mort_Aymeri_de_Narbonne.djvu/138"/>
 
 <l><lb/>Et a Bernart de Brubant lo hardi,</l><l><lb/>
 Qui a Nerbone vienent a Aymeri</l><l><lb/>
@@ -3630,7 +3630,7 @@ Bone fleror lor en vint a la chiere&#160;;</l><l><lb/>
 François chevauchent les lances abessiées,</l><l><lb/>
 Cortoisement adobent lor eschieles.
 
- </l><pb n="82" facs="Page:Anonyme - La Mort Aymeri de Narbonne.djvu/139"/>
+ </l><pb n="82" facs="https://fr.wikisource.org/wiki/Page:Anonyme_-_La_Mort_Aymeri_de_Narbonne.djvu/139"/>
 
 <l><lb/>La veïssiez tante pointe eslessiée,</l><l><lb/>
 Tant escu fret, tante tarje perciée&#160;;</l><l><lb/>
@@ -3658,7 +3658,7 @@ Tant bon auberc desmailler et faillir,</l><l><lb/>
 Tant poing, tant pié, tante teste tolir,</l><l><lb/>
 Sanc et cervele contre terre jalir,
 
- </l><pb n="83" facs="Page:Anonyme - La Mort Aymeri de Narbonne.djvu/140"/>
+ </l><pb n="83" facs="https://fr.wikisource.org/wiki/Page:Anonyme_-_La_Mort_Aymeri_de_Narbonne.djvu/140"/>
 
 <l><lb/>L’un mort sor autre trebuchier et chaïr&#160;;</l><l><lb/>
 Tote jor dure la guerre et li estris,</l><l><lb/>
@@ -3688,7 +3688,7 @@ Mahomet jurent et Apollin lor dé</l><l><lb/>
 Ja ne fuiront de bataille chanpel.</l><l><lb/>
 Bessent les lances, si sont alé joster,
 
- </l><pb n="84" facs="Page:Anonyme - La Mort Aymeri de Narbonne.djvu/141"/>
+ </l><pb n="84" facs="https://fr.wikisource.org/wiki/Page:Anonyme_-_La_Mort_Aymeri_de_Narbonne.djvu/141"/>
 
 <l><lb/>Et li François nes ont pas refusez&#160;;</l><l><lb/>
 Fierent et chaplent des espées del lé,</l><l><lb/>
@@ -3716,7 +3716,7 @@ Li doinst anuit en tel leu assener</l><l><lb/>
 Por quoi François resoient hérité</l><l><lb/>
 De la cit de Nerbone&#160;!
 
- </l><pb n="85" facs="Page:Anonyme - La Mort Aymeri de Narbonne.djvu/142"/>
+ </l><pb n="85" facs="https://fr.wikisource.org/wiki/Page:Anonyme_-_La_Mort_Aymeri_de_Narbonne.djvu/142"/>
 </l></lg>
 <lg type="laisse">
 
@@ -3744,7 +3744,7 @@ Tot remest nuz jusqu’as braies oster.</l><l><lb/>
 Les mortex plaies li ovrent del costé,</l><l><lb/>
 Li sans en salt et li dus est pasmez.
 
- </l><pb n="86" facs="Page:Anonyme - La Mort Aymeri de Narbonne.djvu/143"/>
+ </l><pb n="86" facs="https://fr.wikisource.org/wiki/Page:Anonyme_-_La_Mort_Aymeri_de_Narbonne.djvu/143"/>
 
 <l><lb/>La veïssiez si grant duel demener,</l><l><lb/>
 Tordre tant poing et tant chevel tirer&#160;;</l><l><lb/>
@@ -3770,7 +3770,7 @@ Que Juï l’orent batu et flajelé,</l><l><lb/>
 Li trois Marie l’alerent visiter.</l><l><lb/>
 Nicodemus dut la boiste garder&#160;;
 
- </l><pb n="87" facs="Page:Anonyme - La Mort Aymeri de Narbonne.djvu/144"/>
+ </l><pb n="87" facs="https://fr.wikisource.org/wiki/Page:Anonyme_-_La_Mort_Aymeri_de_Narbonne.djvu/144"/>
 
 <l><lb/>En Femenie l’en fist Longis porter&#160;:</l><l><lb/>
 Lo païs aime por ce qu’il en fu nez.</l><l><lb/>
@@ -3798,7 +3798,7 @@ Ni a cheval qui esfreer se voille&#160;;</l><l><lb/>
 Auquaires point, durement s’esviguore,</l><l><lb/>
 Et trespasse la terre.
 
- </l><pb n="88" facs="Page:Anonyme - La Mort Aymeri de Narbonne.djvu/145"/>
+ </l><pb n="88" facs="https://fr.wikisource.org/wiki/Page:Anonyme_-_La_Mort_Aymeri_de_Narbonne.djvu/145"/>
 </l></lg>
 <lg type="laisse">
 
@@ -3825,7 +3825,7 @@ Et cil ont dit qui ne vuelent mentir&#160;:</l><l><lb/>
 «&#160;En Babiloine l’enmenoient chetif.</l><l><lb/>
 — Por Mahomet,&#160;» Auquaires respondi,
 
- </l><pb n="89" facs="Page:Anonyme - La Mort Aymeri de Narbonne.djvu/146"/>
+ </l><pb n="89" facs="https://fr.wikisource.org/wiki/Page:Anonyme_-_La_Mort_Aymeri_de_Narbonne.djvu/146"/>
 
 <l><lb/>«&#160;Tant par foisonnent li fil dant Aymeri&#160;!</l><l><lb/>
 «&#160;Or quidoie estre respassez et gariz,</l><l><lb/>
@@ -3853,7 +3853,7 @@ Et cil respont, ja n’i avra menti&#160;:</l><l><lb/>
 «&#160;La trovai .v.des filz dant Aymeri&#160;;</l><l><lb/>
 «&#160;Ier tote jor a ax me conbati.
 
- </l><pb n="90" facs="Page:Anonyme - La Mort Aymeri de Narbonne.djvu/147"/>
+ </l><pb n="90" facs="https://fr.wikisource.org/wiki/Page:Anonyme_-_La_Mort_Aymeri_de_Narbonne.djvu/147"/>
 
 <l><lb/>«&#160;Mi conpaignon i furent tuit ocis</l><l><lb/>
 «&#160;Fors que mes cors qui en eschapai vis.</l><l><lb/>
@@ -3883,7 +3883,7 @@ Et cil respont, ja n’i avra menti&#160;:</l><l><lb/>
 «&#160;Se ne volez Damedeu aorer.</l><l><lb/>
 — Aymeri sire,&#160;» dit Auquaires li ber,
 
- </l><pb n="91" facs="Page:Anonyme - La Mort Aymeri de Narbonne.djvu/148"/>
+ </l><pb n="91" facs="https://fr.wikisource.org/wiki/Page:Anonyme_-_La_Mort_Aymeri_de_Narbonne.djvu/148"/>
 
 <l><lb/>«&#160;Bien ai Mahom essaié et prové&#160;;</l><l><lb/>
 «&#160;Hui main lo vi par terre craventé</l><l><lb/>
@@ -3910,7 +3910,7 @@ Qui plus amast sainte crestienté,</l><l><lb/>
 Qui lor aida Nerbone a conquester.</l><l><lb/>
 ﻿Or vient chevalerie.
 
- </l><pb n="92" facs="Page:Anonyme - La Mort Aymeri de Narbonne.djvu/149"/>
+ </l><pb n="92" facs="https://fr.wikisource.org/wiki/Page:Anonyme_-_La_Mort_Aymeri_de_Narbonne.djvu/149"/>
 </l></lg>
 <lg type="laisse">
 
@@ -3938,7 +3938,7 @@ Respont Auquaires&#160;: «&#160;Por neant l’avez dit&#160;;</l><l><lb/>
 De bons aubers et des elmes jemez,</l><l><lb/>
 Et des espées et des escuz bendez,
 
- </l><pb n="93" facs="Page:Anonyme - La Mort Aymeri de Narbonne.djvu/150"/>
+ </l><pb n="93" facs="https://fr.wikisource.org/wiki/Page:Anonyme_-_La_Mort_Aymeri_de_Narbonne.djvu/150"/>
 
 <l><lb/>Et des espiez trenchanz et afilez.</l><l><lb/>
 Auquaires a son destrier remué,</l><l><lb/>
@@ -3967,7 +3967,7 @@ Cortoisement l’en prist a apeler&#160;:</l><l><lb/>
 «&#160;Père,&#160;» dist il, «&#160;je vos commant a Dé,</l><l><lb/>
 «&#160;Lo glorios de sainte majesté
 
- </l><pb n="94" facs="Page:Anonyme - La Mort Aymeri de Narbonne.djvu/151"/>
+ </l><pb n="94" facs="https://fr.wikisource.org/wiki/Page:Anonyme_-_La_Mort_Aymeri_de_Narbonne.djvu/151"/>
 
 <l><lb/>«&#160;Qui vint en terre por lo monde sauver,</l><l><lb/>
 «&#160;Que vos defende de mort et d’afoler</l><l><lb/>
@@ -3994,7 +3994,7 @@ Puis chevaucha nostre emperere ber&#160;;</l><l><lb/>
 Jusqu’a Nerbone ne se vost arrester.</l><l><lb/>
 En la montaigne est li rois ostelez,
 
- </l><pb n="95" facs="Page:Anonyme - La Mort Aymeri de Narbonne.djvu/152"/>
+ </l><pb n="95" facs="https://fr.wikisource.org/wiki/Page:Anonyme_-_La_Mort_Aymeri_de_Narbonne.djvu/152"/>
 
 <l><lb/>Sor la vert erbe a fet tendre son tré&#160;;</l><l><lb/>
 A .x. mil homes se fist la nuit garder.</l><l><lb/>
@@ -4021,7 +4021,7 @@ As eschés joe Guillaumes au cort nés,</l><l><lb/>
 Hernauz et Bueves et danz Garins li ber.</l><l><lb/>
 Cil troi se sont encontre lui torné&#160;;
 
- </l><pb n="96" facs="Page:Anonyme - La Mort Aymeri de Narbonne.djvu/153"/>
+ </l><pb n="96" facs="https://fr.wikisource.org/wiki/Page:Anonyme_-_La_Mort_Aymeri_de_Narbonne.djvu/153"/>
 
 <l><lb/>Hernauz ses frere lor a un tret mostré</l><l><lb/>
 Par quoi li autre furent del jeu maté.</l><l><lb/>
@@ -4052,7 +4052,7 @@ Lors le connut Guillaumes au cort nés,</l><l><lb/>
 «&#160;Tant beles armes vi par lo pré jesir,</l><l><lb/>
 «&#160;Tant auberc rot et tant escu croissi,
 
- </l><pb n="97" facs="Page:Anonyme - La Mort Aymeri de Narbonne.djvu/154"/>
+ </l><pb n="97" facs="https://fr.wikisource.org/wiki/Page:Anonyme_-_La_Mort_Aymeri_de_Narbonne.djvu/154"/>
 
 <l><lb/>«&#160;Tant chevalier detrenchié et ocis.</l><l><lb/>
 «&#160;Fu ce bataille&#160;? Guillaume, qui la fist&#160;?</l><l><lb/>
@@ -4084,7 +4084,7 @@ Il i monta par lo senestre estrier.</l><l><lb/>
 Il et Guillaumes ont lo tertre puié,</l><l><lb/>
 Droit a la tente Looys lo guerrier.
 
- </l><pb n="98" facs="Page:Anonyme - La Mort Aymeri de Narbonne.djvu/155"/>
+ </l><pb n="98" facs="https://fr.wikisource.org/wiki/Page:Anonyme_-_La_Mort_Aymeri_de_Narbonne.djvu/155"/>
 
 <l><lb/>Li quens Guillaumes i est entrez premiers&#160;;</l><l><lb/>
 Ou voit lo roi si li chaï au pié,</l><l><lb/>
@@ -4112,7 +4112,7 @@ Ce dist li rois&#160;: «&#160;Or ne vos esmaiez&#160;:</l><l><lb/>
 «&#160;Ou sont vos homes&#160;? ou les avez lessiez&#160;?</l><l><lb/>
 — Par ma foi, sire, soz Monbrin el gravier,
 
- </l><pb n="99" facs="Page:Anonyme - La Mort Aymeri de Narbonne.djvu/156"/>
+ </l><pb n="99" facs="https://fr.wikisource.org/wiki/Page:Anonyme_-_La_Mort_Aymeri_de_Narbonne.djvu/156"/>
 
 <l><lb/>«&#160;Ou tote jor nos conbatismes ier</l><l><lb/>
 «&#160;A .xxx.mil Sarrazins et Paiens&#160;;</l><l><lb/>
@@ -4142,7 +4142,7 @@ Atant ez vos Auquaire et Aymeri,</l><l><lb/>
 Et Ploiemont a .iiii.foiz heni,</l><l><lb/>
 Que toz les trés en a fet retentir&#160;;
 
- </l><pb n="100" facs="Page:Anonyme - La Mort Aymeri de Narbonne.djvu/157"/>
+ </l><pb n="100" facs="https://fr.wikisource.org/wiki/Page:Anonyme_-_La_Mort_Aymeri_de_Narbonne.djvu/157"/>
 
 <l><lb/>François l’oïrent si en sont esbahi,</l><l><lb/>
 .M. en corurent les bons aubers vestir.</l><l><lb/>
@@ -4170,7 +4170,7 @@ Espée ceinte est es tentes entrez</l><l><lb/>
 Que n’i deigna chevalier saluer.</l><l><lb/>
 Li emperere l’a premiers apelé&#160;:
 
- </l><pb n="101" facs="Page:Anonyme - La Mort Aymeri de Narbonne.djvu/158"/>
+ </l><pb n="101" facs="https://fr.wikisource.org/wiki/Page:Anonyme_-_La_Mort_Aymeri_de_Narbonne.djvu/158"/>
 
 <l><lb/>«&#160;Vassal,&#160;» dist il, «&#160;vos n’estes pas senez</l><l><lb/>
 «&#160;Qui devant moi vostre espée portez&#160;;</l><l><lb/>
@@ -4198,7 +4198,7 @@ Par un petit que il ne s’est pasmez&#160;;</l><l><lb/>
 «&#160;Ja m’avoit l’en en Orenge conté</l><l><lb/>
 «&#160;Que Sarrazin vos avoient mené
 
- </l><pb n="102" facs="Page:Anonyme - La Mort Aymeri de Narbonne.djvu/159"/>
+ </l><pb n="102" facs="https://fr.wikisource.org/wiki/Page:Anonyme_-_La_Mort_Aymeri_de_Narbonne.djvu/159"/>
 
 <l><lb/>«&#160;En Babiloine l’amirable cité,</l><l><lb/>
 «&#160;Et en lor chartre trebuchié et jeté.&#160;»</l><l><lb/>
@@ -4226,7 +4226,7 @@ Dist Aymeris&#160;: «&#160;Ja orrez verité&#160;;</l><l><lb/>
 «&#160;Par lui avrai Nerbone ma cité</l><l><lb/>
 «&#160;Dont Sarrazin m’ont a grant tort jeté.&#160;»
 
- </l><pb n="103" facs="Page:Anonyme - La Mort Aymeri de Narbonne.djvu/160"/>
+ </l><pb n="103" facs="https://fr.wikisource.org/wiki/Page:Anonyme_-_La_Mort_Aymeri_de_Narbonne.djvu/160"/>
 
 <l><lb/>Lors le desarment et si l’ont afublé</l><l><lb/>
 D’un chier mantel a listes d’or ovré,</l><l><lb/>
@@ -4255,7 +4255,7 @@ Dist Aymeris&#160;: «&#160;Ja orrez verité&#160;:</l><l><lb/>
 «&#160;Mes fillex est, ne me vodra fausser&#160;:</l><l><lb/>
 «&#160;Par lui avrai Nerbone la cité
 
- </l><pb n="104" facs="Page:Anonyme - La Mort Aymeri de Narbonne.djvu/161"/>
+ </l><pb n="104" facs="https://fr.wikisource.org/wiki/Page:Anonyme_-_La_Mort_Aymeri_de_Narbonne.djvu/161"/>
 
 <l><lb/>«&#160;Dont Sarrazin m’ont a grant tort jeté.</l><l><lb/>
 «&#160;Se je i puis par son conseil entrer,</l><l><lb/>
@@ -4283,7 +4283,7 @@ Des vielles tors ont redreciées .xv.</l><l><lb/>
 A une part des couverz de la vile</l><l><lb/>
 Une trenchiée i ont fete et bastie,
 
- </l><pb n="105" facs="Page:Anonyme - La Mort Aymeri de Narbonne.djvu/162"/>
+ </l><pb n="105" facs="https://fr.wikisource.org/wiki/Page:Anonyme_-_La_Mort_Aymeri_de_Narbonne.djvu/162"/>
 
 <l><lb/>.IIII. eves rades i corent et afilent</l><l><lb/>
 Qui en mer chieent es porz soz Aumarie&#160;:</l><l><lb/>
@@ -4311,7 +4311,7 @@ N’ont giens de blé qu’onques mie n’en vivent,</l><l><lb/>
 N’onques de pain ne virent une mie&#160;;</l><l><lb/>
 Mès la lor terre est essillie et gastie,
 
- </l><pb n="106" facs="Page:Anonyme - La Mort Aymeri de Narbonne.djvu/163"/>
+ </l><pb n="106" facs="https://fr.wikisource.org/wiki/Page:Anonyme_-_La_Mort_Aymeri_de_Narbonne.djvu/163"/>
 
 <l><lb/>Et les forez plenieres et garnies</l><l><lb/>
 D’ors et de cers et d’autre venerie.</l><l><lb/>
@@ -4341,7 +4341,7 @@ François chevauchent qui ne s’atarjent mie,</l><l><lb/>
 Ainz ne finerent deci en Ortobrie.</l><l><lb/>
 Biax sont li bois et granz la praerie.
 
- </l><pb n="107" facs="Page:Anonyme - La Mort Aymeri de Narbonne.djvu/164"/>
+ </l><pb n="107" facs="https://fr.wikisource.org/wiki/Page:Anonyme_-_La_Mort_Aymeri_de_Narbonne.djvu/164"/>
 
 <l><lb/>.IIII. eves rades i corent et afilent&#160;;</l><l><lb/>
 François herberjent, li chevalier nobile,</l><l><lb/>
@@ -4371,7 +4371,7 @@ Trovent la rote des nobiles eschieles</l><l><lb/>
 Et l’erbe fresche contre terre plesiée,</l><l><lb/>
 Et les espices folées et marchiées,
 
- </l><pb n="108" facs="Page:Anonyme - La Mort Aymeri de Narbonne.djvu/165"/>
+ </l><pb n="108" facs="https://fr.wikisource.org/wiki/Page:Anonyme_-_La_Mort_Aymeri_de_Narbonne.djvu/165"/>
 
 <l><lb/>Dont ont tel duel a po que n’enragierent&#160;;</l><l><lb/>
 Tordent lor poinz et lor chevex sachierent,</l><l><lb/>
@@ -4398,7 +4398,7 @@ Et vole tost quant ele est corociée&#160;;</l><l><lb/>
 Feu ardant jete et ja n’ert engigniée.</l><l><lb/>
 Li Sajetaire l’ont lo jor enchauciée&#160;:
 
- </l><pb n="109" facs="Page:Anonyme - La Mort Aymeri de Narbonne.djvu/166"/>
+ </l><pb n="109" facs="https://fr.wikisource.org/wiki/Page:Anonyme_-_La_Mort_Aymeri_de_Narbonne.djvu/166"/>
 
 <l><lb/>Ce est la chose qui onques plus lor grieve&#160;;</l><l><lb/>
 Ele se drece quant ele oï les pierres,</l><l><lb/>
@@ -4426,7 +4426,7 @@ De blans aubers et d’elmes de Pavie,</l><l><lb/>
 Et desus ceignent les espées forbies&#160;;</l><l><lb/>
 As males corent puceles et meschines,
 
- </l><pb n="110" facs="Page:Anonyme - La Mort Aymeri de Narbonne.djvu/167"/>
+ </l><pb n="110" facs="https://fr.wikisource.org/wiki/Page:Anonyme_-_La_Mort_Aymeri_de_Narbonne.djvu/167"/>
 
 <l><lb/>S’en traient dras de diverses baillies&#160;:</l><l><lb/>
 Sor les aubers as François les vestirent&#160;;</l><l><lb/>
@@ -4452,7 +4452,7 @@ Por la vitaille qui lor estoit faillie.</l><l><lb/>
 Lor ames soient sauvées et garies&#160;!</l><l><lb/>
 L’estoire voit, molt est espoorie&#160;;
 
- </l><pb n="111" facs="Page:Anonyme - La Mort Aymeri de Narbonne.djvu/168"/>
+ </l><pb n="111" facs="https://fr.wikisource.org/wiki/Page:Anonyme_-_La_Mort_Aymeri_de_Narbonne.djvu/168"/>
 
 <l><lb/>Deu reclama lo fil sainte Marie,</l><l><lb/>
 Lo glorios qu’il li tramete aïe</l><l><lb/>
@@ -4483,7 +4483,7 @@ Il l’en apelent, fierement li ont dit&#160;:</l><l><lb/>
 «&#160;Bien deüssiez encontr’eles issir.&#160;»</l><l><lb/>
 Dist l’amiral il n’ira mie ainsi&#160;:
 
- </l><pb n="112" facs="Page:Anonyme - La Mort Aymeri de Narbonne.djvu/169"/>
+ </l><pb n="112" facs="https://fr.wikisource.org/wiki/Page:Anonyme_-_La_Mort_Aymeri_de_Narbonne.djvu/169"/>
 
 <l><lb/>«&#160;Devant mon tref descendront ja ici&#160;;</l><l><lb/>
 «&#160;Si i verrez .m.encensiers espris</l><l><lb/>
@@ -4511,7 +4511,7 @@ Devant Nerbone vindrent esperonant&#160;;</l><l><lb/>
 L’en lor ovri les portes maintenant&#160;;</l><l><lb/>
 Cil i entrerent, que n’i vont arrestant.
 
- </l><pb n="113" facs="Page:Anonyme - La Mort Aymeri de Narbonne.djvu/170"/>
+ </l><pb n="113" facs="https://fr.wikisource.org/wiki/Page:Anonyme_-_La_Mort_Aymeri_de_Narbonne.djvu/170"/>
 
 <l><lb/>Auquaires entre trestot premierement&#160;;</l><l><lb/>
 Droit a la tor vienent esperonant,</l><l><lb/>
@@ -4539,7 +4539,7 @@ Estort son cop, mort l’abat a itant&#160;:</l><l><lb/>
 «&#160;Nerbone,&#160;» crie, «&#160;baron, ferez avant.</l><l><lb/>
 «&#160;C’est Aymeris li chevaliers vaillanz,
 
- </l><pb n="114" facs="Page:Anonyme - La Mort Aymeri de Narbonne.djvu/171"/>
+ </l><pb n="114" facs="https://fr.wikisource.org/wiki/Page:Anonyme_-_La_Mort_Aymeri_de_Narbonne.djvu/171"/>
 
 <l><lb/>«&#160;Que vos vossistes jeter el feu ardant.</l><l><lb/>
 «&#160;Vos li rendrez sa perte&#160;!&#160;»
@@ -4567,7 +4567,7 @@ Et il ont dit&#160;: «&#160;Ja n’en serez desdiz.&#160;»</l><l><lb/>
 La veïssiez tant bon auberc vestir,</l><l><lb/>
 Lacier tant elmes, ceindre tant branz forbiz,
 
- </l><pb n="115" facs="Page:Anonyme - La Mort Aymeri de Narbonne.djvu/172"/>
+ </l><pb n="115" facs="https://fr.wikisource.org/wiki/Page:Anonyme_-_La_Mort_Aymeri_de_Narbonne.djvu/172"/>
 
 <l><lb/>Tant chevaliers sor les destriers saillir&#160;;</l><l><lb/>
 Jusqu’a Nerbone ne pristrent onques fin.</l><l><lb/>
@@ -4595,7 +4595,7 @@ Par mi les tentes vet Sarrazins querant</l><l><lb/>
 A .xxx. mil de François conqueranz</l><l><lb/>
 Qui lor decopent les costez et les flans&#160;:
 
- </l><pb n="116" facs="Page:Anonyme - La Mort Aymeri de Narbonne.djvu/173"/>
+ </l><pb n="116" facs="https://fr.wikisource.org/wiki/Page:Anonyme_-_La_Mort_Aymeri_de_Narbonne.djvu/173"/>
 
 <l><lb/>La veïssiez tant paveillon volant</l><l><lb/>
 De Sarrazins, de Turs et de Persanz.</l><l><lb/>
@@ -4621,7 +4621,7 @@ Un cop li jete li gloz en retraiant&#160;;</l><l><lb/>
 Nel toche mie, car Deu ot a garant&#160;:</l><l><lb/>
 Il s’abessa sor son arçon devant&#160;;
 
- </l><pb n="117" facs="Page:Anonyme - La Mort Aymeri de Narbonne.djvu/174"/>
+ </l><pb n="117" facs="https://fr.wikisource.org/wiki/Page:Anonyme_-_La_Mort_Aymeri_de_Narbonne.djvu/174"/>
 
 <l><lb/>Detriés lui fiert Joifroi de Bonivant,</l><l><lb/>
 Un chevalier hardi et conbatant&#160;;</l><l><lb/>
@@ -4649,7 +4649,7 @@ Qui lor seignor alerent regretant&#160;:</l><l><lb/>
 «&#160;Qui li soloit afiner toz ses chans</l><l><lb/>
 «&#160;Et les batailles, ja ne fuissent si grant&#160;!
 
- </l><pb n="118" facs="Page:Anonyme - La Mort Aymeri de Narbonne.djvu/175"/>
+ </l><pb n="118" facs="https://fr.wikisource.org/wiki/Page:Anonyme_-_La_Mort_Aymeri_de_Narbonne.djvu/175"/>
 
 <l><lb/>«&#160;Morz, car nos pren&#160;! que vas tu delaiant&#160;?&#160;»</l><l><lb/>
 Dedenz Nerbone fu Aymeris li frans</l><l><lb/>
@@ -4679,7 +4679,7 @@ Li emperere en est brochant alez</l><l><lb/>
 A .xx. mil homes a armes conreez.</l><l><lb/>
 Nostre emperere fu molt jentils et ber&#160;:
 
- </l><pb n="119" facs="Page:Anonyme - La Mort Aymeri de Narbonne.djvu/176"/>
+ </l><pb n="119" facs="https://fr.wikisource.org/wiki/Page:Anonyme_-_La_Mort_Aymeri_de_Narbonne.djvu/176"/>
 
 <l><lb/>Totes les dames a fetes arrester,</l><l><lb/>
 Que nes lessa del bois au plain aler,</l><l><lb/>
@@ -4707,7 +4707,7 @@ Et des espiez trenchanz et afilez.</l><l><lb/>
 La veïssiez un estor communel,</l><l><lb/>
 Tant pié, tant poig, tante teste coper,
 
- </l><pb n="120" facs="Page:Anonyme - La Mort Aymeri de Narbonne.djvu/177"/>
+ </l><pb n="120" facs="https://fr.wikisource.org/wiki/Page:Anonyme_-_La_Mort_Aymeri_de_Narbonne.djvu/177"/>
 
 <l><lb/>Sanc et cervele encontremont voler,</l><l><lb/>
 L’un mort sor autre trebuchier et verser.</l><l><lb/>
@@ -4736,7 +4736,7 @@ Et qui d’ilueques ne releverent onques&#160;:</l><l><lb/>
 De .xx.mil homes ne remestrent que .x.&#160;;</l><l><lb/>
 L’une moitié i sont des lor ocis.
 
- </l><pb n="121" facs="Page:Anonyme - La Mort Aymeri de Narbonne.djvu/178"/>
+ </l><pb n="121" facs="https://fr.wikisource.org/wiki/Page:Anonyme_-_La_Mort_Aymeri_de_Narbonne.djvu/178"/>
 
 <l><lb/>Fuiant s’en va l’aumaçor Clarabins&#160;;</l><l><lb/>
 Si l’enchauça li bons rois Looys.</l><l><lb/>
@@ -4762,7 +4762,7 @@ Trenchent les cuirs et lo fust de sapin,</l><l><lb/>
 Plient li fer de l’acier poitevin&#160;;</l><l><lb/>
 Otre s’en passent que nus d’ax n’i chaï.
 
- </l><pb n="122" facs="Page:Anonyme - La Mort Aymeri de Narbonne.djvu/179"/>
+ </l><pb n="122" facs="https://fr.wikisource.org/wiki/Page:Anonyme_-_La_Mort_Aymeri_de_Narbonne.djvu/179"/>
 
 <l><lb/>Et li paiens fu merveilles hardiz&#160;:</l><l><lb/>
 Vire la resne del destrier arrabi,</l><l><lb/>
@@ -4787,7 +4787,7 @@ Si li escrie&#160;: «&#160;N’en irez mie ainsi,</l><l><lb/>
 A ces paroles consuï l’arrabi,</l><l><lb/>
 Par desor l’elme le fiert del branc forbi.
 
- </l><pb n="123" facs="Page:Anonyme - La Mort Aymeri de Narbonne.djvu/180"/>
+ </l><pb n="123" facs="https://fr.wikisource.org/wiki/Page:Anonyme_-_La_Mort_Aymeri_de_Narbonne.djvu/180"/>
 
 <l><lb/>La teste trenche au paien Clarabin,</l><l><lb/>
 Monjoie escrie, l’enseigne S. Denis,</l><l><lb/>
@@ -4817,7 +4817,7 @@ A .c.Francois toz d’armes conreez.</l><l><lb/>
 .IIII. liuées et plus les ont menez.</l><l><lb/>
 Et l’emperere en est brochant alez
 
- </l><pb n="124" facs="Page:Anonyme - La Mort Aymeri de Narbonne.djvu/181"/>
+ </l><pb n="124" facs="https://fr.wikisource.org/wiki/Page:Anonyme_-_La_Mort_Aymeri_de_Narbonne.djvu/181"/>
 
 <l><lb/>A tant de jent com il li fu remés.</l><l><lb/>
 Ainz que venist as lojes et as trés,</l><l><lb/>
@@ -4841,7 +4841,7 @@ Se fera il, tot est aterminez&#160;;</l><l><lb/>
 Dedenz un mois ert li quens afinez.</l><l><lb/>
 De lui sera grant perte.
 
- </l><pb n="125" facs="Page:Anonyme - La Mort Aymeri de Narbonne.djvu/182"/>
+ </l><pb n="125" facs="https://fr.wikisource.org/wiki/Page:Anonyme_-_La_Mort_Aymeri_de_Narbonne.djvu/182"/>
 </l></lg>
 <lg type="laisse">
 
@@ -4870,7 +4870,7 @@ Lor ames sont sauvées et garies,</l><l><lb/>
 En Paradis coronées flories.</l><l><lb/>
 Atant ez vos Hermanjart de Pavie&#160;;
 
- </l><pb n="126" facs="Page:Anonyme - La Mort Aymeri de Narbonne.djvu/183"/>
+ </l><pb n="126" facs="https://fr.wikisource.org/wiki/Page:Anonyme_-_La_Mort_Aymeri_de_Narbonne.djvu/183"/>
 
 <l><lb/>Quens Aymeris en sa chanbre l’en guie,</l><l><lb/>
 Et tuit si fil ou durement se fie.</l><l><lb/>
@@ -4900,7 +4900,7 @@ Mès no François sont po de conpaignie&#160;:</l><l><lb/>
 Ne sont que .c.et cil sont .iiii.mile.</l><l><lb/>
 A lor espées en ont la teste prise,
 
- </l><pb n="127" facs="Page:Anonyme - La Mort Aymeri de Narbonne.djvu/184"/>
+ </l><pb n="127" facs="https://fr.wikisource.org/wiki/Page:Anonyme_-_La_Mort_Aymeri_de_Narbonne.djvu/184"/>
 
 <l><lb/>Et les puceles en plorent et sospirent&#160;;</l><l><lb/>
 Tordent lor poinz et lor chevex detirent.</l><l><lb/>
@@ -4935,7 +4935,7 @@ Quant li floz monte, si enple lo fossé,</l><l><lb/>
 Par .ii.chanax lor en i entre asez,</l><l><lb/>
 Dont les convient totes droites ester,
 
- </l><pb n="128" facs="Page:Anonyme - La Mort Aymeri de Narbonne.djvu/185"/>
+ </l><pb n="128" facs="https://fr.wikisource.org/wiki/Page:Anonyme_-_La_Mort_Aymeri_de_Narbonne.djvu/185"/>
 
 <l><lb/>Jusqu’as mameles les i convient floter.</l><l><lb/>
 Quant floz retret, si voide lor ostel&#160;;</l><l><lb/>
@@ -4962,7 +4962,7 @@ Li Sajetaire furent tuit asenblé&#160;;</l><l><lb/>
 En droit midi firent l’eve corner,</l><l><lb/>
 Desor les tables font lo mangier porter&#160;;
 
- </l><pb n="129" facs="Page:Anonyme - La Mort Aymeri de Narbonne.djvu/186"/>
+ </l><pb n="129" facs="https://fr.wikisource.org/wiki/Page:Anonyme_-_La_Mort_Aymeri_de_Narbonne.djvu/186"/>
 
 <l><lb/>Mès il n’i ot ne pain ne vin ne sel,</l><l><lb/>
 Poivre molu ne comin destenpré,</l><l><lb/>
@@ -4990,7 +4990,7 @@ Li emperere se fu fet desarmer,</l><l><lb/>
 A lui ala Guiberz li adurez&#160;;</l><l><lb/>
 Cortoisement l’en prist a apeler&#160;:
 
- </l><pb n="130" facs="Page:Anonyme - La Mort Aymeri de Narbonne.djvu/187"/>
+ </l><pb n="130" facs="https://fr.wikisource.org/wiki/Page:Anonyme_-_La_Mort_Aymeri_de_Narbonne.djvu/187"/>
 
 <l><lb/>«&#160;Droiz emperere, .v.c.merciz de Dé&#160;;</l><l><lb/>
 «&#160;Por nos vos estes traveilliez et penez.&#160;»</l><l><lb/>
@@ -5019,7 +5019,7 @@ Aymeris l’ot, si respont come ber&#160;:</l><l><lb/>
 «&#160;Que hier veïsmes el sauvaje regné&#160;;</l><l><lb/>
 «&#160;Esclabarie ainsi l’oï nomer.
 
- </l><pb n="131" facs="Page:Anonyme - La Mort Aymeri de Narbonne.djvu/188"/>
+ </l><pb n="131" facs="https://fr.wikisource.org/wiki/Page:Anonyme_-_La_Mort_Aymeri_de_Narbonne.djvu/188"/>
 
 <l><lb/>«&#160;El fu mon pere l’amiral Salatré&#160;;</l><l><lb/>
 «&#160;Mès Charlemaine li fist lo chief coper</l><l><lb/>
@@ -5049,7 +5049,7 @@ Aymeris l’ot, si respont comme ber&#160;:</l><l><lb/>
 <l><lb/>Oez, seignor, que Dex vos beneïe,</l><l><lb/>
 Li glorios, li filz sainte Marie&#160;!
 
- </l><pb n="132" facs="Page:Anonyme - La Mort Aymeri de Narbonne.djvu/189"/>
+ </l><pb n="132" facs="https://fr.wikisource.org/wiki/Page:Anonyme_-_La_Mort_Aymeri_de_Narbonne.djvu/189"/>
 
 <l><lb/>Nus hom ne puet chançon de jeste dire</l><l><lb/>
 Que il ne mente la ou li vers define,</l><l><lb/>
@@ -5080,7 +5080,7 @@ Et Normendie et Anjou et le Maine,</l><l><lb/>
 Oncle Rollant qui fu morz en Espaigne</l><l><lb/>
 En la bataille fiere.
 
- </l><pb n="133" facs="Page:Anonyme - La Mort Aymeri de Narbonne.djvu/190"/>
+ </l><pb n="133" facs="https://fr.wikisource.org/wiki/Page:Anonyme_-_La_Mort_Aymeri_de_Narbonne.djvu/190"/>
 </l></lg>
 <lg type="laisse">
 
@@ -5111,7 +5111,7 @@ Lais et biax sons et harpes d’armonie.</l><l><lb/>
 Li Sajetaire furent as desertines,</l><l><lb/>
 Et la pucele ne se volt targier mie,
 
- </l><pb n="134" facs="Page:Anonyme - La Mort Aymeri de Narbonne.djvu/191"/>
+ </l><pb n="134" facs="https://fr.wikisource.org/wiki/Page:Anonyme_-_La_Mort_Aymeri_de_Narbonne.djvu/191"/>
 
 <l><lb/>Sor une mule afeutrée petite,</l><l><lb/>
 Par mi la lande a sa voie acoillie.</l><l><lb/>
@@ -5142,7 +5142,7 @@ Si li a dit&#160;: «&#160;Dex te gart, bele amie.</l><l><lb/>
 «&#160;Par moi te mandent les puceles nobiles</l><l><lb/>
 «&#160;Que l’autre soir sor Paiens conquesistes,
 
- </l><pb n="135" facs="Page:Anonyme - La Mort Aymeri de Narbonne.djvu/192"/>
+ </l><pb n="135" facs="https://fr.wikisource.org/wiki/Page:Anonyme_-_La_Mort_Aymeri_de_Narbonne.djvu/192"/>
 
 <l><lb/>«&#160;Que fet avez estranje vilanie,</l><l><lb/>
 «&#160;Que les avez vendues et traïes</l><l><lb/>
@@ -5169,7 +5169,7 @@ Li rois respont&#160;: «&#160;Ne vos esmaiez mie.</l><l><lb/>
 «&#160;Molt volentiers vos i ferai aïe</l><l><lb/>
 «&#160;A la cité reprendre.&#160;»
 
- </l><pb n="136" facs="Page:Anonyme - La Mort Aymeri de Narbonne.djvu/193"/>
+ </l><pb n="136" facs="https://fr.wikisource.org/wiki/Page:Anonyme_-_La_Mort_Aymeri_de_Narbonne.djvu/193"/>
 </l></lg>
 <lg type="laisse">
 
@@ -5201,7 +5201,7 @@ Il en apele Guillaume lo marchis&#160;:</l><l><lb/>
 «&#160;Est en la chartre, dont ai lo cuer grami.</l><l><lb/>
 «&#160;Por vostre amor ai jo ma loi guerpi&#160;:
 
- </l><pb n="137" facs="Page:Anonyme - La Mort Aymeri de Narbonne.djvu/194"/>
+ </l><pb n="137" facs="https://fr.wikisource.org/wiki/Page:Anonyme_-_La_Mort_Aymeri_de_Narbonne.djvu/194"/>
 
 <l><lb/>«&#160;Et molt m’en héent Paien et Sarrazin.</l><l><lb/>
 — Voir,&#160;» dist Guillaumes, «&#160;nos te serons aidis&#160;:</l><l><lb/>
@@ -5232,7 +5232,7 @@ El’apela lo preu conte Aymeri&#160;:</l><l><lb/>
 «&#160;Ainz ving parler au preu conte Aymeri.</l><l><lb/>
 «&#160;Se me donez seignor a mon plesir,
 
- </l><pb n="138" facs="Page:Anonyme - La Mort Aymeri de Narbonne.djvu/195"/>
+ </l><pb n="138" facs="https://fr.wikisource.org/wiki/Page:Anonyme_-_La_Mort_Aymeri_de_Narbonne.djvu/195"/>
 
 <l><lb/>«&#160;Je li rendrai la cité le matin</l><l><lb/>
 «&#160;Par tel engin com vos porrez oïr&#160;:</l><l><lb/>
@@ -5264,7 +5264,7 @@ Ot la li rois, volentiers s’en est ri&#160;:</l><l><lb/>
 «&#160;N’a que .ii.portes en la cité prisiée</l><l><lb/>
 «&#160;Totes d’airain a cristal entailliées&#160;;
 
- </l><pb n="139" facs="Page:Anonyme - La Mort Aymeri de Narbonne.djvu/196"/>
+ </l><pb n="139" facs="https://fr.wikisource.org/wiki/Page:Anonyme_-_La_Mort_Aymeri_de_Narbonne.djvu/196"/>
 
 <l><lb/>«&#160;El chief devant a une arche fichiée</l><l><lb/>
 «&#160;Et el sommet a une tor dreciée&#160;;</l><l><lb/>
@@ -5295,7 +5295,7 @@ Ot la li rois, volentiers s’en est ri&#160;:</l><l><lb/>
 «&#160;Ja plus par nuit n’ert la vile gardée&#160;;</l><l><lb/>
 «&#160;Ja n’ert par force prise.&#160;»
 
- </l><pb n="140" facs="Page:Anonyme - La Mort Aymeri de Narbonne.djvu/197"/>
+ </l><pb n="140" facs="https://fr.wikisource.org/wiki/Page:Anonyme_-_La_Mort_Aymeri_de_Narbonne.djvu/197"/>
 </l></lg>
 <lg type="laisse">
 
@@ -5323,7 +5323,7 @@ Ele lor a tel parole bastie</l><l><lb/>
 Dont il perdront dedenz .iijors la vie</l><l><lb/>
 ﻿A l’assaut de la porte.
 
- </l><pb n="141" facs="Page:Anonyme - La Mort Aymeri de Narbonne.djvu/198"/>
+ </l><pb n="141" facs="https://fr.wikisource.org/wiki/Page:Anonyme_-_La_Mort_Aymeri_de_Narbonne.djvu/198"/>
 </l></lg>
 <lg type="laisse">
 
@@ -5357,7 +5357,7 @@ Qui l’a vestu il n’a dote de mort,</l><l><lb/>
 Ne ne craint lance, espié ne javelot,</l><l><lb/>
 Qu’en li atraie gote de sanc del cors,
 
- </l><pb n="142" facs="Page:Anonyme - La Mort Aymeri de Narbonne.djvu/199"/>
+ </l><pb n="142" facs="https://fr.wikisource.org/wiki/Page:Anonyme_-_La_Mort_Aymeri_de_Narbonne.djvu/199"/>
 
 <l><lb/>Si a dure la maille.
 
@@ -5385,7 +5385,7 @@ Ainz fu par tot de colors desguisée</l><l><lb/>
 Si fetement com el fu primes née&#160;:</l><l><lb/>
 Ce fu l’eschale d’une ançoine barbée,
 
- </l><pb n="143" facs="Page:Anonyme - La Mort Aymeri de Narbonne.djvu/200"/>
+ </l><pb n="143" facs="https://fr.wikisource.org/wiki/Page:Anonyme_-_La_Mort_Aymeri_de_Narbonne.djvu/200"/>
 
 <l><lb/>Qui plus tost noe par mi la mer salée</l><l><lb/>
 Que fax gruiers ne vole a recelée</l><l><lb/>
@@ -5416,7 +5416,7 @@ En mi la place li traient Pliemont&#160;;</l><l><lb/>
 Il i monta com hom de grant valor,</l><l><lb/>
 Puis s’en issi a qoite d’esperon
 
- </l><pb n="144" facs="Page:Anonyme - La Mort Aymeri de Narbonne.djvu/201"/>
+ </l><pb n="144" facs="https://fr.wikisource.org/wiki/Page:Anonyme_-_La_Mort_Aymeri_de_Narbonne.djvu/201"/>
 
 <l><lb/>Par mi la porte devant S. Simeon&#160;;</l><l><lb/>
 Devant la vile avoit un pin roont</l><l><lb/>
@@ -5449,7 +5449,7 @@ Bondir en fet Nerbone la plus grant,</l><l><lb/>
 La mestre tor et lo dur aymant.</l><l><lb/>
 Li quens Guillaumes porte lo roial brant,
 
- </l><pb n="145" facs="Page:Anonyme - La Mort Aymeri de Narbonne.djvu/202"/>
+ </l><pb n="145" facs="https://fr.wikisource.org/wiki/Page:Anonyme_-_La_Mort_Aymeri_de_Narbonne.djvu/202"/>
 
 <l><lb/>Auquaires tient cel Aymeri lo blanc&#160;;</l><l><lb/>
 Et icil .ii.chevauchierent avant</l><l><lb/>
@@ -5478,7 +5478,7 @@ Et la soe conpaigne.
 Soz la cité iluec se herberjierent&#160;;</l><l><lb/>
 Et li rois fu desus en la costiere,
 
- </l><pb n="146" facs="Page:Anonyme - La Mort Aymeri de Narbonne.djvu/203"/>
+ </l><pb n="146" facs="https://fr.wikisource.org/wiki/Page:Anonyme_-_La_Mort_Aymeri_de_Narbonne.djvu/203"/>
 
 <l><lb/>Desor une eve rade, bruiant et fiere.</l><l><lb/>
 Totes ses jenz furent apareilliées&#160;;</l><l><lb/>
@@ -5509,7 +5509,7 @@ Les nuiz sont cortes, que il estoit estez&#160;;</l><l><lb/>
 Quens Aymeris fu molt jentils et ber,</l><l><lb/>
 Au matinet com il vit ajorner,
 
- </l><pb n="147" facs="Page:Anonyme - La Mort Aymeri de Narbonne.djvu/204"/>
+ </l><pb n="147" facs="https://fr.wikisource.org/wiki/Page:Anonyme_-_La_Mort_Aymeri_de_Narbonne.djvu/204"/>
 
 <l><lb/>Des chevaliers a fet .m.adober</l><l><lb/>
 Que lo cenbel portent a la cité&#160;;</l><l><lb/>
@@ -5537,7 +5537,7 @@ Ne mès que .c.qui leenz sont remés,</l><l><lb/>
 Qui remés sont por la cité garder.</l><l><lb/>
 Tant ont coru li gloton desfaé
 
- </l><pb n="148" facs="Page:Anonyme - La Mort Aymeri de Narbonne.djvu/205"/>
+ </l><pb n="148" facs="https://fr.wikisource.org/wiki/Page:Anonyme_-_La_Mort_Aymeri_de_Narbonne.djvu/205"/>
 
 <l><lb/>De nos François ont les aguaiz passez&#160;;</l><l><lb/>
 Franc les corurent et tot sans escrier.</l><l><lb/>
@@ -5570,7 +5570,7 @@ Ansus se traient tuit rengié de ferir</l><l><lb/>
 <l><lb/>Li Sajetaire se sont tuit arresté,</l><l><lb/>
 El coig del mont et rengié et serré.
 
- </l><pb n="149" facs="Page:Anonyme - La Mort Aymeri de Narbonne.djvu/206"/>
+ </l><pb n="149" facs="https://fr.wikisource.org/wiki/Page:Anonyme_-_La_Mort_Aymeri_de_Narbonne.djvu/206"/>
 
 <l><lb/>Quens Aymeris fist sa jent conreer,</l><l><lb/>
 El premier chief les a fet atorner,</l><l><lb/>
@@ -5600,7 +5600,7 @@ Il se dreça, si la prist au baudré&#160;:</l><l><lb/>
 «&#160;Ma doce amie, dites que vos volez.&#160;»</l><l><lb/>
 Cele respont&#160;: «&#160;Ja orrez verité&#160;:
 
- </l><pb n="150" facs="Page:Anonyme - La Mort Aymeri de Narbonne.djvu/207"/>
+ </l><pb n="150" facs="https://fr.wikisource.org/wiki/Page:Anonyme_-_La_Mort_Aymeri_de_Narbonne.djvu/207"/>
 
 <l><lb/>«&#160;S’ert une feme qui vos vossist amer,</l><l><lb/>
 «&#160;Et vos poïst de la chartre jeter,</l><l><lb/>
@@ -5627,7 +5627,7 @@ Et la pucele les en a apelez&#160;:</l><l><lb/>
 «&#160;De fors la porte a un estor chanpel</l><l><lb/>
 «&#160;Que Looys de France i a levé
 
- </l><pb n="151" facs="Page:Anonyme - La Mort Aymeri de Narbonne.djvu/208"/>
+ </l><pb n="151" facs="https://fr.wikisource.org/wiki/Page:Anonyme_-_La_Mort_Aymeri_de_Narbonne.djvu/208"/>
 
 <l><lb/>«&#160;Et Aymeris li vielz chanuz barbez&#160;;</l><l><lb/>
 «&#160;Li Sajetaire i sont a els mellé,</l><l><lb/>
@@ -5654,7 +5654,7 @@ Et l’or reluire&#160;; si a Deu reclamé&#160;:</l><l><lb/>
 «&#160;Une abaïe i ferai estorer,</l><l><lb/>
 «&#160;Plus de .c.moines i metrai coronez
 
- </l><pb n="152" facs="Page:Anonyme - La Mort Aymeri de Narbonne.djvu/209"/>
+ </l><pb n="152" facs="https://fr.wikisource.org/wiki/Page:Anonyme_-_La_Mort_Aymeri_de_Narbonne.djvu/209"/>
 
 <l><lb/>«&#160;Qui i feront tot lo service Dé</l><l><lb/>
 «&#160;Jusqu’au jor del joïse.&#160;»
@@ -5689,7 +5689,7 @@ Les Sajetaires vont ensemble ferir,</l><l><lb/>
 De totes parz les revont envaïr&#160;;</l><l><lb/>
 Adont conmence l’estor a esbaudir&#160;;
 
- </l><pb n="153" facs="Page:Anonyme - La Mort Aymeri de Narbonne.djvu/210"/>
+ </l><pb n="153" facs="https://fr.wikisource.org/wiki/Page:Anonyme_-_La_Mort_Aymeri_de_Narbonne.djvu/210"/>
 
 <l><lb/>A ceste pointe font .m.païens chaïr.</l><l><lb/>
 François i fierent par merveillos aïr,</l><l><lb/>
@@ -5721,7 +5721,7 @@ Quant veü ont que il n’ont nul garant,</l><l><lb/>
 Les ars entoisent par un fier maltalent&#160;;</l><l><lb/>
 Ez lor François a esperon brochant
 
- </l><pb n="154" facs="Page:Anonyme - La Mort Aymeri de Narbonne.djvu/211"/>
+ </l><pb n="154" facs="https://fr.wikisource.org/wiki/Page:Anonyme_-_La_Mort_Aymeri_de_Narbonne.djvu/211"/>
 
 <l><lb/>Et Aymeris el premier chief devant&#160;;</l><l><lb/>
 Desor lo pont choisi les soduianz,</l><l><lb/>
@@ -5752,7 +5752,7 @@ Une sajete descocha, sel feri</l><l><lb/>
 Soz la mamele, que lo auberc ronpi&#160;;</l><l><lb/>
 Tote la fleche el flanc li enbati
 
- </l><pb n="155" facs="Page:Anonyme - La Mort Aymeri de Narbonne.djvu/212"/>
+ </l><pb n="155" facs="https://fr.wikisource.org/wiki/Page:Anonyme_-_La_Mort_Aymeri_de_Narbonne.djvu/212"/>
 
 <l><lb/>A tot lo fer entoschié de venin&#160;;</l><l><lb/>
 Deci au cuer la dolor en senti&#160;;</l><l><lb/>
@@ -5780,7 +5780,7 @@ Onc puis li quens un sol mot ne tenti</l><l><lb/>
 Fors qu’en la fin cria a Deu merci,</l><l><lb/>
 Et puis, ançois que toz fu definiz,
 
- </l><pb n="156" facs="Page:Anonyme - La Mort Aymeri de Narbonne.djvu/213"/>
+ </l><pb n="156" facs="https://fr.wikisource.org/wiki/Page:Anonyme_-_La_Mort_Aymeri_de_Narbonne.djvu/213"/>
 
 <l><lb/>Manda saluz Hermenjart au cler vis.</l><l><lb/>
 Li cors s’estent et l’ame s’en parti,</l><l><lb/>
@@ -5810,7 +5810,7 @@ Qui encor sont en la selve ramée.</l><l><lb/>
 Tuit se derenjent a grant esperonée</l><l><lb/>
 Vers Sajetaires, chascuns lance levée,
 
- </l><pb n="157" facs="Page:Anonyme - La Mort Aymeri de Narbonne.djvu/214"/>
+ </l><pb n="157" facs="https://fr.wikisource.org/wiki/Page:Anonyme_-_La_Mort_Aymeri_de_Narbonne.djvu/214"/>
 
 <l><lb/>Si que d’ax ont fete grant lapidée.</l><l><lb/>
 Ez vos Garin d’Anseüne la lée,</l><l><lb/>
@@ -5840,7 +5840,7 @@ De totes parz est la maille cheüe.</l><l><lb/>
 Ez vos lo mestre de la jent mescreüe,</l><l><lb/>
 C’est Bugladans qui d’une fleche agüe
 
- </l><pb n="158" facs="Page:Anonyme - La Mort Aymeri de Narbonne.djvu/215"/>
+ </l><pb n="158" facs="https://fr.wikisource.org/wiki/Page:Anonyme_-_La_Mort_Aymeri_de_Narbonne.djvu/215"/>
 
 <l><lb/>Feri lo duc par tel descovenue,</l><l><lb/>
 Tote li a enz el cors enbatue&#160;;</l><l><lb/>
@@ -5873,7 +5873,7 @@ Li Sajetaire que li cors Deu cravent</l><l><lb/>
 A une part sont tret, li soduiant&#160;;</l><l><lb/>
 Darz et sajetes tréent si durement,
 
- </l><pb n="159" facs="Page:Anonyme - La Mort Aymeri de Narbonne.djvu/216"/>
+ </l><pb n="159" facs="https://fr.wikisource.org/wiki/Page:Anonyme_-_La_Mort_Aymeri_de_Narbonne.djvu/216"/>
 
 <l><lb/>N’i a baron ne prince si vaillant,</l><l><lb/>
 S’entr’ax se met, qui ait de mort garant.</l><l><lb/>
@@ -5903,7 +5903,7 @@ Ou il feroit par molt fier hardement.</l><l><lb/>
 Dex&#160;! quel domaje del franc conte vaillant&#160;!</l><l><lb/>
 Li Sajetaire li sont venu devant&#160;;
 
- </l><pb n="160" facs="Page:Anonyme - La Mort Aymeri de Narbonne.djvu/217"/>
+ </l><pb n="160" facs="https://fr.wikisource.org/wiki/Page:Anonyme_-_La_Mort_Aymeri_de_Narbonne.djvu/217"/>
 
 <l><lb/>D’une grant hache esmolue et trenchant</l><l><lb/>
 Li a ocis li uns son auferrant,</l><l><lb/>
@@ -5931,7 +5931,7 @@ L’ame s’en vet par lo Jhesu comant,</l><l><lb/>
 Et li saint anje la pristrent maintenant</l><l><lb/>
 Qui l’enporterent devant Deu en chantant,
 
- </l><pb n="161" facs="Page:Anonyme - La Mort Aymeri de Narbonne.djvu/218"/>
+ </l><pb n="161" facs="https://fr.wikisource.org/wiki/Page:Anonyme_-_La_Mort_Aymeri_de_Narbonne.djvu/218"/>
 
 <l><lb/>﻿En perdurable vie.
 
@@ -5963,7 +5963,7 @@ Qui donc veïst Guillaume lo marchis,</l><l><lb/>
 Guibert son frere, lo jentil roi de pris,</l><l><lb/>
 Hernaut lo rox, Buevon de Conmarchis,
 
- </l><pb n="162" facs="Page:Anonyme - La Mort Aymeri de Narbonne.djvu/219"/>
+ </l><pb n="162" facs="https://fr.wikisource.org/wiki/Page:Anonyme_-_La_Mort_Aymeri_de_Narbonne.djvu/219"/>
 
 <l><lb/>Lo conte Auquaire qui fu preuz et hardiz,</l><l><lb/>
 Cui la cité ot promise Aymeris,</l><l><lb/>
@@ -5993,7 +5993,7 @@ Et si plora des biax euz de son vis&#160;:</l><l><lb/>
 Lors en done un a Joifroi de Paris,</l><l><lb/>
 Et tuit li autre ont chascuns lo suen pris.
 
- </l><pb n="163" facs="Page:Anonyme - La Mort Aymeri de Narbonne.djvu/220"/>
+ </l><pb n="163" facs="https://fr.wikisource.org/wiki/Page:Anonyme_-_La_Mort_Aymeri_de_Narbonne.djvu/220"/>
 
 <l><lb/>Puis sont monté li bon vassal de pris</l><l><lb/>
 Qui tuit estoient armé et fervesti.</l><l><lb/>
@@ -6020,7 +6020,7 @@ Devers la porte les ont si envaïz,</l><l><lb/>
 Voillent ou non, les ont fors del pont mis</l><l><lb/>
 ﻿A la premiere pointe.
 
- </l><pb n="164" facs="Page:Anonyme - La Mort Aymeri de Narbonne.djvu/221"/>
+ </l><pb n="164" facs="https://fr.wikisource.org/wiki/Page:Anonyme_-_La_Mort_Aymeri_de_Narbonne.djvu/221"/>
 </l></lg>
 <lg type="laisse">
 
@@ -6049,7 +6049,7 @@ Furent il pris com oisiax a la glu.</l><l><lb/>
 Tant ont l’enchaut li baron maintenu</l><l><lb/>
 Que tuit sont mort li cuvert mescreü.
 
- </l><pb n="165" facs="Page:Anonyme - La Mort Aymeri de Narbonne.djvu/222"/>
+ </l><pb n="165" facs="https://fr.wikisource.org/wiki/Page:Anonyme_-_La_Mort_Aymeri_de_Narbonne.djvu/222"/>
 
 <l><lb/>François retornent qui ont lo chanp vaincu,</l><l><lb/>
 A la cité sont arriere venu,</l><l><lb/>
@@ -6082,7 +6082,7 @@ S’ont Clarissant levée et bautisie</l><l><lb/>
 Et ses puceles o li par conpaignie,</l><l><lb/>
 Qu’el amena de terre Femenie&#160;;
 
- </l><pb n="166" facs="Page:Anonyme - La Mort Aymeri de Narbonne.djvu/223"/>
+ </l><pb n="166" facs="https://fr.wikisource.org/wiki/Page:Anonyme_-_La_Mort_Aymeri_de_Narbonne.djvu/223"/>
 
 <l><lb/>Totes remestrent en la terre garnie.</l><l><lb/>
 S’ont estoré et fete une abeïe</l><l><lb/>
@@ -6114,7 +6114,7 @@ Mès por lo conte Aymeri lo ferrant</l><l><lb/>
 Font greignor duel li petit et li grant.</l><l><lb/>
 Celui ne vodrent pas lessier si enfant
 
- </l><pb n="167" facs="Page:Anonyme - La Mort Aymeri de Narbonne.djvu/224"/>
+ </l><pb n="167" facs="https://fr.wikisource.org/wiki/Page:Anonyme_-_La_Mort_Aymeri_de_Narbonne.djvu/224"/>
 
 <l><lb/>Ne si ami ne si apartenant,</l><l><lb/>
 Ainz lo conroient et bien et richement</l><l><lb/>
@@ -6146,7 +6146,7 @@ Si l’esposa si com li ot promis.</l><l><lb/>
 Et li baron n’i ont plus terme quis,</l><l><lb/>
 D’Esclabarie partent, s’ont congié pris&#160;;
 
- </l><pb n="168" facs="Page:Anonyme - La Mort Aymeri de Narbonne.djvu/225"/>
+ </l><pb n="168" facs="https://fr.wikisource.org/wiki/Page:Anonyme_-_La_Mort_Aymeri_de_Narbonne.djvu/225"/>
 
 <l><lb/>Mès au partir n’i ot ne jeu ne ris,</l><l><lb/>
 Que morz i lessent de lor meillors amis&#160;;</l><l><lb/>
@@ -6179,7 +6179,7 @@ Qui n’ait poor quant virent l’aversier.</l><l><lb/>
 As armes corent serjent et escuier</l><l><lb/>
 Et duc et conte et baron et princier&#160;;
 
- </l><pb n="169" facs="Page:Anonyme - La Mort Aymeri de Narbonne.djvu/226"/>
+ </l><pb n="169" facs="https://fr.wikisource.org/wiki/Page:Anonyme_-_La_Mort_Aymeri_de_Narbonne.djvu/226"/>
 
 <l><lb/>Lor jent aünent a un cor menuier.</l><l><lb/>
 Li quens Guillaumes qui tant fet a prisier,</l><l><lb/>
@@ -6211,7 +6211,7 @@ Del cri qu’el fet retentist li rochiers&#160;;</l><l><lb/>
 Lors i acorent li baron chevalier</l><l><lb/>
 ﻿Qui li copent la teste.
 
- </l><pb n="170" facs="Page:Anonyme - La Mort Aymeri de Narbonne.djvu/227"/>
+ </l><pb n="170" facs="https://fr.wikisource.org/wiki/Page:Anonyme_-_La_Mort_Aymeri_de_Narbonne.djvu/227"/>
 </l></lg>
 <lg type="laisse">
 
@@ -6242,7 +6242,7 @@ Dit Hermenjarz&#160;: «&#160;Sainte Virje enorée,</l><l><lb/>
 «&#160;Ja de si loig n’en feïssent portée.</l><l><lb/>
 «&#160;Aymeri sire, frans quens, chiere menbrée,
 
- </l><pb n="171" facs="Page:Anonyme - La Mort Aymeri de Narbonne.djvu/228"/>
+ </l><pb n="171" facs="https://fr.wikisource.org/wiki/Page:Anonyme_-_La_Mort_Aymeri_de_Narbonne.djvu/228"/>
 
 <l><lb/>«&#160;Je sui por vos durement esfreée,</l><l><lb/>
 «&#160;Ne soit de vos cele chose averée</l><l><lb/>
@@ -6273,7 +6273,7 @@ Mainte robe ont ronpue et descirée,</l><l><lb/>
 Maint poing detort, mainte cinple tirée&#160;;</l><l><lb/>
 A grant duel entrent en la cité loée,
 
- </l><pb n="172" facs="Page:Anonyme - La Mort Aymeri de Narbonne.djvu/229"/>
+ </l><pb n="172" facs="https://fr.wikisource.org/wiki/Page:Anonyme_-_La_Mort_Aymeri_de_Narbonne.djvu/229"/>
 
 <l><lb/>Ainz ne tornerent en la sale pavée,</l><l><lb/>
 Mès por veillier ont la biere portée</l><l><lb/>
@@ -6304,7 +6304,7 @@ Et li borjois s’escrient a haut ton.</l><l><lb/>
 «&#160;Ne nos garra avoir ne raençon</l><l><lb/>
 «&#160;Que ne perdons les vies.&#160;»
 
- </l><pb n="173" facs="Page:Anonyme - La Mort Aymeri de Narbonne.djvu/230"/>
+ </l><pb n="173" facs="https://fr.wikisource.org/wiki/Page:Anonyme_-_La_Mort_Aymeri_de_Narbonne.djvu/230"/>
 </l></lg>
 <lg type="laisse">
 
@@ -6332,7 +6332,7 @@ El li a dit por un fier maltalent&#160;:</l><l><lb/>
 «&#160;Qui avec vos en alerent joant&#160;;</l><l><lb/>
 «&#160;Rendez les moi ci et sains et vivanz&#160;;
 
- </l><pb n="174" facs="Page:Anonyme - La Mort Aymeri de Narbonne.djvu/231"/>
+ </l><pb n="174" facs="https://fr.wikisource.org/wiki/Page:Anonyme_-_La_Mort_Aymeri_de_Narbonne.djvu/231"/>
 
 <l><lb/>«&#160;Ou ce se non, par Deu lo roiamant,</l><l><lb/>
 «&#160;Que je dirai trestot a mon esciant,</l><l><lb/>
@@ -6363,7 +6363,7 @@ Mès puis que Dex ot lo siecle estoré</l><l><lb/>
 Ausi grant duel ne fu por home né,</l><l><lb/>
 Com le fesoient por Aymeri lo ber&#160;:
 
- </l><pb n="175" facs="Page:Anonyme - La Mort Aymeri de Narbonne.djvu/232"/>
+ </l><pb n="175" facs="https://fr.wikisource.org/wiki/Page:Anonyme_-_La_Mort_Aymeri_de_Narbonne.djvu/232"/>
 
 <l><lb/>Se g’i metoie un des jors de l’esté,</l><l><lb/>
 N’en averoie la moitié aconté.</l><l><lb/>
@@ -6396,7 +6396,7 @@ Por Aymeri que tant avoit amé,</l><l><lb/>
 Dont onques puis n’ot lo duel oblié,</l><l><lb/>
 Qu’ele en fu morte ançois un an passé.
 
- </l><pb n="176" facs="Page:Anonyme - La Mort Aymeri de Narbonne.djvu/233"/>
+ </l><pb n="176" facs="https://fr.wikisource.org/wiki/Page:Anonyme_-_La_Mort_Aymeri_de_Narbonne.djvu/233"/>
 
 <l><lb/>Grant duel en firent tuit cil de la cité,</l><l><lb/>
 A saint Pol ont lo suen cors enterré</l><l><lb/>
@@ -6430,7 +6430,7 @@ Et de Nerbone tint la terre en baillie
  </l>
 
 <l>
-   <pb n="177" facs="Page:Anonyme - La Mort Aymeri de Narbonne.djvu/234"/><lb/>Aymeriez qui ot la seignorie</l><l><lb/>
+   <pb n="177" facs="https://fr.wikisource.org/wiki/Page:Anonyme_-_La_Mort_Aymeri_de_Narbonne.djvu/234"/><lb/>Aymeriez qui ot la seignorie</l><l><lb/>
 Que li dona ses parrains en sa vie</l><l><lb/>
 Quant de ses filz ot fet la departie.</l><l><lb/>
 Onques de princes dont chançons soit oïe</l><l><lb/>
@@ -6471,7 +6471,7 @@ S’il ne fausse l’estoire.</l></lg>
 <p>aconpli 2871, 3219&#160;; aconplie 4172.</p>
 <p>[aconter]&#160;; part. prés. acontant 3901&#160;; part. p. aconté 4112&#160;; raconter.</p>
 <p>acorder 2458&#160;; ind. prés. acordent 2468&#160;; conclure un accord.</p>
-<p>ademis 1351, 2031, 2829, 3776, 3783, 3797&#160;; penché sur le cou <pb n="182" title="Page:Anonyme - La Mort Aymeri de Narbonne.djvu/239"/> du cheval, en parlant d’un cavalier.</p>
+<p>ademis 1351, 2031, 2829, 3776, 3783, 3797&#160;; penché sur le cou <pb n="182" facs="https://fr.wikisource.org/wiki/Page:Anonyme_-_La_Mort_Aymeri_de_Narbonne.djvu/239"/> du cheval, en parlant d’un cavalier.</p>
 <p>adenz 2189&#160;; renversé la face contre terre.</p>
 <p>adeser 2004&#160;; impér. adesez 742 (var.)&#160;; toucher.</p>
 <p>adez 21, 2934&#160;; toujours.</p>
@@ -6506,7 +6506,7 @@ S’il ne fausse l’estoire.</l></lg>
 <p>aïe 445, 720, 1609, 2564, 3153, 3156&#160;; aide, secours.</p>
 <p>aigle 631.</p>
 <p>ail&#160;; — pelé 1073&#160;; terme de comparaison pour un objet de peu de valeur.</p>
-<p>ainz 656, 1117, 1135, 1956, 2738, 2858, 3848&#160;; avant&#160;; 646, 830, 946, 1115, <span class="coquille" title="3218">3217, pour ainc, jamais&#160;; <span class="coquille" title="1143">1142, <span class="coquille" title="3208">3207, <pb n="183" title="Page:Anonyme - La Mort Aymeri de Narbonne.djvu/240"/> 4040&#160;; mais&#160;; a l’ainz que <span class="coquille" title="3987">3989&#160;; aussitôt que.</p>
+<p>ainz 656, 1117, 1135, 1956, 2738, 2858, 3848&#160;; avant&#160;; 646, 830, 946, 1115, <span class="coquille" title="3218">3217, pour ainc, jamais&#160;; <span class="coquille" title="1143">1142, <span class="coquille" title="3208">3207, <pb n="183" facs="https://fr.wikisource.org/wiki/Page:Anonyme_-_La_Mort_Aymeri_de_Narbonne.djvu/240"/> 4040&#160;; mais&#160;; a l’ainz que <span class="coquille" title="3987">3989&#160;; aussitôt que.</p>
 <p>ainzné 11, 539&#160;; aîné.</p>
 <p>aïr 3357, 3553, 3837&#160;; colère.</p>
 <p>aïrieement 3721&#160;; avec colère.</p>
@@ -6547,7 +6547,7 @@ S’il ne fausse l’estoire.</l></lg>
 <p>ançois 1145&#160;; avant&#160;; 1409&#160;; mais.</p>
 <p>ancre 696, 706.</p>
 <p>andox&#160;; voy. anbe.</p>
-<p>ane 337, 428&#160;; cane sauvage. <pb n="184" title="Page:Anonyme - La Mort Aymeri de Narbonne.djvu/241"/></p>
+<p>ane 337, 428&#160;; cane sauvage. <pb n="184" facs="https://fr.wikisource.org/wiki/Page:Anonyme_-_La_Mort_Aymeri_de_Narbonne.djvu/241"/></p>
 <p>anel 1430&#160;; anneau.</p>
 <p>angoissier 3982&#160;; ressentir de l’angoisse&#160;; ind. prés. angoisse 3685&#160;; part. prés. angoissant 3739&#160;; donner de l’angoisse.</p>
 <p>angoissos 1244, 1568&#160;; qui ressent de l’angoisse&#160;; 1441, 1476&#160;; qui donne de l’angoisse.</p>
@@ -6588,7 +6588,7 @@ S’il ne fausse l’estoire.</l></lg>
 <p>arragon 132 (var.)&#160;; épith. de cheval.</p>
 <p>arrester 1491, 2179, 3413, 3469&#160;; prét. sing. s’arrestut 2799&#160;; plur. s’arresterent 3578&#160;; part. prés. arrestant 2607&#160;; part. p. arresté 3456.</p>
 <p>arrestoison 1272 (var.)&#160;; arrêt.</p>
-<p>arriere 3856&#160;; arrier, 3947. <pb n="185" title="Page:Anonyme - La Mort Aymeri de Narbonne.djvu/242"/></p>
+<p>arriere 3856&#160;; arrier, 3947. <pb n="185" facs="https://fr.wikisource.org/wiki/Page:Anonyme_-_La_Mort_Aymeri_de_Narbonne.djvu/242"/></p>
 <p>[arriver]&#160;; ind. prés. arrive 704&#160;; act., faire aborder&#160;; part. p. arrivez 566.</p>
 <p>ars 2437, 3251, 3357, 3580&#160;; arc.</p>
 <p>arz 386, 491&#160;; art 383&#160;; science.</p>
@@ -6630,7 +6630,7 @@ S’il ne fausse l’estoire.</l></lg>
 <p>auvanz 321, 409, 2729, 3372&#160;; échafaudages formant galerie placés sur les remparts.</p>
 <p>auves 97, 1083&#160;; partie de la selle&#160;; voy. Godefroi&#160;: <span style="font-variant: small-caps">alve.</p>
 <p>aval 647, 2184, 2224, 2730.</p>
-<p>avenant 301, 305, 368, 447, 761, 1116, 3892, 4075. <pb n="186" title="Page:Anonyme - La Mort Aymeri de Narbonne.djvu/243"/></p>
+<p>avenant 301, 305, 368, 447, 761, 1116, 3892, 4075. <pb n="186" facs="https://fr.wikisource.org/wiki/Page:Anonyme_-_La_Mort_Aymeri_de_Narbonne.djvu/243"/></p>
 <p>avenir 1134&#160;; part. p. avenu 845.</p>
 <p>aventure 3.</p>
 <p>averée 4013&#160;; [chose] vérifiée.</p>
@@ -6667,7 +6667,7 @@ S’il ne fausse l’estoire.</l></lg>
 <p>[batre]&#160;; ind. prés. batent 1396&#160;; part. prés. batant 3744&#160;; part. p. batu 943, 1264, 1998&#160;; batue 3688.</p>
 <p>baudré 2333, 3482&#160;; ceinture.</p>
 <p>bautisie 3878&#160;; baptisée.</p>
-<p>bel&#160;; molt lor est — 662. <pb n="187" title="Page:Anonyme - La Mort Aymeri de Narbonne.djvu/244"/></p>
+<p>bel&#160;; molt lor est — 662. <pb n="187" facs="https://fr.wikisource.org/wiki/Page:Anonyme_-_La_Mort_Aymeri_de_Narbonne.djvu/244"/></p>
 <p>belement 255, 2224.</p>
 <p>bender 2389&#160;; entourer d’un bandage&#160;; part. bendez 2134, 3503&#160;; garni de bandes de fer, épith. d’écu.</p>
 <p>beneïr 3891&#160;; subj. prés. beneïe 2407, part. beneï 2878, 3053, 3269, 3633&#160;; bénir.</p>
@@ -6712,7 +6712,7 @@ S’il ne fausse l’estoire.</l></lg>
 <p>braies 1975.</p>
 <p>[braire]&#160;; ind. bret 3982&#160;; braient 3687.</p>
 <p>branc 1169, 1239, 1253, 2356, 3585, 3837&#160;; épée.</p>
-<p>[brandir]&#160;; ind. prés. brandissent <pb n="188" title="Page:Anonyme - La Mort Aymeri de Narbonne.djvu/245"/> 2435&#160;; prét. brandi 1154&#160;; 2567&#160;; brandirent 3291.</p>
+<p>[brandir]&#160;; ind. prés. brandissent <pb n="188" facs="https://fr.wikisource.org/wiki/Page:Anonyme_-_La_Mort_Aymeri_de_Narbonne.djvu/245"/> 2435&#160;; prét. brandi 1154&#160;; 2567&#160;; brandirent 3291.</p>
 <p>branche 133.</p>
 <p>braons 2905&#160;; muscles, parties charnues.</p>
 <p>brasmes 1065 (var.)&#160;; sorte de pierre précieuse&#160;; voy. Lapidaires français du moyen âge, publiés par L. Pannier et G. Paris, p. 61&#160;: de praxo, prasme.</p>
@@ -6762,7 +6762,7 @@ S’il ne fausse l’estoire.</l></lg>
 <p>chanax 2955&#160;; voy. canel.</p>
 <p>chanberlanc 89, 1053&#160;; chambellan.</p>
 <p>chanbre 390, 2902&#160;; chanbres 1617, 2083, <span class="coquille" title="2498">2508.</p>
-<p>chancel 3892 (var.)&#160;; sanctuaire. <pb n="189" title="Page:Anonyme - La Mort Aymeri de Narbonne.djvu/246"/></p>
+<p>chancel 3892 (var.)&#160;; sanctuaire. <pb n="189" facs="https://fr.wikisource.org/wiki/Page:Anonyme_-_La_Mort_Aymeri_de_Narbonne.djvu/246"/></p>
 <p>chancelant 746.</p>
 <p>chançon 1, 2941, 3055, 3089, 3391, 3947, 4168.</p>
 <p>chandoile 308.</p>
@@ -6805,7 +6805,7 @@ S’il ne fausse l’estoire.</l></lg>
 <p>[cherir]&#160;; cherissent 2429.</p>
 <p>chevex 216, 270, 1893, 2930&#160;; chevel 1979, 2496, 2998&#160;; cheveu.</p>
 <p>chevir 2864&#160;; se tirer d’affaire.</p>
-<p>chiés 1270, 2284, 2389&#160;; chief 187, 516, 752, 858, 937, 1035, 1039, 1343, 1872, 2080, 2272, 2839, 2846, 3033, <pb n="190" title="Page:Anonyme - La Mort Aymeri de Narbonne.djvu/247"/> 3441, 3459, 3543, 3582&#160;; chef, tête.</p>
+<p>chiés 1270, 2284, 2389&#160;; chief 187, 516, 752, 858, 937, 1035, 1039, 1343, 1872, 2080, 2272, 2839, 2846, 3033, <pb n="190" facs="https://fr.wikisource.org/wiki/Page:Anonyme_-_La_Mort_Aymeri_de_Narbonne.djvu/247"/> 3441, 3459, 3543, 3582&#160;; chef, tête.</p>
 <p>chien 364.</p>
 <p>chiere 666, 1297, 1883, 2054, 2405, 3267, 3638, visage, contenance.</p>
 <p>chiers 1052, chier 461, chiere 460&#160;; chieres 1588, 2388, 2428, 2825&#160;; cher, précieux.</p>
@@ -6838,7 +6838,7 @@ S’il ne fausse l’estoire.</l></lg>
 <p>colée 3305&#160;; colees 3255&#160;; coup violent.</p>
 <p>coler 2332, 2629&#160;; couler.</p>
 <p>colers 713, 2932&#160;; collier.</p>
-<p>colonbe 947, 1641&#160;; colonne. <pb n="191" title="Page:Anonyme - La Mort Aymeri de Narbonne.djvu/248"/></p>
+<p>colonbe 947, 1641&#160;; colonne. <pb n="191" facs="https://fr.wikisource.org/wiki/Page:Anonyme_-_La_Mort_Aymeri_de_Narbonne.djvu/248"/></p>
 <p>colons 328&#160;; colombe.</p>
 <p>color 173, 684, 4004, colors 3320&#160;; couleur.</p>
 <p>colovres 2953, 2991&#160;; couleuvres.</p>
@@ -6877,7 +6877,7 @@ S’il ne fausse l’estoire.</l></lg>
 <p>conroi 1122, 1125&#160;; équipement.</p>
 <p>conseil 69, 245, 1330, 1367, 1377, 1390, 1505, 2400, 2575.</p>
 <p>conseillier 955.</p>
-<p>[consentir]&#160;; ind. consentez 43. <pb n="192" title="Page:Anonyme - La Mort Aymeri de Narbonne.djvu/249"/></p>
+<p>[consentir]&#160;; ind. consentez 43. <pb n="192" facs="https://fr.wikisource.org/wiki/Page:Anonyme_-_La_Mort_Aymeri_de_Narbonne.djvu/249"/></p>
 <p>consirrer, réfl. 1361&#160;; s’empêcher.</p>
 <p>[consevir]&#160;; ind. prés. consuit (consiut&#160;?) 3597, 3667&#160;; consivent 1802&#160;; prét. consuï 2832&#160;; poursuivre.</p>
 <p>[contenir]&#160;; ind. prés. se contient 513, 581, 2213.</p>
@@ -6909,7 +6909,7 @@ S’il ne fausse l’estoire.</l></lg>
 <p>corre 100, 617, 1138, 3338&#160;; part. p. coru 800, 2918, 3435&#160;; part. prés. corant 345, 634, 932, 998, 1214, 2687&#160;; coranz 497,&#160;; ind. prés. cort 380&#160;; corent 102, 113, 1053, 1096, 1286, 1420, 1434, 2420, 2500, <span class="coquille" title="2954">2539, 2472, 2987, 3431, 3955&#160;; imp. coroit 2727&#160;; prét. corut 3979&#160;; corurent 1344, 1591, 2303, 2337&#160;; courir.</p>
 <p>corrocier <span class="coquille" title="3116">3944&#160;; part. coreciez 1037&#160;; corrocié 2259&#160;; corociée 2516&#160;; courroucer.</p>
 <p>corroços 2218&#160;; courroucé.</p>
-<p>corroie 2691. <pb n="193" title="Page:Anonyme - La Mort Aymeri de Narbonne.djvu/250"/></p>
+<p>corroie 2691. <pb n="193" facs="https://fr.wikisource.org/wiki/Page:Anonyme_-_La_Mort_Aymeri_de_Narbonne.djvu/250"/></p>
 <p>cors 24&#160;; cour.</p>
 <p>cors&#160;; venir lo cors 1478&#160;; course.</p>
 <p>cors 3285, 3774&#160;; cor.</p>
@@ -6952,7 +6952,7 @@ S’il ne fausse l’estoire.</l></lg>
 <p>croisant&#160;; en — 3751&#160;; les bras en croix.</p>
 <p>croissir 1903&#160;; croissi 2052, 2228&#160;; briser, neutre.</p>
 <p>[croistre]&#160;; ind. prés. croist 2425, 2427&#160;; prét. cressis 1471.</p>
-<p>croiz 258, 1094, 1417, 1950, 1990, 1997, 2058. <pb n="194" title="Page:Anonyme - La Mort Aymeri de Narbonne.djvu/251"/></p>
+<p>croiz 258, 1094, 1417, 1950, 1990, 1997, 2058. <pb n="194" facs="https://fr.wikisource.org/wiki/Page:Anonyme_-_La_Mort_Aymeri_de_Narbonne.djvu/251"/></p>
 <p>[crollet]&#160;; ind. prés. crole 1104&#160;; part. p. crolé 1075, 2846&#160;; ébranler, s’ébranler.</p>
 <p>cropes 2529&#160;; croupe.</p>
 <p>cros 1580&#160;; croix.</p>
@@ -6998,7 +6998,7 @@ S’il ne fausse l’estoire.</l></lg>
 <p>delivre 3071&#160;; délivrée.</p>
 <p>delivrer 3001, 3051, 3487&#160;; delivré 4128&#160;; delivrez 2992.</p>
 <p>dels voy. duel.</p>
-<p>demander 99, 1416, 3012&#160;; ind. prés. demande 579, 748&#160;; demandez 1, 3016&#160;; demandent 2974&#160;; prét. demanda <span class="coquille" title="2073">2037, <pb n="195" title="Page:Anonyme - La Mort Aymeri de Narbonne.djvu/252"/> 3621&#160;; part. demandé 1052, 3045.</p>
+<p>demander 99, 1416, 3012&#160;; ind. prés. demande 579, 748&#160;; demandez 1, 3016&#160;; demandent 2974&#160;; prét. demanda <span class="coquille" title="2073">2037, <pb n="195" facs="https://fr.wikisource.org/wiki/Page:Anonyme_-_La_Mort_Aymeri_de_Narbonne.djvu/252"/> 3621&#160;; part. demandé 1052, 3045.</p>
 <p>demanois 1138&#160;; aussitôt.</p>
 <p>[demener]&#160;; ind. prés. demoine 3951&#160;; demoinent 3867&#160;; imp. demenoient 365&#160;; part. demené 2008&#160;; demenée 3637, 3992.</p>
 <p>[dementer]&#160;; ind. prés. dementez 1436&#160;; dementée 4016&#160;; lamenter.</p>
@@ -7039,7 +7039,7 @@ S’il ne fausse l’estoire.</l></lg>
 <p>desevré 914, 1914, 2183&#160;; séparé.</p>
 <p>desfaé 3435&#160;; desfaée 3642&#160;; maudit.</p>
 <p>desguisée 3320.</p>
-<p>[desirer]&#160;; ind. prés. desire 3338&#160;; <pb n="196" title="Page:Anonyme - La Mort Aymeri de Narbonne.djvu/253"/></p>
+<p>[desirer]&#160;; ind. prés. desire 3338&#160;; <pb n="196" facs="https://fr.wikisource.org/wiki/Page:Anonyme_-_La_Mort_Aymeri_de_Narbonne.djvu/253"/></p>
 <p>desirent 670, 2449&#160;; part. prés. desirant 2615&#160;; part. désiré 3500.</p>
 <p>[deslier]&#160;; impér. desliez 1537.</p>
 <p>desmailler 1904, part. p. 1202&#160;; briser les mailles.</p>
@@ -7079,7 +7079,7 @@ S’il ne fausse l’estoire.</l></lg>
 <p>diemenche 26&#160;; dimanche.</p>
 <p>digne 3123.</p>
 <p>dionicles 1070, 1076&#160;; sorte de pierre précieuse.</p>
-<p>dire 1405&#160;; ind. prés. dit 65&#160;; dites 652&#160;; dient 873&#160;; prét. dist 17, 73&#160;; fut. dirai 1378&#160;; dira 259&#160;; direz 484&#160;; diront 1274&#160;; impér. di 1322, 2057&#160;; subj. prés. die 3063&#160;; imp. deïst 2575. <pb n="197" title="Page:Anonyme - La Mort Aymeri de Narbonne.djvu/254"/></p>
+<p>dire 1405&#160;; ind. prés. dit 65&#160;; dites 652&#160;; dient 873&#160;; prét. dist 17, 73&#160;; fut. dirai 1378&#160;; dira 259&#160;; direz 484&#160;; diront 1274&#160;; impér. di 1322, 2057&#160;; subj. prés. die 3063&#160;; imp. deïst 2575. <pb n="197" facs="https://fr.wikisource.org/wiki/Page:Anonyme_-_La_Mort_Aymeri_de_Narbonne.djvu/254"/></p>
 <p>disner 3464, part. disné 478.</p>
 <p>doblentin&#160;; haubert — 1547&#160;; doublé.</p>
 <p>doblée 4036&#160;; doublée.</p>
@@ -7113,7 +7113,7 @@ S’il ne fausse l’estoire.</l></lg>
 <p>drue&#160;; erbe — 3662.</p>
 <p>druerie 2936&#160;; amitié, amour.</p>
 <p>druz 850&#160;; dru 934, 1278, 1312&#160;; ami, favori.</p>
-<p>duel, 256, 960, 1477, 1895, 1926, 2495, 3663, 3760, 3899, 3901, 3904&#160;; dels 122, 207, 226, 229, 4152&#160;; deuil. <pb n="198" title="Page:Anonyme - La Mort Aymeri de Narbonne.djvu/255"/></p>
+<p>duel, 256, 960, 1477, 1895, 1926, 2495, 3663, 3760, 3899, 3901, 3904&#160;; dels 122, 207, 226, 229, 4152&#160;; deuil. <pb n="198" facs="https://fr.wikisource.org/wiki/Page:Anonyme_-_La_Mort_Aymeri_de_Narbonne.djvu/255"/></p>
 <p>durement 460, 661, 716, 1896, 2020, 2315, 2779, 2903, 3390, 4012&#160;; fortement, avec vigueur.</p>
 <p>durer 212, 3465&#160;; prét. dura 2234.</p>
 <p>dus 3758&#160;; duc.</p>
@@ -7155,7 +7155,7 @@ S’il ne fausse l’estoire.</l></lg>
 <p>enhermies 2933&#160;; désertes.</p>
 <p>enluminez 49&#160;; éclairé.</p>
 <p>[enmener]&#160;; ind. p. enmainent 712&#160;; imp. enmenoient 329, 1236, 2042.</p>
-<p>enorer 32, 2849&#160;; part. p. enorez 3041&#160;; enoré 4133&#160;; enorée 3641&#160;; honorer. <pb n="199" title="Page:Anonyme - La Mort Aymeri de Narbonne.djvu/256"/></p>
+<p>enorer 32, 2849&#160;; part. p. enorez 3041&#160;; enoré 4133&#160;; enorée 3641&#160;; honorer. <pb n="199" facs="https://fr.wikisource.org/wiki/Page:Anonyme_-_La_Mort_Aymeri_de_Narbonne.djvu/256"/></p>
 <p>[enpaindre]&#160;; ind. prés. s’enpaignent 697&#160;; se lancer.</p>
 <p>enpensé 2325&#160;; médité.</p>
 <p>[enplir]&#160;; ind. p. enple 2954&#160;; part. p. enplie 3248&#160;; emplir.</p>
@@ -7191,7 +7191,7 @@ S’il ne fausse l’estoire.</l></lg>
 <p>envoier 2265&#160;; ind. prés. envoie 619&#160;; prét. envoia 544&#160;; fut. envoieront 1600&#160;; part. p. envoié 1009, 1027.</p>
 <p>enz 375, 419, 438, 507, 1468, 3980&#160;; dans, à l’intérieur.</p>
 <p>erbe 625, 975, 1881, 1960, 2493, 3662, 3683&#160;; erbes 2428.</p>
-<p>[erragier], prét. erragierent 1895&#160;; part. p. erragiez 358&#160;; enrager. <pb n="200" title="Page:Anonyme - La Mort Aymeri de Narbonne.djvu/257"/></p>
+<p>[erragier], prét. erragierent 1895&#160;; part. p. erragiez 358&#160;; enrager. <pb n="200" facs="https://fr.wikisource.org/wiki/Page:Anonyme_-_La_Mort_Aymeri_de_Narbonne.djvu/257"/></p>
 <p>errer 1378&#160;; part. p. <span class="coquille" title="498, 564, 572&#160;; erré 1955">erré, 498, 564, 572, 1955&#160;; faire route, marcher.</p>
 <p>[esbahir]&#160;; réfl.&#160;; prét. s’esbahirent 2921&#160;; part. p. esbahi 2302, 3452.</p>
 <p>esbaudir 3444&#160;; ind. prés. esbaudissent 2479&#160;; part. p. esbaudiz 3773, 3556, esbaudi 1728, 1902&#160;; s’animer, se réjouir.</p>
@@ -7232,7 +7232,7 @@ S’il ne fausse l’estoire.</l></lg>
 <p>[esmaier] réfl.&#160;; 463, 3968, 3976&#160;; prét. esmaierent 705, 2525, 3546&#160;; impér. esmaiez 2271, 2884, 3154&#160;; part. p. esmaiées 1891&#160;; s’effrayer.</p>
 <p>esmarie 718&#160;; désolée.</p>
 <p>esmeré 1070&#160;; purifié.</p>
-<p>[esmerveillier] réfl.&#160;; ind. prés. esmerveil 505&#160;; s’étonner. <pb n="201" title="Page:Anonyme - La Mort Aymeri de Narbonne.djvu/258"/></p>
+<p>[esmerveillier] réfl.&#160;; ind. prés. esmerveil 505&#160;; s’étonner. <pb n="201" facs="https://fr.wikisource.org/wiki/Page:Anonyme_-_La_Mort_Aymeri_de_Narbonne.djvu/258"/></p>
 <p>esmoluz 1268, 3730&#160;; aiguisé.</p>
 <p>espaules 159, 2332.</p>
 <p>espée 88, 377, 515.</p>
@@ -7273,7 +7273,7 @@ S’il ne fausse l’estoire.</l></lg>
 <p>estoire 4172, 4176&#160;; histoire.</p>
 <p>estoné 857.</p>
 <p>estor 793, 1200, 1209, <span class="coquille" title="1156">1256, 1898, 1933, 1956, 2055, 2670, 3453&#160;; combat, assaut.</p>
-<p>[estordre]&#160;; ind. prés. estort 820, 1227, 2630, 3840&#160;; fut. estordra 1633&#160;; échapper. <pb n="202" title="Page:Anonyme - La Mort Aymeri de Narbonne.djvu/259"/></p>
+<p>[estordre]&#160;; ind. prés. estort 820, 1227, 2630, 3840&#160;; fut. estordra 1633&#160;; échapper. <pb n="202" facs="https://fr.wikisource.org/wiki/Page:Anonyme_-_La_Mort_Aymeri_de_Narbonne.djvu/259"/></p>
 <p>estorer 3531&#160;; part. p. estoré 3882, 4108&#160;; élever, construire.</p>
 <p>estranjes 2244, 3134, 3803&#160;; estranje 4131&#160;; subst., étranger.</p>
 <p>estre 2276&#160;; excepté.</p>
@@ -7305,7 +7305,7 @@ S’il ne fausse l’estoire.</l></lg>
 <p>feme 284, 1421, <span class="coquille" title="2935">2936, 3013, 3474, 3485.</p>
 <p>[fendre]&#160;; fut. fendra 1023&#160;; part. p. fenduz 805&#160;; fendu 828, 1156.</p>
 <p>fenestres 3996.</p>
-<p>[fenir]&#160;; prét. fenirent 379&#160;; part. p. feniz 614&#160;; fenie 4174&#160;; fenies 2559, 2897. <pb n="203" title="Page:Anonyme - La Mort Aymeri de Narbonne.djvu/260"/></p>
+<p>[fenir]&#160;; prét. fenirent 379&#160;; part. p. feniz 614&#160;; fenie 4174&#160;; fenies 2559, 2897. <pb n="203" facs="https://fr.wikisource.org/wiki/Page:Anonyme_-_La_Mort_Aymeri_de_Narbonne.djvu/260"/></p>
 <p>fere 21, 985, 1380&#160;; ind. prés. fes 810, 940&#160;; fet 29, 50&#160;; fetes 43, 51, 942&#160;; font 1414, 1963&#160;; imp. fesoit&#160;; prét. fis 354, 2082&#160;; fist 47, 349, 952, 2230&#160;; feïsmes 2231&#160;; feïstes 1418, 1444, 3473&#160;; firent 1960, 2509&#160;; fut. ferai 46, 155, 594&#160;; feras 430&#160;; ferons 974, 983&#160;; feront 451, 1290&#160;; impér. fai 413&#160;; subj. prés. faz 2328&#160;; face 720, 968&#160;; subj. imp. feïst 274&#160;; feïsse 1371, 3479&#160;; feïssent 257&#160;; part. p. fez 326&#160;; fet 399&#160;; si fet 2666, 3260.</p>
 <p>fereïz 3786&#160;; mellée, lutte corps à corps.</p>
 <p>ferir 860, 874, 1035&#160;; ind. prés. fiert 827, 839&#160;; se fiert 3585&#160;; fierent 729, 804&#160;; imp. feroit 323, 3727&#160;; prét. feri 419, 2628&#160;; ferirent 2781&#160;; fut. ferrai 1332&#160;; ferra 405&#160;; ferront 438, 1315&#160;; impér. ferez 852, 2631&#160;; subj. imp. ferisse 2194&#160;; part. p. feruz 837, 945, 2287, 3405&#160;; feru 792, 816, 837, <span class="coquille" title="846">844&#160;; ferue 2526&#160;; frapper.</p>
@@ -7337,7 +7337,7 @@ S’il ne fausse l’estoire.</l></lg>
 <p>flans 303, 766, 2674, 2712&#160;; flanc 753, 2627, 3605.</p>
 <p>fleche 3605, 3676.</p>
 <p>fleror 1056, 1883&#160;; odeur.</p>
-<p>florie 1881, 2425&#160;; couverte de fleurs&#160;; 2406, 2413, 3065, 3268, 3868&#160;; blanche, épith. de <pb n="204" title="Page:Anonyme - La Mort Aymeri de Narbonne.djvu/261"/> barbe&#160;; flori 2047&#160;; pris substantivement, vieillard à la barbe blanche&#160;; florie 416, 3088&#160;; flories 2900, en parlant des âmes admises au Paradis.</p>
+<p>florie 1881, 2425&#160;; couverte de fleurs&#160;; 2406, 2413, 3065, 3268, 3868&#160;; blanche, épith. de <pb n="204" facs="https://fr.wikisource.org/wiki/Page:Anonyme_-_La_Mort_Aymeri_de_Narbonne.djvu/261"/> barbe&#160;; flori 2047&#160;; pris substantivement, vieillard à la barbe blanche&#160;; florie 416, 3088&#160;; flories 2900, en parlant des âmes admises au Paradis.</p>
 <p>flors 145, 1022, 1280&#160;; flor 154, 221, 637, 2624.</p>
 <p>flote 1745&#160;; troupeau.</p>
 <p>floter 2957.</p>
@@ -7380,7 +7380,7 @@ S’il ne fausse l’estoire.</l></lg>
 <p>froiz 1131, 1139, 1141, 1317&#160;; froit 3735&#160;; froide 2728.</p>
 <p>front 1465.</p>
 <p>[fueillir]&#160;; ind. prés. fueillissent 18.</p>
-<p>fuie 3845&#160;; fuite. <pb n="205" title="Page:Anonyme - La Mort Aymeri de Narbonne.djvu/262"/></p>
+<p>fuie 3845&#160;; fuite. <pb n="205" facs="https://fr.wikisource.org/wiki/Page:Anonyme_-_La_Mort_Aymeri_de_Narbonne.djvu/262"/></p>
 <p>fuirons 1584&#160;; furets.</p>
 <p>fuz 1289&#160;; fust 1161, 1176, 2809, 3067&#160;; bois, bâton.</p>
 </div><div type="G">
@@ -7412,7 +7412,7 @@ S’il ne fausse l’estoire.</l></lg>
 <p>glaives 421, 1574, 2666&#160;; carnage.</p>
 <p>[glatir]&#160;; ind. prés. glatissent 698&#160;; imp. glatissoient 364&#160;; aboyer.</p>
 <p>gloire 1950, 3634, 3693.</p>
-<p>glorios 720, 1418, 1444, 2879. <pb n="206" title="Page:Anonyme - La Mort Aymeri de Narbonne.djvu/263"/></p>
+<p>glorios 720, 1418, 1444, 2879. <pb n="206" facs="https://fr.wikisource.org/wiki/Page:Anonyme_-_La_Mort_Aymeri_de_Narbonne.djvu/263"/></p>
 <p>gloz 566, 653, 2695&#160;; glot 3565&#160;; gloton 3435, 3570&#160;; glotons 3788.</p>
 <p>glu 3852.</p>
 <p>gole 346, 356, 3967, 3980&#160;; gueule.</p>
@@ -7460,7 +7460,7 @@ S’il ne fausse l’estoire.</l></lg>
 <p>hautement 3640, 4094.</p>
 <p>henas 480&#160;; hanap.</p>
 <p>[henir]&#160;; ind. prés. henissent 699&#160;; prét. heni 2300.</p>
-<p>herbergier 1028&#160;; ind. prés.  <pb n="207" title="Page:Anonyme - La Mort Aymeri de Narbonne.djvu/264"/> herberjent 2473&#160;; prét. herberjas 1452&#160;; herberja 3382 <span class="coquille" title="; herberjas 1452&#160;;">; herbergierent 2488, 3385&#160;; part. p. herbergiez 2222&#160;; herbergiée 2510&#160;; loger.</p>
+<p>herbergier 1028&#160;; ind. prés.  <pb n="207" facs="https://fr.wikisource.org/wiki/Page:Anonyme_-_La_Mort_Aymeri_de_Narbonne.djvu/264"/> herberjent 2473&#160;; prét. herberjas 1452&#160;; herberja 3382 <span class="coquille" title="; herberjas 1452&#160;;">; herbergierent 2488, 3385&#160;; part. p. herbergiez 2222&#160;; herbergiée 2510&#160;; loger.</p>
 <p>herberjement 1686, 3374&#160;; résidence, logement.</p>
 <p>herberjerie 2415, 2533, 2893&#160;; voy. le précédent.</p>
 <p>herberjes 932&#160;; voy. herberjement.</p>
@@ -7502,7 +7502,7 @@ S’il ne fausse l’estoire.</l></lg>
 <p>jemé 1971, 2133, 2330, 3501&#160;; orné de pierreries.</p>
 <p>jeneste 1880&#160;; genêt.</p>
 <p>jenoillons&#160;; a — 1194, 1453, 3824&#160;; à genoux.</p>
-<p>jent 574, 761&#160;; adj. beau, agréable. <pb n="208" title="Page:Anonyme - La Mort Aymeri de Narbonne.djvu/265"/></p>
+<p>jent 574, 761&#160;; adj. beau, agréable. <pb n="208" facs="https://fr.wikisource.org/wiki/Page:Anonyme_-_La_Mort_Aymeri_de_Narbonne.djvu/265"/></p>
 <p>jent 28, 118, 623&#160;; jenz 915&#160;; subs.</p>
 <p>jentils 120, 272, 1051&#160;; jentil 16, 1602, 2296&#160;; noble.</p>
 <p>jesir 2188, 2238&#160;; ind. prés. gist 947, 3662&#160;; gisent 4113&#160;: prét. jut 636, 2783, 2916&#160;; jurent 2018, 2776&#160;; part. p. jeü 3832&#160;; part. prés. jesant 1233.</p>
@@ -7548,7 +7548,7 @@ S’il ne fausse l’estoire.</l></lg>
 <p>larjeté 4118&#160;; générosité.</p>
 <p>larriz 2821, 3448, 3775&#160;; lande.</p>
 <p>las 784&#160;; corde, lien.</p>
-<p>lasse 283&#160;; malheureuse, exclamation. <pb n="209" title="Page:Anonyme - La Mort Aymeri de Narbonne.djvu/266"/></p>
+<p>lasse 283&#160;; malheureuse, exclamation. <pb n="209" facs="https://fr.wikisource.org/wiki/Page:Anonyme_-_La_Mort_Aymeri_de_Narbonne.djvu/266"/></p>
 <p>latins 382&#160;; latin 580, 2571.</p>
 <p>laver 1992&#160;; ind. prés. lavent 469, 2728&#160;; prét. lava 1455.</p>
 <p>lé 1931, 2767&#160;; côté.</p>
@@ -7587,7 +7587,7 @@ S’il ne fausse l’estoire.</l></lg>
 <p>lonc 455, 3304&#160;; longue 625, 2333&#160;; longues 160.</p>
 <p>longuement 3832.</p>
 <p>lor (rime) 3297&#160;; laurier.</p>
-<p>loriers 2029, 2066, 2238. <pb n="210" title="Page:Anonyme - La Mort Aymeri de Narbonne.djvu/267"/></p>
+<p>loriers 2029, 2066, 2238. <pb n="210" facs="https://fr.wikisource.org/wiki/Page:Anonyme_-_La_Mort_Aymeri_de_Narbonne.djvu/267"/></p>
 <p>lors 379, 1138, 1330, 2373&#160;; alors.</p>
 <p>los 154, 221, 2796, réputation, éclat&#160;; 530, approbation.</p>
 <p>losangerie <span class="coquille" title="1636">1635 (var.)&#160;; tromperie.</p>
@@ -7628,7 +7628,7 @@ S’il ne fausse l’estoire.</l></lg>
 <p>mansion 1458&#160;; demeure.</p>
 <p>mantel 162, 305, 378, 1279&#160;; mantiax 1546, 2637.</p>
 <p>mar 773, 1362, 3036, 3118, 3168, 3571, 3696&#160;; pour le malheur de celui de qui on parle.</p>
-<p>marbre 180, 472, 636, 745, 970, 1433, 2728, 3369, 3895, 4098, 4101. <pb n="211" title="Page:Anonyme - La Mort Aymeri de Narbonne.djvu/268"/></p>
+<p>marbre 180, 472, 636, 745, 970, 1433, 2728, 3369, 3895, 4098, 4101. <pb n="211" facs="https://fr.wikisource.org/wiki/Page:Anonyme_-_La_Mort_Aymeri_de_Narbonne.djvu/268"/></p>
 <p>marche 3052&#160;; frontière.</p>
 <p>marcheant <span class="coquille" title="1283">1282, 2962.</p>
 <p>marchié 1286.</p>
@@ -7669,7 +7669,7 @@ S’il ne fausse l’estoire.</l></lg>
 <p>merciz 2841, 3006&#160;; merci 287, 1345, 1495, 1911, 2010, 2035, 2342, 3191, 3629.</p>
 <p>mere 2112.</p>
 <p>merveille 94, 361, 758, 1081&#160;; merveilles 3489, 3987&#160;; adv. 2812.</p>
-<p>[merveiller]&#160;; impér. merveillez 280&#160;; s’émerveiller, s’étonner. <pb n="212" title="Page:Anonyme - La Mort Aymeri de Narbonne.djvu/269"/></p>
+<p>[merveiller]&#160;; impér. merveillez 280&#160;; s’émerveiller, s’étonner. <pb n="212" facs="https://fr.wikisource.org/wiki/Page:Anonyme_-_La_Mort_Aymeri_de_Narbonne.djvu/269"/></p>
 <p>merveillos 431, 591, 992, 1096, 1125, 1209, 1314, 2670, 3558&#160;; merveilloses 2514&#160;; mervillose 3699.</p>
 <p>meschine 1421, 1623, 2409, 2453, 2539, 2558, 2558, 2909, 2919&#160;; jeune fille.</p>
 <p>mescreanz 396, 451, 4089&#160;; mescreant 2601, 3707.</p>
@@ -7702,7 +7702,7 @@ S’il ne fausse l’estoire.</l></lg>
 <p>montaigne 339, 624, 665, 2180, 3242, 3441.</p>
 <p>monter 515&#160;; ind. prés. monte 494, 759, 822, 931, 1086, 2405, 2954&#160;; montent 709&#160;; prét. monta 101, 1151, 2251&#160;; fut. monteroiz (rime) 1144&#160;; part. p. montez 507, 997, 1248&#160;; monté 680, 865, 3807&#160;; montée 3996.</p>
 <p>monz 351, 442&#160;; mont 907, 1444, 3428, 3457.</p>
-<p>morir 3560&#160;; ind. prés. muert 22, 183, 203, 238, 522, 1983&#160;; imp. moroit 600&#160;; fut. morras 412, 1313&#160;; morrai 1403&#160;; subj. prés. muir 490&#160;; muire 1355&#160;; prét. morust <span class="coquille" title="1385">1370&#160;; part. p. morz 924, 1178, 1211, 1941&#160;; mort 820&#160;; morte 3917, 4140&#160;; subst. morz 3596, sens actif, tué&#160;; morz 1959&#160;; mort 796, <span class="coquille" title="1908">1907, 1938, 3445. <pb n="213" title="Page:Anonyme - La Mort Aymeri de Narbonne.djvu/270"/></p>
+<p>morir 3560&#160;; ind. prés. muert 22, 183, 203, 238, 522, 1983&#160;; imp. moroit 600&#160;; fut. morras 412, 1313&#160;; morrai 1403&#160;; subj. prés. muir 490&#160;; muire 1355&#160;; prét. morust <span class="coquille" title="1385">1370&#160;; part. p. morz 924, 1178, 1211, 1941&#160;; mort 820&#160;; morte 3917, 4140&#160;; subst. morz 3596, sens actif, tué&#160;; morz 1959&#160;; mort 796, <span class="coquille" title="1908">1907, 1938, 3445. <pb n="213" facs="https://fr.wikisource.org/wiki/Page:Anonyme_-_La_Mort_Aymeri_de_Narbonne.djvu/270"/></p>
 <p>mort 212, 250, 277, 1355.</p>
 <p>mortex 1976, 2003&#160;; mortel.</p>
 <p>mostiers 1577.</p>
@@ -7746,7 +7746,7 @@ S’il ne fausse l’estoire.</l></lg>
 <p>noncier 1049&#160;; annoncer.</p>
 <p>nons 1443&#160;; non 1466, 2078, 2793, 3060&#160;; nom.</p>
 <p>[norir]&#160;; prét. nori 66, 610&#160;; part. p. norriz 3802.</p>
-<p>[noter], ind. prés. note 3102&#160;; jouer d’un instrument de musique. <pb n="214" title="Page:Anonyme - La Mort Aymeri de Narbonne.djvu/271"/></p>
+<p>[noter], ind. prés. note 3102&#160;; jouer d’un instrument de musique. <pb n="214" facs="https://fr.wikisource.org/wiki/Page:Anonyme_-_La_Mort_Aymeri_de_Narbonne.djvu/271"/></p>
 <p>noton 1460&#160;; marin.</p>
 <p>novel&#160;; de —&#160; 2416, 2889&#160;; depuis peu de temps.</p>
 <p>novele 4000, 4017&#160;; noveles 391, 580, 2308&#160;; subst.</p>
@@ -7786,7 +7786,7 @@ S’il ne fausse l’estoire.</l></lg>
 <p>orgoillos 948, 963, 1017&#160;; orgoillose 622.</p>
 <p>orible 3697.</p>
 <p><span class="coquille" title="oriflanble">oriflanbe <span class="coquille" title="2394">2395, 2547, 2567, 3293&#160;; oriflamme.</p>
-<p>oriflor 1311, 1608&#160;; comme le précédent. <pb n="215" title="Page:Anonyme - La Mort Aymeri de Narbonne.djvu/272"/></p>
+<p>oriflor 1311, 1608&#160;; comme le précédent. <pb n="215" facs="https://fr.wikisource.org/wiki/Page:Anonyme_-_La_Mort_Aymeri_de_Narbonne.djvu/272"/></p>
 <p>orilles 1216&#160;; oreilles.</p>
 <p>orilliers 144&#160;; oreillers.</p>
 <p>oroison 1092.</p>
@@ -7831,7 +7831,7 @@ S’il ne fausse l’estoire.</l></lg>
 <p>parjures 44.</p>
 <p>parler 5, 15, 244, 284, 289, 1030, 1410, 1490, 2968, 3481&#160;; ind. prés. parole 1327&#160;; parlez 237&#160;; imp. parloient 2242&#160;; prét. parla 204, 653, 1365, 3749&#160;; fut. parlerai 1505&#160;; part. p. parlez 954, 1007&#160;; parlant 3696.</p>
 <p>[paroir]&#160;; ind. prés. pert 85&#160;; fut. parra 3771&#160;; paraître.</p>
-<p>paroles 129&#160;; parole 1001, 1511, 2894. <pb n="216" title="Page:Anonyme - La Mort Aymeri de Narbonne.djvu/273"/></p>
+<p>paroles 129&#160;; parole 1001, 1511, 2894. <pb n="216" facs="https://fr.wikisource.org/wiki/Page:Anonyme_-_La_Mort_Aymeri_de_Narbonne.djvu/273"/></p>
 <p>parrains 3009, 3159, 3175, 4166,</p>
 <p>part 279, 859, 936, 1222&#160;; parz 318, 2033.</p>
 <p>partie 1625, 2865.</p>
@@ -7867,7 +7867,7 @@ S’il ne fausse l’estoire.</l></lg>
 <p>perdre 3160&#160;; ind. prés. pert 154, 213, 221, 811, 2701&#160;; prét. perdist 3876&#160;; fut. perdrez 1145&#160;; perdront 3164, 3279&#160;; part. p. perduz 1270&#160;; perdu 1165, 1192, 1262, 3851, 4151&#160;; perdue, <span class="coquille" title="5163">1563, 3667.</p>
 <p>perdriz 2807, 3325.</p>
 <p>perdurable 425, 3755.</p>
-<p>peri 3609&#160;; brisé. <pb n="217" title="Page:Anonyme - La Mort Aymeri de Narbonne.djvu/274"/></p>
+<p>peri 3609&#160;; brisé. <pb n="217" facs="https://fr.wikisource.org/wiki/Page:Anonyme_-_La_Mort_Aymeri_de_Narbonne.djvu/274"/></p>
 <p>perillos 680, 1248, 1317.</p>
 <p>perirtre 2427&#160;; plante aromatique (?)</p>
 <p>perrieres 2591&#160;; machines de guerre.</p>
@@ -7911,7 +7911,7 @@ S’il ne fausse l’estoire.</l></lg>
 <p>poine 450, 759, 1914&#160;; peine.</p>
 <p>[poindre]&#160;; ind. prés. point 825, 890, <span class="coquille" title="1152">1153, 2020&#160;; poignent 3648&#160;; fut. poindront 1351&#160;; impér. poigniez 1043&#160;; part. prés. poignant 618, <span class="coquille" title="788">789, <span class="coquille" title="809">909, 823&#160;; piquer, éperonner.</p>
 <p>pointe 1208, 1886, 3544, 3557.</p>
-<p>pointure 3319&#160;; peinture. <pb n="218" title="Page:Anonyme - La Mort Aymeri de Narbonne.djvu/275"/></p>
+<p>pointure 3319&#160;; peinture. <pb n="218" facs="https://fr.wikisource.org/wiki/Page:Anonyme_-_La_Mort_Aymeri_de_Narbonne.djvu/275"/></p>
 <p>poinz 1296, 1590, 1893, 2496, <span class="coquille" title="2978">2998, 3143&#160;; poing 755, 1169, 1332, 1905, 1936, 1979.</p>
 <p>poise&#160;; voy. peser.</p>
 <p>poissanz 3942&#160;; poissant 3576, <span class="coquille" title="3903">3913, 4064, 4082&#160;; puissant.</p>
@@ -7941,7 +7941,7 @@ S’il ne fausse l’estoire.</l></lg>
 <p>premerains 880, 3115&#160;; premier.</p>
 <p>premierement 1121.</p>
 <p>premiers 877, 954, 1007, 1508, 2049, 2254, 3960.</p>
-<p>prendre 1028, 3371&#160;; ind. prés. preig 3260&#160;; prent 47, 384, 936, 2704&#160;; prenent 2866&#160;; prendent 2432&#160;; prét. preïs 1445&#160;; prist 570, 578, 755, 3766&#160;; pristrent 1589, 2655, <span class="coquille" title="2678">3096&#160;; fut. penrai 489&#160;; prendrai 3013&#160;; penrez 881&#160;; prendrez 3020&#160;; prendront 2432&#160;; imp. pren 277&#160;; prenez 981, 3513 ; subj. imp. preïsse 3492&#160;; <pb n="219" title="Page:Anonyme - La Mort Aymeri de Narbonne.djvu/276"/> part. p. pris <span class="coquille" title="336">337, 1073, 2350&#160;; prise 42, 62, 197&#160;; prises 2931.</p>
+<p>prendre 1028, 3371&#160;; ind. prés. preig 3260&#160;; prent 47, 384, 936, 2704&#160;; prenent 2866&#160;; prendent 2432&#160;; prét. preïs 1445&#160;; prist 570, 578, 755, 3766&#160;; pristrent 1589, 2655, <span class="coquille" title="2678">3096&#160;; fut. penrai 489&#160;; prendrai 3013&#160;; penrez 881&#160;; prendrez 3020&#160;; prendront 2432&#160;; imp. pren 277&#160;; prenez 981, 3513 ; subj. imp. preïsse 3492&#160;; <pb n="219" facs="https://fr.wikisource.org/wiki/Page:Anonyme_-_La_Mort_Aymeri_de_Narbonne.djvu/276"/> part. p. pris <span class="coquille" title="336">337, 1073, 2350&#160;; prise 42, 62, 197&#160;; prises 2931.</p>
 <p>presse 837, 3639, 3665.</p>
 <p>preuz 76, 82.</p>
 <p>prier 1405&#160;; ind. p. pri 486, prient 1435&#160;; fut. prierons 1309.</p>
@@ -7982,7 +7982,7 @@ S’il ne fausse l’estoire.</l></lg>
 <p>quintaine 21, 1315, 1350&#160;; sorte de mannequin contre lequel les chevaliers s’exerçaient, voy.&#160;: L. Gautier, La Chevalerie, p. 30.</p>
 <p>quoiement 3414&#160;; doucement, sans bruit.</p>
 <p>quoife 2331&#160;; coiffe.</p>
-<p>quoite&#160;; a — d’esperon 3342&#160;; en piquant des deux. <pb n="220" title="Page:Anonyme - La Mort Aymeri de Narbonne.djvu/277"/></p>
+<p>quoite&#160;; a — d’esperon 3342&#160;; en piquant des deux. <pb n="220" facs="https://fr.wikisource.org/wiki/Page:Anonyme_-_La_Mort_Aymeri_de_Narbonne.djvu/277"/></p>
 <p>Raconter <span class="coquille" title="667">567, 2074&#160;; ind. prés. raconte <span class="coquille" title="2945">2946.</p>
 <p>rade 2420, 2472, 3387&#160;; rapide.</p>
 <p>raenbre 1446&#160;; racheter.</p>
@@ -8025,7 +8025,7 @@ S’il ne fausse l’estoire.</l></lg>
 <p>regné 2176, <span class="coquille" title="2952">2962, 3048&#160;; royaume.</p>
 <p>regreter 119, 206, 232, 1424&#160;; ind. prés. regrete 150, 923, <span class="coquille" title="1602">1601&#160;; prét. regreta 271&#160;; part. prés. regretant 2716&#160;; proférer des lamentations sur quelqu’un&#160;; voy. G. Paris, S. Alexis, p. 181.</p>
 <p>[rejeïr]&#160;; part. p.&#160;; rejeï 3623 dire.</p>
-<p>relever 1434&#160;; prét. releverent <span class="coquille" title="2782">2784&#160;; part. p. relevée. <pb n="221" title="Page:Anonyme - La Mort Aymeri de Narbonne.djvu/278"/></p>
+<p>relever 1434&#160;; prét. releverent <span class="coquille" title="2782">2784&#160;; part. p. relevée. <pb n="221" facs="https://fr.wikisource.org/wiki/Page:Anonyme_-_La_Mort_Aymeri_de_Narbonne.djvu/278"/></p>
 <p>religion 4047.</p>
 <p>reliques 2825, 3066.</p>
 <p>reluire 3528&#160;; ind. prés. reluisent 308, 1547, 2390&#160;; imp. reluisoient 48&#160;; prét. reluist <span class="coquille" title="1874">1875.</p>
@@ -8060,7 +8060,7 @@ S’il ne fausse l’estoire.</l></lg>
 <p>[retenir]&#160;; prét. retint <span class="coquille" title="890">898, 1040, 1172, part. p. retenuz 1190.</p>
 <p>retentir 2301&#160;; prét. retentist 3983.</p>
 <p>[retolir]&#160;; fut. retodront <span class="coquille" title="438">433&#160;; enlever, ravir.</p>
-<p>retorner 2967&#160;; ind. prés. retorne 2791&#160;; retornent 2865, 3855&#160;; prét. retorna 4160. <pb n="222" title="Page:Anonyme - La Mort Aymeri de Narbonne.djvu/279"/></p>
+<p>retorner 2967&#160;; ind. prés. retorne 2791&#160;; retornent 2865, 3855&#160;; prét. retorna 4160. <pb n="222" facs="https://fr.wikisource.org/wiki/Page:Anonyme_-_La_Mort_Aymeri_de_Narbonne.djvu/279"/></p>
 <p>[retraire]&#160;; réfl., ind. prés. retret 2958&#160;; retraient 1267&#160;; part. prés. retraiant 2695&#160;; se retirer.</p>
 <p>[revenir]&#160;; ind. prés. revient 236&#160;; reviennent <span class="coquille" title="197">19&#160;; prét. revint 355, 3620&#160;; fut. revendra 663.</p>
 <p>[reverser]&#160;; prét. reversa 386&#160;; parcourir.</p>
@@ -8102,7 +8102,7 @@ S’il ne fausse l’estoire.</l></lg>
 <p>safrez 2387&#160;; safré 1054, 1973, 2331&#160;; enduits d’un vernis doré&#160;; voy. Girart de Roussillon, trad. P. Meyer, p. 164, note 3.</p>
 <p>saillir 2654&#160;; ind. prés. salt 1977&#160;; saillent 54, 2654&#160;; imp. sailloient 339, 343&#160;; prét. sailli 1150&#160;; saillirent 224, <span class="coquille" title="1854">1894, 2713, 2922, 2990&#160;; part. p. sailliz 1033&#160;; part. prés. saillant 2715&#160;; se précipiter.</p>
 <p>sains 2010, 2289, <span class="coquille" title="4090">4086&#160;; sain 1496 ; sain.</p>
-<p>sainte&#160;; — charité 486, 518, 1435. <pb n="223" title="Page:Anonyme - La Mort Aymeri de Narbonne.djvu/280"/></p>
+<p>sainte&#160;; — charité 486, 518, 1435. <pb n="223" facs="https://fr.wikisource.org/wiki/Page:Anonyme_-_La_Mort_Aymeri_de_Narbonne.djvu/280"/></p>
 <p>saintisme 1443.</p>
 <p>sainz <span class="coquille" title="1025">1095&#160;; cloches.</p>
 <p>sajes 381, 417&#160;; saje <span class="coquille" title="993">992, 3466.</p>
@@ -8146,7 +8146,7 @@ S’il ne fausse l’estoire.</l></lg>
 <p>senglers <span class="coquille" title="2473">2475, <span class="coquille" title="2988">2986, 3375&#160;; sanglier.</p>
 <p>sengles <span class="coquille" title="1295">1294&#160;; dépouillé.</p>
 <p>sens 381, 1042, 4021.</p>
-<p>[sentir]&#160;; ind. prés. sent 762, <span class="coquille" title="1036">1056, 1163, 3982&#160;; prét. 176, <pb n="224" title="Page:Anonyme - La Mort Aymeri de Narbonne.djvu/281"/> 1146, 3607&#160;; part. p. sentue (rime) 3679.</p>
+<p>[sentir]&#160;; ind. prés. sent 762, <span class="coquille" title="1036">1056, 1163, 3982&#160;; prét. 176, <pb n="224" facs="https://fr.wikisource.org/wiki/Page:Anonyme_-_La_Mort_Aymeri_de_Narbonne.djvu/281"/> 1146, 3607&#160;; part. p. sentue (rime) 3679.</p>
 <p>[seoir]&#160;; ind. prés. siet <span class="coquille" title="1022">1021, 1004&#160;; imp. seoit 137, 1143&#160;; prét. sist 3371&#160;; demeurer, être assis.</p>
 <p>sepoture 4099&#160;; sépulture.</p>
 <p>seraine 1071&#160;; sirène.</p>
@@ -8192,7 +8192,7 @@ S’il ne fausse l’estoire.</l></lg>
 <p>sopes 372, 452.</p>
 <p>[sordre]&#160;; imp. sordoit 2102&#160;; fut. sordra 1608&#160;; surgir.</p>
 <p>sormonté 4120.</p>
-<p>sors 709. <pb n="225" title="Page:Anonyme - La Mort Aymeri de Narbonne.djvu/282"/></p>
+<p>sors 709. <pb n="225" facs="https://fr.wikisource.org/wiki/Page:Anonyme_-_La_Mort_Aymeri_de_Narbonne.djvu/282"/></p>
 <p>[sospirer]&#160;; ind. prés. sospire 1621&#160;; sospirent 2929.</p>
 <p>sostenir <span class="coquille" title="744">743, 2355&#160;; prét. sotindrent 225.</p>
 <p>sot&#160;; voy. savoir.</p>
@@ -8236,7 +8236,7 @@ S’il ne fausse l’estoire.</l></lg>
 <p>ton 4051.</p>
 <p>tenant 4066.</p>
 <p>tor&#160;; — françois 815&#160;; sorte de manœuvre de cavalier&#160;; voy. le vocabulaire de Raoul de Cambrai, éd. de la Soc. des anc. textes.</p>
-<p>torbe 620&#160;; troupe. <pb n="226" title="Page:Anonyme - La Mort Aymeri de Narbonne.djvu/283"/></p>
+<p>torbe 620&#160;; troupe. <pb n="226" facs="https://fr.wikisource.org/wiki/Page:Anonyme_-_La_Mort_Aymeri_de_Narbonne.djvu/283"/></p>
 <p>tordre 1979, 2998&#160;; ind. prés. tordent <span class="coquille" title="1853">1893, 2930.</p>
 <p>torneïz&#160;; pont — 1559, 3212&#160;; pont levis.</p>
 <p>torner 172, 859&#160;; ind. prés. torne 769, 874&#160;; tornent 2805&#160;; prét. <span class="coquille" title="">tornai 599&#160;; tornerent 4040&#160;; part. p. torné 1921, <span class="coquille" title="3435">3439&#160;; réfl. s’en retourner.</p>
@@ -8278,7 +8278,7 @@ S’il ne fausse l’estoire.</l></lg>
 <p>tristor <span class="coquille" title="1476">1477.</p>
 <p>troblez 293&#160;; troblé 1360.</p>
 <p>troer 1934&#160;; part. p. troez 884.</p>
-<p>[tresser]&#160;; ind. prés. trossent <pb n="227" title="Page:Anonyme - La Mort Aymeri de Narbonne.djvu/284"/> 3933&#160;; part. p. trossez 110, 2966&#160;; charger.</p>
+<p>[tresser]&#160;; ind. prés. trossent <pb n="227" facs="https://fr.wikisource.org/wiki/Page:Anonyme_-_La_Mort_Aymeri_de_Narbonne.djvu/284"/> 3933&#160;; part. p. trossez 110, 2966&#160;; charger.</p>
 <p>troveor 14.</p>
 <p>trover 902, 2451, 2861&#160;; ind. prés. trove 1019, 1176&#160;; trueve 573&#160;; trovent 635, 1582, <span class="coquille" title="2490">2492&#160;; prét. trovai <span class="coquille" title="2069">2067&#160;; trova 2293&#160;; fut. troverez 4175&#160;; imp. subj. trovissiez 1880&#160;; part. p. trové 1055&#160;; trovée 3325.</p>
 <p>[tuer]&#160;; ind. prés. tuent <span class="coquille" title="1874">1574&#160;; part. prés. tuant 2683&#160;; part. p. tué 2326.</p>
@@ -8312,7 +8312,7 @@ S’il ne fausse l’estoire.</l></lg>
 <p>verité 238, 2350.</p>
 <p>verje 1397, 2689.</p>
 <p>vermeil 141, <span class="coquille" title="1133">1132, 1295&#160;; vermeilles <span class="coquille" title="3369">3370.</p>
-<p>vermeillon 1279<span class="coquille" title=", 2052.">. <pb n="228" title="Page:Anonyme - La Mort Aymeri de Narbonne.djvu/285"/></p>
+<p>vermeillon 1279<span class="coquille" title=", 2052.">. <pb n="228" facs="https://fr.wikisource.org/wiki/Page:Anonyme_-_La_Mort_Aymeri_de_Narbonne.djvu/285"/></p>
 <p>veroilliées 3237.</p>
 <p>vers 2596.</p>
 <p>verser 1207, 1938, 2772&#160;; ind. prés. verse 785&#160;; part. p. versez 887, 896&#160;; renverser.</p>
@@ -8353,7 +8353,7 @@ S’il ne fausse l’estoire.</l></lg>
 <p>volentez 1524, 2311.</p>
 <p>volentiers 80, 474, 492, 524, 3156.</p>
 <p>voler 1414, 1937, 2080, 2764&#160;; ind. prés. vole 2516&#160;; imp. voloit <span class="coquille" title="343">346, part. prés. volanz 314, 329, 398, 2675, 3376.</p>
-<p>[voloir] ind. prés. vueil 2342, 3012&#160;; vels 1114, <span class="coquille" title="1306">1307, 2579&#160;; vuelt 521, 1336&#160;; volez <span class="coquille" title="1376">1377, 1493&#160;; vuelent 253, 1415&#160;; imp. voloit <span class="coquille" title="2085">2086&#160;; voloient 103, <span class="coquille" title="349">344&#160;; prét. vuelt 1035&#160;; vost 254, 1343, 1567&#160;; vodrent 471, 2108, 3100&#160;; fut. vodra 2397&#160;; cond. vodroie 69, 277, <span class="coquille" title="2129">2128&#160;; subj. prés. voille 1136, 1375, 2019&#160;; imp. vosisse <span class="coquille" title="1379">1369&#160;; vossist 357, 3485&#160;; vossistes <span class="coquille" title="2677">2633&#160;; vosissiez 1363. <pb n="229" title="Page:Anonyme - La Mort Aymeri de Narbonne.djvu/286"/></p>
+<p>[voloir] ind. prés. vueil 2342, 3012&#160;; vels 1114, <span class="coquille" title="1306">1307, 2579&#160;; vuelt 521, 1336&#160;; volez <span class="coquille" title="1376">1377, 1493&#160;; vuelent 253, 1415&#160;; imp. voloit <span class="coquille" title="2085">2086&#160;; voloient 103, <span class="coquille" title="349">344&#160;; prét. vuelt 1035&#160;; vost 254, 1343, 1567&#160;; vodrent 471, 2108, 3100&#160;; fut. vodra 2397&#160;; cond. vodroie 69, 277, <span class="coquille" title="2129">2128&#160;; subj. prés. voille 1136, 1375, 2019&#160;; imp. vosisse <span class="coquille" title="1379">1369&#160;; vossist 357, 3485&#160;; vossistes <span class="coquille" title="2677">2633&#160;; vosissiez 1363. <pb n="229" facs="https://fr.wikisource.org/wiki/Page:Anonyme_-_La_Mort_Aymeri_de_Narbonne.djvu/286"/></p>
 <p>voloir 2871&#160;; subst.</p>
 <p>volsés 304&#160;; garnis&#160;?</p>
 <p>votes 1620&#160;; voûtes.</p>
@@ -8385,7 +8385,7 @@ S’il ne fausse l’estoire.</l></lg>
              <p>a-e  40, 42.</p>
              <p>ain-e  29, 99.</p>
              <p>an-e  107.</p>
-             <pb n="232" title="Page:Anonyme - La Mort Aymeri de Narbonne.djvu/289"/>
+             <pb n="232" facs="https://fr.wikisource.org/wiki/Page:Anonyme_-_La_Mort_Aymeri_de_Narbonne.djvu/289"/>
              <p>é-e  104.</p>
              <p>è-e  66, 101.</p>
              <p>i-e  8, 32, 58, 65, 85, 87, 96, 98, 100, 105, 135.</p>
@@ -8402,6 +8402,240 @@ S’il ne fausse l’estoire.</l></lg>
              <p>on, ons  132.</p>
              <p>ue  123.</p>
           </div>
+       </div>
+       <div type="Tables_des_noms"><pb n="233" facs="https://fr.wikisource.org/wiki/Page:Anonyme_-_La_Mort_Aymeri_de_Narbonne.djvu/290"/>
+          <head>TABLE DES NOMS</head>
+          <div type="A">
+             <p>Açopart 1739, 2715&#160;; peuple païen, voy. Romania, VII, 437.</p>
+             <p>Aigredure 3303&#160;; épée de Guibert d’Andrenas.</p>
+             <p>Aïmer 7, Aïmer lo chetif 547, 592, 1384&#160;; fils d’Aimeri de Narbonne.</p>
+             <p>Alemaigne 12, 3075.</p>
+             <p>Alixandre 619, 930&#160;; Alexandrie.</p>
+             <p>Amoraive 1288, 2714&#160;; peuple sarrazin, Almoravide.</p>
+             <p>Andrenas 4163&#160;; domaine de Guibert, fils d’Aimeri&#160;; voyez Guibert d’Andrenas.</p>
+             <p>Anjou 3077</p>
+             <p>Anseüne&#160;; domaine de Garin, fils d’Aimeri&#160;; voy. Romania, IV. <span class="coquille" title="191">542 .</p>
+             <p>Antioche 674, 957.</p>
+             <p>Apollin 1927&#160;; Apollon pris pour un dieu sarrazin.</p>
+             <p>Arabe 997&#160;; Arabie.</p>
+             <p>Aude 974&#160;; rivière.</p>
+             <p>Aufelis 544, Aufelins 1753, 1766&#160;; chevalier d’Aymeri de Narbonne.</p>
+             <p>Auquaire d’Aumarie&#160;; messager de l’émir Corsout 1648&#160;; rencontré et vaincu par l’armée des Français 1942&#160;; prisonnier de Guibert d’Andrenas 2022&#160;; son baptême 2091, 2110&#160;; il accompagne Aimeri au camp de l’empereur 2299&#160;; il aide Aimeri à reprendre Narbonne 2547, il reçoit d’Aimeri la ville d’Esclabarie 3008&#160;; combat contre les Sagittaires 3780&#160;; il reste à Esclabarie 3871, 3922.</p>
+             <p>Aymeris de Nerbone&#160;; malade 115, <span class="coquille" title="265">264 &#160;; ses songes 309, <span class="coquille" title="335">334 , 366&#160;; il demande l’empereur Louis et ses fils 481,  <pb n="234" facs="https://fr.wikisource.org/wiki/Page:Anonyme_-_La_Mort_Aymeri_de_Narbonne.djvu/291"/>   535&#160;; assiégé par les Sarrazins 723&#160;; il s’arme 736&#160;; combats 778, <span class="coquille" title="786">787 , <span class="coquille" title="856">857 , 920&#160;; défié par l’émir Corsout 1004&#160;; duel avec Corsout <span class="coquille" title="1049">1050 , 1090, 1108&#160;; trahi et blessé 1155, 1229&#160;; prisonnier 1287&#160;; il est sur le point d’être brûlé vif 1382&#160;; envoyé à Babilone 1549, 1596&#160;; délivré par Guibert d’Andrenas 1822&#160;; parrain d’Auquaire 2106&#160;; il arrive au camp de l’empereur Louis 2299&#160;; reprend Narbonne <span class="coquille" title="2799">2599 &#160;; donne Esclabarie à Auquaire 3014&#160;; se prépare à combattre les Sagittaires 3281, 3293, 3361&#160;; il arrive à Esclabarie 3384, <span class="coquille" title="3408">3409 &#160;; combats 3550, <span class="coquille" title="3552">3542 &#160;; blessé mortellement 3616, 3620&#160;; on rapporte son corps à Narbonne 3903&#160;; ses obsèques <span class="coquille" title="4043">4143 , 4064.</p>
+             <p>Aymeriez 4165&#160;; filleul d’Aimeri, qui joue un rôle important dans la chanson de Guibert d’Andrenas.</p>
+          </div><div type="B">
+             <p>Babiloine 566, 572, 634, 660, 669, 675, 982, 1518, 1600, 1764, 2173, 2217, 2265, 2348&#160;; résidence principale de l’émir sarrazin.</p>
+             <p>Barbé 88&#160;; chef sarrazin.</p>
+             <p>Barlesguez <span class="coquille" title="289">291 &#160;; Balaguer (Espagne).</p>
+             <p>Barrès 569, 597&#160;; espion sarrazin.</p>
+             <p>Barzelone 1025&#160;; Barcelone (Espagne).</p>
+             <p>Bascle 3076&#160;; pays Basque.</p>
+             <p>Bauçant, 93, 111, 135, 496&#160;; cheval de Gautier de Termes.</p>
+             <p>Baudas 650, 659&#160;; Bagdad.</p>
+             <p>Baviere 3075.</p>
+             <p>Bedoïn 2715&#160;; Bedouin.</p>
+             <p>Bernart de Brubant 538, 1864, 1969, 2121, 2359, 3043, 3350, 3705, 3726, 3757, 3896, 4083&#160;; fils d’Aimeri de Narbonne.</p>
+             <p>Blancheflor 3461&#160;; jeune fille française captive des Sagittaires.</p>
+             <p>Bretaigne 3076.</p>
+             <p>Brisegant 825, 890, 922&#160;; cheval d’Aimeri de Narbonne.</p>
+             <p>Brugant 949&#160;; chevalier sarrazin de la suite de l’émir Corsout.</p>
+             <p>Bueves de Conmarchis, cas régime Buevon, 541, 1862, 2121, 2203, 2294, 2335, 3350, 3712, <span class="coquille" title="3778">3779 , <span class="coquille" title="4082">4081 , <span class="coquille" title="4119">4159 &#160;; fils d’Aimeri de Narbonne.</p>
+             <p>Bugladans 3600, 3676, 3816&#160;; chef des Sagittaires.</p>
+          </div><div type="C">
+             <p>Charlemagne 9, 66, 587, 3033, 3065, 3074.</p>
+             <p>Clarabins 1373, 2755, 2789, 2799&#160;; chevalier sarrazin.</p>
+             <p>Clarissant 1651, 1676, 1724, 2594, 2615, 3038, 3873, 3878&#160;; princesse sarrazine.</p>
+             <p>Cobrant 1212&#160;; roi sarrazin vaincu par Aimeri.  <pb n="235" facs="https://fr.wikisource.org/wiki/Page:Anonyme_-_La_Mort_Aymeri_de_Narbonne.djvu/292"/>  </p>
+             <p>Codroez 3035&#160;; émir sarrazin.</p>
+             <p>Conmarchis 2294, <span class="coquille" title="4161">4160 &#160;; domaine de Beuve de Commarchis, fils d’Aimeri&#160;; voyez Beuves de Commarchis.</p>
+             <p>Constantin 3309&#160;; l’empereur Constantin.</p>
+             <p>Corcenie 1311, 1619&#160;; pays sarrazin.</p>
+             <p>Cordres 3417&#160;; Cordoue.</p>
+             <p>Corsuble 247, 259, 404, <span class="coquille" title="561">562 , Corsolt 612, 644&#160;; émir sarrazin dont le nom figure dans plusieurs autres chansons de gestes, notamment dans le Siège de Barbastre et Godefroi de Bouillon.</p>
+             <p>Crist <span class="coquille" title="14, 60">1466 .</p>
+          </div><div type="D">
+             <p>Damas 651.</p>
+             <p>Daniel 1450.</p>
+             <p>Duresté 2079&#160;; ville imaginaire.</p>
+          </div><div type="E">
+             <p>Egite 1805, 2430&#160;; Égypte.</p>
+             <p>Esclabarie 2410, 2887, 2912, 2937, 3031, 3091, 3137, 3244, 3871, 3930&#160;; ville des Sagittaires.</p>
+             <p>Esclavon 4057.</p>
+             <p>Esclavonie 3098.</p>
+             <p>Esclers 246, 1964, <span class="coquille" title="3098">2078 , 2151, 2166, 2837&#160;; païens, ordinairement Slave, voy. Romania, II, 331.</p>
+             <p>Espaigne 251, 312, 548, 664, 773, 1517, 1608, <span class="coquille" title="3964">2964 , <span class="coquille" title="3923">3023 , 3078, 3311.</p>
+          </div><div type="F">
+             <p>Faraon 1461.</p>
+             <p>Femenie 1619, 1650, 1675, 1723, 2001, 2062, <span class="coquille" title="2480">2481 , 2582, 3090, 3874, 3880&#160;; pays sarrazin&#160;; ce nom a peut-être été choisi par étymologie populaire à cause des femmes que Corsout y envoie chercher pour repeupler Narbonne. (Voy. Nyrop, Den Oldfranske Heltedigtning, p. 151). Dans la Lettre du prestre Jehan, publiée par Jubinal dans le t. III des œuvres de Rutebœuf, et dans une continuation de Guillaume de Tyr (Hist. des Crois., hist. occ, II, p. 503), c’est aussi le pays des Amazones.</p>
+             <p>Finamonde 753, 816, 833, 918, 959, 1063, 1188, 2080&#160;; épée d’Aimeri.</p>
+             <p>Floevent 3316.</p>
+             <p>Florant 2078, 2137&#160;; cheval d’Auquaire.</p>
+             <p>Flori 929&#160;; cheval de l’émir Corsout.</p>
+             <p>Florimont 2141, 2646&#160;; forêt près de Narbonne.</p>
+             <p>Foleroche 671&#160;; contrée païenne imaginaire.</p>
+             <p>Franc 478, 1272&#160;; François 849, 859, 978, 1194, 1238 etc.</p>
+             <p>France <span class="coquille" title="12">13 , 252, 607, 1265, 1273, 2291, 2967, 3022, <span class="coquille" title="3264">3294 , 4126&#160;; doce France 190, 2170, 3017, 3214&#160;; France la garnie 2422, 2455, 4149&#160;; France l’asolue 3657.  <pb n="236" facs="https://fr.wikisource.org/wiki/Page:Anonyme_-_La_Mort_Aymeri_de_Narbonne.djvu/293"/>  </p>
+          </div><div type="G">
+             <p>Galafre 673&#160;; Galafer 798, 956&#160;; roi sarrazin.</p>
+             <p>Garin d’Anseüne 542, 1862, 1981, 2121, 2203, 2231, 2335, 3350, 3655, 3660, 3758, 3889, 4084&#160;; fils d’Aimeri de Narbonne.</p>
+             <p>Gaudin l’Escler 2078, sarrazin.</p>
+             <p>Gautier de Termes 73, 80, 82, 109, 131, 156, 185, 201, 205, 215, 223, 233, 300, 481, 492, 506, 2183, 2207, 2239, 2250&#160;; chevalier de l’empereur Louis, cousin d’Aimeri de Narbonne, il figure dans Aliscans, p. 161.</p>
+             <p>Gironde 4158&#160;; Girone (Espagne), domaine d’un des fils d’Aimeri&#160;; voyez Hernaut de Gironde.</p>
+             <p>Guibert d’Andrenas, Guibelin, fils d’Aimeri&#160;; rencontre et délivre son père <span class="coquille" title="1752">1753 , 1794&#160;; fait Auquaire prisonnier 2040&#160;; aide Aimeri <span class="coquille" title="a">à  reprendre Narbonne 2644, 2671&#160;; s’arme contre les Sagittaires <span class="coquille" title="3299">3297 , 3303, 3329, 3339&#160;; combats <span class="coquille" title="3756">3297 &#160;; retourne à Andrenas <span class="coquille" title="4163">4161 .</p>
+             <p>Guibourc 4155&#160;; femme de Guillaume d’Orange.</p>
+             <p>Guillaume 543, 2120, 2246, 2254, 3777&#160;; Guillaume au cort nés 8, 1980, 2202, 2209, 2334, 3042&#160;; Guillaume d’Orange 1863, 3938&#160;; le plus célèbre des fils d’Aimeri de Narbonne.</p>
+             <p>Guinemenz 300, 760, 1220&#160;; chevalier d’Aimeri.</p>
+          </div><div type="H">
+             <p>Hermenjarz, femme d’Aimeri&#160;; pleure sur la maladie d’Aimeri 149, <span class="coquille" title="205">206 , <span class="coquille" title="218">215 &#160;; encourage Aimeri dans son duel avec Corsout 842&#160;; désespoir en voyant Aimeri prisonnier 1432&#160;; elle offre une rançon 1485&#160;; trahie par les Sarrazins, elle se réfugie dans une tour 1564&#160;; elle refuse de se rendre 1690&#160;; elle est délivrée par Aimeri 2882&#160;; son désespoir à la mort d’Aimeri 4007, 4023, 4069&#160;; elle finit ses jours dans un couvent <span class="coquille" title="4143">4133 .</p>
+             <p>Hernaut 1862, 2121, 2203, 2205, 2231, 2294, 3269, 3350&#160;; Hernaut de Gironde 540&#160;; Hernauz li rox 3714&#160;; fils aîné d’Aimeri de Narbonne.</p>
+             <p>Hongre 618&#160;; Hongrois.</p>
+             <p>Hues 3060&#160;; prétendu auteur du poème.</p>
+             <p>Hues Chapez 38, 72, 193, <span class="coquille" title="127">127 &#160;; Hugues Capet, vassal révolté contre l’empereur Louis.</p>
+          </div><div type="I">
+             <p>Inde major 147, <span class="coquille" title="1279">1281 , 1796.</p>
+          </div><div type="J">
+             <p>Jaiant <span class="coquille" title="3318">3368 , 3420&#160;; géants.</p>
+             <p>Jersalem 3066.</p>
+             <p>Jhesus Criz 1997, 2918, 3916, 4059&#160;; Jhesus 3270, <span class="coquille" title="4170">4169 &#160;; Jhesum 3885.</p>
+             <p>Jociaume 300, 760, 1220&#160;; chevalier d’Aimeri.</p>
+             <p>Joifroi de Bonivant 2698&#160;; chevalier français.  <pb n="237" facs="https://fr.wikisource.org/wiki/Page:Anonyme_-_La_Mort_Aymeri_de_Narbonne.djvu/294"/>  </p>
+             <p>Jofroi 3496, 3536, 3573, 3836&#160;; Joifroi de S. Denis 3097, 3215, 3462&#160;; Jofroi de Paris 3791, 3805, 3825, 3923&#160;; chevalier français prisonnier des Sagittaires.</p>
+          </div><div type="L">
+             <p>Lambé 84&#160;; roi sarrazin.</p>
+             <p>Lohier 11, 12&#160;; Lothaire fils de Charlemagne.</p>
+             <p>Longis 2001&#160;; soldat qui perça le côté du Christ en croix.</p>
+             <p>Loon 24, 187, 500&#160;; résidence impériale.</p>
+             <p>Looys, empereur, fils de Charlemagne.</p>
+          </div><div type="M">
+             <p>Madelaine 1451&#160;; sainte Marie-Madeleine.</p>
+             <p>Mahom, Mahomet 574, 590, 597, 609, etc.</p>
+             <p>Maine 3077.</p>
+             <p>Manecier 949.</p>
+             <p>Marie&#160;; les trois Maries 1999&#160;; saintes Marie Madeleine, Marie Jacobé, Marie Salomé.</p>
+             <p>Maudras 649&#160;; sarrazin de l’émir Corsout.</p>
+             <p>Meque 672&#160;; la Mecque.</p>
+             <p>Moise 1459&#160;; Moïse.</p>
+             <p>Monbrin 1867, 2065, 2122, 2184, 2222, 2278&#160;; montagne imaginaire.</p>
+             <p>Montirant 3367&#160;; ville fabuleuse.</p>
+             <p>Muciterne 1674&#160;; ville de Femenie.</p>
+             <p>Murgalent de Monflor 1284.</p>
+          </div><div type="N">
+             <p>Navarre <span class="coquille" title="3877">3076 .</p>
+             <p>Naymeri 987, 2168&#160;; pour Aymeri.</p>
+             <p>Nerbone 108, 115, 228, etc.</p>
+             <p>Nerbonois 67, 76, 588, 3095&#160;; pays de Narbonne.</p>
+             <p>Nerbonois 1198, 1562&#160;; habitants de Narbonne.</p>
+             <p>Nicodeme <span class="coquille" title="200">2000 .</p>
+             <p>Nique 1213, 1643&#160;; Nicée.</p>
+             <p>Noiron&#160;; pré Noiron <span class="coquille" title="1449">1447 &#160;; Saint Pierre de Rome&#160;; voyez le gloss. de Raoul de Cambrai, éd. de la Société.</p>
+             <p>Normandie 3077.</p>
+          </div><div type="O">
+             <p>Orange 2346, 4154.</p>
+             <p>Orient 1218, 2619, 3748, 3910.</p>
+             <p>Orquenie 2458&#160;; pays sarrazin, proprement les îles Orcades&#160;; voy. le Vocabulaire de Raoul de Cambrai.</p>
+             <p>Ortobrie 2915&#160;; Ortublie 2470, 2488&#160;; pays sarrazin.</p>
+             <p>Ossau 242, 544, 604, 616, 1734&#160;; vallée d’Ossau.</p>
+             <p>Otes d’Yspolite <span class="coquille" title="2084">3084 &#160;?</p>
+          </div><div type="P">
+             <p>Paiens 727, 774, 978, 986, etc.</p>
+             <p>Paradis 279, 1058.</p>
+             <p>Paris, 41, 62, 196, 2212.</p>
+             <p>Pavie 2537.</p>
+             <p>Pentecoste 23.</p>
+             <p>Pepin <span class="coquille" title="2854">2824 .</p>
+             <p>Perillose 623&#160;; nom de rivière fabriqué par l’auteur.  <pb n="238" facs="https://fr.wikisource.org/wiki/Page:Anonyme_-_La_Mort_Aymeri_de_Narbonne.djvu/295"/>  </p>
+             <p>Persanz 400, etc.</p>
+             <p>Perse 651, 568, 1525.</p>
+             <p>Pilate 2581&#160;; cru un dieu païen.</p>
+             <p>Pincernie 618, 651, <span class="coquille" title="2421">2424 . Voy. Romania, II, 333.</p>
+             <p>Pliemont 1794, <span class="coquille" title="3310">3340 &#160;; Ploiemont 2137, 2300&#160;; cheval de Guibert d’Andrenas.</p>
+             <p>Poitou 3076.</p>
+             <p>Popeliquant 2714&#160;; peuple sarrazin.</p>
+             <p>Porpaillart 593, 1385.</p>
+          </div><div type="R">
+             <p>Raguenel de Moncler 1059.</p>
+             <p>Rains 2212&#160;; Reims, résidence impériale.</p>
+             <p>Rochebrune 2503.</p>
+             <p>Rochagniere 1878.</p>
+             <p>Roje mer 2014&#160;; la mer Rouge.</p>
+             <p>Rollanz 2664, 3078.</p>
+             <p>Rome 1055, 1372.</p>
+             <p>Roncevax <span class="coquille" title="2684">2664 .</p>
+          </div><div type="S">
+             <p>Saint Denis 587, 2272, 2327, 2835, 3768&#160;; S. Denise 3061.</p>
+             <p>Saint Jehan 1466.</p>
+             <p>Saint Martin <span class="coquille" title="2826">2825 .</p>
+             <p>Saint Pere 1447.</p>
+             <p>Saint Pol 1448.</p>
+             <p>Saint Pol 4044, <span class="coquille" title="4042">4142 , 4093&#160;; église de Narbonne <span class="coquille" title="ou">où  se font les funérailles d’Aimeri.</p>
+             <p>Saint Pol de Valcois 1331&#160;; il y a un Vauquois dans le département de la Meuse, arrondissement de Verdun.</p>
+             <p>Saint Vincent 319, 407&#160;; église de Narbonne.</p>
+             <p>Saint Simeon 3343.</p>
+             <p>Sajetaire 2429, <span class="coquille" title="2446">2447 , etc.</p>
+             <p>Salatré <span class="coquille" title="2078">2678 , 3032&#160;; sarrazin vaincu par Guibert d’Andrenas.</p>
+             <p>Sanson 3298.</p>
+             <p>Saolin 380&#160;; Juif qui explique les songes d’Aimeri.</p>
+             <p>Sarrazins 241, 433, 451, <span class="coquille" title="660">690 , etc.</p>
+             <p>Satenas 648.</p>
+             <p>Sesnes 763&#160;; proprement Saxon, désigne ici un peuple païen.</p>
+             <p>Sezile 617, 1618&#160;; Sicile.</p>
+             <p>Sirie 2474.</p>
+             <p>Sorbrin 585, 609, 1535, 1762, 2024, 2072&#160;; père de l’émir Corsout.</p>
+             <p>Sulie <span class="coquille" title="689">694 , 2546&#160;; Syrie.</p>
+          </div><div type="T">
+             <p>Termes 198&#160;; château de Gautier de Termes.</p>
+             <p>Tenebrox 1283&#160;; nom d’une vallée probablement inventé par l’auteur.</p>
+             <p>Tervagan 1308, 1368, 1704, 2581, 2706, 3571, <span class="coquille" title="4061">4058 &#160;;dieu païen, invoqué par les Sagittaires.</p>
+             <p>Tiebauz l’Escler <span class="coquille" title="3013">2013 .</p>
+             <p>Tranchemor le Bruiant 1217&#160;; cheval du roi sarrazin Cobrant.</p>
+             <p>Tubie 1661.</p>
+             <p>Turcoples 1739&#160;; peuple sarrazin.  <pb n="239" facs="https://fr.wikisource.org/wiki/Page:Anonyme_-_La_Mort_Aymeri_de_Narbonne.djvu/296"/>  </p>
+             <p>Turs <span class="coquille" title="845">849 , 1207, 1266, 1739, etc.&#160;; Turcs.</p>
+          </div><div type="U">
+             <p>Ullague 1060.</p>
+          </div><div type="V">
+             <p>Virje 990, 1445&#160;; la Vierge.</p>
+          </div><div type="Y">
+             <p>Yspolite 3084&#160;; voyez Otes d’Yspolite.</p>
+          </div>
+       </div>
+       <pb n="240" facs="https://fr.wikisource.org/wiki/Page:Anonyme_-_La_Mort_Aymeri_de_Narbonne.djvu/297"/>
+       <div type="errata">
+          <pb facs="https://fr.wikisource.org/wiki/Page:Anonyme_-_La_Mort_Aymeri_de_Narbonne.djvu/298"/>
+          <head>Errata</head>
+          <p>v. 105 Dieu, corrigez Deu.</p>
+          <p>v. 137 contors, corrigez contor.</p>
+          <p>v. 212 mettre une virgule après durer.</p>
+          <p>v. 262 (var.) fait, corrigez frait.</p>
+          <p>v. 300 ce vers est faux, on peut adopter la leçon de C.</p>
+          <p>v. <span class="coquille" title="559">599</span>, 600, 603 (var.) D. corrigez DD<hi rend="sup">2</hi>.</p>
+          <p>v. 640 estoires&#160;; corrigez estoire.</p>
+          <p>v. 646 n’en, lisez nen.</p>
+          <p>v. 646 (var.) parentes, lisez parentés.</p>
+          <p>v. 716 encontre els, lisez encontr’els.</p>
+          <p>v. 832 (var.) ajoutez AB.</p>
+          <p>v. 1047 (var.) S’est, lisez s’est.</p>
+          <p>v. <span class="coquille" title="1214">1211 amoraive, corrigez amoraives.</p>
+          <p>v. 1360 mant, corrigez ment.</p>
+          <p>v. 1465 anje, corrigez anjes.</p>
+          <p>v. 1597 oit, lisez vit.</p>
+          <p>v. 1602 a, lisez Ha.</p>
+          <p>v. 1945 remes, lisez remés.</p>
+          <p>v. 2175 iriez, lisez irez.</p>
+          <p>v. 2179 arreter, corrigez arrester.</p>
+          <p>v. 2298 e, corrigez et.</p>
+          <p>v. 2461 ile, corrigez isle.</p>
+          <p>v. 2462 est la roche, lisez est de la roche.</p>
+          <p>v. 2653 forbi, lisez forbiz.</p>
+          <p>v. 2678 a tant, lisez atant.</p>
+          <p>v. 2802 sera, corrigez serai.</p>
+          <p>v. 2810 pointevin, lisez poitevin.</p>
+          <p>v. 3059 Uns, lisez Mès.</p>
+          <p>v. 3060 mist un, lisez mist en un.</p>
+          <p>Vocabulaire. jeteix, traduisez&#160;: coulé au moule.</p>
+          <pb facs="https://fr.wikisource.org/wiki/Page:Anonyme_-_La_Mort_Aymeri_de_Narbonne.djvu/299"/>
+       </div>
+       <!-- Les pages https://fr.wikisource.org/wiki/Page:Anonyme_-_La_Mort_Aymeri_de_Narbonne.djvu/300 et https://fr.wikisource.org/wiki/Page:Anonyme_-_La_Mort_Aymeri_de_Narbonne.djvu/301 contiennent la liste des publications de la Société des anciens textes français. -->
        </div>
     </back>
     </text>
