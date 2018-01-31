@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="/home/tnah/Documents/geste/odd/out/Modele.rng" 
+<?xml-model href="./MortAymC/src/odd/out/Modele.rng" 
    type="application/xml"  schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="/home/tnah/Documents/geste/odd/out/Modele.rng" 
+<?xml-model href="./MortAymC/src/odd/out/Modele.rng" 
    type="application/xml"  schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ed_MortAymC" xml:lang="fr" type="ed">
    <teiHeader>
@@ -88,6 +88,7 @@
          </langUsage>
       </profileDesc>
       <revisionDesc status="draft">
+         <change who="#AJ" when="2018-01-31">Structuration du body en laisse et en vers. Mise en place des lb et des pb. Intégration des pages de titres dans le front.</change>
          <change who="#AJ" when="2018-01-24">Poursutie de l'intégration du front</change>
          <change who="#AJ" when="2018-01-22">Début de la structuration du texte: intégration du
             front</change>
@@ -96,6 +97,33 @@
    </teiHeader>
    <text xml:lang="fr">
       <front>
+         <div type="page_de_titre">
+            
+               <pb facs="https://fr.wikisource.org/wiki/Page:Anonyme_-_La_Mort_Aymeri_de_Narbonne.djvu/2"/>
+            <head><lb/>SOCIÉTÉ<lb/> DES <lb/>ANCIENS TEXTES<lb/> FRANÇAIS</head>
+            <p>LA MORT AYMERI DE NARBONNE
+            </p>
+         </div>
+         <div type="page_de_titre">
+            <p>
+               <pb facs="https://fr.wikisource.org/wiki/Page:Anonyme_-_La_Mort_Aymeri_de_Narbonne.djvu/3"/>
+              <lb/> Le Puy, typ. et lith. de Marchessou fils,<lb/> boulevard Saint-Laurent, 23
+            </p>
+         </div>
+         <div type="page_de_titre">
+               <pb facs="https://fr.wikisource.org/wiki/Page:Anonyme_-_La_Mort_Aymeri_de_Narbonne.djvu/4"/>
+           <head>LA MORT AYMERI DE NARBONNE</head>
+            <p><lb/>CHANSON DE GESTE <lb/>PUBLIÉE D'APRÈS LES MANUSCRITS DE LONDRES ET DE<lb/> PARIS <lb/>PAR J. COURAYE DU PARC
+               <lb/>PARIS <lb/>LIBRAIRIE DE FIRMIN <lb/>DIDOT ET CIE<lb/> 56, rue Jacob, 56<lb/>M DCCC LXXXIV</p>
+         </div>
+         <div type="page_de_titre">
+            <p>
+               <pb facs="https://fr.wikisource.org/wiki/Page:Anonyme_-_La_Mort_Aymeri_de_Narbonne.djvu/5"/>
+               <lb/> Publication proposée à la Société le 23 mars 1881.<lb/>
+               <lb/>Approuvée par le Conseil le 25 janvier 1882, sur le rapport d’une<lb/> commission composée de MM. Meyer, Paris et Raynaud. </p>
+              <p rend="align(right)"> <lb/>   Commissaire responsable :
+               <lb/>M. P. MEYER.</p>
+         </div>
          <div type="introduction">
             <p>
                <pb n="I"
@@ -309,14 +337,14 @@
 
             <p> La chanson d’Aimeri de Narbonne était aussi bien connue de notre auteur : <pb n="X"
                   facs="https://fr.wikisource.org/wiki/Page%3AAnonyme_-_La_Mort_Aymeri_de_Narbonne.djvu/15"
-               /> V. 588Et Charlemaine, li rois de Saint Denis  Si li dona Nerbonois a
+               /> V. 588 Et Charlemaine, li rois de Saint Denis  Si li dona Nerbonois a
                tenir...</p>
 
             <p>
-               V. 2413Charles li rois a la barbe florie  L’arst et fondi quant ot Nerbone
+               V. 2413 Charles li rois a la barbe florie  L’arst et fondi quant ot Nerbone
                prise...</p>
             <p>
-                V. 3032El fu mon pere l’amiral Salatré.  Mès Charlemaine li fist lo chief
+                V. 3032 El fu mon pere l’amiral Salatré.  Mès Charlemaine li fist lo chief
                coper  Quant il conquist Nerbone la cité...</p>
 
             <p>Salatré ne figure pas, il est vrai, dans Aimeri de Narbonne, mais il est évident que
@@ -406,9 +434,9 @@
                Picart, en prose du xiiie siècle, publié par le père Cahier dans ses Mélanges
                d’archéologie (t. IV, p. 76) :</p>
 
-            <p><quote>Phisiologe nos dist que en l’une partie des desers d’Ynde sont une gent qui
+            <p>Phisiologe nos dist que en l’une partie des desers d’Ynde sont une gent qui
                   ont une corne ou front et sont homes salvages ; cele gent guerroient adès contre
-                  les Sagetaires et li Sagetaire contre eus...</quote></p>
+                  les Sagetaires et li Sagetaire contre eus...</p>
 
             <p>Ce monstre a déjà été souvent introduit dans la poésie narrative du xiie siècle, et,
                dans le Roman de Troie, nous trouvons décrit de la façon la <pb n="XIV"
@@ -1385,8 +1413,9 @@
              <l><lb/>  Por Aymeri lo conte.</l>
          </lg>
          
-         <pb n="6" facs="https://fr.wikisource.org/wiki/Page:Anonyme_-_La_Mort_Aymeri_de_Narbonne.djvu/63>
+         
      <lg type="laisse">
+        <pb n="6" facs="https://fr.wikisource.org/wiki/Page:Anonyme_-_La_Mort_Aymeri_de_Narbonne.djvu/63"/>
         <note>C rime en on. </note>
          <l><lb/> Gautiers de Termes descendi au perron,</l>
          <l><lb/> Au sicamor, lez lo dois del lion ;</l>
@@ -1414,9 +1443,9 @@
          <l><lb/>  « Chevalerie pert los et bruit et flor.</l>
          <l><lb/> ﻿« Que ferai, dolerose ? »</l>
          </lg>
- <pb n="7" facs="Page:Anonyme - La Mort Aymeri de Narbonne.djvu/64"/>
+ 
 <lg type="laisse">
-
+   <pb n="7" facs="Page:Anonyme - La Mort Aymeri de Narbonne.djvu/64"/>
 <l><lb/>Gautiers de Termes est el palès entrez,</l><l><lb/>
 Qui fu neveu dant Aymeri lo ber&#160;;</l><l><lb/>
 Bel ot lo cors, eschevi et molé,</l><l><lb/>
@@ -1583,9 +1612,9 @@ Et lo viaire et les euz qu’ot troblez&#160;:</l><l><lb/>
 «&#160;Sire, por Deu,&#160;» dist ele, «&#160;respasez,</l><l><lb/>
     ﻿«&#160;Et si ne morez mie.</l></lg>
 
- <pb n="13" facs="Page:Anonyme - La Mort Aymeri de Narbonne.djvu/70"/>
+ 
 <lg type="laisse">
-
+   <pb n="13" facs="Page:Anonyme - La Mort Aymeri de Narbonne.djvu/70"/>
 <l><lb/>— Seignor baron,&#160;» dist Aymeris li frans,</l><l><lb/>
 Li riches quens, li hardiz, li vaillanz,</l><l><lb/>
 «&#160;Je ai tel mal onques mès n’oi si grant</l><l><lb/>
