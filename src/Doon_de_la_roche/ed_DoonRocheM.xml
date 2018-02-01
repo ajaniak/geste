@@ -103,7 +103,7 @@
       <front>
          <pb n="1"
             facs="https://fr.wikisource.org/wiki/Page%3AAnonyme_-_Doon_de_la_Roche.djvu/1"/>
-         <div><head>
+         <div type="page_de_titre"><head>
             <lb/>SOCIÉTÉ
          <lb/>DES
          <lb/>ANCIENS TEXTES FRANÇAIS
@@ -111,9 +111,9 @@
             <lb/>publié par
             <lb/>Paul MEYER et Gédéon HUET</head></div>
          <pb n="2" facs="https://fr.wikisource.org/wiki/Page%3AAnonyme_-_Doon_de_la_Roche.djvu/2"/>
-         <div><head>Le Puy-en-Velay. — Imprimerie Peyriller, Rouchon et Gamon.</head></div>
+         <div type="page_de_titre"><head>Le Puy-en-Velay. — Imprimerie Peyriller, Rouchon et Gamon.</head></div>
          <pb n="3" facs="https://fr.wikisource.org/wiki/Page%3AAnonyme_-_Doon_de_la_Roche.djvu/3"/>
-        <div> <head>DOON DE LA ROCHE
+         <div type="page_de_titre"> <head>DOON DE LA ROCHE
            <lb/>CHANSON DE GESTE
             <lb/>publiée par
             <lb/>Paul MEYER et Gédéon HUET
@@ -124,7 +124,7 @@
          <lb/>M DCCCCXXI</head>
         </div>
          <pb n="4" facs="https://fr.wikisource.org/wiki/Page%3AAnonyme_-_Doon_de_la_Roche.djvu/4"/>
-         <div><p>Publication proposée à la Société le 24 avril 1878.</p>
+         <div type="page_de_titre"><p>Publication proposée à la Société le 24 avril 1878.</p>
             
             <p>Approuvée par le Conseil dans sa séance du 22 mai suivant, sur le rapport d’une Commission composée de MM. Henri Michelant, Gaston Paris et Gaston Raynaud.</p>
             
@@ -134,7 +134,7 @@
             <lb/>mort avant le commencement de l’impression)
             <lb/>M. Antoine THOMAS.</p></div>
          <pb n="I" facs="https://fr.wikisource.org/wiki/Page%3AAnonyme_-_Doon_de_la_Roche.djvu/5"/>
-         <div type="introduction">
+         <div type="preface"><div type="introduction">
             
             <head>INTRODUCTION</head>
 
@@ -3080,7 +3080,7 @@
                   <p rend="align(right)">Antoine THOMAS.</p>
                </div>
             </div>
-         </div>
+         </div></div>
       </front>
       <body>
        <p></p>
