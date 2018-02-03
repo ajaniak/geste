@@ -1167,7 +1167,7 @@
             <p>On pourrait dresser ainsi le tableau de nos mss. : <graphic
                   url="https://fr.wikisource.org/wiki/Page:Anonyme_-_La_Mort_Aymeri_de_Narbonne.djvu/51"
                />
-               <tree arity="2" order="8" >
+               <tree type="" arity="2" order="8" >
                <root xml:id="O'" children="#O">
                   <label>O'</label>
                </root>
@@ -1179,7 +1179,8 @@
                   <leaf xml:id="C" parent="#y"><label>C</label></leaf>
                   <leaf xml:id="D" parent="#y"><label>D</label></leaf>
                   <leaf xml:id="D2" parent="#y"><label>D2</label></leaf>
-            </tree></p>
+            </tree>
+            </p>
             <p>Notre classification des mss. aboutissant à la constitution de deux familles, voici
                comme nous avons procédé pour l’établissement du texte. Il est bien évident qu’une
                leçon fournie par une des familles et confirmée même par un seul des mss. de l’autre
