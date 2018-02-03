@@ -1167,7 +1167,7 @@
             <p>On pourrait dresser ainsi le tableau de nos mss. : <graphic
                   url="https://fr.wikisource.org/wiki/Page:Anonyme_-_La_Mort_Aymeri_de_Narbonne.djvu/51"
                />
-               <tree type="" arity="2" order="8" >
+               <tree arity="2" order="8" >
                <root xml:id="O'" children="#O">
                   <label>O'</label>
                </root>
