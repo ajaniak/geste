@@ -134,11 +134,12 @@
             <lb/>mort avant le commencement de l’impression)
             <lb/>M. Antoine THOMAS.</p></div>
          <pb n="I" facs="https://fr.wikisource.org/wiki/Page%3AAnonyme_-_Doon_de_la_Roche.djvu/5"/>
-         <div type="preface"><div type="introduction">
+         <div type="introduction">
+            <div>
             
             <head>INTRODUCTION</head>
 
-            <div type="historique">
+            <div>
                <head>
                   <title type="main">CHAPITRE PREMIER</title>
                   <title type="sub">historique de l’édition.</title>
@@ -3076,9 +3077,7 @@
             </div>
          </div></div>
       </front>
-      <body>
-       <p></p>
-      </body>
+      <body><p></p></body>
       <back/>
    </text>
 </TEI>
