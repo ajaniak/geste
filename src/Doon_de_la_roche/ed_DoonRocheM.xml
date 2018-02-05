@@ -100,7 +100,7 @@
    </teiHeader>
 
    <text xml:lang="fre">
-<<<<<<< HEAD
+
       <front>
          <pb n="1"
             facs="https://fr.wikisource.org/wiki/Page%3AAnonyme_-_Doon_de_la_Roche.djvu/1"/>
@@ -3078,8 +3078,7 @@
             </div>
          </div></div>
       </front>
-      <body><p></p></body>
-=======
+  
       
       <body xml:lang="fro"><pb n="I" facs="https://fr.wikisource.org/wiki/Page:Anonyme_-_Doon_de_la_Roche.djvu/109"/>
          <head>DOON DE LA ROCHE</head>
@@ -3114,7 +3113,7 @@
             </li>
          </ol>
       </body>
->>>>>>> body
+
       <back/>
    </text>
 </TEI>
