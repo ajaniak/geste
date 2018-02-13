@@ -1276,7 +1276,7 @@
          <pb n="1"
             facs="https://fr.wikisource.org/wiki/Page:Anonyme_-_La_Mort_Aymeri_de_Narbonne.djvu/58"/>
          <head>La mort d'Aimeri</head>
-         <lg type="laisse" xml:id="001"> 
+         <lg type="laisse" xml:id="L_001"> 
             <l><lb/>Seignor, oez qui chançon demandez,
                </l>
             <l><lb/> Soiez en pès et si m’oez conter</l>
@@ -1345,7 +1345,7 @@
              <l><lb/>« Il en perdra la teste. »</l>
             
          </lg>
-         <lg type="laisse" xml:id="002">
+         <lg type="laisse" xml:id="L_002">
              <l><lb/>  « Seignor baron, » dist li rois Looys,</l>
              <l><lb/> « Hues Chapez m’a malement bailli,</l>
              <l><lb/> « Arse a ma terre et gasté mon païs,</l>
@@ -1375,7 +1375,7 @@
              </l>
              <l><lb/> « J’irai sans plus atendre. »</l> </lg>
         
-        <lg type="laisse" xml:id="003">
+        <lg type="laisse" xml:id="L_003">
            
             <l><lb/> Li preus Gautiers en vint a son ostel,</l>
             <l><lb/> Ses armes rueve, l’en li va aporter.</l>
@@ -1411,7 +1411,7 @@
             <l><lb/>  « J’irai tot sol lo mesaje conter</l>
             <l><lb/>  « Au seignor de Nerbone. »</l>
         </lg>
-         <lg type="laisse" xml:id="004">
+         <lg type="laisse" xml:id="L_004">
             
              <l><lb/>Gautiers en vet, congié a pris au roi,
              <note>A B s’en part, si prist c.</note></l>
@@ -1424,7 +1424,7 @@
              <l><lb/> Que tuit si home plorent.</l>
             
          </lg>
-         <lg type="laisse" xml:id="005">
+         <lg type="laisse" xml:id="L_005">
              <l><lb/> Quant li mesajes entra en la cité,</l>
              <l><lb/>  De totes parz oï la jent plorer</l>
              <l><lb/> Et Aymeri lor seignor regreter :</l>
@@ -1444,7 +1444,7 @@
          </lg>
          
          
-     <lg type="laisse" xml:id="006">
+     <lg type="laisse" xml:id="L_006">
         <pb n="6" facs="https://fr.wikisource.org/wiki/Page:Anonyme_-_La_Mort_Aymeri_de_Narbonne.djvu/63"/>
         
          <l><lb/> Gautiers de Termes descendi au perron,</l>
@@ -1474,7 +1474,7 @@
          <l><lb/> ﻿« Que ferai, dolerose ? »</l>
          </lg>
  
-<lg type="laisse" xml:id="007">
+<lg type="laisse" xml:id="L_007">
    <pb n="7" facs="https://fr.wikisource.org/wiki/Page:Anonyme_-_La_Mort_Aymeri_de_Narbonne.djvu/64"/>
 <l><lb/>Gautiers de Termes est el palès entrez,</l>
 <l><lb/>Qui fu neveu dant Aymeri lo bers;</l>
@@ -1542,7 +1542,7 @@
 <l><lb/>« Dès que je pert lo conte naturel,</l>
 <l><lb/>    « Si decline barnajes! »</l>
 
-</lg><lg type="laisse" xml:id="008">
+</lg><lg type="laisse" xml:id="L_008">
 
 <l><lb/>Gautiers se pasmes; dame Hermenjarz s’escrie,</l>
 <l><lb/>Ront ses chevex et sa robe descire,</l>
@@ -1560,7 +1560,7 @@
 <l><lb/>    En la sale a Nerbone.</l></lg>
 
  
-<lg type="laisse" xml:id="009">
+<lg type="laisse" xml:id="L_009">
     </l><pb n="10" facs="https://fr.wikisource.org/wiki/Page:Anonyme_-_La_Mort_Aymeri_de_Narbonne.djvu/67"/>
 <l><lb/>Granz fu li dels en la bone cité</l>
 <l><lb/>Tot por lo conte dant Aymeri lo ber.</l>
@@ -1601,7 +1601,7 @@
 <l><lb/>Et li mur fret et li pan esfondré</l>
 <l><lb/>    Et la tor peçoiée.</l>
 
-</lg><lg type="laisse" xml:id="010">
+</lg><lg type="laisse" xml:id="L_010">
 
 <l><lb/>Quens Aymeris estoit chargiez de mal.</l>
 <l><lb/>Si plot a Deu que il li alaschasts;</l>
@@ -1627,7 +1627,7 @@
 <l><lb/>« Ja mès contesse tel chevalier n’avra.</l>
 <l><lb/>    « Lasse, or remanrai veves! »</l>
 
-</lg><lg type="laisse" xml:id="011">
+</lg><lg type="laisse" xml:id="L_011">
 
 <l><lb/>Quant Aymeris ot sa feme parler</l>
 <l><lb/>Et entor lui ses chevaliers plorer,</l>
@@ -1643,7 +1643,7 @@
 <l><lb/>    ﻿« Et si ne morez mie.</l></lg>
 
  
-<lg type="laisse" xml:id="012">
+<lg type="laisse" xml:id="L_012">
    <pb n="13" facs="https://fr.wikisource.org/wiki/Page:Anonyme_-_La_Mort_Aymeri_de_Narbonne.djvu/70"/>
 <l><lb/>— Seignor baron, » dist Aymeris li frans,</l>
 <l><lb/>Li riches quens, li hardiz, li vaillanz,</l>
@@ -1688,7 +1688,7 @@
 <l><lb/>    « Tote la char me trenble. »</l>
 
 </lg>
-         <lg type="laisse" xml:id="013">
+         <lg type="laisse" xml:id="L_013">
 
 <l><lb/>Dist Aymeriss: « Oez, seignor barons;</l>
 <l><lb/>« Une autre chose me vint en avisons;</l>
@@ -1713,7 +1713,7 @@
 <l><lb/>« Et dechaça par terres et par monz,</l>
 <l><lb/>    « Dont oi poor et joie. »</l>
 
-</lg><lg type="laisse" xml:id="014">
+</lg><lg type="laisse" xml:id="L_014">
 
 <l><lb/>« Quant li lions ot les ors enchaciez,</l>
 <l><lb/>« De cele chose me fis je forment liés;</l>
@@ -1732,7 +1732,7 @@
 <l><lb/>« Tot entor li glatissoient li chien</l>
 <l><lb/>    ﻿« Et demenoient joie. »</l>
 
-</lg><lg type="laisse" xml:id="015">
+</lg><lg type="laisse" xml:id="L_015">
 
 <l><lb/>« Oez, seignor, » dist Aymeris li franss;</l>
 <l><lb/>« Une autre chose me revint en senblants:</l>
@@ -1749,7 +1749,7 @@
 <l><lb/>« A la contesse donoit un mantel blanc.</l>
 <l><lb/>    « Lors fenirent li sonje. »</l>
 
-</lg><lg type="laisse" xml:id="016">
+</lg><lg type="laisse" xml:id="L_016">
 
 <l><lb/>En la cort ot un juï Saolins:</l>
 <l><lb/>Sajes hom fu et de grant sens porpris,</l>
@@ -1767,7 +1767,7 @@
 <l><lb/>Vint en la chanbre, sor l’esponde s’asists:</l>
 <l><lb/>    Ja li dira noveles.</l>
 
-</lg><lg type="laisse" xml:id="017">
+</lg><lg type="laisse" xml:id="L_017">
 
 <l><lb/>« Aymeri sire, » dist li juïs sachanz,</l>
 <l><lb/>« De vostre sonje orrez ci lo senblant,</l>
@@ -1798,7 +1798,7 @@
 <l><lb/>« Done le tost por Deu omnipotents:</l>
 <l><lb/>    « T’ame sera florie. »</l>
 
-</lg><lg type="laisse" xml:id="018">
+</lg><lg type="laisse" xml:id="L_018">
 
 <l><lb/>« Aymeri sire, » li sajes clers a dit,</l>
 <l><lb/>« Li rais de feu que tu veïs venir,</l>
@@ -1810,7 +1810,7 @@
 <l><lb/>« T’ame sera qu’ira en paradis</l>
 <l><lb/>    ﻿« En perdurable vie. »</l>
 
-</lg><lg type="laisse" xml:id="019">
+</lg><lg type="laisse" xml:id="L_019">
     <l><lb/>« Aymeri sire, de l’autre avison,</l>
 
  <pb n="19" facs="https://fr.wikisource.org/wiki/Page:Anonyme_-_La_Mort_Aymeri_de_Narbonne.djvu/76"/>
@@ -1835,7 +1835,7 @@
 <l><lb/>« Qui vos fera un molt riche secors.</l>
 <l><lb/>    ﻿« Par lui avrez aïe. »</l>
 
-</lg><lg type="laisse" xml:id="020">
+</lg><lg type="laisse" xml:id="L_020">
 
 <l><lb/>« Aymeri sire, de vostre autre senblant,</l>
 <l><lb/>« De la contesse o lo cors avenant</l>
@@ -1856,7 +1856,7 @@
 <l><lb/>« Ses filz Guiberz li fera secors gent</l>
 <l><lb/>    ﻿« Qui durement l’a chiére. »</l>
 
-</lg><lg type="laisse" xml:id="021">
+</lg><lg type="laisse" xml:id="L_021">
 
 <l><lb/>Quens Aymeris ot lo juï molt chier,</l>
 <l><lb/>Bien croit tot ce que li ot desrainier,</l>
@@ -1879,7 +1879,7 @@
 <l><lb/>Mes entr’els .ii.i ot petit mangier</l>
 <l><lb/>    Car fierement se dotent.</l>
 
-</lg><lg type="laisse" xml:id="022">
+</lg><lg type="laisse" xml:id="L_022">
 
 <l><lb/>Quant ce fu chose que Franc orent disné,</l>
 <l><lb/>Tréent les napes, s’ont lo vin demandé.</l>
@@ -1936,7 +1936,7 @@
 <l><lb/>— Molt volentiers, » dist Looys li ber.</l>
 <l><lb/>    ﻿« Je irai a Nerbone. »</l>
 
-</lg><lg type="laisse" xml:id="023">
+</lg><lg type="laisse" xml:id="L_023">
 
 <l><lb/>« Oez, seignor, » dist li rois Looys,</l>
 <l><lb/>« Hues Chapès m’a malement servis:</l>
@@ -1968,7 +1968,7 @@
 <l><lb/>De ses neveuz la ou il les sot vis,</l>
 <l><lb/>    Qu’il viegnent a Nerbone.</l>
 
-</lg><lg type="laisse" xml:id="024">
+</lg><lg type="laisse" xml:id="L_024">
 
 <l><lb/>Quens Aymeris a toz ses filz mandez</l>
 <l><lb/>Et ses neveuz et son riche barné.</l>
@@ -1991,7 +1991,7 @@
 <l><lb/>Por lo mesaje jehir et raconter</l>
 <l><lb/>    A l’amiré de Perse.</l>
 
-</lg><lg type="laisse" xml:id="025">
+</lg><lg type="laisse" xml:id="L_025">
 
 <l><lb/>Barrès chemine et passe lo païs</l>
 <l><lb/>Isnelement, ne prist cesse ne fins:</l>
@@ -2041,7 +2041,7 @@
 <l><lb/>    « Va, si sesis la terre. »</l>
 
  <pb n="27" facs="https://fr.wikisource.org/wiki/Page:Anonyme_-_La_Mort_Aymeri_de_Narbonne.djvu/84"/>
-</lg><lg type="laisse" xml:id="026">
+</lg><lg type="laisse" xml:id="L_026">
 
 <l><lb/>Li rois Corsolz en apela ses homess:</l>
 <l><lb/>« Seignor, » fet il, « or puis avoir Nerbone</l>
@@ -2060,7 +2060,7 @@
 <l><lb/>Li olivier i sont qui li font onbre</l>
 <l><lb/>    Ou Sarrazin descendent.</l>
 
-</lg><lg type="laisse" xml:id="027">
+</lg><lg type="laisse" xml:id="L_027">
 
 <l><lb/>Quant Sarrazin furent tuit descendu</l>
 <l><lb/>Par la riviere furent li tré tendu</l>
@@ -2082,7 +2082,7 @@
 <l><lb/>« Qui de Nerbone peçoieront les murss;</l>
 <l><lb/>    « Va, si sesis la terre. »</l>
 
-</lg><lg type="laisse" xml:id="028">
+</lg><lg type="laisse" xml:id="L_028">
 
 <l><lb/>Li rois Corsolz en apela Maudras,</l>
 <l><lb/>Un Sarrazin felon de pute part;</l>
@@ -2109,7 +2109,7 @@
 <l><lb/>Tex s’en fet lié qui ja n’en revendra</l>
 <l><lb/>    Ne ne verra Espaigne.</l>
 
-</lg><lg type="laisse" xml:id="029">
+</lg><lg type="laisse" xml:id="L_029">
 
 <l><lb/>Li rois manda por sa jent de montaigne,</l>
 <l><lb/>.XX. mile Turs o les chieres grifaignes,</l>
@@ -2118,7 +2118,7 @@
 <l><lb/>Soz Babiloine se lojent en la plaignes:</l>
 <l><lb/>    ﻿Cil desirent la guerre.</l>
 
-</lg><lg type="laisse" xml:id="030">
+</lg><lg type="laisse" xml:id="L_030">
 
 <l><lb/>Li rois manda sa jent de Foleroche</l>
 <l><lb/>Et cels de Meque qui Mahomet aportent.</l>
@@ -2130,7 +2130,7 @@
 <l><lb/>Soz Babiloine encontrent les estoiress;</l>
 <l><lb/>    Cil iront a Nerbone.</l>
 
-</lg><lg type="laisse" xml:id="031">
+</lg><lg type="laisse" xml:id="L_031">
 
 <l><lb/>Li rois Corsolz fet soner ses tabors,</l>
 <l><lb/>XX. .m.grelles en ses plus hautes torss;</l>
@@ -2146,7 +2146,7 @@
 <l><lb/>Drecent lor voiles et adrecent lor tors</l>
 <l><lb/>    Par mi la mer plus haute.</l>
 
-</lg><lg type="laisse" xml:id="032">
+</lg><lg type="laisse" xml:id="L_032">
 
 <l><lb/>Quant Sarrazin orent lor nés garnies,</l>
 <l><lb/>Asez i metent pain et vin et farine,</l>
@@ -2188,7 +2188,7 @@
 <l><lb/>« Aymeri sire, or sui je mal baillie</l>
 <l><lb/>    « Quant vos estes malades. »</l>
 
-</lg><lg type="laisse" xml:id="033">
+</lg><lg type="laisse" xml:id="L_033">
 
 <l><lb/>Uns mesagiers l’ala dire Aymeri</l>
 <l><lb/>Qui jut malades en son palés antif</l>
@@ -2203,7 +2203,7 @@
 <l><lb/>« Sainte Marie qui Deu portas a fil,</l>
 <l><lb/>« Defendez hui ma cité de perir,</l>
 <l><lb/>﻿« Que cil Païen ne l’aient. »</l>
-</lg><lg type="laisse" xml:id="034">
+</lg><lg type="laisse" xml:id="L_034">
 
 <l><lb/>Quens Aymeris li chanuz et li blans</l>
 <l><lb/>En apela ses mestres chanberlens</l>
@@ -2252,7 +2252,7 @@
 <l><lb/>« Mar issirent d’Espaigne. »
 
 </l></lg>
-<lg type="laisse" xml:id="035">
+<lg type="laisse" xml:id="L_035">
 
 <l><lb/>Paien assaillent la cité d’anbe parzs;</l>
 <l><lb/>A itant furent jusqu’as murs communiax,</l>
@@ -2272,7 +2272,7 @@
 <l><lb/>Li danzels de Nerbone.
 
 </l></lg>
-<lg type="laisse" xml:id="036">
+<lg type="laisse" xml:id="L_036">
 
 <l><lb/>Quant Aymeris ot les trés abatuz,</l>
 <l><lb/>Trenchié les cordes et les fetes ronpuz,</l>
@@ -2351,7 +2351,7 @@
 <l><lb/>« Li viellarz de Nerbones! »
 
 </l></lg>
-<lg type="laisse" xml:id="037">
+<lg type="laisse" xml:id="L_037">
 
 <l><lb/>Li amiralz ot les estriers recovré,
 
@@ -2428,7 +2428,7 @@
 <l><lb/>La contesse nobile.
 
 </l></lg>
-<lg type="laisse" xml:id="038">
+<lg type="laisse" xml:id="L_038">
 
 <l><lb/>Danz Aymeris est a pié descenduz</l>
 <l><lb/>Et l’amirals est el pré remasuzs:</l>
@@ -2463,7 +2463,7 @@
 <l><lb/>Qui gist sor la colonbe.
 
 </l></lg>
-<lg type="laisse" xml:id="039">
+<lg type="laisse" xml:id="L_039">
 
 <l><lb/>Li rois Corsolz fu orgoillos et fierss;</l>
 <l><lb/>Il apela Brugant et Manesier</l>
@@ -2487,7 +2487,7 @@
 <l><lb/>« Mahomet le confondes! »
 
 </l></lg>
-<lg type="laisse" xml:id="040">
+<lg type="laisse" xml:id="L_040">
 
 <l><lb/>Li rois Corsolz fu plains de grant otraje,</l>
 <l><lb/>De traïson fu plains et de grant raje.</l>
@@ -2515,7 +2515,7 @@
 <l><lb/>﻿« Mahom le te doinst feres! »
 
 </l></lg>
-<lg type="laisse" xml:id="041">
+<lg type="laisse" xml:id="L_041">
 
 <l><lb/>Or ont Paien dite la traïson</l>
 <l><lb/>De Naymeri le nobile barons;</l>
@@ -2524,7 +2524,7 @@
 <l><lb/>﻿Et fu nez de la Virjes!
 
 </l></lg>
-<lg type="laisse" xml:id="042">
+<lg type="laisse" xml:id="L_042">
 
 <l><lb/>Li rois Corsolz en apele un mesaje,</l>
 <l><lb/>Chevaliers fu et mervellos et sajess;</l>
@@ -2542,7 +2542,7 @@
 <l><lb/>Por oïr sa parole.
 
 </l></lg>
-<lg type="laisse" xml:id="043">
+<lg type="laisse" xml:id="L_043">
 
 <l><lb/>Desoz un pin descent li mesagiers.</l>
 <l><lb/>A un perron de cristal entaillié</l>
@@ -2600,7 +2600,7 @@
 <l><lb/>﻿Que Aymeris s’adobe.
 
 </l></lg>
-<lg type="laisse" xml:id="044">
+<lg type="laisse" xml:id="L_044">
 
 <l><lb/>Quens Aymeris, li jentils et li bers,</l>
 <l><lb/>Ses garnemenz plus chiers a demandés;</l>
@@ -2646,7 +2646,7 @@
 <l><lb/>Qu’ele forment se dote.
 
 </l></lg>
-<lg type="laisse" xml:id="045">
+<lg type="laisse" xml:id="L_045">
 
 <l><lb/>Danz Aymeris s’en ist par mi la portes;
 
@@ -2671,7 +2671,7 @@
 <l><lb/>Qui la traïson menent.
 
 </l></lg>
-<lg type="laisse" xml:id="046">
+<lg type="laisse" xml:id="L_046">
 
 <l><lb/>Quens Aymeris s’estut en mi lo chanps;</l>
 <l><lb/>Ses destriers grate del destre pié devants;</l>
@@ -2690,7 +2690,7 @@
 <l><lb/>« Que je li ai promise. »
 
 </l></lg>
-<lg type="laisse" xml:id="047">
+<lg type="laisse" xml:id="L_047">
 
 <l><lb/>Li amirals fu de molt male lois:</l>
 <l><lb/>Premierement fet armer .iiii.rois,</l>
@@ -2723,7 +2723,7 @@
 <l><lb/>﻿« Qu’ançois perdrez la teste. »
 
 </l></lg>
-<lg type="laisse" xml:id="048">
+<lg type="laisse" xml:id="L_048">
 
 <l><lb/>Quens Aymeris se senti abatu,</l>
 <l><lb/>Il n’en pot mès, que Ferranz fu cheüzs;</l>
@@ -2758,7 +2758,7 @@
 <l><lb/>Sus les estriers s’afiche.
 
 </l></lg>
-<lg type="laisse" xml:id="049">
+<lg type="laisse" xml:id="L_049">
 
 <l><lb/>Quant Aymeris se sent navrez el cors,</l>
 <l><lb/>Il mist sa main en traverciers son dos,</l>
@@ -2778,7 +2778,7 @@
 <l><lb/>Car en char ne le toche.
 
 </l></lg>
-<lg type="laisse" xml:id="050">
+<lg type="laisse" xml:id="L_050">
 
 <l><lb/>Quant Aymeris ot lo roi abatu,</l>
 <l><lb/>De Finamonde l’a sor l’elme feru,</l>
@@ -2807,7 +2807,7 @@
 <l><lb/>A la premiere pointe.
 
 </l></lg>
-<lg type="laisse" xml:id="051">
+<lg type="laisse" xml:id="L_051">
 
 <l><lb/>Forz fu l’estors et merveillos et granz.</l>
 <l><lb/>Bien se defent quens Aymeris li blanss:</l>
@@ -2843,7 +2843,7 @@
 <l><lb/>Quant il lor rent s’espée.
 
 </l></lg>
-<lg type="laisse" xml:id="052">
+<lg type="laisse" xml:id="L_052">
 
 <l><lb/>Quant ont veü François de lor seignor</l>
 <l><lb/>Qu’il a rendu son branc a l’aumaçor,</l>
@@ -2862,7 +2862,7 @@
 
  </l><pb n="55" facs="https://fr.wikisource.org/wiki/Page:Anonyme_-_La_Mort_Aymeri_de_Narbonne.djvu/112"/>
 </l></lg>
-<lg type="laisse" xml:id="053">
+<lg type="laisse" xml:id="L_053">
 
 <l><lb/>Quant François ont de lor seignor veü</l>
 <l><lb/>Qu’il ot son branc a l’amiral rendu,</l>
@@ -2887,7 +2887,7 @@
 
  </l><pb n="56" facs="https://fr.wikisource.org/wiki/Page:Anonyme_-_La_Mort_Aymeri_de_Narbonne.djvu/113"/>
 </l></lg>
-<lg type="laisse" xml:id="054">
+<lg type="laisse" xml:id="L_054">
 
 <l><lb/>Vont s’en li Franc brochant a esperon,</l>
 <l><lb/>Deci en France que ja ne fineronts;</l>
@@ -2945,7 +2945,7 @@
 
  </l><pb n="58" facs="https://fr.wikisource.org/wiki/Page:Anonyme_-_La_Mort_Aymeri_de_Narbonne.djvu/115"/>
 </l></lg>
-<lg type="laisse" xml:id="055">
+<lg type="laisse" xml:id="L_055">
 
 <l><lb/>« Di vas! paien, » Aymeris lor disoit,</l>
 <l><lb/>« Vos m’avez pris, bien sai que m’ocirroizs;</l>
@@ -2962,7 +2962,7 @@
 <l><lb/>« Qui el cors n’a la vie. »
 
 </l></lg>
-<lg type="laisse" xml:id="056">
+<lg type="laisse" xml:id="L_056">
 
 <l><lb/>L’amirals ot lo preu conte Aymeri</l>
 <l><lb/>Que ne vuelt rien fere de lor plesirs:</l>
@@ -2990,7 +2990,7 @@
 <l><lb/>﻿« De tel mort vueil qu’il muire. »
 
 </l></lg>
-<lg type="laisse" xml:id="057">
+<lg type="laisse" xml:id="L_057">
 
 <l><lb/>Quens Aymeris s’estut en mi lo tref</l>
 <l><lb/>D’un grant espié par mi lo cors navrezs;</l>
@@ -3029,7 +3029,7 @@
 <l><lb/>« Et destruites nos jestes. »
 
 </l></lg>
-<lg type="laisse" xml:id="058">
+<lg type="laisse" xml:id="L_058">
 
 <l><lb/>Li amirals fu plains de grant boisdie,</l>
 <l><lb/>De traïson et de grant felonie.</l>
@@ -3058,7 +3058,7 @@
 <l><lb/>« Ançois me lessiez ardre. »
 
 </l></lg>
-<lg type="laisse" xml:id="059">
+<lg type="laisse" xml:id="L_059">
 
 <l><lb/>Dame Hermenjarz ot son seignor parlers;</l>
 <l><lb/>Bien le conut quant el le vit mener.</l>
@@ -3097,7 +3097,7 @@
 
  </l><pb n="63" facs="https://fr.wikisource.org/wiki/Page:Anonyme_-_La_Mort_Aymeri_de_Narbonne.djvu/120"/>
 </l></lg>
-<lg type="laisse" xml:id="060">
+<lg type="laisse" xml:id="L_060">
 
 <l><lb/>Quant Aymeris vit lo feu angoissos</l>
 <l><lb/>Qui fu ardanz, bruianz et doleross;</l>
@@ -3156,7 +3156,7 @@
 <l><lb/>« Escotez ma parole. »
 
 </l></lg>
-<lg type="laisse" xml:id="061">
+<lg type="laisse" xml:id="L_061">
 
 <l><lb/>L’amirals ot dame Hermenjart parler,</l>
 <l><lb/>Devant li fist Aymeri arrester,</l>
@@ -3199,7 +3199,7 @@
 <l><lb/>﻿« Site amirals de Perse. »
 
 </l></lg>
-<lg type="laisse" xml:id="062">
+<lg type="laisse" xml:id="L_062">
 
 <l><lb/>Li amirals fu molt mal talentos,</l>
 <l><lb/>De vices plains et de granz traïsons,</l>
@@ -3220,7 +3220,7 @@
 <l><lb/>« Quite vos claim Narbone. »
 
 </l></lg>
-<lg type="laisse" xml:id="063">
+<lg type="laisse" xml:id="L_063">
 
 <l><lb/>Li amirals fu molt fax et eschis,</l>
 <l><lb/>De traïson estoit plains et sotiss:</l>
@@ -3251,7 +3251,7 @@
 <l><lb/>La cité ont perdue.
 
 </l></lg>
-<lg type="laisse" xml:id="064">
+<lg type="laisse" xml:id="L_064">
 
 <l><lb/>Dame Hermenjarz vint a l’uis de la tor,</l>
 <l><lb/>Plorant en vint acolant son seignor.</l>
@@ -3307,7 +3307,7 @@
 <l><lb/>« Dex m’envoit vostre aïes! »
 
 </l></lg>
-<lg type="laisse" xml:id="065">
+<lg type="laisse" xml:id="L_065">
 
 <l><lb/>Quant l’amirals ot Nerbone traïe</l>
 <l><lb/>Li suen baron corurent par la vile,</l>
@@ -3373,7 +3373,7 @@
 <l><lb/>﻿« Irai je el mesaje. »
 
 </l></lg>
-<lg type="laisse" xml:id="066">
+<lg type="laisse" xml:id="L_066">
 
 <l><lb/>Li Sarrazin ne vodrent prendre termes:</l>
 <l><lb/>De beles armes se conroient et vestents;</l>
@@ -3399,7 +3399,7 @@
 <l><lb/>Droitement a Narbone.
 
 </l></lg>
-<lg type="laisse" xml:id="067">
+<lg type="laisse" xml:id="L_067">
 
 <l><lb/>La jent paiene que li cors Deu cravant,</l>
 <l><lb/>Ont a Nerbone pris lor herberjement.</l>
@@ -3442,7 +3442,7 @@
 <l><lb/>﻿« Si avrai la tor saine. »
 
 </l></lg>
-<lg type="laisse" xml:id="068">
+<lg type="laisse" xml:id="L_068">
 
 <l><lb/>Or a li rois toz ses fès aconpliz,</l>
 <l><lb/>Ne mès la tor dont il n’est pas sesizs;
@@ -3522,7 +3522,7 @@
 <l><lb/>« Car n’en iront sanz perte. »
 
 </l></lg>
-<lg type="laisse" xml:id="069">
+<lg type="laisse" xml:id="L_069">
 
 <l><lb/>Li rois Guiberz fu preuz et vertuos,</l>
 <l><lb/>Hardiz as armes et fiers et corajos.</l>
@@ -3566,7 +3566,7 @@
 <l><lb/>« Dex destruie ta jestes! »
 
 </l></lg>
-<lg type="laisse" xml:id="070">
+<lg type="laisse" xml:id="L_070">
 
 <l><lb/>Molt par fu liez li frans quens Aymeris,</l>
 <l><lb/>Quant fu rescos et si borjois garis;</l>
@@ -3632,7 +3632,7 @@
 <l><lb/>Ci commence barnaje.
 
 </l></lg>
-<lg type="laisse" xml:id="071">
+<lg type="laisse" xml:id="L_071">
 
 <l><lb/>Granz fu la plaigne par desoz Roche Agnieres;</l>
 <l><lb/>N’i veïssiez ne conble ne bruiere,</l>
@@ -3659,7 +3659,7 @@
 <l><lb/>Quant venu sont ensenble.
 
 </l></lg>
-<lg type="laisse" xml:id="072">
+<lg type="laisse" xml:id="L_072">
 
 <l><lb/>Forz fu l’estor soz lo pui de Monbrins;</l>
 <l><lb/>Turc et François furent ce jor voisin.</l>
@@ -3681,7 +3681,7 @@
 <l><lb/>A lor espées nues.
 
 </l></lg>
-<lg type="laisse" xml:id="073">
+<lg type="laisse" xml:id="L_073">
 
 <l><lb/>Quant Sarrazin furent de chanp jeté,</l>
 <l><lb/>A molt grant poine sont des nos desevré.</l>
@@ -3731,7 +3731,7 @@
 
  </l><pb n="85" facs="https://fr.wikisource.org/wiki/Page:Anonyme_-_La_Mort_Aymeri_de_Narbonne.djvu/142"/>
 </l></lg>
-<lg type="laisse" xml:id="074">
+<lg type="laisse" xml:id="L_074">
 
 <l><lb/>Plest vos oïr com li nostre ont errés?</l>
 <l><lb/>Ainz que l’estor poïst estre afiné,</l>
@@ -3803,7 +3803,7 @@
 <l><lb/>Et si nel sevent mie.
 
 </l></lg>
-<lg type="laisse" xml:id="075">
+<lg type="laisse" xml:id="L_075">
 
 <l><lb/>François se ventent, por les dames s’orgoillents;</l>
 <l><lb/>Cele nuit jurent entre l’eve et la broilles:</l>
@@ -3813,7 +3813,7 @@
 
  </l><pb n="88" facs="https://fr.wikisource.org/wiki/Page:Anonyme_-_La_Mort_Aymeri_de_Narbonne.djvu/145"/>
 </l></lg>
-<lg type="laisse" xml:id="076">
+<lg type="laisse" xml:id="L_076">
 
 <l><lb/>Auquaires broche et passe lo païs,</l>
 <l><lb/>Isnelement, ne prist cesse ne fins;</l>
@@ -3877,7 +3877,7 @@
 <l><lb/>﻿« A Corsolt de sa perte. »
 
 </l></lg>
-<lg type="laisse" xml:id="077">
+<lg type="laisse" xml:id="L_077">
 
 <l><lb/>« Sarrazin frere, » dist Aymeris li ber,</l>
 <l><lb/>« Je connois bien ce destrier que avezs:</l>
@@ -3925,7 +3925,7 @@
 
  </l><pb n="92" facs="https://fr.wikisource.org/wiki/Page:Anonyme_-_La_Mort_Aymeri_de_Narbonne.djvu/149"/>
 </l></lg>
-<lg type="laisse" xml:id="078">
+<lg type="laisse" xml:id="L_078">
 
 <l><lb/>« Seignor baron, » dist li quens Aymeris,</l>
 <l><lb/>« Or est Auquaires durement mes amiss;</l>
@@ -3945,7 +3945,7 @@
 <l><lb/>« Dex te doinst bon coraje. »
 
 </l></lg>
-<lg type="laisse" xml:id="079">
+<lg type="laisse" xml:id="L_079">
 
 <l><lb/>Aymeris s’arme et Auquaires li ber</l>
 <l><lb/>De bons aubers et des elmes jemez,</l>
@@ -3987,7 +3987,7 @@
 <l><lb/>« Et Nerbone vos rende. »
 
 </l></lg>
-<lg type="laisse" xml:id="080">
+<lg type="laisse" xml:id="L_080">
 
 <l><lb/>Va s’en Auquaires et Aymeris li bers;</l>
 <l><lb/>Si ont lessié lo droit chemin ferré,</l>
@@ -4044,7 +4044,7 @@
 <l><lb/>﻿Qu’il estoit de sa jeste.
 
 </l></lg>
-<lg type="laisse" xml:id="081">
+<lg type="laisse" xml:id="L_081">
 
 <l><lb/>« Sire Gautier, » li preuz Guillaumes a dit,</l>
 <l><lb/>« Fustes pieça a Rains ne a Pariss?</l>
@@ -4086,7 +4086,7 @@
 <l><lb/>﻿Qui abat la rosée.
 
 </l></lg>
-<lg type="laisse" xml:id="082">
+<lg type="laisse" xml:id="L_082">
 
 <l><lb/>Cheval demande Guillaumes li guerriers,</l>
 <l><lb/>Et l’en li va lo suen apareilliers;</l>
@@ -4142,7 +4142,7 @@
 <l><lb/>« Si la menrai en France. »
 
 </l></lg>
-<lg type="laisse" xml:id="083">
+<lg type="laisse" xml:id="L_083">
 
 <l><lb/>Li quens Guillaumes droit a son tré revint,</l>
 <l><lb/>Iluec trova et Bernart et Garin,</l>
@@ -4166,7 +4166,7 @@
 <l><lb/>« Si nos diront noveles. »
 
 </l></lg>
-<lg type="laisse" xml:id="084">
+<lg type="laisse" xml:id="L_084">
 
 <l><lb/>Nostre emperere fu molt jentils et ber</l>
 <l><lb/>Qui les puceles fist devant lui meners;</l>
@@ -4278,7 +4278,7 @@
 <l><lb/>« Dex le vos doinst bien fere. »
 
 </l></lg>
-<lg type="laisse" xml:id="085">
+<lg type="laisse" xml:id="L_085">
 
 <l><lb/>Looys monte a la chiere hardie</l>
 <l><lb/>Et Aymeris a la barbe florie,</l>
@@ -4373,7 +4373,7 @@
 <l><lb/>Car fierement se dote.
 
 </l></lg>
-<lg type="laisse" xml:id="086">
+<lg type="laisse" xml:id="L_086">
 
 <l><lb/>Plest vos oïr com François esploitierents?</l>
 <l><lb/>En Ortobrie la nuit se herbergierents;</l>
@@ -4428,7 +4428,7 @@
 <l><lb/>Si guerpissent les rotes.
 
 </l></lg>
-<lg type="laisse" xml:id="087">
+<lg type="laisse" xml:id="L_087">
 
 <l><lb/>Li Sajetaire ont la rote guerpie,</l>
 <l><lb/>La beste vint a sa herberjerie.</l>
@@ -4472,7 +4472,7 @@
 <l><lb/>﻿De la nobile jeste.
 
 </l></lg>
-<lg type="laisse" xml:id="088">
+<lg type="laisse" xml:id="L_088">
 
 <l><lb/>Auquaires broche, li fillex Aymeri,</l>
 <l><lb/>Qui l’oriflanbe paumoia et brandi.</l>
@@ -4509,7 +4509,7 @@
 <l><lb/>﻿« Et ses autres puceles. »
 
 </l></lg>
-<lg type="laisse" xml:id="089">
+<lg type="laisse" xml:id="L_089">
 
 <l><lb/>Seignor, oez un vers bon et seant</l>
 <l><lb/>De fiere jeste, de la melz conbatant</l>
@@ -4558,7 +4558,7 @@
 <l><lb/>« Vos li rendrez sa pertes! »
 
 </l></lg>
-<lg type="laisse" xml:id="090">
+<lg type="laisse" xml:id="L_090">
 
 <l><lb/>Quant ont veü li fil dant Aymeri,</l>
 <l><lb/>Lo roi Corsolt contre terre jesir,</l>
@@ -4600,7 +4600,7 @@
 <l><lb/>Et sa fiere conpaigne.
 
 </l></lg>
-<lg type="laisse" xml:id="091">
+<lg type="laisse" xml:id="L_091">
 
 <l><lb/>Forz fu l’estor, merveillos et pesanz.</l>
 <l><lb/>Li quens Guiberz i ot ce jor ahans;</l>
@@ -4683,7 +4683,7 @@
 <l><lb/>En la sale a Nerbone.
 
 </l></lg>
-<lg type="laisse" xml:id="092">
+<lg type="laisse" xml:id="L_092">
 
 <l><lb/>Quant Looys ot Aymeri corner,</l>
 <l><lb/>Adont sot il par droite verité</l>
@@ -4731,7 +4731,7 @@
 <l><lb/>Qui puis ne redrecierent.
 
 </l></lg>
-<lg type="laisse" xml:id="093">
+<lg type="laisse" xml:id="L_093">
 
 <l><lb/>La ou François et Paien s’entr’encontrent,</l>
 <l><lb/>Molt durement fierent et esperonent,</l>
@@ -4743,7 +4743,7 @@
 <l><lb/>﻿Ce fu domaje et perte.
 
 </l></lg>
-<lg type="laisse" xml:id="094">
+<lg type="laisse" xml:id="L_094">
 
 <l><lb/>Quant Sarrazin sont des nos departi,</l>
 <l><lb/>De .xx.mil homes ne remestrent que .x.s;</l>
@@ -4807,7 +4807,7 @@
 <l><lb/>« La bataille ai vaincue. »
 
 </l></lg>
-<lg type="laisse" xml:id="095">
+<lg type="laisse" xml:id="L_095">
 
 <l><lb/>Quant veü ont Sarrazin et Escler,</l>
 <l><lb/>Lor seignor mort, ocis et afolé,</l>
@@ -4856,7 +4856,7 @@
 
  </l><pb n="125" facs="https://fr.wikisource.org/wiki/Page:Anonyme_-_La_Mort_Aymeri_de_Narbonne.djvu/182"/>
 </l></lg>
-<lg type="laisse" xml:id="096">
+<lg type="laisse" xml:id="L_096">
 
 <l><lb/>Oez, seignor, que Dex vos beneïe,</l>
 <l><lb/>Li glorios, li filz sainte Marie.</l>
@@ -4935,7 +4935,7 @@
 <l><lb/>Ce raconte l’estoire.
 
 </l></lg>
-<lg type="laisse" xml:id="097">
+<lg type="laisse" xml:id="L_097">
 
 <l><lb/>Li Sajetaire furent en lor cités;</l>
 <l><lb/>Devant els font les dames amener</l>
@@ -5057,7 +5057,7 @@
 <l><lb/>« Et aquiter la marche. »
 
 </l></lg>
-<lg type="laisse" xml:id="098">
+<lg type="laisse" xml:id="L_098">
 
 <l><lb/>Oez, seignor, que Dex vos beneïe,</l>
 <l><lb/>Li glorios, li filz sainte Maries!
@@ -5095,7 +5095,7 @@
 
  </l><pb n="133" facs="https://fr.wikisource.org/wiki/Page:Anonyme_-_La_Mort_Aymeri_de_Narbonne.djvu/190"/>
 </l></lg>
-<lg type="laisse" xml:id="099">
+<lg type="laisse" xml:id="L_099">
 
 <l><lb/>La tierce fu dant Aymeri lo riche.</l>
 <l><lb/>La soe jeste fu la plus seignories:</l>
@@ -5184,7 +5184,7 @@
 
  </l><pb n="136" facs="https://fr.wikisource.org/wiki/Page:Anonyme_-_La_Mort_Aymeri_de_Narbonne.djvu/193"/>
 </l></lg>
-<lg type="laisse" xml:id="100">
+<lg type="laisse" xml:id="L_100">
 
 <l><lb/>Li ber Auquaires dant Aymeri apeles:</l>
 <l><lb/>« Sire parrains, com je puis dolanz estre.</l>
@@ -5202,7 +5202,7 @@
 <l><lb/>« Si soit forte ne hautes! »
 
 </l></lg>
-<lg type="laisse" xml:id="101">
+<lg type="laisse" xml:id="L_101">
 
 <l><lb/>Li quens Auquaires ne l’a mis en oblis;</l>
 <l><lb/>Il en apele Guillaume lo marchiss:</l>
@@ -5263,7 +5263,7 @@
 <l><lb/>« Quant la cité ert prise. »
 
 </l></lg>
-<lg type="laisse" xml:id="102">
+<lg type="laisse" xml:id="L_102">
 
 <l><lb/>« Par ma foi, sire, » ce dist la messagiere,</l>
 <l><lb/>« Ja la cité n’ert par force bailliées;</l>
@@ -5290,7 +5290,7 @@
 <l><lb/>« El chief de la montaigne. »
 
 </l></lg>
-<lg type="laisse" xml:id="103">
+<lg type="laisse" xml:id="L_103">
 
 <l><lb/>Dist la puceles: « Sire droiz enperere,</l>
 <l><lb/>« Esclabarie est en un pui fermée.</l>
@@ -5310,7 +5310,7 @@
 
  </l><pb n="140" facs="https://fr.wikisource.org/wiki/Page:Anonyme_-_La_Mort_Aymeri_de_Narbonne.djvu/197"/>
 </l></lg>
-<lg type="laisse" xml:id="104">
+<lg type="laisse" xml:id="L_104">
 
 <l><lb/>Dist Aymeriss: « Entendez, bele amies:</l>
 <l><lb/>« Je vos plevis par foi sanz tricherie,</l>
@@ -5338,7 +5338,7 @@
 
  </l><pb n="141" facs="https://fr.wikisource.org/wiki/Page:Anonyme_-_La_Mort_Aymeri_de_Narbonne.djvu/198"/>
 </l></lg>
-<lg type="laisse" xml:id="105">
+<lg type="laisse" xml:id="L_105">
 
 <l><lb/>Quant Aymeris entra en la cité,</l>
 <l><lb/>S’aloient ja li François adober</l>
@@ -5349,7 +5349,7 @@
 <l><lb/>As lojes et as tentes.
 
 </l></lg>
-<lg type="laisse" xml:id="106">
+<lg type="laisse" xml:id="L_106">
 
 <l><lb/>Quant François ont la parole creante</l>
 <l><lb/>Dont Looys et Aymeris se vante,</l>
@@ -5362,7 +5362,7 @@
 <l><lb/>Que sa terre li rende.
 
 </l></lg>
-<lg type="laisse" xml:id="107">
+<lg type="laisse" xml:id="L_107">
 
 <l><lb/>Guibelins s’arme desoz l’onbre d’un lor</l>
 <l><lb/>Et vest l’auberc qui fu Sanson lo forts:</l>
@@ -5375,7 +5375,7 @@
 <l><lb/>Si a dure la maille.
 
 </l></lg>
-<lg type="laisse" xml:id="108">
+<lg type="laisse" xml:id="L_108">
 
 <l><lb/>Guibelins ceint Aigredure s’espée,</l>
 <l><lb/>Toise ot de lonc, plaine palme fu lée,</l>
@@ -5408,7 +5408,7 @@
 <l><lb/>Trop sont les armes riches.
 
 </l></lg>
-<lg type="laisse" xml:id="109">
+<lg type="laisse" xml:id="L_109">
 
 <l><lb/>Or ot Guiberz ses garnemenz plus chierss;</l>
 <l><lb/>L’en li ferma ses esperons es piezs;</l>
@@ -5422,7 +5422,7 @@
 <l><lb/>Toz jorz desire a corre.
 
 </l></lg>
-<lg type="laisse" xml:id="110">
+<lg type="laisse" xml:id="L_110">
 
 <l><lb/>Hanste ot Guiberz au roje confanon.</l>
 <l><lb/>En mi la place li traient Pliemonts;</l>
@@ -5439,7 +5439,7 @@
 <l><lb/>Des lojes et des tentes.
 
 </l></lg>
-<lg type="laisse" xml:id="111">
+<lg type="laisse" xml:id="L_111">
 
 <l><lb/>Premiers s’en ist li bons rois Looys,</l>
 <l><lb/>Hernauz et Bueves et Bernarz et Garins.</l>
@@ -5455,7 +5455,7 @@
 <l><lb/>﻿« Aubers, elme ne broigne. »
 
 </l></lg>
-<lg type="laisse" xml:id="112">
+<lg type="laisse" xml:id="L_112">
 
 <l><lb/>Aymeris fet soner .xxx. olifanz,</l>
 <l><lb/>Bondir en fet Nerbone la plus grant,</l>
@@ -5485,7 +5485,7 @@
 <l><lb/>Et la soe conpaigne.
 
 </l></lg>
-<lg type="laisse" xml:id="113">
+<lg type="laisse" xml:id="L_113">
 
 <l><lb/>Quens Aymeris et la soe mesniée</l>
 <l><lb/>Soz la cité iluec se herberjierents;</l>
@@ -5499,7 +5499,7 @@
 <l><lb/>﻿Car durement se dotent.
 
 </l></lg>
-<lg type="laisse" xml:id="114">
+<lg type="laisse" xml:id="L_114">
 
 <l><lb/>Seignor, oez chançon de verité,</l>
 <l><lb/>Bone et bien fete, nus ne la doit blasmers;</l>
@@ -5560,7 +5560,7 @@
 <l><lb/>El chief de la montaigne.
 
 </l></lg>
-<lg type="laisse" xml:id="115">
+<lg type="laisse" xml:id="L_115">
 
 <l><lb/>Li Sajetaire ont lor estal porpris</l>
 <l><lb/>Et li François les alerent ferir.</l>
@@ -5578,7 +5578,7 @@
 <l><lb/>﻿D’espiez et de sajetes.
 
 </l></lg>
-<lg type="laisse" xml:id="116">
+<lg type="laisse" xml:id="L_116">
 
 <l><lb/>Li Sajetaire se sont tuit arresté,</l>
 <l><lb/>El coig del mont et rengié et serré.
@@ -5673,7 +5673,7 @@
 <l><lb/>« Jusqu’au jor del joïse. »
 
 </l></lg>
-<lg type="laisse" xml:id="117">
+<lg type="laisse" xml:id="L_117">
 
 <l><lb/>La damoisele si fu durement liée</l>
 <l><lb/>Quant de l’amor Joifroi fu apoiées;</l>
@@ -5692,7 +5692,7 @@
 <l><lb/>Ce fu domaje et perte.
 
 </l></lg>
-<lg type="laisse" xml:id="118">
+<lg type="laisse" xml:id="L_118">
 
 <l><lb/>Quant Aymeris vit ses homes morir,</l>
 <l><lb/>Molt li en poise, ne vos en quier mentir.</l>
@@ -5714,7 +5714,7 @@
 <l><lb/>Et la porte fu close.
 
 </l></lg>
-<lg type="laisse" xml:id="119">
+<lg type="laisse" xml:id="L_119">
 
 <l><lb/>Vers la cité s’en vont li glot fuiants;</l>
 <l><lb/>Deci au pont sont alé a itant,</l>
@@ -5748,7 +5748,7 @@
 <l><lb/>Poisse trespasser l’ores!
 
 </l></lg>
-<lg type="laisse" xml:id="120">
+<lg type="laisse" xml:id="L_120">
 
 <l><lb/>En la grant presse des glotons maleïz</l>
 <l><lb/>S’est enbatuz li frans quens Aymeris.</l>
@@ -5801,7 +5801,7 @@
 <l><lb/>O les martirs en gloire.
 
 </l></lg>
-<lg type="laisse" xml:id="121">
+<lg type="laisse" xml:id="L_121">
 
 <l><lb/>Quant li bons quens ot la vie finée,</l>
 <l><lb/>Lieve li criz, la noise et la huées;</l>
@@ -5830,7 +5830,7 @@
 <l><lb/>Lo franc conte nobile.
 
 </l></lg>
-<lg type="laisse" xml:id="122">
+<lg type="laisse" xml:id="L_122">
 
 <l><lb/>Rois Looys de France l’asolue</l>
 <l><lb/>Et li baron cui Jhesu face ajue</l>
@@ -5874,7 +5874,7 @@
 <l><lb/>Si l’enportent en gloire.
 
 </l></lg>
-<lg type="laisse" xml:id="123">
+<lg type="laisse" xml:id="L_123">
 
 <l><lb/>Morz fu Garins au coraje vaillants;</l>
 <l><lb/>Grant duel en font si baron et sa jents;</l>
@@ -5949,7 +5949,7 @@
 <l><lb/>﻿En perdurable vie.
 
 </l></lg>
-<lg type="laisse" xml:id="124">
+<lg type="laisse" xml:id="L_124">
 
 <l><lb/>Or furent mort li .iii.baron de pris,</l>
 <l><lb/>Li quens Bernarz et ses pere Aymeris</l>
@@ -6035,7 +6035,7 @@
 
  </l><pb n="164" facs="https://fr.wikisource.org/wiki/Page:Anonyme_-_La_Mort_Aymeri_de_Narbonne.djvu/221"/>
 </l></lg>
-<lg type="laisse" xml:id="125">
+<lg type="laisse" xml:id="L_125">
 
 <l><lb/>Li Sajetaires a Joifroi coneü</l>
 <l><lb/>Qui en sa chartre ot longuement jeü.</l>
@@ -6072,7 +6072,7 @@
 <l><lb/>﻿Tel dolor ne tel perte.
 
 </l></lg>
-<lg type="laisse" xml:id="126">
+<lg type="laisse" xml:id="L_126">
 
 <l><lb/>Quant ocis furent la pute jent haïe,</l>
 <l><lb/>Devant la porte de la cité antie</l>
@@ -6108,7 +6108,7 @@
 <l><lb/>Et Garin d’Anseüne.
 
 </l></lg>
-<lg type="laisse" xml:id="127">
+<lg type="laisse" xml:id="L_127">
 
 <l><lb/>Iluec ou fu la bataille pesant</l>
 <l><lb/>Font beneïr un cimetere grant,</l>
@@ -6143,7 +6143,7 @@
 <l><lb/>Se de duel ne chiet morte.
 
 </l></lg>
-<lg type="laisse" xml:id="128">
+<lg type="laisse" xml:id="L_128">
 
 <l><lb/>Quant enterré sont li baron de pris</l>
 <l><lb/>Et enbasmez fu li quens Aymeris,</l>
@@ -6176,7 +6176,7 @@
 <l><lb/>Ainz que voie Nerbone.
 
 </l></lg>
-<lg type="laisse" xml:id="129">
+<lg type="laisse" xml:id="L_129">
 
 <l><lb/>Vont s’en François ou n’ot que corrocier</l>
 <l><lb/>Droit a Nerbone lo chemin droiturier.</l>
@@ -6226,7 +6226,7 @@
 
  </l><pb n="170" facs="https://fr.wikisource.org/wiki/Page:Anonyme_-_La_Mort_Aymeri_de_Narbonne.djvu/227"/>
 </l></lg>
-<lg type="laisse" xml:id="130">
+<lg type="laisse" xml:id="L_130">
 
 <l><lb/>Quant a la guivre ont la teste copée,</l>
 <l><lb/>A grant merveilles l’ont entr’ax esgardée,</l>
@@ -6293,7 +6293,7 @@
 <l><lb/>A la plus mestre yglise.
 
 </l></lg>
-<lg type="laisse" xml:id="131">
+<lg type="laisse" xml:id="L_131">
 
 <l><lb/>Dedenz Nerbone a grant procession</l>
 <l><lb/>Portent la biere a Saint Pol lo barons;</l>
@@ -6319,7 +6319,7 @@
 
  </l><pb n="173" facs="https://fr.wikisource.org/wiki/Page:Anonyme_-_La_Mort_Aymeri_de_Narbonne.djvu/230"/>
 </l></lg>
-<lg type="laisse" xml:id="132">
+<lg type="laisse" xml:id="L_132">
 
 <l><lb/>Por Aymeri le franc conte poissant,</l>
 <l><lb/>Firent un duel li petit et li grant</l>
@@ -6362,7 +6362,7 @@
 <l><lb/>Firent la sepoture.
 
 </l></lg>
-<lg type="laisse" xml:id="133">
+<lg type="laisse" xml:id="L_133">
 
 <l><lb/>Après la messe ont lo conte enterré</l>
 <l><lb/>En un sarqu de vert marbre listé</l>
@@ -6416,7 +6416,7 @@
 <l><lb/>Lez Aymeri lo conte.
 
 </l></lg>
-<lg type="laisse" xml:id="134">
+<lg type="laisse" xml:id="L_134">
 
 <l><lb/>De grant duel fu la terre replenie</l>
 <l><lb/>Quant Aymeris ot finée la vie</l>
