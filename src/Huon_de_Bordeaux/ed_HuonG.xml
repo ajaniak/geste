@@ -41,9 +41,9 @@
                     <email>jbcamps@hotmail.com</email>
                 </authority>
                 <availability status="free">
-                    <licence target="http://creativecommons.org/publicdomain/mark/1.0/"> Les textes
+                    <licence target="http://creativecommons.org/publicdomain/mark/1.0/">Les textes
                         d'auteurs médiévaux sont dans le domaine public.</licence>
-                    <licence target="http://creativecommons.org/licenses/by-sa/4.0/"> Le travail
+                    <licence target="http://creativecommons.org/licenses/by-sa/4.0/">Le travail
                         d'encodage et d'annotation sont mis à disposition selon les termes de la
                         licence Creative Commons Attribution - Partage dans les Mêmes Conditions 4.0
                         International (CC BY-SA 4.0). </licence>
@@ -146,7 +146,6 @@
                 <p><title type="main">HUON DE BORDEAUX</title></p>
                 <p>PARIS<lb/><lb/>Chez F. Vieweg, Libraire-Éditeur <lb/>Maison A. FRANK <lb/>rue de
                     richelieu, n° 67 <lb/>MDCCCLX</p>
-                <!-- une ligne précède cette ligne, faut-elle la notifier ? -->
 
                 <pb n="6"
                     facs="https://fr.wikisource.org/wiki/Page:Anonyme_-_Huon_de_Bordeaux,_chanson_de_geste.djvu/6"/>
@@ -156,7 +155,6 @@
                 <pb n="7"
                     facs="https://fr.wikisource.org/wiki/Page:Anonyme_-_Huon_de_Bordeaux,_chanson_de_geste.djvu/7"/>
                 <p><title type="main">HUON DE BORDEAUX</title></p>
-                <!-- p ou author ou title ????  -->
                 <p><title type="sub">CHANSON DE GESTE</title></p>
 
                 <pb n="8"
@@ -196,7 +194,7 @@
                     ont été plus ou moins brillantes, mais dont le cours ne s’est jamais in- <pb
                         n="ij"
                         facs="https://fr.wikisource.org/wiki/Page:Anonyme_-_Huon_de_Bordeaux,_chanson_de_geste.djvu/12"
-                    /> terrompu. Suivons-les dans cette longue carrière, où ils ont eu la bonne
+                    />terrompu. Suivons-les dans cette longue carrière, où ils ont eu la bonne
                     fortune de rencontrer et d’intéresser en leur faveur, et Shakespeare et Wieland
                     et Weber, ces trois illustres patrons qui ont ravivé leur gloire et lui ont
                     prêté un éclat qu’elle n’aurait jamais eu sans eux. Mais disons d’abord ce
@@ -219,7 +217,7 @@
                     Gérard, dont l’aîné est le héros de ce poëme. Les deux jeunes damoiseaux n’ont
                     point encore relevé leur <pb n="iij"
                         facs="https://fr.wikisource.org/wiki/Page:Anonyme_-_Huon_de_Bordeaux,_chanson_de_geste.djvu/13"
-                    /> fief, selon le langage du temps ; en d’autres termes, ils ne sont point
+                    />fief, selon le langage du temps ; en d’autres termes, ils ne sont point
                     encore venus rendre hommage à Charlemagne, leur suzerain. Un traître qui
                     convoite leur héritage, Amaury de la Tour de Rivier, les dénonce comme des
                     vassaux rebelles au moment où le vieil empereur, accablé sous le poids des
@@ -242,7 +240,7 @@
                     ses pairs, dont il a refusé d’écouter les représentations et les prières,
                     l’empereur consent à <pb n="iv"
                         facs="https://fr.wikisource.org/wiki/Page:Anonyme_-_Huon_de_Bordeaux,_chanson_de_geste.djvu/14"
-                    /> pardonner, mais à quel prix ! En imposant à Huon une mission si lointaine, si
+                    />pardonner, mais à quel prix ! En imposant à Huon une mission si lointaine, si
                     étrange, si périlleuse, qu’elle semble à tous un nouvel arrêt de mort.</p>
                 <p>Huon se soumet à cette terrible pénitence et part pour expier son prétendu crime.
                     Alors s’ouvre devant lui une longue suite d’aventures, une succession de dangers
@@ -264,7 +262,7 @@
                     compare entre elles les trois parties très distinctes et très inégales du poëme.
                     La première s’étend jus- <pb n="v"
                         facs="https://fr.wikisource.org/wiki/Page:Anonyme_-_Huon_de_Bordeaux,_chanson_de_geste.djvu/15"
-                    /> qu’au départ de Huon, la seconde raconte son périlleux voyage, la troisième
+                    />qu’au départ de Huon, la seconde raconte son périlleux voyage, la troisième
                     commence à son retour et achève le récit. C’est la seconde partie qui est de
                     beaucoup la plus développée : elle compose près des deux tiers de l’œuvre. Dans
                     l’intention de l’auteur, elle en devait faire le fond, l’intérêt principal, la
@@ -286,7 +284,7 @@
                     ; il appartenait encore à cette famille sérieuse de trouvères qui ne chantaient
                     que les héros et les saints et laissaient à des jongleurs subalter- <pb n="vj"
                         facs="https://fr.wikisource.org/wiki/Page:Anonyme_-_Huon_de_Bordeaux,_chanson_de_geste.djvu/16"
-                    /> nes les récits d’un ordre inférieur <note n="1">Cette distinction très
+                    />nes les récits d’un ordre inférieur <note n="1">Cette distinction très
                         intéressante nous est attestée par un curieux passage dont nous devons
                         l’indication à notre savant et obligeant confrère M. Léopold Delisle. Voici
                         ce passage, extrait d’une Somme sur la pénitence (Summa de penitentia),
@@ -325,7 +323,7 @@
                         p.144.)</note>. Il s’est donc montré fidèle aux traditions de ses
                     prédécesseurs <pb n="vij"
                         facs="https://fr.wikisource.org/wiki/Page:Anonyme_-_Huon_de_Bordeaux,_chanson_de_geste.djvu/17"
-                    /> en choisissant un sujet ou tout au moins un cadre carlovingien, en donnant à
+                    />en choisissant un sujet ou tout au moins un cadre carlovingien, en donnant à
                     son poëme la forme consacrée de la chanson de geste, et en adoptant le mètre de
                     dix syllabes, qui est celui des plus anciennes compositions de ce genre. Mais,
                     en même temps, il nous semble avoir cédé au goût de son époque et aux idées
@@ -345,12 +343,12 @@
                         <!-- <l>Car por çou vin ge de France le rené,</l> 
             <l>Por aventures et enquerre et trover.</l>
         <l>Une m’en dites que je veul esprover.</l> -->(P.
-                        137.)</note> et en introduisant dans son poëme le merveilleux féerique. À ce
+                        137.)</note>et en introduisant dans son poëme le merveilleux féerique. À ce
                     signe nous croyons reconnaître un contemporain de Chrétien de Troyes, et nous
                     estimons que si notre poëte ne voulait pas suivre jusqu’au bout le novateur, le
                     nouveau jongleur, comme on disait alors, il ne <pb n="viij"
                         facs="https://fr.wikisource.org/wiki/Page:Anonyme_-_Huon_de_Bordeaux,_chanson_de_geste.djvu/18"
-                    /> laissait pas cependant de subir son influence et de recourir, dans une
+                    />laissait pas cependant de subir son influence et de recourir, dans une
                     certaine mesure, aux mêmes moyens que lui, pour réveiller la curiosité et
                     renouveler l’enthousiasme d’un public un peu blasé par l’histoire rebattue de
                     Charlemagne et des douze pairs.</p>
@@ -363,7 +361,7 @@
                     suffisamment autoriser. En quoi nous nous éloignons à regret de l’opinion d’un
                     illustre savant allemand, M. Ferdinand Wolf, qui connaît du poëme de Huon de
                     Bordeaux la version même que nous offrons au public, et qui ne semble pas la
-                    considérer comme la plus ancienne <note n="1"> Voyez le Mémoire de M. Wolf :
+                    considérer comme la plus ancienne <note n="1">Voyez le Mémoire de M. Wolf :
                         Uber die beiden wiederaufgefundenen Niederlændischen Volksbücher von der
                         Kœniginn Sibille und von Huon von Bordeaux. (Mémoires de l’Académie
                         Impériale de Vienne, T. VIII. — Tirage à part, Vienne, 1857, p. 21.)</note>.
@@ -373,7 +371,7 @@
                         Maatschappij der Nederlandsche Letterkunde. 4e partie, Leyde, 1847, in-8o,
                         p. 261-304.</note>. Ces fragments en <pb n="ix"
                         facs="https://fr.wikisource.org/wiki/Page:Anonyme_-_Huon_de_Bordeaux,_chanson_de_geste.djvu/19"
-                    /> vers sont des débris d’un poëme imité sans aucun doute du français et
+                    />vers sont des débris d’un poëme imité sans aucun doute du français et
                     composé, dit M. Wolf, d’accord sur ce point avec M. Jonckbloet, à l’époque de la
                     décadence de la poésie chevaleresque, c’est-à-dire vers la fin du XIVe ou le
                     commencement du XVe siècle. Mais, ajoute M. Wolf, l’original français qui a
@@ -395,7 +393,7 @@
                     d’insistance, à ce qu’il nous semble. Aussi nous sentons-nous plus à l’aise pour
                     les discuter et pour essayer de les faire servir à une conclusion <pb n="x"
                         facs="https://fr.wikisource.org/wiki/Page:Anonyme_-_Huon_de_Bordeaux,_chanson_de_geste.djvu/20"
-                    /> toute contraire. Remarquons d’abord, et M. Wolf le sait mieux que nous, que
+                    />toute contraire. Remarquons d’abord, et M. Wolf le sait mieux que nous, que
                     plus une légende est ancienne, plus elle est simple. C’est une vérité que
                     confirme notamment l’étude de tous les récits poétiques dont s’est formé le
                     cycle carlovingien : avec le temps ces récits s’allongent, se compliquent, se
@@ -417,10 +415,10 @@
                     primitive de Huon de Bordeaux fût comme antidatée, de façon à placer les
                     événements qu’elle racontait <pb n="xj"
                         facs="https://fr.wikisource.org/wiki/Page:Anonyme_-_Huon_de_Bordeaux,_chanson_de_geste.djvu/21"
-                    /> avant l’expédition du grand empereur en Espagne. Mais pourquoi, en ce cas,
+                    />avant l’expédition du grand empereur en Espagne. Mais pourquoi, en ce cas,
                     toutes les versions postérieures auraient-elles adopté une chronologie
                     différente ? Pourquoi y trouve-t-on des allusions à la mort de Roland ? <note
-                        n="1"> Voyez, par exemple, ci-après, p. 171.</note> On n’aperçoit pas la
+                        n="1">Voyez, par exemple, ci-après, p. 171.</note> On n’aperçoit pas la
                     nécessité de ce changement. On comprend très bien, au contraire, qu’un imitateur
                     étranger ait introduit Ganelon, de son chef, dans le poëme de Huon de Bordeaux,
                     comme le type le plus achevé et le plus connu du traître, sans se douter
@@ -439,7 +437,7 @@
                     XIVe ou au commencement du XVe siècle, époque à laquelle il existait au moins
                     deux rédactions du poëme français, celle qu’on va lire, et <pb n="xij"
                         facs="https://fr.wikisource.org/wiki/Page:Anonyme_-_Huon_de_Bordeaux,_chanson_de_geste.djvu/22"
-                    /> une autre dont il sera question ci-après. Il ne paraît guère vraisemblable
+                    />une autre dont il sera question ci-après. Il ne paraît guère vraisemblable
                     qu’une troisième version plus ancienne et par conséquent délaissée eût eu chance
                     de parvenir à l’imitateur étranger et d’être par lui choisie pour modèle.</p>
                 <p>Nous persistons donc dans notre sentiment qu’il n’y a pas eu de version de Huon
@@ -463,7 +461,7 @@
                     singulier auquel s’appliquent si bien les derniers mots que nous venons d’y
                     relever, <pb n="xiij"
                         facs="https://fr.wikisource.org/wiki/Page:Anonyme_-_Huon_de_Bordeaux,_chanson_de_geste.djvu/23"
-                    /> il nous paraît établi du moins qu’il fut l’œuvre d’un compilateur vivant dans
+                    />il nous paraît établi du moins qu’il fut l’œuvre d’un compilateur vivant dans
                     la première moitié du XIIIe siècle, et contemporain des faits qu’il enregistre,
                     dès l’an 1223 au plus tard. C’en est assez pour permettre de croire que le poëme
                     de Huon de Bordeaux était connu au commencement du siècle. </p>
@@ -482,7 +480,7 @@
                         des Englois i ot bien .III. milliers, <lb/>Et si ot bien .Xm. arbalestiers
                         ; <lb/>Li rois Tafurs i fu con chevaliers. <lb/>De Canbresis et d’Artois, ce
                         saciés, <lb/>En i ot moult de bacelers legiers <lb/>Qui volentiers ferroient
-                        sour paiens <note n="1"><p>P. 2.</p></note>.</p></quote>
+                        sour paiens <note n="1">P. 2.</note>.</p></quote>
                 <!-- faut-il mettre un quote la et <l> ? -->
                 <pb n="xiv"
                     facs="https://fr.wikisource.org/wiki/Page:Anonyme_-_Huon_de_Bordeaux,_chanson_de_geste.djvu/24"/>
@@ -491,50 +489,50 @@
                 <p>Un peu plus loin, le duc Naimes conseille à Charlemagne de prendre du repos dans
                     quelque résidence importante ; il n’a garde d’oublier Saint-Omer :</p>
                 <p><quote><lb/>Alés vous ent à Rains l’arcevesquié, <lb/>A Saint Omer, u ens el borc
-                        d’Orliens, <lb/>U à Paris, en vo palais plenier <note n="1"><p> P.
-                            3.</p></note>.</quote></p>
+                        d’Orliens, <lb/>U à Paris, en vo palais plenier <note n="1">P.
+                            3.</note>.</quote></p>
                 <!-- pas de <l> possible -->
                 <p>Lorsque Huon part pour Babylone, le pape lui donne une lettre de recommandation
                     pour un marin qui a la garde du port de Brindes, et qui s’appelle Garin de
                     Saint-Omer (s’attendrait-on à ce nom ?)</p>
                 <quote><p><lb/>Là trouverés Garin de Saint Omer ; <lb/>Ses cousins estes et li miens en
-                        non Dé <note n="2"><p>P. 77.</p></note>.</p></quote>
+                        non Dé <note n="2">P. 77.</note>.</p></quote>
                 <p>Plus d’un personnage du poëme ne manque pas de jurer <quote>par le cors Saint
                         Omer</quote>
-                    <note n="3"><p> Voyez, par exemple, p. 127.</p></note>.</p>
+                    <note n="3">Voyez, par exemple, p. 127.</note>.</p>
                 <p>Huon de Bordeaux a une cousine qu’il n’a jamais vue et qu’il rencontre au château
                     de Dunostre, où elle est depuis longtemps prisonnière. De quel pays êtes-vous ?
                     lui demande-t-il.</p>
                 <quote><p><lb/>Certes, dist ele, sire, vous le sarés : <lb/>Je fui voir née del borc de
                         Saint Omer, <lb/>Et si fui fille le conte Guinemer, <lb/>Nieche Sewin, de
-                        Bordiax la cité <note n="4"><p> P. 144.</p></note> »</p></quote>
+                        Bordiax la cité <note n="4">P. 144.</note>»</p></quote>
                 <pb n="xv"
                     facs="https://fr.wikisource.org/wiki/Page:Anonyme_-_Huon_de_Bordeaux,_chanson_de_geste.djvu/25"/>
                 <p>Dans le cours de ses aventures, Huon voit un jour aborder au rivage lointain
                     qu’il a hâte de quitter, un navire dont l’équipage est français, et voici en
                     quels termes les marins le lui apprennent :</p>
                 <quote><p><lb/>De France sommes, si m’aït Damedés : <lb/>Il en i a du bourc de Saint
-                        Omer, <lb/>Et s’en i a de Paris la chité <note n="1"><p>p. 253.</p></note>.
+                        Omer, <lb/>Et s’en i a de Paris la chité <note n="1">p. 253.</note>.
                     </p></quote>
                 <p>Saint-Omer avant Paris !</p>
                 <p>Plus tard, notre héros est mis en jugement, et parmi les pairs qui délibèrent sur
                     son sort nous en remarquons un qui lui est très favorable, c’est Henri de
-                    Saint-Omer <note n="2"><p> p. 295.</p></note>.</p>
+                    Saint-Omer <note n="2">p. 295.</note>.</p>
                 <p>Dans le même temps, le duc Naimes, qui veut sauver Huon d’une mort assurée, a
                     recours à un moyen de droit pour faire au moins ajourner la sentence : « Sire,
                     dit il à Charlemagne, en quel lieu pouvez-vous nous réunir pour juger un de vos
                     pairs ? Je vais vous le dire, si vous ne le savez pas :</p>
                 <quote><p><lb/>Li uns en est al borc de Saint Omer, <lb/>Li autres est à Orliens la
-                        cité, <lb/>Et li tiers est à Paris par verté <note n="3"><p> p.
-                            299.</p></note>.</p></quote>
+                        cité, <lb/>Et li tiers est à Paris par verté <note n="3">p.
+                            299.</note>.</p></quote>
                 <pb n="xvj"
                     facs="https://fr.wikisource.org/wiki/Page:Anonyme_-_Huon_de_Bordeaux,_chanson_de_geste.djvu/26"/>
                 <p>Il aura aussi à choisir, pour apprécier la valeur littéraire de cette
                     composition, entre des opinions fort diverses et malaisées à concilier. Voici
                     d’abord ce qu’en pensait l’éditeur de la Bibliothèque des romans, inspiré sans
                     doute par M. de Tressan :</p>
-                <p>« Quoique la Bibliothèque bleue, dit-il <note n="1"><p>Bibl. des Romans, avril
-                            1778.</p></note>, se soit emparée de Huon de Bordeaux, ce roman (l’un
+                <p>« Quoique la Bibliothèque bleue, dit-il <note n="1">Bibl. des Romans, avril
+                            1778.</note>, se soit emparée de Huon de Bordeaux, ce roman (l’un
                     des meilleurs de ceux que nous avons classés sous le nom de romans de
                     Charlemagne) mérite mieux que plusieurs autres ouvrages très agréables, que M.
                     ou Mme Oudot ont habillés en papier bleu, d’être connu de nos lecteurs. Ils
@@ -542,16 +540,16 @@
                     des aventures ont une relation intime avec ceux de Charlemagne dont ils ont déjà
                     lu les extraits, et même qu’ils ont trait à ceux de la Table Ronde par le roi de
                     Féerie Oberon, qui joue un rôle dans Isaïe le triste, fils de Tristan de Léonois
-                    et de la belle Iseult <note n="2"><p>Il est vrai qu’Oberon joue un rôle dans
+                    et de la belle Iseult <note n="2">Il est vrai qu’Oberon joue un rôle dans
                             Isaïe le triste ; mais il est vrai aussi que ce roman, dont on ne
                             connaît qu’une version en prose, est très postérieur à Huon de
-                            Bordeaux.</p></note>. »</p>
+                            Bordeaux.</note>. »</p>
                 <p>L’auteur du Discours sur l’état des lettres au XIIIe siècle, qu’on lit au tome
-                    XVI de l’Histoire littéraire de la France <note n="3"><p>P. 178.</p></note>, est
+                    XVI de l’Histoire littéraire de la France <note n="3">P. 178.</note>, est
                     loin de goûter les romans de chevalerie et en particulier ceux de Charlemagne et
                     des douze pairs. Il fait excep- <pb n="xvij"
                         facs="https://fr.wikisource.org/wiki/Page:Anonyme_-_Huon_de_Bordeaux,_chanson_de_geste.djvu/27"
-                    /> tion, cependant, en faveur de Huon de Bordeaux et de Garin de Monglane, qu’il
+                    />tion, cependant, en faveur de Huon de Bordeaux et de Garin de Monglane, qu’il
                     déclare les deux meilleurs de cette classe, et cela d’après la version en prose. </p>
                 <p>C’est aussi d’après cette version, la seule connue depuis le XVe siècle, que M.
                     Saint-Marc Girardin a apprécié le roman de Huon de Bordeaux, et il n’a point
@@ -560,10 +558,10 @@
                     qu’il s’agisse de peindre l’amour de Huon et d’Esclarmonde, soit qu’il s’agisse
                     de donner un caractère et un rôle aux êtres merveilleux, l’imagination naïve du
                     vieux conteur l’emporte, selon lui, sur les grâces de Wieland <note n="1"
-                            ><p>Cours de littérature dramatique, T. III, p. 235, éd. Charpentier. —
+                            >Cours de littérature dramatique, T. III, p. 235, éd. Charpentier. —
                             Il faut lire, si on ne l’a fait déjà, le gracieux chapitre où M.
                             Saint-Marc Girardin a justifié son opinion, sous ce titre général : De
-                            l’amour ingénu dans les romans de chevalerie.</p></note>. »</p>
+                            l’amour ingénu dans les romans de chevalerie.</note>. »</p>
                 <p>Il y a grande apparence que Huon de Bordeaux eût encore gagné à être jugé sous sa
                     forme poëtique et originale par des critiques aussi bien disposés ; mais, même
                     sous cette forme, réussira-t-il à trouver grâce aux yeux de M. Charles Nisard ?
@@ -574,16 +572,16 @@
                     en général, il s’en faut qu’il le soit ici en particulier ; car je ne pourrais
                     mieux com- <pb n="xviij"
                         facs="https://fr.wikisource.org/wiki/Page:Anonyme_-_Huon_de_Bordeaux,_chanson_de_geste.djvu/28"
-                    /> parer les sensations que j’éprouve à la fin de cette revue qu’à celles des
+                    />parer les sensations que j’éprouve à la fin de cette revue qu’à celles des
                     malheureux mis à la torture, lorsque, pour en obtenir des aveux, on augmentait
                     progressivement leur supplice en passant de la question simple à la question
-                    composée <note n="2"><p>T. II, p. 536.</p></note>. » </p>
+                    composée <note n="2">T. II, p. 536.</note>. » </p>
                 <p>Certes, M. Charles Nisard n’y va point, comme on dit, de main morte, et à le voir asséner un tel coup, on ne soupçonnerait guère qu’il ait tant souffert. Son arme, nous voulons dire sa comparaison en est toute faussée et hors de service ; car la torture apparemment n’avait rien de volontaire, et quel est donc le bourreau qui a condamné M. Charles Nisard à se faire l’historien de la littérature du colportage ?</p>
                 <p>Plus sévère qu’Oberon, qui ne semble châtier que pour se donner ensuite le plaisir de pardonner, M. Charles Nisard est sans pitié pour le héros de notre poëme : « La conduite d’Huon, dit-il, n’est pas toujours irrépréhensible. L’amour entr’autres lui fait commettre des sottises qui ne seraient pas pardonnables à un bachelier <note n="2">T. II, p. 536.</note>. »</p>
                 <p>Il est vrai que Huon commet des sottises, une surtout qui rappelle la sottise
                     commise par Enée <pb n="xix"
                         facs="https://fr.wikisource.org/wiki/Page:Anonyme_-_Huon_de_Bordeaux,_chanson_de_geste.djvu/29"
-                    /> dans une certaine grotte voisine de Carthage ; mais l’on ne voit pas que ce
+                    />dans une certaine grotte voisine de Carthage ; mais l’on ne voit pas que ce
                     genre de sottises ait jamais rien prouvé contre les héros de roman. </p>
                 <p>Pour nous qui avons transcrit ce poëme, qui en avons comparé les différentes
                     copies, qui en avons lu et relu le texte, comme c’était notre devoir d’éditeurs,
@@ -604,17 +602,17 @@
                     Germanie ? De l’Armorique ? Telles sont les questions que notre curiosité s’est
                     posées. Nous les avons <pb n="xx"
                         facs="https://fr.wikisource.org/wiki/Page:Anonyme_-_Huon_de_Bordeaux,_chanson_de_geste.djvu/30"
-                    /> soumises aux savants les plus compétents, et voici ce que nous avons appris. </p>
+                    />soumises aux savants les plus compétents, et voici ce que nous avons appris. </p>
                 <p>L’origine d’Oberon n’est pas orientale. M. Ernest Renan nous a détourné de la
                     chercher dans cette direction. Elle est peut-être germanique. On l’a dit du
                     moins, et répété depuis longtemps en Allemagne, en Angleterre, en France <note
-                        n="1"><p>Voyez Grässe, die grossen Sagenkreise des Mittelalters, p. 346, où
+                        n="1">Voyez Grässe, die grossen Sagenkreise des Mittelalters, p. 346, où
                             le savant bibliographe cite Dobeneck, des deustchen Mittelalters
                             Volksglauben, t. II, p. 101 (2 vol. in-8o précédés d’une préface de
                             Jean-Paul Richter, 1815), et Th. Keightley, the fairy mythology,
                             illustrative of the romance and superstition (Londres, 1833, 2 vol.
                             in-8o). — V. aussi l’Histoire de la poésie Scandinave, de M. Edelestand
-                            Du Méril, p. 325, note 1, et 380, note 2.</p></note>. D’après cette
+                            Du Méril, p. 325, note 1, et 380, note 2.</note>. D’après cette
                     opinion, notre Oberon ou plutôt Auberon (car c’est la forme primitive de son
                     nom), ne serait autre que l’Elberich ou Alberich de l’épopée héroïque allemande.
                     Alberich joue un rôle assez important dans les Nibelungen : il est le chef des
@@ -628,14 +626,14 @@
                     guerriers qu’il rend invisibles comme il lui plaît ; il s’appelle Walberan
                     (forme bien voisine de celle d’Auberon), et <pb n="xxj"
                         facs="https://fr.wikisource.org/wiki/Page:Anonyme_-_Huon_de_Bordeaux,_chanson_de_geste.djvu/31"
-                    /> les critiques allemands ne doutent pas de l’identité de Walberan et
+                    />les critiques allemands ne doutent pas de l’identité de Walberan et
                     d’Alberich. Mais c’est dans le poëme d’Otnit qu’il joue le plus grand rôle : il
                     accompagne sans cesse le héros de ce poëme, lui donne des armes merveilleuses,
                     l’aide à conquérir la fille d’un roi païen, etc., etc. Ici le nain est un
                     excellent chrétien. Il reparaît sous les mêmes traits et avec les mêmes qualités
                     dans le poëme de Wolfdietrich, qui est une continuation d’Otnit. </p>
                 <p>On comprend que ces analogies aient pu faire croire à l’origine germanique
-                    d’Oberon <note n="1"><p> L’auteur des Antiquitez de la Gaule Belgicque, Richard
+                    d’Oberon <note n="1">L’auteur des Antiquitez de la Gaule Belgicque, Richard
                             de Wassebourg, archidiacre de l’église de Verdun, n’a pas hésité dans ce
                             livre publié en 1549 à traduire Albéric par Auberon. Jacques de Guise,
                             ou plutôt un certain Hugues de Toul, cité par Jacques de Guise, raconte
@@ -651,7 +649,7 @@
                             etc. (Paris et Nancy, 1851), M. Jeantin a reproduit, à son tour, la
                             traduction de Richard de Wassebourg, et Auberon l’enchanteur figure au
                             lieu d’Alberic dans le XIIe Chapitre du tome 1er de ce
-                    livre.</p></note>. En voici d’autres qui ont conduit M. de la Villemarqué à lui
+                    livre.</note>. En voici d’autres qui ont conduit M. de la Villemarqué à lui
                     attribuer une origine celtique. Nous reproduisons ces curieux rapprochements
                     tels que nous les devons à sa science et à son obligeante amitié.</p>
                 <pb n="xxij"
@@ -659,12 +657,12 @@
                 <p>« Il y a longtemps, nous écrit-il, que j’ai été frappé de la ressemblance de
                     notre Oberon avec un personnage de la féerie celtique appelé Gwyn-Araun ou
                     Gwenn-Aron : ressemblance de nom, d’abord, car Gwyn signifie blanc (albus,
-                        aube)<note n="1"><p> M. de la Villemarqué se rencontre ainsi, sans avoir
+                        aube)<note n="1">M. de la Villemarqué se rencontre ainsi, sans avoir
                             pris la même route, avec les érudits qui ont tiré de aube le nom
                             d’Auberon, à ce que nous apprend l’auteur de Shakespeare and his times,
                             M. Nathan Drake : <quote>« Oberon, or more properly Auberon, has been
                                 derived by some antiquaries from : « l’aube du jour. »</quote>
-                            (Paris, 1838, in-8°, p. 503, à la note.)</p></note>, et Araun, qui
+                            (Paris, 1838, in-8°, p. 503, à la note.)</note>, et Araun, qui
                     répond à superus, indique ici, selon toute apparence un être surnaturel,
                     surhumain. Le nom d’Auberon, dans sa première moitié, me paraît traduit de Gwyn
                     ; dans la seconde, il reproduit, avec une légère modification, le mot Aron même,
@@ -682,7 +680,7 @@
                     gallois, comme « celui qui fait vaincre l’ennemi et procure un large butin, »
                     comme « un chef supérieur à tous <pb n="xxiij"
                         facs="https://fr.wikisource.org/wiki/Page:Anonyme_-_Huon_de_Bordeaux,_chanson_de_geste.djvu/33"
-                    /> les chefs, devant le bras duquel des bataillons entiers tombent plus vite que
+                    />les chefs, devant le bras duquel des bataillons entiers tombent plus vite que
                     les joncs coupés par la faux. » (Myvyrian, T. I, p. 165.) — Quel plus grand
                     guerrier qu’Auberon ? Quel roi a plus de soldats à son service ? Qui remporte
                     plus de victoires à son gré ? »</p>
@@ -704,7 +702,7 @@
                     l’invita à venir dîner dans son palais magique. Le saint, malgré trois
                     invitations, hésitait ; il se <pb n="xxiv"
                         facs="https://fr.wikisource.org/wiki/Page:Anonyme_-_Huon_de_Bordeaux,_chanson_de_geste.djvu/34"
-                    /> défiait du génie : « C’est peut-être un diable, » se disait-il. Il se
+                    />défiait du génie : « C’est peut-être un diable, » se disait-il. Il se
                     détermina enfin à accepter, et partit, non sans emporter toutefois, par
                     précaution, un flacon d’eau bénite. Arrivé au sommet d’une montagne aride, où
                     habitait le roi des fées, il vit s’élever tout à coup devant lui un palais
@@ -727,7 +725,7 @@
                     vous pas avec moi que Gwyn-Aron et Auberon, portant même nom, doués du même
                     pouvoir surnaturel <pb n="xxv"
                         facs="https://fr.wikisource.org/wiki/Page:Anonyme_-_Huon_de_Bordeaux,_chanson_de_geste.djvu/35"
-                    /> et animés de la même bienveillance envers les humains, ne sont originairement
+                    />et animés de la même bienveillance envers les humains, ne sont originairement
                     qu’un seul et même personnage ? »</p>
                 <p>À cette question nous n’osons répondre ; mais soit qu’on admette l’origine
                     germanique d’Oberon, soit qu’on incline, comme nous, vers l’origine celtique, on
@@ -745,20 +743,20 @@
                     ce poëme si prodigieusement augmenté était venu se placer un autre petit poëme,
                     remplissant toutes les conditions d’un prologue, et portant pour titre : Roman
                     d’Auberon, composition étrange dont nous donnerons plus loin une idée <note
-                        n="1"><p>Voyez ci-après, p. xliv, la description du manuscrit de
-                        Turin.</p></note>.</p>
+                        n="(1)">Voyez ci-après, p. xliv, la description du manuscrit de
+                        Turin.</note>.</p>
                 <p>Au quinzième siècle, ou du moins dans des manuscrits de cette époque, deux
                     nouvelles ré- <pb n="xxvj"
                         facs="https://fr.wikisource.org/wiki/Page:Anonyme_-_Huon_de_Bordeaux,_chanson_de_geste.djvu/36"
-                    /> dactions de Huon de Bordeaux s’offrent à nous. L’une reproduit encore le
+                    />dactions de Huon de Bordeaux s’offrent à nous. L’une reproduit encore le
                     récit primitif, tel que nous le publions, ou à peu près ; mais elle y ajoute une
                     suite qui diffère entièrement de celle dont nous venons de parler, et par
-                    l’invention et par l’étendue <note n="1"><p> Manuscrit de Sorbonne, 450. V.
-                            ci-après la description de ce manuscrit.</p></note>. L’autre est une
+                    l’invention et par l’étendue <note n="1">Manuscrit de Sorbonne, 450. V.
+                            ci-après la description de ce manuscrit.</note>. L’autre est une
                     version entièrement remaniée, au moins quant à la forme ; le vers alexandrin y
-                    remplace celui de dix syllabes <note n="2"><p>Manuscrit de l’Anc. f. fr. 1451,
+                    remplace celui de dix syllabes <note n="2">Manuscrit de l’Anc. f. fr. 1451,
                             le même que le manuscrit de Cangé, décrit ci-après, qui portait
-                            récemment encore le n° 75356.</p></note>. Cette version contient aussi
+                            récemment encore le n° 75356.</note>. Cette version contient aussi
                     une suite bien moins considérable que celle du XIVe siècle, mais encore assez
                     développée, puisqu’elle accroît le récit primitif d’environ quatre mille
                     vers.</p>
@@ -766,54 +764,54 @@
                     Bordeaux est mise de rime en prose à la requeste et priere de Monseigneur
                     Charles, seigneur de Rochefort, et de Messire Hues de Longueval, seigneur de
                     Vaulx et de Pierre Ruotte. L’ouvrage fut fait et parfait le vinteneufiesme jour
-                    de janvier l’an mil .CCCC. LIIII <!-- quote ? --><note n="3"><p>Mention finale
+                    de janvier l’an mil .CCCC. LIIII <!-- quote ? --><note n="3">Mention finale
                             qui se lit dans l’édition gothique de 1516 et aussi dans celle de Jean
-                            Bonfons, les seules que nous ayons pu voir.</p></note>. Les faits et
+                            Bonfons, les seules que nous ayons pu voir.</note>. Les faits et
                     gestes de Huon de Bordeaux et de ceulx qui de luy descendirent y sont fort
                     longuement racontés, et, selon toute apparence, d’après le grand poëme du XIVe
-                    siècle dont il vient d’être fait mention <note n="4"><p> On en pourra juger en
+                    siècle dont il vient d’être fait mention <note n="4">On en pourra juger en
                             comparant les rubriques que nous reproduisons ci-après, p. xlv, avec
                             celles des éditions gothiques. Il faut remarquer en outre que dans la
                             version en prose la plus ancienne le récit primitif ne forme que le
                             tiers du texte comme dans la version en vers du manuscrit de
-                        Turin.</p></note>. Il n’existe <pb n="xxvij"
+                        Turin.</note>. Il n’existe <pb n="xxvij"
                         facs="https://fr.wikisource.org/wiki/Page:Anonyme_-_Huon_de_Bordeaux,_chanson_de_geste.djvu/37"
-                    /> plus, à notre connaissance, de manuscrit de cette version en prose, laquelle
+                    />plus, à notre connaissance, de manuscrit de cette version en prose, laquelle
                     ne fut imprimée que soixante-deux ans plus tard, en 1516, par Michel Lenoir
-                        <note n="1"><p>Sous ce titre : Les prouesses et faictz merveilleux du noble
+                        <note n="1">Sous ce titre : Les prouesses et faictz merveilleux du noble
                             Huon de Bordeaulx, per de France, duc de Guyenne, nouvellement redigé en
                             bon françoys, etc. On lit à la fin : Nouvellement imprimé à Paris le
                             XXIIIIe jour de decembre mil cinq cens et seize, par Michel Lenoir,
                             libraire juré en l’Université de Paris. (Bibl. Imp., Y2
-                    143).</p></note>.</p>
+                    143).</note>.</p>
                 <p>L’édition de Michel Lenoir ne fut pas longtemps la seule : d’autres éditions
                     gothiques furent publiées bientôt après à Paris, à Rouen, à Lyon <note n="2"
-                            ><p>V. Brunet, Manuel du Libraire, à l’article Huon de
-                        Bordeaux.</p></note>. Huon de Bordeaux fut réimprimé six fois au moins avant
+                            >V. Brunet, Manuel du Libraire, à l’article Huon de
+                        Bordeaux.</note>. Huon de Bordeaux fut réimprimé six fois au moins avant
                     la fin du XVIe siècle. Il n’a cessé de l’être depuis lors jusqu’à ce jour <note
-                        n="3"><p>Au XVIIe siècle il est réimprimé à Lyon (1606, 1626), à Troyes, par
+                        n="(3)">Au XVIIe siècle il est réimprimé à Lyon (1606, 1626), à Troyes, par
                             Nicolas Oudot, 1634, 1636, 1666, 1675 et 1676. Du XVIIIe siècle nous
                             avons vu une édition de Jacques Oudot, Troyes, 1705, une autre de 1726,
                             une troisième de 1728, Garnier, 2 vol. in-4° ; du XIXe une édition de
                             Bruyères, veuve Vivot, 1812, de Montbéliard, 1821, et celle de Paris qui
-                            a été mentionnée ci-dessus. (Lécrivain et Toubon, 1859.)</p></note>.</p>
+                            a été mentionnée ci-dessus. (Lécrivain et Toubon, 1859.)</note>.</p>
                 <p>À ces preuves nombreuses du succès de notre poëme se joignent encore quelques
                     témoignages qui les confirment. Ce sont d’abord des allusions dont la première
                     remonte probablement au XIIIe siècle. L’auteur du poëme de Gaufrey a fait
                     figurer dans le tableau de la famille de Doon de Mayence le duc Seguin et son
                     fils Huon à <pb n="xxviij"
                         facs="https://fr.wikisource.org/wiki/Page:Anonyme_-_Huon_de_Bordeaux,_chanson_de_geste.djvu/38"
-                    /> propos duquel il a rappelé le souvenir du bon roi Oberon. D’après le
+                    />propos duquel il a rappelé le souvenir du bon roi Oberon. D’après le
                     trouvère, le duc Seguin était le huitième fils de Doon de Mayence : </p>
                 <quote><p><lb/>Ripeus fu le septiesme, qui moult ot de renom, <lb/>Qui fu pere Anséis,
                         fix de la suer Kallon, <lb/>Et Sevin de Bordele fu l’uitisme baron ;
                         <lb/>Pere fu Huelin à la clere fachon <lb/>A qui fist tant de bien le bon roi
-                        Oberon <note n="1"><p> Gaufrey, p. 4, éd. Guessard et
-                        Chabaille.</p></note>.</p></quote>
+                        Oberon <note n="1">Gaufrey, p. 4, éd. Guessard et
+                        Chabaille.</note>.</p></quote>
                 <p>Nous retrouvons cette indication généalogique avec d’autres renseignements du
                     même genre dans la dernière rédaction en vers de notre poëme <note n="2"
-                            ><p>Celle que renferme l’ancien manuscrit de Cangé (Bibl. Imp., f. fr.
-                            1451, fol. 2 v. et 3 r°).</p></note>. Au moment où Huon de Bordeaux et
+                            >Celle que renferme l’ancien manuscrit de Cangé (Bibl. Imp., f. fr.
+                            1451, fol. 2 v. et 3 r°).</note>. Au moment où Huon de Bordeaux et
                     son frère se disposent à partir pour Paris, où les mande Charlemagne, leur mère
                     les embrasse et leur parle en ces termes :</p>
                 <quote><p><lb/>Soiés hardis en armes et bien vous deffendés, <lb/>Car ainsy a esté toudis
@@ -830,11 +828,11 @@
                         /><lb/>Frere fust à Seguin qui vous a engenrés. <lb/>Je vous prie pour Dieu vo
                         pere ressamblés. </p></quote>
                 <p>Une autre allusion moins intéressante se lit dans les Chroniques admirables du
-                    roy Gargantua <note n="1"><p>Publiées par M. Gustave Brunet, 1852, in-8°, p. 43
+                    roy Gargantua <note n="1">Publiées par M. Gustave Brunet, 1852, in-8°, p. 43
                             : « Gargantua (lui dit Merlin), je te viendray querir et te meneray en
                             faerie où est le bon roy Artus avec sa seur Morgain, Ogier le Dannoys et
                             Huon de Bordeaulx ou chasteau d’Avallon où ils font tous grant chiere.
-                            »</p></note>, sorte de contrefaçon de l’œuvre de Rabelais, qui fut
+                            »</note>, sorte de contrefaçon de l’œuvre de Rabelais, qui fut
                     composée vers 1533.</p>
                 <p>Mais rien n’atteste mieux la vogue soutenue de la vieille épopée, devenue un
                     roman en prose et propagée maintenant par l’imprimerie, que sa transformation
@@ -851,7 +849,7 @@
                     prévôt avait-il craint le scandale que pouvait causer l’amour trop ingénu
                     d’Esclarmonde pour Huon ; peut-être aussi avait-il jugé que le rôle <pb n="xxx"
                         facs="https://fr.wikisource.org/wiki/Page:Anonyme_-_Huon_de_Bordeaux,_chanson_de_geste.djvu/40"
-                    /> d’Oberon sentait un peu la sorcellerie. En attendant que la cour statuât sur
+                    />d’Oberon sentait un peu la sorcellerie. En attendant que la cour statuât sur
                     leur appel, les confrères de la Passion, qui avaient fait de grands frais pour
                     monter leur pièce, comme on dirait aujourd’hui, n’en retiraient point le profit
                     qu’ils en avaient espéré, et se trouvaient, à les entendre, dans l’impossibilité
@@ -865,12 +863,12 @@
                     permit de <!-- quote? -->« parachever le jeu commancé, hormis les heures durant
                     lesquelles se celebre le divin service par les eglises et parroisses de ceste
                     ville, et ce le lendemain de la feste de la Nativité Nostre Seigneur et sans
-                    scandale <note n="1"><p> Archives de l’Empire, reg. du Parlement, Conseil, à la
-                            date susindiquée.</p></note>. » </p>
+                    scandale <note n="1">Archives de l’Empire, reg. du Parlement, Conseil, à la
+                            date susindiquée.</note>. » </p>
                 <p>Voilà tout ce que nous savons de ce jeu ou de cette pièce qui n’est point
                     parvenue jusqu’à nous.</p>
                 <p>Trente ans après, dans une facétie publiée sous ce titre : <!-- title ? -->« Les
-                    triomphes de l’abbaye des Conards <note n="2"><p>Il s’agit d’une blanque ou
+                    triomphes de l’abbaye des Conards <note n="2">Il s’agit d’une blanque ou
                             loterie d’objets rares parmi lesquels se trouvent : les griffes du
                             griffon de Huon de Bordeaux estimez par le greffier de Lorris à dix huit
                             mil de quarts de ducats d’or. Nous reproduisons ce passage d’après un
@@ -884,20 +882,20 @@
                             n’est point de merveilles...... L’experiance en appert à la Saincte
                             Chappelle à Paris d’un grif d’un petit griffonneau, qui pend ou millieu
                             de la Saincte Chappelle ataché à une chaine, que ung homme d’armes coupa
-                            à ung petit griffon, etc. »</p></note> » on lit une allusion au roman de
+                            à ung petit griffon, etc. »</note>» on lit une allusion au roman de
                     Huon <pb n="xxxj"
                         facs="https://fr.wikisource.org/wiki/Page:Anonyme_-_Huon_de_Bordeaux,_chanson_de_geste.djvu/41"
-                    /> de Bordeaux, qui peut sembler quelque peu irrévérencieuse, mais qui prouve
+                    />de Bordeaux, qui peut sembler quelque peu irrévérencieuse, mais qui prouve
                     tout aussi bien qu’une autre que le livre n’était point mis en oubli.</p>
                 <p>D’ailleurs, il fut bien vengé de cette raillerie par l’influence étrange qu’il
                     exerça sur les esprits les plus sérieux, sur des savants, sur des historiens
                     tels qu’André Du Chesne et Guillaume de Catel. Passe encore pour Gabriel de
                     Lurbe d’écrire gravement : « Charlemagne establit Seguin conte et son lieutenant
                     en Guyenne, lequel estoit pere de Huon de Bourdeaus, duquel les romans ont
-                    escrit tant de fables <note n="1"><p> Chronique Bourdeloise, citée par M. F.
-                            Michel, même mémoire, p. 116,</p></note>. » Mais Du Chesne, qui croit
+                    escrit tant de fables <note n="1">Chronique Bourdeloise, citée par M. F.
+                            Michel, même mémoire, p. 116,</note>. » Mais Du Chesne, qui croit
                     aussi à l’existence de Huon de Bordeaux, sinon à l’histoire de ses faits d’armes
-                        <note n="2"><p>« Et ce Siguin icy, que je croy le premier comte de
+                        <note n="2">« Et ce Siguin icy, que je croy le premier comte de
                             Bourdeaux, je ne fay nul doubte que ce ne soit Sevin tué depuis par les
                             Normans, en bataille, pere de Huon surnommé de Bourdeaux, lequel est
                             appelé duc et non comte en la fabuleuse histoire de ses faits d’armes
@@ -905,16 +903,16 @@
                             qui avoit Bourdeaux pour chef ne portoit plus autre nom et titre que de
                             duché. » (Les Antiquitez et recherches des villes, Paris, 1629, p. 745.
                             — Passage rapporté aussi par M. F. Michel, mémoire précité, p.
-                        116.)</p></note> ! Mais Catel, qui s’attache à démontrer <pb n="xxxij"
+                        116.)</note>! Mais Catel, qui s’attache à démontrer <pb n="xxxij"
                         facs="https://fr.wikisource.org/wiki/Page:Anonyme_-_Huon_de_Bordeaux,_chanson_de_geste.djvu/42"
-                    /> que Huon de Bordeaux et Hunaud duc d’Aquitaine ne sont pas le même personnage
-                        <note n="1"><p>« Plusieurs ont estimé (parlant de Hunaud) que c’estoit Huon
+                    />que Huon de Bordeaux et Hunaud duc d’Aquitaine ne sont pas le même personnage
+                        <note n="1">« Plusieurs ont estimé (parlant de Hunaud) que c’estoit Huon
                             de Bourdeaux duquel est parlé dans le roman qui porte son nom.
                             Toutesfois j’ay remarqué que le roman de Huon de Bourdeaux dit que Huon
                             estoit fils de Seguin comte de Bourdeaux establi par Charlemaigne, et
                             nostre Hunal ou Huon est fils d’Eudo duc d’Aquitaine et non de Seguin. »
                             (Mémoires de l’Histoire du Languedoc. Toulouse, 1633, p. 534. — F.
-                            Michel, mémoire précité, p. 117.)</p></note>, et cela en tirant argument
+                            Michel, mémoire précité, p. 117.)</note>, et cela en tirant argument
                     du texte du roman comme d’un texte historique ! N’est-ce pas là un beau triomphe
                     pour notre vieux trouvère ? </p>
                 <p>M. de Tressan ne se montre pas si crédule dans l’extrait « dû à sa plume toujours
@@ -930,7 +928,7 @@
                     Jules César qu’il donne pour père à Oberon. La seule question intéressante
                     serait de savoir si à sa fable se trouve mêlé quelque <pb n="xxxiij"
                         facs="https://fr.wikisource.org/wiki/Page:Anonyme_-_Huon_de_Bordeaux,_chanson_de_geste.djvu/43"
-                    /> peu d’histoire en dehors des noms propres, et nous prenons la liberté d’en
+                    />peu d’histoire en dehors des noms propres, et nous prenons la liberté d’en
                     douter.</p>
                 <p>L’heureuse fortune de notre poëme sous les formes diverses qu’il prit
                     successivement ne se renferme pas dans les limites de la France. Il fut aussi
@@ -949,26 +947,26 @@
                     C’était l’œuvre d’un écrivain de haut rang, sir John Bourchier, lord Berners,
                     qui avait déjà traduit Froissart et d’autres ouvrages français. Sa traduction de
                     Huon de Bordeaux, faite à la prière du comte de Huntingdon, eut le plus grand
-                    succès et devint extrêmement populaire <note n="1"><p> Warton, History of
-                            english poetry, Londres, 1840, t. III, p 52 et 64.</p></note>. C’est
+                    succès et devint extrêmement populaire <note n="1">Warton, History of
+                            english poetry, Londres, 1840, t. III, p 52 et 64.</note>. C’est
                     aujourd’hui un de ces livres <pb n="xxxiv"
                         facs="https://fr.wikisource.org/wiki/Page:Anonyme_-_Huon_de_Bordeaux,_chanson_de_geste.djvu/44"
-                    /> uniques que les bibliophiles achètent au poids de l’or. Le Musée britannique
+                    />uniques que les bibliophiles achètent au poids de l’or. Le Musée britannique
                     ne le possède point, et l’on n’en connaît d’autre exemplaire que celui qui est
                     inscrit sous ce titre au catalogue de la vente Bliss : Huon of Burdeuxe. Here
                     begynnithe the boke of duke Huon of burdeuxe and of them that issuyd fro hym.
-                    (Translated by sir John Bourchier, Lord Berners.) <note n="1"><p>On retrouve ce
+                    (Translated by sir John Bourchier, Lord Berners.) <note n="1">On retrouve ce
                             titre avec de légères variantes dans le Manuel du Bibliographe de
                             Lowndes (The Bibliographer’s Manual, Londres, 1859), qui estime que
                             cette édition fut imprimée par Copland vers 1540. Mais ce n’est pas
                             l’avis d’un connaisseur, M. Pickering, qui, d’après le caractère et le
                             papier, pense que le livre a été imprimé par Berthelet ou Redborne,
-                            aussi vers 1540.</p></note></p>
+                            aussi vers 1540.</note></p>
                 <p>Il a été acquis, à cette même vente, au prix de 19 livres sterling, quoiqu’il ait
                     deux feuillets de moins. Le capitaine Cox n’avait certainement pas acheté aussi
                     cher l’exemplaire de ce livre qu’il possédait, lorsqu’il eut l’honneur de
                     figurer en 1575 devant la reine Elisabeth, dans les fêtes de Kenilworth <note
-                        n="2"><p> Ce capitaine Cox (capitaine on ne sait de quoi) était un maçon qui
+                        n="(2)">Ce capitaine Cox (capitaine on ne sait de quoi) était un maçon qui
                             avait les goûts chevaleresques, une manière de Don Quichotte anglais.
                             Aussi avait-il une bibliothèque analogue à celle du héros de la Manche,
                             et où se trouvaient : King’s Arthur’s book, Huon of Bourdeaux, the four
@@ -976,11 +974,11 @@
                             que nous apprend Robert Laneham dans son curieux récit des fêtes de
                             Kenilworth. (Laneham’s letter describing the magnificent pageants
                             presented before queen Elisabeth at Kenilworth castle in 1575. Londres,
-                            1821, p. 36.).</p></note>.</p>
+                            1821, p. 36.).</note>.</p>
                 <p>Le succès de la traduction de Lord Berners mit Oberon à la mode en Angleterre et
                     l’intro- <pb n="xxxv"
                         facs="https://fr.wikisource.org/wiki/Page:Anonyme_-_Huon_de_Bordeaux,_chanson_de_geste.djvu/45"
-                    /> duisit partout. Il figure dans le drame de Jacques IV, de Robert Greene.
+                    />duisit partout. Il figure dans le drame de Jacques IV, de Robert Greene.
                     C’est lui qui ouvre la scène sur la tombe d’un mort, lequel sort de son
                     sépulcre, se prend de querelle, puis se réconcilie avec le roi de Féerie et lui
                     fait voir une tragédie. Oberon en revanche, dans les entr’actes de la tragédie,
@@ -992,27 +990,27 @@
                     union naquit une suite de rois : Elfin, Elfinan, Elfinell, Elfant, Elfar,
                     Elficleos, Elferon et enfin Oberon. La gloire et le pouvoir d’Oberon furent
                     immenses ; il mourut laissant pour héritier, par son testament, le beau Tanaquil
-                        <note n="2"><p> Spenser, The faerie queen, liv. II, chant 10, strophes 70 à
-                            76.</p></note>.</p>
+                        <note n="2">Spenser, The faerie queen, liv. II, chant 10, strophes 70 à
+                            76.</note>.</p>
                 <p>Mais la plus grande gloire d’Oberon, c’est d’avoir été adopté par Shakespeare,
                     qui lui a fait jouer un rôle, on le sait, dans le Songe d’une nuit d’été <note
-                        n="3"><p> Midsummer night’s dream.</p></note>. Shakespeare lui a donné une
+                        n="(3)">Midsummer night’s dream.</note>. Shakespeare lui a donné une
                     femme, <pb n="xxxvj"
                         facs="https://fr.wikisource.org/wiki/Page:Anonyme_-_Huon_de_Bordeaux,_chanson_de_geste.djvu/46"
-                    /> Titania, qui, pour être reine des fées, n’en a pas l’humeur plus égale.
+                    />Titania, qui, pour être reine des fées, n’en a pas l’humeur plus égale.
                     Oberon lui-même a d’étranges fantaisies. De là des démêlés dont les deux époux
                     aériens ne sont pas seuls à souffrir. Sur la terre, les amants ressentent comme
                     le contre-coup de leur désunion, « jusqu’à ce qu’enfin, comme le dit si bien M.
                     Saint-Marc Girardin, la réconciliation d’Oberon et de Titania ramène la paix
                     dans le mobile empire des airs et dans le mobile empire des amoureux » <note
-                        n="1"><p> Chapitre déjà cité.</p></note>.</p>
+                        n="(1)">Chapitre déjà cité.</note>.</p>
                 <p>Nous pensons avec les critiques anglais que Shakespeare a tiré Oberon, pour se
-                    l’approprier, du roman de Huon de Bordeaux <note n="2"><p>Le dernier traducteur
+                    l’approprier, du roman de Huon de Bordeaux <note n="2">Le dernier traducteur
                             de Shakespeare, M. François-Victor Hugo, ne partage pas ce sentiment ;
                             mais il est probable que, mieux renseigné sur l’histoire de notre poëme,
                             il corrigera les erreurs qu’il ne peut manquer de reconnaître dans la
                             note 6 de sa traduction du <title>Songe d’une nuit
-                        d’été</title>.</p></note>. Il a connu ce roman par la traduction de Lord
+                        d’été</title>.</note>. Il a connu ce roman par la traduction de Lord
                     Berners ; il y a fait une allusion indirecte dans une autre de ses pièces :
                         <title>Beaucoup de bruit pour rien</title>
                     <note n="3"><p><title>Much ado about nothing</title>, acte II, scène 1re,
@@ -1029,32 +1027,32 @@
                             (1616). Voyez l’édition précitée de Shakespeare, même page.</p></note> ;
                     c’est du moins ce que remarque un de ses commentateurs. Il a <pb n="xxxvij"
                         facs="https://fr.wikisource.org/wiki/Page:Anonyme_-_Huon_de_Bordeaux,_chanson_de_geste.djvu/47"
-                    /> pu aussi connaître le drame intitulé : <title>Huon de Bordeaux</title>, qui
+                    />pu aussi connaître le drame intitulé : <title>Huon de Bordeaux</title>, qui
                     fut représenté en Angleterre dans le temps même où il composait le <title>Songe
                         d’une nuit d’été</title>. Ce drame, qui était peut-être une traduction du
                     jeu joué à Paris en 1557 par les confrères de la Passion, eut au moins trois
                     représentations, comme l’atteste le journal de l’acteur Philippe Henslowe, où
                     l’on lit ces trois articles de recette : <list>
-                        <item n="1">1. Receved at Hewen of Burdoche <note n="1"><p>Some play on the
+                        <item n="1">1. Receved at Hewen of Burdoche <note n="1">Some play on the
                                     romance of <title>Huon de Bordeaux</title>
                                     <!-- est ce bien un titre -->, dit l’éditeur du
-                                journal.</p></note>the 28 of desembr 1593 iiij l. x 3.</item>
+                                journal.</note>the 28 of desembr 1593 iiij l. x 3.</item>
                         <item n="2">2. Receved at Hewen of Burdokes the 3 of Jenewary 1593 » xxii
                             s.</item>
-                        <item n="3">3. Rd. at Hewen the 11 Jenweary 1593 <note n="2"><p><title>The
+                        <item n="3">3. Rd. at Hewen the 11 Jenweary 1593 <note n="2"><title>The
                                         diary of Philip Henslowe from 1591 to 1609</title>. London,
                                     printed for the Shakespeare society, 1845, 1 vol. in-8°, p. 31
-                                    et 32.</p></note> » v s.</item>
+                                    et 32.</note>» v s.</item>
                     </list></p>
                 <p>Après Shakespeare, Ben-Johnson a aussi mis Oberon en scène dans une de ces pièces
-                    de fantaisie que les Anglais appellent masque <note n="3"><p><title>Oberon the
-                                fairy prince.</title></p></note>. Drayton lui a consacré quelques
+                    de fantaisie que les Anglais appellent masque <note n="3"><title>Oberon the
+                                fairy prince.</title></note>. Drayton lui a consacré quelques
                     vers dans sa <title>Nymphidia</title>
-                    <note n="4"><p><title>Nymphidia the court of fairy</title>, by Michael Drayton.
-                            Kent, 1814, p. 3.</p></note>. À une époque bien plus voisine de <pb
+                    <note n="4"><title>Nymphidia the court of fairy</title>, by Michael Drayton.
+                            Kent, 1814, p. 3.</note>. À une époque bien plus voisine de <pb
                         n="xxxviij"
                         facs="https://fr.wikisource.org/wiki/Page:Anonyme_-_Huon_de_Bordeaux,_chanson_de_geste.djvu/48"
-                    /> nous, au commencement de ce siècle, Sotheby a composé une pièce (a masque)
+                    />nous, au commencement de ce siècle, Sotheby a composé une pièce (a masque)
                     intitulée <title>Oberon or Huon de Bordeaux</title> ; mais le sujet en est tiré
                     du poëme de Wieland.</p>
                 <p>Enfin, c’est aussi en Angleterre qu’a été représenté pour la première fois
@@ -1062,9 +1060,9 @@
                     obtenu de l’auteur du Freyschutz la promesse d’une partition nouvelle. Entre
                     plusieurs sujets qui lui furent proposés, Weber choisit celui d’Oberon, que
                     Wieland avait rendu populaire en Allemagne, et qui déjà y avait servi de thème à
-                    une composition musicale de Wranistcky <note n="1"><p>En Danemark aussi le sujet
+                    une composition musicale de Wranistcky <note n="1">En Danemark aussi le sujet
                             d’Oberon avait été dès lors mis en musique par M. Kunsen. (Paroles de M.
-                            Baggesen.)</p></note>. Un libretto fut écrit, et comme de raison en
+                            Baggesen.)</note>. Un libretto fut écrit, et comme de raison en
                     anglais. Mais Weber ne savait pas l’anglais ; il se mit en devoir de
                     l’apprendre, il y consacra un an, employa plus de trois mois à lire la pièce, et
                     n’eut achevé sa partition qu’au bout de dix-huit mois. La première
@@ -1073,16 +1071,16 @@
                     l’opéra d’Oberon ce qu’il avait fait pour le Freyschutz ; mais son travail
                     n’arriva pas jusqu’à la scène. C’est seulement le 27 février 1857 que l’Oberon
                     de Weber a été représenté pour la première fois à Paris, au théâtre Lyrique
-                        <note n="2"><p>Nous avons pensé que ces détails, peu connus, ne sembleraient
+                        <note n="2">Nous avons pensé que ces détails, peu connus, ne sembleraient
                             pas déplacés ici. Nous les empruntons à une notice de M. Paul Cheron.
                             Voici le titre de la pièce française : <title>Oberon</title>, opéra
                             fantastique en trois actes et sept tableaux, musique de Weber, paroles
                             imitées de Wieland, par MM. Nuitter, Beaumont et de
-                    Chazot.</p></note>.</p>
+                    Chazot.</note>.</p>
                 <p>Wieland, qui a fourni le sujet de cet opéra, à quelle source avait-il puisé lui
                     même ? Il a pris soin de nous renseigner à ce sujet dans la pré- <pb n="xxxix"
                         facs="https://fr.wikisource.org/wiki/Page:Anonyme_-_Huon_de_Bordeaux,_chanson_de_geste.djvu/49"
-                    /> face de son poëme. Il n’a connu du roman de Huon de Bordeaux que l’analyse
+                    />face de son poëme. Il n’a connu du roman de Huon de Bordeaux que l’analyse
                     publiée par M. de Tressan dans la <title>Bibliothèque des romans</title>. On ne
                     voit pas d’ailleurs que Huon de Bordeaux ait jamais été traduit en allemand, ce
                     qui peut sembler étrange quand on songe qu’il y en a eu deux versions
@@ -1103,7 +1101,7 @@
                             <p>C’est un de ces volumes de petit format et d’exécution très modeste,
                                 qui, selon toute appa- <pb n="xl"
                                     facs="https://fr.wikisource.org/wiki/Page:Anonyme_-_Huon_de_Bordeaux,_chanson_de_geste.djvu/50"
-                                /> rence, étaient à l’usage des jongleurs. Le parchemin en est
+                                />rence, étaient à l’usage des jongleurs. Le parchemin en est
                                 grossier, inégal, troué çà et là ou recousu. Les initiales des
                                 tirades, à l’exception de la première, ne sont ni ornées ni même
                                 coloriées. Il figurerait sans honneur dans un cabinet de riches
@@ -1137,8 +1135,8 @@
                                 Charlemaine, le gentil et le saige ; <lb/>Signour, c’est d’un noble
                                 homme que fuit de grant linaige <lb/>Et que fuit prous az armes et
                                 de grant vasselaige, <lb/>Et souffrit moult de mal oultre la mer
-                                salvaige : <lb/>Signour, c’est <note n="1"><p>Le manuscrit donne
-                                        c’este.</p></note> de Huelin de Bourdialz l’eritaige,
+                                salvaige : <lb/>Signour, c’est<note n="1">Le manuscrit donne
+                                        c’este.</note> de Huelin de Bourdialz l’eritaige,
                                 <lb/>Le filz dou duc Seguin qui fuit cortois et saige, <lb/>Qui fist
                                 tant de biaulz fait ou tempz de son éaige. <lb/>Mais ancor en fist
                                 plux Huelin par son bernage, <lb/>Ainsi que vous orés ains que moult
@@ -1162,7 +1160,7 @@
                                 partir du trente-septième vers de cette tirade, le mètre change
                                 brusquement ; le poëme se conti- <pb n="xlij"
                                     facs="https://fr.wikisource.org/wiki/Page:Anonyme_-_Huon_de_Bordeaux,_chanson_de_geste.djvu/52"
-                                /> nue et s’achève en vers de dix syllabes qui sont le plus souvent
+                                />nue et s’achève en vers de dix syllabes qui sont le plus souvent
                                 identiques, sauf l’orthographe, à ceux de la version que nous
                                 publions. </p>
                             <p>Nous avons mis à profit cette rare et précieuse conformité, pour
@@ -1189,7 +1187,7 @@
                                 yeux. Les philologues, qui seuls pourraient se plaindre de cette
                                 modifica- <pb n="xliij"
                                     facs="https://fr.wikisource.org/wiki/Page:Anonyme_-_Huon_de_Bordeaux,_chanson_de_geste.djvu/53"
-                                /> tion, en seront quittes pour ne point extraire de citations des
+                                />tion, en seront quittes pour ne point extraire de citations des
                                 passages d’emprunt que nous avons soigneusement enfermés entre [ ].
                                 Si dans ces passages ils notent quelque forme vicieuse à leur gré,
                                 c’est à nous qu’ils doivent s’en prendre. Avertis comme ils le sont,
@@ -1215,15 +1213,15 @@
                         </item>
                         <item n="III">
                             <p>III. <title>Manuscrit de Turin.</title>
-                                <!-- est ce pertinent ce title ? --> Bibliothèque de l’Université,
+                                <!-- est ce pertinent ce title ? -->Bibliothèque de l’Université,
                                 H, II, i i (XIV siècle).</p>
                             <p>La version que renferme ce manuscrit, dont <pb n="xliv"
                                     facs="https://fr.wikisource.org/wiki/Page:Anonyme_-_Huon_de_Bordeaux,_chanson_de_geste.djvu/54"
                                 /> on trouvera la description dans le catalogue de Pasini <note
-                                    n="1"><p>Codices manuscripti bibliothecæ regii Taurinensis
+                                    n="1">Codices manuscripti bibliothecæ regii Taurinensis
                                         athenæi..... recensuerunt et animadversionibus illustrarunt
                                         J. Pasinus, A. Rivautella et F. Berta. Taurini, mdccxlix, 2
-                                        vol. in-fol., t. II, p. 472 et 473.</p></note>, est plus
+                                        vol. in-fol., t. II, p. 472 et 473.</note>, est plus
                                 longue des deux tiers que celle du manuscrit de Tours. Le premier
                                 tiers du poëme est entièrement conforme pour le fond et se rapproche
                                 beaucoup pour la forme du texte que nous publions, à ce point que
@@ -1326,7 +1324,7 @@
                                         et de Flourent d’Arragon.</item>
                                     <item><lb/>Fo 394 vo. Ensi que Ydes, fille Flourent d’Arragon,
                                         espousa Olive, le fille Otheviien l’empereur de Rome <note
-                                            n="1"><p> Il n’y a point ici d’erreur, comme on serait
+                                            n="1">Il n’y a point ici d’erreur, comme on serait
                                                 tenté de le supposer au premier abord. Voyez dans la
                                                 traduction en prose, 1re édition, le chapitre qui
                                                 porte pour rubrique : Comment l’empereur donna sa
@@ -1335,7 +1333,7 @@
                                                 Nostre Seigneur Jesu Çrist fist grans miracles pour
                                                 Ide, car il la fist estre homme… et les deux mariés
                                                 engendrerent ung moult beau filz qui eut nom
-                                                Croissant.</p></note>.</item>
+                                                Croissant.</note>.</item>
                                     <item><lb/>Fo 401 vo. Ensi que li royne Esclarmonde s’agiut à
                                         Bordiaus d’un fill qui ot à non Godins, et comment li roys
                                         Hues le reconforta.</item>
@@ -1373,12 +1371,12 @@
                                 comment il ont esré, <lb/>Ydes morut et Croissans li membrés ;
                                 <lb/>Il n’est nus hons qui plus en puist chanter, <lb/>Qui la matere
                                 n’en voet dou tout fausé. <lb/>Dix nos doinst bien qui l’avons
-                                escouté, <lb/>Explicit chi, je n’en sai plus parler. </p> Dans le
+                                escouté, <lb/>Explicit chi, je n’en sai plus parler.</p><p>Dans le
                             même manuscrit et en tête du poëme de Huon de Bordeaux, se trouve le
                             Roman d’Au- <pb n="xlix"
                                 facs="https://fr.wikisource.org/wiki/Page:Anonyme_-_Huon_de_Bordeaux,_chanson_de_geste.djvu/59"
-                            /> beron tout à fait distinct du poëme, auquel cependant il sert de
-                            prologue. Le Roman d’Auberon commence ainsi au fol. 283 du manuscrit
+                            />beron tout à fait distinct du poëme, auquel cependant il sert de
+                            prologue. Le Roman d’Auberon commence ainsi au fol. 283 du manuscrit</p>
                                     <p><title>Ch’est li commencemens dou roumant d’auberon, ainsi
                                     que ses aves Judas Machabeus fu assis a Macabe dou roi Bandifort
                                     :</title>
@@ -1403,7 +1401,7 @@
                                 devient mère de Jules César. Fo 288. — Jules César va avec Brunehaut
                                 à la cour du roi Artus et est aimé <pb n="l"
                                     facs="https://fr.wikisource.org/wiki/Page:Anonyme_-_Huon_de_Bordeaux,_chanson_de_geste.djvu/60"
-                                /> de Morgue, sœur de ce roi. F° 289. — Jules César épouse Morgue,
+                                />de Morgue, sœur de ce roi. F° 289. — Jules César épouse Morgue,
                                 et en a deux fils : Saint-Georges et Auberon. F° 290. Les fées
                                 viennent les doter à leur naissance. Auberon est condamné à être
                                 grand de trois pieds, sans plus. — Amours de Georges avec la fille
@@ -1478,9 +1476,9 @@
                                 Croissant, cilx de Romme qui moult ost hardement, <lb/>Qui fust filx
                                 à la fille Clarisse o le corps gent, <lb/>Qui par le voloir Dieu, le
                                 pere omnipotent, <lb/>Fust cangiée sa char, le livre le m’aprent,
-                                <lb/>Et se devint uns homs o gré du sapient <note n="1"><p>Cette
+                                <lb/>Et se devint uns homs o gré du sapient <note n="1">Cette
                                         partie du roman contenue dans la version de Turin est ici
-                                        supprimée par le réviseur.</p></note>. <lb/>Yde avoit à nom,
+                                        supprimée par le réviseur.</note>. <lb/>Yde avoit à nom,
                                 le mien corps point ne ment, <lb/>Si espousa la fille l’empereur
                                 vrayement <lb/>De Romme le maiour, qui moult ost hardement, <lb/>Qui
                                 ost nom Béatris, le corps avoit moult gent. <lb/>Et de ces deux
@@ -1513,7 +1511,7 @@
                                 la générosité de ses auditeurs, sur un ton qui devait les mettre en
                                 gaité. On remarquera surtout le premier de ces <pb n="liv"
                                     facs="https://fr.wikisource.org/wiki/Page:Anonyme_-_Huon_de_Bordeaux,_chanson_de_geste.djvu/64"
-                                /> deux passages, qui se trouve (p. 148) à peu près au milieu du
+                                />deux passages, qui se trouve (p. 148) à peu près au milieu du
                                 récit dont le narrateur remet la suite au lendemain. D’après cette
                                 curieuse indication, nous aurions pu intituler notre poème :
                                     <title>Huon de Bordeaux</title>, chanson de geste en deux
@@ -1542,7 +1540,7 @@
                     chevaucher ni aller en guerre. Faites un roi, je vous en conjure, qui gouverne à
                     ma place le pays et le fief de France. — Sire, <pb n="lvj"
                         facs="https://fr.wikisource.org/wiki/Page:Anonyme_-_Huon_de_Bordeaux,_chanson_de_geste.djvu/66"
-                    /> dit le duc de Naimes, pour Dieu, ne tenez point pareil langage. Allez-vous-en
+                    />dit le duc de Naimes, pour Dieu, ne tenez point pareil langage. Allez-vous-en
                     à Reims, à Saint-Omer, au bourg d’Orléans, ou demeurez à Paris dans votre
                     palais. Faites-vous y servir et vivez-y en paix ; nous garderons vos châteaux et
                     vos fiefs, et vous aiderons à rendre la justice dans vos terres. Dussiez-vous
@@ -1566,7 +1564,7 @@
                     n’eût été sauvé par un ange descendu du ciel. « Grande fut ma joie et celle de
                     mes chevaliers, dit l’empereur, lorsque je ramenai<pb n="lvij"
                         facs="https://fr.wikisource.org/wiki/Page:Anonyme_-_Huon_de_Bordeaux,_chanson_de_geste.djvu/67"
-                    /> mon fils vivant ; mais, par celui qui nous jugera tous, il eût été meilleur
+                    />mon fils vivant ; mais, par celui qui nous jugera tous, il eût été meilleur
                     peut-être qu’Ogier lui coupât la tête, car il ne vaut pas un denier. » P.
                     4-6.</p>
                 <p>Comme il parle ainsi, survient Charlot, un épervier au poing. Il était jeune et
@@ -1591,7 +1589,7 @@
                     pays ? demande Charlemagne. — C’est Bordeaux, répond Amaury. Il y a bien sept
                     ans que le duc est mort, laissant<pb n="lviij"
                         facs="https://fr.wikisource.org/wiki/Page:Anonyme_-_Huon_de_Bordeaux,_chanson_de_geste.djvu/68"
-                    /> pour héritiers deux mauvais garçons, deux ribauts, Gérard et Huon, qui ne
+                    />pour héritiers deux mauvais garçons, deux ribauts, Gérard et Huon, qui ne
                     daignent vous servir ni vous rendre honneur. Sire, chargez-moi de votre
                     vengeance. J’irai à Bordeaux avec ceux de mon lignage, et je vous amènerai ces
                     deux garçons pour que vous puissiez en faire justice. » — Charlemagne y consent
@@ -1615,7 +1613,7 @@
                     rendre hommage à Charlemagne. — Sages conseils de la duchesse à ses enfants. —
                     Retour des messagers. — Ils<pb n="lix"
                         facs="https://fr.wikisource.org/wiki/Page:Anonyme_-_Huon_de_Bordeaux,_chanson_de_geste.djvu/69"
-                    /> annoncent la prochaine arrivée de Huon et de Gérard, dont ils vantent la
+                    />annoncent la prochaine arrivée de Huon et de Gérard, dont ils vantent la
                     courtoisie, les grandes manières et la libéralité. Charlemagne, ravi de ces
                     nouvelles, se réjouit de n’avoir pas suivi le conseil d’Amaury. « Si Huon vient
                     à Paris, dit-il, il sera gonfalonier de France, et son jeune frère sera mon
@@ -1690,7 +1688,7 @@
                     vais assaillir, » répond Charlot, et aussitôt il pique son cheval et s’élance à
                     leur rencontre. « Lais-<pb n="lxij"
                         facs="https://fr.wikisource.org/wiki/Page:Anonyme_-_Huon_de_Bordeaux,_chanson_de_geste.djvu/72"
-                    /> sons-le aller, seigneurs, dit Amaury à ses compagnons, et plaise à Dieu qu’il
+                    />sons-le aller, seigneurs, dit Amaury à ses compagnons, et plaise à Dieu qu’il
                     n’en revienne point. La France sera sans héritier, et c’est moi qui prendrai sa
                     place. » Cependant l’abbé de Cluny aperçoit Charlot qui s’avance, et dit à Huon
                     : « Beau neveu, je vois des heaumes briller dans ce petit bois, et voici un
