@@ -79,6 +79,7 @@
       </langUsage>
    </profileDesc>
    <revisionDesc status="draft">
+       <change who="#AJ" when="2018-02-14">Mise en place de la tokenisation et de la numérotation des vers et des mots par la xsl.</change>
       <change who="#AJ" when="2018-02-13">Numérotation des laisses</change>
       <change who="#AJ" when="2018-01-31">Ajout des vers et de leur structuration.</change>
       <change who="#AJ" when="2018-01-15">Encodage du TeiHeader</change>

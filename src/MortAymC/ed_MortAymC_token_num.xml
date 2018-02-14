@@ -1,4 +1,8 @@
-<?xml version="1.0" encoding="UTF-8"?><?xml-model htarget="../../odd/out/Modele.rng" type="application/xml"  schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model htarget="../../odd/out/Modele.rng" type="application/xml"  schematypens="http://purl.oclc.org/dsdl/schematron"?><?xml-model htarget="../../odd/Modele.odd"?><?xml-stylesheet type="text/xsl" htarget="workflow_tokenization_quasi_fonct.xsl"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ed_MortAymC" xml:lang="fr" type="ed" version="5">
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model htarget="../../odd/out/Modele.rng" type="application/xml"  schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model htarget="../../odd/out/Modele.rng" type="application/xml"  schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model htarget="../../odd/Modele.odd"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ed_MortAymC" xml:lang="fr" type="ed" version="5">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -82,7 +86,7 @@
       </profileDesc>
       <revisionDesc status="draft">
          <!-- Les notes de bas de pages n'ont pas encore réintégrés dans le body -->
-         <!-- Les span avec les corrections de coquille n'ont pas été supprimés dans les différentes div du back!! -->
+         <change who="#AJ" when="2018-02-14">Correction de quelques erreurs restantes dans le body. Mise en place de la tokenisation et de la numérotation des vers et des motspar la xsl</change>
          <change who="#AJ" when="2018-02-13" status="draft">Numérotation des laisses et nettoyage du body.</change>
          <change who="#AJ" when="2018-01-31" status="draft">Structuration du body en laisse et en vers. Mise en place des lb et des pb. Intégration des pages de titres dans le front.Intégration de l'index de vocabulaire dans le back</change>
          <change who="#AJ" when="2018-01-24" status="draft">Poursutie de l'intégration du front</change>

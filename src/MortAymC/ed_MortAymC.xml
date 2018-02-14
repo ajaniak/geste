@@ -89,7 +89,7 @@
       </profileDesc>
       <revisionDesc status="draft">
          <!-- Les notes de bas de pages n'ont pas encore réintégrés dans le body -->
-         <!-- Les span avec les corrections de coquille n'ont pas été supprimés dans les différentes div du back!! -->
+         <change who="#AJ" when="2018-02-14">Correction de quelques erreurs restantes dans le body.</change>
          <change who="#AJ" when="2018-02-13">Numérotation des laisses et nettoyage du body.</change>
          <change who="#AJ" when="2018-01-31">Structuration du body en laisse et en vers. Mise en place des lb et des pb. Intégration des pages de titres dans le front.Intégration de l'index de vocabulaire dans le back</change>
          <change who="#AJ" when="2018-01-24">Poursutie de l'intégration du front</change>
