@@ -84,6 +84,7 @@
       </langUsage>
    </profileDesc>
    <revisionDesc status="draft">
+      <change who="#AJ" when="2018-02-13">Numérotation des laisses</change>
       <change who="#AJ" when="2018-01-31">Ajout des vers et de leur structuration.</change>
       <change who="#AJ" when="2018-01-15">Encodage du TeiHeader</change>
    </revisionDesc>
@@ -91,7 +92,7 @@
   <text xml:lang="fr">
      <!-- Cette édition nous a été donnée sans éléments de front. -->
  <body>
-    <lg type="">
+    <lg type="laisse" xml:id="L_001">
 <l><lb/>             A ceste estoire dire me plest entendre 
 </l>
 <l><lb/>   Ou l en puet molt sens et essenple prendre
@@ -118,7 +119,7 @@
 </l>
 <l><lb/>   Qu ele est de haute estoire
 </l></lg>
-    <lg type=""><l><lb/>   Ceste chancon  seignor dont je vos di
+    <lg type="laisse" xml:id="L_002"><l><lb/>   Ceste chancon  seignor dont je vos di
 </l>
 <l><lb/>   Si est l estoire del preu conte Aymeri
 </l>
@@ -176,7 +177,7 @@
 </l>
 <l><lb/>   Ce fu haute deserte
 </l></lg>
-    <lg type=""><l><lb/>   Por voir vos di q an iceste chancon
+    <lg type="laisse" xml:id="L_003"><l><lb/>   Por voir vos di q an iceste chancon
 </l>
 <l><lb/>   Puet en assez trover sens et reson
 </l>
@@ -274,7 +275,7 @@
 </l>
 <l><lb/>   En la terre d Espangne
 </l></lg>
-    <lg type=""><l><lb/>   Preudom fu Charles a la barbe florie
+    <lg type="laisse" xml:id="L_004"><l><lb/>   Preudom fu Charles a la barbe florie
 </l>
 <l><lb/>   Grans vertuz fist Dex por lui en sa vie
 </l>
@@ -394,7 +395,7 @@
 </l>
 <l><lb/>   Charles et sa conpangne
 </l></lg>
-    <lg type="">
+    <lg type="laisse" xml:id="L_005">
 <l><lb/>   Granz fu li duels que vos m oez conter
 </l>
 <l><lb/>   Que demenoient li baron et li per
@@ -501,7 +502,7 @@
 </l>
 <l><lb/>   Ainz que m en aille en France
 </l></lg>
-    <lg type="">
+    <lg type="laisse" xml:id="L_006">
 <l><lb/>   Naimes entant Charlemaine le roi
 </l>
 <l><lb/>   Qui ses barons a mis en tel effroi
@@ -556,7 +557,7 @@
 </l>
 <l><lb/>   El regne de Baiviere
 </l></lg>
-    <lg type="">
+    <lg type="laisse" xml:id="L_007">
 <l><lb/>   Quant Charlemaine ot Naimon escoute
 </l>
 <l><lb/>   De mautalant a tout le sens mue
@@ -707,7 +708,7 @@
 </l>
 <l><lb/>   Ne sa mere hautisme
 </l></lg>
-    <lg type="">
+    <lg type="laisse" xml:id="L_008">
 <l><lb/>   Dist l enperere Tendroiz la vos de moi
 </l>
 <l><lb/>   Sire dist Naimes nanil en moie foi
@@ -734,7 +735,7 @@
 </l>
 <l><lb/>   Qui m en rendra servise
 </l></lg>
-    <lg type="">
+    <lg type="laisse" xml:id="L_009">
 <l><lb/>   Charles li rois fu molt de grant coraje
 </l>
 <l><lb/>   La cite voit et l ancien estage
@@ -759,7 +760,7 @@
 </l>
 <l><lb/>   Gentement l aresonne
 </l></lg>
-    <lg type="">
+    <lg type="laisse" xml:id="L_010">
        <l><lb/>   Venez avant Dreues de Mondidier
 </l>
 <l><lb/>   Vos fustes fiz de gentil chevalier
@@ -810,7 +811,7 @@
 </l>
 <l><lb/>   Car ge n en ai que faire
 </l></lg>
-    <lg type=""><l><lb/>   Dist l enperere a la barbe florie
+    <lg type="laisse" xml:id="L_011"><l><lb/>   Dist l enperere a la barbe florie
 </l>
 <l><lb/>   Venez avant Richart de Normendie
 </l>
@@ -850,7 +851,7 @@
 </l>
 <l><lb/>   De mau feu soit ele arse
 </l></lg>
-    <lg type="">
+    <lg type="laisse" xml:id="L_012">
 <l><lb/>   Li enperere tint molt le chief enclin
 </l>
 <l><lb/>   Por ces .iij. contes qui si sont de fier lin
@@ -893,7 +894,7 @@
 </l>
 <l><lb/>   Ne tandroie Nerbone
 </l></lg>
-    <lg type="">
+    <lg type="laisse" xml:id="L_013">
 <l><lb/>   Charles  li rois fu en grant sopecon
 </l>
 <l><lb/>   Qant si li faillent si conte et si baron
@@ -940,7 +941,7 @@
 </l>
 <l><lb/>   Assez ai aillors terre
 </l></lg>
-    <lg type="">
+    <lg type="laisse" xml:id="L_014">
 <l><lb/>   Iriez fu Charles a la fiere personne
 </l>
 <l><lb/>   Qant tuit refussent la cite de Nerbone
@@ -968,7 +969,9 @@
 <l><lb/>   Or m en irai cele part sanz essone
 </l>
 <l><lb/>   S acquiterai mes marches
-</l></lg><lg type=""><l><lb/>   En Charlemaine nen ot que airier 
+</l></lg>
+<lg type="laisse" xml:id="L_015">
+<l><lb/>  En Charlemaine nen ot que airier 
 </l>
 <l><lb/>   Qant si li faillent si baron chevalier
 </l>
@@ -998,7 +1001,7 @@
 </l>
 <l><lb/>   Car ge n i puis entendre
 </l></lg>
-    <lg type=""><l><lb/>   Molt fu li rois corrociez et pansis
+    <lg type="laisse" xml:id="L_016"><l><lb/>   Molt fu li rois corrociez et pansis
 </l>
 <l><lb/>   Qant de Nerbone li est chascuns eschis
 </l>
@@ -1040,7 +1043,7 @@
 </l>
 <l><lb/>   Car ja ne sera moie
 </l></lg>
-    <lg type="">
+    <lg type="laisse" xml:id="L_017">
 <l><lb/>   Plains fu li rois de molt fier mautalant
 </l>
 <l><lb/>  Qant si li faillent si home plus puisant
@@ -1089,7 +1092,7 @@
 </l>
 <l><lb/>   Ja la claim tote quite
 </l></lg>
-    <lg type=""><l><lb/>   Avant venez dus Naimes de Baiviere
+    <lg type="laisse" xml:id="L_018"><l><lb/>   Avant venez dus Naimes de Baiviere
 </l>
 <l><lb/>   Dist l enperere a la hardie chiere
 </l>
@@ -1139,7 +1142,7 @@
 </l>
 <l><lb/>   Car ja ne sera moie
 </l></lg>
-    <lg type=""><l><lb/>   Venez avant Anseis de Cartage
+    <lg type="laisse" xml:id="L_019"><l><lb/>   Venez avant Anseis de Cartage
 </l>
 <l><lb/>   Tenez Nerbone et le mestre menaje
 </l>
@@ -1179,7 +1182,7 @@
 </l>
 <l><lb/>   Maudite soit la terre
 </l></lg>
-    <lg type="">
+    <lg type="laisse" xml:id="L_020">
 <l><lb/>   Nostre enperere se prist a dementer
 </l>
 <l><lb/>   Et son neveu Rollant a regreter
@@ -1218,7 +1221,7 @@
 </l>
 <l><lb/>   Si li offri Nerbone
 </l></lg>
-    <lg type=""><l><lb/>   Biaus sire Hernaus dist Charles au vis fier
+    <lg type="laisse" xml:id="L_021"><l><lb/>   Biaus sire Hernaus dist Charles au vis fier
 </l>
 <l><lb/>   Prenez Nerbone je vos en veil proier
 </l>
@@ -1262,7 +1265,7 @@
 </l>
 <l><lb/>   Ja ne tandra la terre
 </l></lg>
-    <lg type=""><l><lb/>   Qant ce voit Charles que tuit li sont failli
+    <lg type="laisse" xml:id="L_022"><l><lb/>   Qant ce voit Charles que tuit li sont failli
 </l>
 <l><lb/>   Ne vellent estre de Nerbone sessi
 </l>
@@ -1305,7 +1308,9 @@
 <l><lb/>   Qui que s en aut je remendrai ici
 </l>
 <l><lb/>   Si garderai Nerbone
-</l></lg><lg type=""><l><lb/>   Seignor baron ce dist Charles li rois
+</l></lg>
+<lg type="laisse" xml:id="L_023">
+<l><lb/>  Seignor baron ce dist Charles li rois
 </l>
 <l><lb/>   Ralez vos en Borguignon et Francois
 </l>
@@ -1378,7 +1383,9 @@
 <l><lb/>   Qu il n avroit tel de ci en Vermendois
 </l>
 <l><lb/>   Por maintenir ses marches
-</l></lg><lg type=""><l><lb/>   Devant Charlon en est Hernaus venuz
+</l></lg>
+<lg type="laisse" xml:id="L_024">
+<l><lb/>  Devant Charlon en est Hernaus venuz
 </l>
 <l><lb/>   Si l en apele com hom aperceuz
 </l>
@@ -1419,7 +1426,9 @@
 <l><lb/>   Dex ce dist Charles car fust il or venuz
 </l>
 <l><lb/>   Onques n oi si grant joie
-</l></lg><lg type=""><l><lb/>   Li cuens Hernaus ne s est pas arestez
+</l></lg>
+<lg type="laisse" xml:id="L_025">
+<l><lb/>  Li cuens Hernaus ne s est pas arestez
 </l>
 <l><lb/>   A Aymeri son fil en est alez
 </l>
@@ -1480,7 +1489,7 @@
 <l><lb/>   Se ge vif tant q an l ennor soie entrez
 </l>
 <l><lb/>   Tote perdront Espangne
-</l></lg><lg type="">
+</l></lg><lg type="laisse" xml:id="L_026">
 <l><lb/>   Devant le roi vint Hernaus li gentis
 </l>
 <l><lb/>   Qui encor fu molt dolanz et pansis
@@ -1590,7 +1599,9 @@
 <l><lb/>   Dex vos en oie sire dist Aymeris
 </l>
 <l><lb/>   Qui me croise barnaje
-</l></lg><lg type=""><l><lb/>   Dist l enperere Ore esta gentement
+</l></lg>
+<lg type="laisse" xml:id="L_027">
+<l><lb/>  Dist l enperere Ore esta gentement
 </l>
 <l><lb/>   De mon duel ai molt grant alegement
 </l>
@@ -1639,7 +1650,9 @@
 <l><lb/>   Qant Charlemaine cele parole entant
 </l>
 <l><lb/>   Molt par en ot grant joie
-</l></lg><lg type=""><l><lb/>   Aymeri frere dist Charles au vis fier
+</l></lg>
+<lg type="laisse" xml:id="L_028">
+<l><lb/>  Aymeri frere dist Charles au vis fier
 </l>
 <l><lb/>   Gentis hom sire ne vos chaut d esmaier
 </l>
@@ -1730,7 +1743,8 @@
 <l><lb/>   Par saint Denis nos irons sanz targier
 </l>
 <l><lb/>   Ferir en la quintaine
-</l></lg><lg type="">
+</l></lg>
+    <lg type="laisse" xml:id="L_029">
 <l><lb/>   Par le conseil que Charles ot done
 </l>
 <l><lb/>   Tout por l amor Aymeri le menbre
@@ -1972,7 +1986,8 @@
 <l><lb/>   Ou ars en feu ou au vant encroe
 </l>
 <l><lb/>   Car la cite est moie
-</l></lg><lg type="">
+</l></lg>
+    <lg type="laisse" xml:id="L_030">
 <l><lb/>   Qant li paien furent mort et vaincu
 </l>
 <l><lb/>   Cil qui estoient de la cite issu
@@ -2026,7 +2041,9 @@
 <l><lb/>   Ja n amerai Sarrazin  mescreu
 </l>
 <l><lb/>   A nul jor de ma vie
-</l></lg><lg type=""><l><lb/>   De ce c a dit le preuz quenz Aymeris
+</l></lg>
+<lg type="laisse" xml:id="L_031">
+<l><lb/>  De ce c a dit le preuz quenz Aymeris
 </l>
 <l><lb/>   Charles li rois s en est volentiers ris
 </l>
@@ -2097,7 +2114,9 @@
 <l><lb/>   S an sont torne n i ont plus terme quis
 </l>
 <l><lb/>   Si vont  le secors querre
-</l></lg><lg type=""><l><lb/>   Vont s en li mes n i sont plus demorant
+</l></lg>
+<lg type="laisse" xml:id="L_032">
+<l><lb/>  Vont s en li mes n i sont plus demorant
 </l>
 <l><lb/>   Par desoz terre s en sont torne errant
 </l>
@@ -2196,7 +2215,9 @@
 <l><lb/>   Eincois c aions secors de l amirant
 </l>
 <l><lb/>   Avrons perdu Nerbone
-</l></lg><lg type=""><l><lb/>   Charles a fet le berfroit haut lever
+</l></lg>
+<lg type="laisse" xml:id="L_033">
+<l><lb/>  Charles a fet le berfroit haut lever
 </l>
 <l><lb/>   Et pres des murs et  conduire et mener
 </l>
@@ -2261,7 +2282,9 @@
 <l><lb/>   Qant l ont veu Sarrazin et Escler
 </l>
 <l><lb/>   Poor ont   de lor vie
-</l></lg><lg type=""><l><lb/>   A cel assaut  ot molt fiere aatie
+</l></lg>
+<lg type="laisse" xml:id="L_034">
+<l><lb/>  A cel assaut  ot molt fiere aatie
 </l>
 <l><lb/>   Molt avoit Charles bone gent et hardie
 </l>
@@ -2326,7 +2349,9 @@
 <l><lb/>   Ja n i guerront la pute gent haie
 </l>
 <l><lb/>   S il ne rendent Nerbone
-</l></lg><lg type=""><l><lb/>   Qant ce entandent sergent et chevalier
+</l></lg>
+<lg type="laisse" xml:id="L_035">
+<l><lb/>  Qant ce entandent sergent et chevalier
 </l>
 <l><lb/>   Que les hauz murs n oseront pecoier
 </l>
@@ -2470,7 +2495,8 @@
 </l>
 <l><lb/>   Bien doit tenir la terre
 </l></lg>
-    <lg type=""><l><lb/>   Sus el pales en l estaje plus grant
+    <lg type="laisse" xml:id="L_036">
+       <l><lb/>   Sus el pales en l estaje plus grant
 </l>
 <l><lb/>   Fu Aymeris au coraje vaillant
 </l>
@@ -2531,7 +2557,8 @@
 <l><lb/>   Jurent la nuit el plus haut mandement
 </l>
 <l><lb/>   Et lor riche conpangne
-</l></lg><lg type="">
+</l></lg>
+    <lg type="laisse" xml:id="L_037">
 <l><lb/>   Qant ce ot fet Charlemaine li ber
 </l>
 <l><lb/>   Qu il ot Nerbone qui tant fet a loer
@@ -2593,7 +2620,8 @@
 <l><lb/>   Au departir en prist a apeler
 </l>
 <l><lb/>   Aymeri de Nerbone
-</l></lg><lg type="">
+</l></lg>
+    <lg type="laisse" xml:id="L_038">
    <l><lb/>   Charles parole a la fiere vigor
 </l>
 <l><lb/>   Aymeri frere molt avez bele tor
@@ -2679,7 +2707,8 @@
 <l><lb/>   N en perdrai ja demi pie ne plain dor
 </l>
 <l><lb/>   Par la gent Sarrazine
-</l></lg><lg type="">
+</l></lg>
+    <lg type="laisse" xml:id="L_039">
 <l><lb/>   Charles li rois n i fist plus demoree
 </l>
 <l><lb/>   Arrier s en vait en France la loee
@@ -2757,7 +2786,9 @@
 <l><lb/>   Cuens Aymeris et gent molt redoutee
 </l>
 <l><lb/>   Or li covenist fame 
-</l></lg><lg type=""><l><lb/>   Adont li loent li petit et li grant
+</l></lg>
+<lg type="laisse" xml:id="L_040">
+<l><lb/>  Adont li loent li petit et li grant
 </l>
 <l><lb/>   Aymeris sire por Deu onipotant
 </l>
@@ -2786,7 +2817,9 @@
 <l><lb/>   Et qui soit sage et de parage grant
 </l>
 <l><lb/>   Je n avrai  ouan fame
-</l></lg><lg type=""><l><lb/>   Seignor baron ce  a dit Aymeri
+</l></lg>
+<lg type="laisse" xml:id="L_041">
+<l><lb/>  Seignor baron ce  a dit Aymeri
 </l>
 <l><lb/>   Je n en sai nule en France n en Berri
 </l>
@@ -2861,7 +2894,9 @@
 <l><lb/>   Dont il morront .m. home fervesti
 </l>
 <l><lb/>   Por l amor la pucele
-</l></lg><lg type=""><l><lb/>   En non Deu Hugues vos la m avez loee
+</l></lg>
+<lg type="laisse" xml:id="L_042">
+<l><lb/>  En non Deu Hugues vos la m avez loee
 </l>
 <l><lb/>   Et maint autre homme la m ont pieca nommee
 </l>
@@ -2896,7 +2931,9 @@
 <l><lb/>   Por voir vos di molt ert chier conparee
 </l>
 <l><lb/>   Eincois que ge m en parte
-</l></lg><lg type=""><l><lb/>   Sire dist Hugues li preuz et li senez
+</l></lg>
+<lg type="laisse" xml:id="L_043">
+<l><lb/>  Sire dist Hugues li preuz et li senez
 </l>
 <l><lb/>   De Bargelone qui molt fu redoutez
 </l>
@@ -2975,7 +3012,9 @@
 <l><lb/>   La dame avroiz eincois .ij. mois pasez 
 </l>
 <l><lb/>   Ceanz dedanz Nerbone
-</l></lg><lg type=""><l><lb/>   Cuens Aymeris n i volt plus delaier
+</l></lg>
+<lg type="laisse" xml:id="L_044">
+<l><lb/>  Cuens Aymeris n i volt plus delaier
 </l>
 <l><lb/>   Par ses contrees fet ses mes envoier
 </l>
@@ -3090,7 +3129,9 @@
 <l><lb/>   Et .xx. seront a Tierri et Fouchier
 </l>
 <l><lb/>   C est la tierce partie
-</l></lg><lg type=""><l><lb/>   Vint en i a qui sont preu et cortois
+</l></lg>
+<lg type="laisse" xml:id="L_045">
+<l><lb/>  Vint en i a qui sont preu et cortois
 </l>
 <l><lb/>   .XXI. furent a Guillaume de Blois
 </l>
@@ -3113,7 +3154,9 @@
 <l><lb/>   Les .xxx. fist li preuz dus Godefrois
 </l>
 <l><lb/>   Cil iront a Pavie
-</l></lg><lg type=""><l><lb/>   Trente baron furent cil que ge di
+</l></lg>
+<lg type="laisse" xml:id="L_046">
+<l><lb/>  Trente baron furent cil que ge di
 </l>
 <l><lb/>   Qui tuit iront por la fame Aymeri
 </l>
@@ -3146,7 +3189,9 @@
 <l><lb/>   Tuit cil xl. que vos ai nommez ci
 </l>
 <l><lb/>   Iront la dame querre
-</l></lg><lg type=""><l><lb/>   Tuit cil .xl. que nome vos avon
+</l></lg>
+<lg type="laisse" xml:id="L_047">
+<l><lb/>  Tuit cil .xl. que nome vos avon
 </l>
 <l><lb/>   Iront ensenble a coite d esperon
 </l>
@@ -3203,7 +3248,9 @@
 <l><lb/>   Querre la dame a la clere facon
 </l>
 <l><lb/>   En la cit de Pavie
-</l></lg><lg type=""><l><lb/>   Cil mesagier que ge vos ai nomme
+</l></lg>
+<lg type="laisse" xml:id="L_048">
+<l><lb/>  Cil mesagier que ge vos ai nomme
 </l>
 <l><lb/>   Furent .lx. esleu et nonbre
 </l>
@@ -3298,7 +3345,9 @@
 <l><lb/>   Dont .c. Lonbart seront a mort livre
 </l>
 <l><lb/>   Por l amor la pucele
-</l></lg><lg type=""><l><lb/>   Vont s en  li mes sanz nule demoree
+</l></lg>
+<lg type="laisse" xml:id="L_049">
+<l><lb/>  Vont s en  li mes sanz nule demoree
 </l>
 <l><lb/>   Molt ont ensenble grant joie demenee
 </l>
@@ -3411,7 +3460,8 @@
 <l><lb/>   Que Normant estes qui menez tel posnee
 </l>
 <l><lb/>   Bien i ert as paroles
-</l></lg><lg type="">
+</l></lg>
+    <lg type="laisse" xml:id="L_050">
    <l><lb/>   Qant l Alemant orgueillex entendi
 </l>
 <l><lb/>   De Rosillon Girarz au cuer hardi
@@ -3461,7 +3511,8 @@
 <l><lb/>   Ja seroiz tuit pris et mort et honni
 </l>
 <l><lb/>   Mes alez tost ariere
-</l></lg><lg type="">
+</l></lg> 
+    <lg type="laisse" xml:id="L_051">
    <l><lb/>   Seignor vasal n alez plus en avant
 </l>
 <l><lb/>   Ce lor a dit Savari l Alemant
@@ -3519,7 +3570,8 @@
 <l><lb/>   Et puis s en vont a esperon brochant
 </l>
 <l><lb/>   Vers la gent d Alemengne
-</l></lg><lg type="">
+</l></lg>
+    <lg type="laisse" xml:id="L_052">
    <l><lb/>   Ce fu en mai que la rose est florie
 </l>
 <l><lb/>   Que bois foillist et herbe reverdie
@@ -3577,7 +3629,8 @@
 <l><lb/>   Par devant lui mist sa gent esbaie
 </l>
 <l><lb/>   Qui de la mort se doute
-</l></lg><lg type="">
+</l></lg>
+    <lg type="laisse" xml:id="L_053">
    <l><lb/>   Savaris fu coarz de grant  maniere
 </l>
 <l><lb/>   Entre sa gent se trest bien loinz arriere
@@ -3625,7 +3678,8 @@
 <l><lb/>   Mes cil s en est tornez fuiant arriere
 </l>
 <l><lb/>   Por garantir sa vie
-</l></lg><lg type="">
+</l></lg>
+    <lg type="laisse" xml:id="L_054">
    <l><lb/>   Granz fu et fiere la bataille en la plangne
 </l>
 <l><lb/>   D anbedeus parz crierent lor ensengne 
@@ -3669,7 +3723,8 @@
 <l><lb/>   Desus celui monte sanz demorengne
 </l>
 <l><lb/>   Qui molt bien li agree
-</l></lg><lg type="">
+</l></lg>
+    <lg type="laisse" xml:id="L_055">
    <l><lb/>   La bataille ont fierement maintenue
 </l>
 <l><lb/>   Li mesagier cui Gesu face aiue
@@ -3721,7 +3776,8 @@
 <l><lb/>   Onques mes jor tele ne fu veue
 </l>
 <l><lb/>   Es plains de Lonbardie
-</l></lg><lg type="">
+</l></lg>
+    <lg type="laisse" xml:id="L_056">
    <l><lb/>   Savaris fu et si home en dotence
 </l>
 <l><lb/>   Qant les barons virent de tel puissence
@@ -3765,7 +3821,9 @@
 <l><lb/>  Morz les trebuchent qui que en  ait pesance
 </l>
 <l><lb/> Cil mar virent la guerre
-</l></lg><lg type=""><l><lb/>  La bataille est molt fort et aduree
+</l></lg>
+<lg type="laisse" xml:id="L_057">
+<l><lb/> La bataille est molt fort et aduree
 </l>
 <l><lb/>   Savaris l a molt  formement redotee
 </l>
@@ -3858,7 +3916,9 @@
 <l><lb/>   Or est la nostre conpangne restoree
 </l>
 <l><lb/>   Or resomes .lx.
-</l></lg><lg type=""><l><lb/>   Fort fu l estor et la bataille grant
+</l></lg>
+<lg type="laisse" xml:id="L_058">
+<l><lb/>  Fort fu l estor et la bataille grant
 </l>
 <l><lb/>   Molt sont li conte de l escuier joiant
 </l>
@@ -3959,7 +4019,9 @@
 <l><lb/>   Vengera nos de ceste male gent
 </l>
 <l><lb/>   Qui ca derrier nos chacent
-</l></lg><lg type=""><l><lb/>   Alement fuient n osent plus delaier
+</l></lg>
+<lg type="laisse" xml:id="L_059">
+<l><lb/>  Alement fuient n osent plus delaier
 </l>
 <l><lb/>   Et li Francois pensent de l enchaucier
 </l>
@@ -4034,7 +4096,9 @@
 <l><lb/>   Outre s en vont n i vellent delaier
 </l>
 <l><lb/>   Le chemin vers Pavie
-</l></lg><lg type=""><l><lb/>   Vont s en Francois qui le chanp ont fine
+</l></lg>
+<lg type="laisse" xml:id="L_060">
+<l><lb/>  Vont s en Francois qui le chanp ont fine
 </l>
 <l><lb/>   Droit vers Pavie se sont achemine
 </l>
@@ -4125,7 +4189,8 @@
 <l><lb/>   Alons en tost en la bone cite
 </l>
 <l><lb/>   Si lor fermons les portes
-</l></lg><lg type="">
+</l></lg>
+    <lg type="laisse" xml:id="L_061">
 <l><lb/>   Rois Boniface s en est tornez fuiant
 </l>
 <l><lb/>   Droit vers Pavie a esperon brochant
@@ -4201,7 +4266,7 @@
 <l><lb/>   Gardez que vos aiez bon escient
 </l>
 <l><lb/>   Por rover la pucele
-</l></lg><lg>
+</l></lg><lg type="laisse" xml:id="L_062">
 <l><lb/>   Francois chevauchent sanz plus de demorer
 </l>
 <l><lb/>   De ci as portes ne vodrent arester
@@ -4301,7 +4366,9 @@
 <l><lb/>   Se vos volez tel barnaje mener
 </l>
 <l><lb/>   Dont estes vos trop riche
-</l></lg><lg type=""><l><lb/>   Rois Boniface fu nobiles et fiers
+</l></lg>
+<lg type="laisse" xml:id="L_063">
+<l><lb/>  Rois Boniface fu nobiles et fiers
 </l>
 <l><lb/>   Mes molt li poise des gentis mesagiers
 </l>
@@ -4372,7 +4439,9 @@
 <l><lb/>   C onques viande outre mer as paumiers
 </l>
 <l><lb/>   Ne fu  si chier vendue
-</l></lg><lg type=""><l><lb/>   Rois Boniface s en vet en son donjon
+</l></lg>
+<lg type="laisse" xml:id="L_064">
+<l><lb/>  Rois Boniface s en vet en son donjon
 </l>
 <l><lb/>   Par la cite herbergent li baron
 </l>
@@ -4409,7 +4478,9 @@
 <l><lb/>   Com s il eussent tout trove a bandon
 </l>
 <l><lb/>   Ce resanble barnaje
-</l></lg><lg type=""><l><lb/> Molt demenerent li baron grant fierte
+</l></lg>
+<lg type="laisse" xml:id="L_065">
+<l><lb/>Molt demenerent li baron grant fierte
 </l>
 <l><lb/>   Le pain font querre par tote la cite
 </l>
@@ -4584,7 +4655,9 @@
 <l><lb/>   Sus Boniface le fol bricon prove
 </l>
 <l><lb/>   Qui les mist en Pavie
-</l></lg><lg type=""><l><lb/>   Vint  jorz sejornent li baron et li per
+</l></lg>
+<lg type="laisse" xml:id="L_066">
+<l><lb/>  Vint  jorz sejornent li baron et li per
 </l>
 <l><lb/>   Si richement com en puet deviser
 </l>
@@ -4643,7 +4716,9 @@
 <l><lb/>   Qant lor feistes la buche deveer
 </l>
 <l><lb/>   Ce resenbla folage
-</l></lg><lg type=""><l><lb/>   Dist Boniface Par Deu le fil Marie
+</l></lg>
+<lg type="laisse" xml:id="L_067">
+<l><lb/>  Dist Boniface Par Deu le fil Marie
 </l>
 <l><lb/>   Tout voirement fu ce molt grant folie
 </l>
@@ -4702,7 +4777,9 @@
 <l><lb/>   Dex nos en gart qui tot a en baillie
 </l>
 <l><lb/>   Que a nos ne se prengnent
-</l></lg><lg type=""><l><lb/>   Richement  sont  et chaucie et vestu
+</l></lg>
+<lg type="laisse" xml:id="L_068">
+<l><lb/>  Richement  sont  et chaucie et vestu
 </l>
 <l><lb/>   Rois  Boniface si ami et si dru
 </l>
@@ -4743,7 +4820,7 @@
 <l><lb/>   Et por quel chose vos estes esmeu
 </l>
 <l><lb/>   Fors de vostre contree
-</l></lg><lg type="">
+</l></lg><lg type="laisse" xml:id="L_069">
    <l><lb/>   Hugues parla li chevaliers gentis
 </l>
 <l><lb/>   De Bargelone qui molt fu bien apris
@@ -4799,7 +4876,7 @@
 <l><lb/>   A toz jorz mes sera vostre ennemis
 </l>
 <l><lb/>   Aymeris de Nerbone
-</l></lg><lg type="">
+</l></lg><lg type="laisse" xml:id="L_070">
    <l><lb/>   Hugues parla li preuz et li cortois
 </l>
 <l><lb/>   Prenez conseil fet il biaus sire rois
@@ -4841,7 +4918,7 @@
 <l><lb/>   Si fier doaire ne fist ne cuens ne rois
 </l>
 <l><lb/>   Bien doit avoir la dame
-</l></lg><lg type="">
+</l></lg><lg type="laisse" xml:id="L_071">
 <l><lb/>   Dist Boniface Seignor or m entendez
 </l>
 <l><lb/>   D une partie vos sai ge molt bons grez
@@ -4909,7 +4986,7 @@
 <l><lb/>   Au plus haut prince qui soit de mere nez
 </l>
 <l><lb/>   Qui vos envoie querre
-</l></lg><lg type="">
+</l></lg><lg type="laisse" xml:id="L_072">
    <l><lb/>   En une chanbre qui estoit peinte a flor
 </l>
 <l><lb/>   Se sist li rois en son pales haucor
@@ -4977,7 +5054,9 @@
 <l><lb/>   Que ja n eusse a lui pes  ne amor
 </l>
 <l><lb/>   S en venist tost hontage
-</l></lg><lg type=""><l><lb/>   Frere ce dit la pucele eschevie
+</l></lg>
+<lg type="laisse" xml:id="L_073">
+<l><lb/>  Frere ce dit la pucele eschevie
 </l>
 <l><lb/>   Por amor Deu qui tot a en baillie
 </l>
@@ -5032,7 +5111,7 @@
 <l><lb/>   Si m eist Dex qui tot a en baillie
 </l>
 <l><lb/>   Je n avrai ja viel home
-</l></lg><lg type="">
+</l></lg><lg type="laisse" xml:id="L_074">
    <l><lb/>   Dist  Hermenjart  au  gent cors seignori
 </l>
 <l><lb/>   Biaus sire frere par foi le vos afi
@@ -5074,7 +5153,7 @@
 <l><lb/>   Puis que c est voirs que j avrai Aymeri
 </l>
 <l><lb/>   Le seignor de Nerbone
-</l></lg><lg type="">
+</l></lg><lg type="laisse" xml:id="L_075">
    <l><lb/>   Qant  sa seror rois Boniface entant
 </l>
 <l><lb/>   Qu ele prendra Aymeri bonement
@@ -5114,7 +5193,7 @@
 <l><lb/>   Si alast ele volentiers lieement
 </l>
 <l><lb/>   Au seignor de Nerbone
-</l></lg><lg type="">
+</l></lg><lg type="laisse" xml:id="L_076">
    <l><lb/>   Qant la parole ont li conte escoutee
 </l>
 <l><lb/>   Que bien ostroie la pucele senee
@@ -5216,7 +5295,9 @@
 <l><lb/>   Loez soit Dex et  sa mere aoree
 </l>
 <l><lb/>   De si haut mariage
-</l></lg><lg type=""><l><lb/>   Qant li baron ont la parole oie
+</l></lg>
+<lg type="laisse" xml:id="L_077">
+<l><lb/>  Qant li baron ont la parole oie
 </l>
 <l><lb/>   Que il ont si la besongne fornie
 </l>
@@ -5251,7 +5332,7 @@
 <l><lb/>   Princes ne rois tant ait grant seignorie
 </l>
 <l><lb/>   Ce dist li uns a l autre
-</l></lg><lg type="">
+</l></lg><lg type="laisse" xml:id="L_078">
    <l><lb/>   El palais sont li prince et li marchis
 </l>
 <l><lb/>   Desfuble sont  li mantel vair et gris
@@ -5319,7 +5400,7 @@
 <l><lb/>   Me secorroient as brans d acier forbis
 </l>
 <l><lb/>   Se porter m en voloient
-</l></lg><lg type="">
+</l></lg><lg type="laisse" xml:id="L_079">
    <l><lb/>   Seignor baron nobile chevalier
 </l>
 <l><lb/>   Dist  Hermenjart la bele au cors legier
@@ -5393,7 +5474,7 @@
 <l><lb/>   Toz voz mantiax  que fesiez lessier
 </l>
 <l><lb/>  Vos fet ma dame apres vos envoier
-</l></lg><lg type="">
+</l></lg><lg type="laisse" xml:id="L_080">
    <l><lb/>   Seignor vallet dist Guiz de Monpancier
 </l>
 <l><lb/>  Or soient vostre bien vos avront mestier
@@ -5477,7 +5558,7 @@
 <l><lb/>   Dex gart les contes qui en la croiz fu mis
 </l>
 <l><lb/>   C or lor croist molt grant poine
-</l></lg><lg type="">
+</l></lg><lg type="laisse" xml:id="L_081">
    <l><lb/>   Vont s en li mes qui ne se targent mie
 </l>
 <l><lb/>   Droit vers Nerbone ont lor voie acoillie
@@ -5533,7 +5614,7 @@
 <l><lb/>   Se trovons gent qui nos face asaillie
 </l>
 <l><lb/>   Chascuns bien se desfande
-</l></lg><lg type="">
+</l></lg><lg type="laisse" xml:id="L_082">
 <l><lb/>   Seignor dist Hugues franc chevalier baron
 </l>
 <l><lb/>   Se m en creez sor les destriers monton
@@ -5725,7 +5806,7 @@
 <l><lb/>   Si li ocient son destrier arragon
 </l>
 <l><lb/>   Si le metent par terre
-</l></lg><lg type="">
+</l></lg><lg type="laisse" xml:id="L_083">
    <l><lb/>   Qant Hugues voit soz lui mort son destrier
 </l>
 <l><lb/>   Savoir poez n ot en lui c airier
@@ -5849,7 +5930,7 @@
 <l><lb/>   Deu reclamerent le verai jostissier
 </l>
 <l><lb/>   Qui de mort les desfande
-</l></lg><lg type="">
+</l></lg><lg type="laisse" xml:id="L_084">
 <l><lb/>   Grans fu et fiers et perillex l estor
 </l>
 <l><lb/>   De tant de gent ne vit nus hom gregnor
@@ -5973,7 +6054,7 @@
 <l><lb/>   A Aymeri sor le bon misodor
 </l>
 <l><lb/>   Cil dira les noveles
-</l></lg><lg type="">
+</l></lg><lg type="laisse" xml:id="L_085">
    <l><lb/>   Hugues chevauche sanz nule demorengne
 </l>
 <l><lb/>   Droit vers Nerbone sor le destrier d Espangne
@@ -6000,7 +6081,7 @@
 29 65   Car li ber Hugues i vet  sanz  demorengne
 </l>
 <l><lb/>   Qui dira le mesaje
-</l></lg><lg type="">
+</l></lg><lg type="laisse" xml:id="L_086">
    <l><lb/>   Or sont li conte en la tor asegie
 </l>
 <l><lb/>   Devant la porte sont Alement logie
@@ -6092,7 +6173,7 @@
 <l><lb/>   Sire dist il bien vos sera noncie
 </l>
 <l><lb/>  Se  me volez entendre
-</l></lg><lg type="">
+</l></lg><lg type="laisse" xml:id="L_087">
    <l><lb/>   Dist Aymeris Ne me soit pas cele
 </l>
 <l><lb/>   Hugues biaus sire por Deu de majeste
@@ -6192,7 +6273,7 @@
 <l><lb/>   Apres irons se Dex l a destine
 </l>
 <l><lb/>   Por  la pucele querre
-</l></lg><lg type="">
+</l></lg><lg type="laisse" xml:id="L_088">
    <l><lb/>   Cuens Aymeris n i vost plus delaier
 </l>
 <l><lb/>   Qant il antant qu il avra moillier
@@ -6278,7 +6359,7 @@
 <l><lb/>   Voudroient estre li gloton pautonier
 </l>
 <l><lb/>   Arrier en Alemengne
-</l></lg><lg type="">
+</l></lg><lg type="laisse" xml:id="L_089">
    <l><lb/>   Vait s en  li oz a force et  a bandon
 </l>
 <l><lb/>   Et tant chevauchent a coite d esperon
@@ -6356,7 +6437,7 @@
 <l><lb/>   Et Hermenjart a la clere facon
 </l>
 <l><lb/>   Par cui perdon  les vies
-</l></lg><lg type="">
+</l></lg><lg type="laisse" xml:id="L_090">
    <l><lb/>   Forment s esmaient li baron en la tor
 </l>
 <l><lb/>   Et molt regretent Aymeri le contor
@@ -6398,7 +6479,7 @@
 <l><lb/>   Que ci nos vient Aymeri le contor
 </l>
 <l><lb/>   Qui secors nos ameine
-</l></lg><lg type="">
+</l></lg><lg type="laisse" xml:id="L_091">
 <l><lb/>   Molt font grant joie li chevalier vaillant
 </l>
 <l><lb/>   Dedanz la tor s  armerent  maintenant
@@ -6496,7 +6577,7 @@
 <l><lb/>   Puis nel toucha ne feri tant ne qant
 </l>
 <l><lb/>   Mes en prison l enmeinne
-</l></lg><lg type="">
+</l></lg><lg type="laisse" xml:id="L_092">
    <l><lb/>   Qant Savaris ot  rendue  s espee
 </l>
 <l><lb/>   Molt poi ont puis li autre de duree
@@ -6540,7 +6621,7 @@
 <l><lb/>   Tant qu il li ot tel raencon  donee
 </l>
 <l><lb/>   Dont puis fu toz jorz riches
-</l></lg><lg type="">
+</l></lg><lg type="laisse" xml:id="L_093">
    <l><lb/>   Desconfit sont Alement et ocis
 </l>
 <l><lb/>   Et en  prison  fu gitez Savaris
@@ -6670,7 +6751,7 @@
 <l><lb/>   Deseure ,j, lit covert de paile bis
 </l>
 <l><lb/>   La parolent ensenble
-</l></lg><lg type="">
+</l></lg><lg type="laisse" xml:id="L_094">
    <l><lb/>   Aymeris fu sages et enparles 
 </l>
 <l><lb/>   Prant la pucele si  s est  assis delez
@@ -6744,7 +6825,7 @@
 <l><lb/>   Qant g  en  irai  avec moi en vendrez
 </l>
 <l><lb/>   El pales de Nerbone 
-</l></lg><lg type="">
+</l></lg><lg type="laisse" xml:id="L_095">
 <l><lb/>   Grant fu la noise sus el pales plenier
 </l>
 <l><lb/>   Venu  i furent maint  baron  chevalier
@@ -6988,7 +7069,7 @@
 <l><lb/>   Or les conduie cil qui tout puet jugier
 </l>
 <l><lb/>   C or croist molt  grant  paine
-</l></lg><lg type="">
+</l></lg><lg type="laisse" xml:id="L_096">
    <l><lb/>   Endementiers c alez fu a Pavie
 </l>
 <l><lb/>   Cuens Aymeris a la chiere hardie
@@ -7038,7 +7119,7 @@
 <l><lb/>   Qant li dui roi ont la novele oie
 </l>
 <l><lb/>   Molt en firent grant joie
-</l></lg><lg type="">
+</l></lg><lg type="laisse" xml:id="L_097">
    <l><lb/>   Qant li dui roi oient le mes  parler
 </l>
 <l><lb/>   Que Aymeris est alez querre per
@@ -7134,7 +7215,9 @@
 <l><lb/>   Car li dui roi  vienent  sanz  demorer
 </l>
 <l><lb/>   Qui li diront noveles
-</l></lg><lg type=""><l><lb/>   El palais montent li dui desherite
+</l></lg>
+<lg type="laisse" xml:id="L_098">
+<l><lb/>  El palais montent li dui desherite
 </l>
 <l><lb/>   Qui de Nerbone estoient eschape
 </l>
@@ -7347,7 +7430,9 @@
 <l><lb/>   Que or nel set  Aymeris l adure
 </l>
 <l><lb/>   Qui amoine sa fame
-</l></lg><lg type=""><l><lb/>   Li amiranz fet ses paiens logier
+</l></lg>
+<lg type="laisse" xml:id="L_099">
+<l><lb/>  Li amiranz fet ses paiens logier
 </l>
 <l><lb/>   Si pres des murs que tresist .j. archier
 </l>
@@ -7712,7 +7797,7 @@
 <l><lb/>   Et voit paiens et  Sarrazins logier
 </l>
 <l><lb/>   Tout environ Nerbone
-</l></lg><lg type="">
+</l></lg><lg type="laisse" xml:id="L_100">
    <l><lb/>   Desus .j. tertre Aymeris en monta
 </l>
 <l><lb/>   Devant  Nerbone les paiens esgarda
@@ -7848,7 +7933,7 @@
 <l><lb/>   S  il fet ses noces  tres bien  i  servira
 </l>
 <l><lb/>   Au mengier a  Nerbone
-</l></lg><lg type="">
+</l></lg><lg type="laisse" xml:id="L_101">
    <l><lb/>   Girarz  s  en torne  n  i  volt plus sejorner
 </l>
 <l><lb/>   Molt fiere gent  fet  avec lui  mener
@@ -8274,7 +8359,9 @@
 <l><lb/>   Et avec eus maint baron et maint per
 </l>
 <l><lb/>   Pongnent por li secorre
-</l></lg><lg type=""><l><lb/>   A la rescouse del preu conte Aymeri
+</l></lg>
+<lg type="laisse" xml:id="L_102">
+<l><lb/>  A la rescouse del preu conte Aymeri
 </l>
 <l><lb/>   Vindrent pongnant maint chevalier hardi
 </l>
@@ -8335,7 +8422,7 @@
 <l><lb/>   Si fiert chascuns del branc d  acier  forbi
 </l>
 <l><lb/>   Sor la gent Sarrazine
-</l></lg><lg type="">
+</l></lg><lg type="laisse" xml:id="L_103">
    <l><lb/>   Grant hardement recoillent li Lonbart
 </l>
 <l><lb/>   Por Aymeri qui les granz cox depart
@@ -8367,7 +8454,7 @@
 <l><lb/>   Car vers paiens sont felon et gangnart
 </l>
 <l><lb/>   M   amor  ont  recovree
-</l></lg><lg type="">
+</l></lg><lg type="laisse" xml:id="L_104">
    <l><lb/>   Tres bien se sont li Lonbart maintenu
 </l>
 <l><lb/>   As premiers cox ont fort estor rendu
@@ -8427,7 +8514,9 @@
 <l><lb/>   Li dus Girarz si ami et si  dru
 </l>
 <l><lb/>   Qui secors lor ameinne
-</l></lg><lg type=""><l><lb/>   Grant fu  l  estor longuement  a  dure
+</l></lg>
+<lg type="laisse" xml:id="L_105">
+<l><lb/>  Grant fu  l  estor longuement  a  dure
 </l>
 <l><lb/>   Paien ont molt noz crestiens greve
 </l>
@@ -8770,7 +8859,7 @@
 <l><lb/>   En un chalant  s en  sont nagent torne
 </l>
 <l><lb/>   Tout droitement  a  Cordres
-</l></lg><lg type="">
+</l></lg><lg type="laisse" xml:id="L_106">
    <l><lb/>   Aymeris  a  bien l  enchaut  maintenu
 </l>
 <l><lb/>   O lui Girarz si ami et si dru
@@ -8824,7 +8913,7 @@
 <l><lb/>   Si en sera largement despandu
 </l>
 <l><lb/>   A feste et a grant joie
-</l></lg><lg type="">
+</l></lg><lg type="laisse" xml:id="L_107">
 <l><lb/>   Girarz descent en une praierie
 </l>
 <l><lb/>   Et avec lui sa riche conpangnie
@@ -8872,7 +8961,7 @@
 <l><lb/>   Si com vos dites qui quel tiengne a folie
 </l>
 <l><lb/>   L ai en panse a fere
-</l></lg><lg type="">
+</l></lg><lg type="laisse" xml:id="L_108">
    <l><lb/>   Aymeris a sa fame demandee
 </l>
 <l><lb/>   Girarz ses oncles la li a amenee
@@ -9038,7 +9127,7 @@
 <l><lb/>  Comme cil furent tot contreval la pree
 </l>
 <l><lb/>  As noces soz Nerbone
-</l></lg><lg type="">
+</l></lg><lg type="laisse" xml:id="L_109">
    <l><lb/>  Huit jorz durerent les noces Aymeri
 </l>
 <l><lb/>  Si richement chascun jor com ge di 
@@ -9078,7 +9167,7 @@
 <l><lb/>  Et si conquistrent comme fier et  hardi
 </l>
 <l><lb/>  Les granz marches d Espengne
-</l></lg><lg type="">
+</l></lg><lg type="laisse" xml:id="L_110">
    <l><lb/>  Li premiers fiz Aymeri le vaillant
 </l>
 <l><lb/>  Cil  ot  a   non dant Bernart de Brebant
@@ -9120,7 +9209,7 @@
 <l><lb/>  En deservi la joie permenant
 </l>
 <l><lb/>  Cil mena bone vie
-</l></lg><lg type="">
+</l></lg><lg type="laisse" xml:id="L_111">
    <l><lb/>  Cil segons fiz Guillaumes  que ge di
 </l>
 <l><lb/>  Por amor Deu  tante poine sofri
@@ -9152,7 +9241,7 @@
 <l><lb/>  En  Aleschans Guillaumes l  enfoi 
 </l>
 <l><lb/>  Encore i gist il ores
-</l></lg><lg type="">
+</l></lg><lg type="laisse" xml:id="L_112">
    <l><lb/>  Li carz des fiz Aymeri le menbre
 </l>
 <l><lb/>  Ot non Hernaut ce set en de verte
@@ -9212,7 +9301,7 @@
 <l><lb/>  Forz et  hardiz  et de ruiste fierte
 </l>
 <l><lb/>  S  ot  en  lui   molt  preudome
-</l></lg><lg type="">
+</l></lg><lg type="laisse" xml:id="L_113">
 <l><lb/>  Li quinz  des fiz  Hermenjart  la loee
 </l>
 <l><lb/>  Si ot non Bueves a la chiere menbree
@@ -9241,7 +9330,7 @@
 </l>
 <l><lb/>  Qant furent en Barbastre
 </l></lg>
-    <lg type="">
+    <lg type="laisse" xml:id="L_114">
 <l><lb/>  Li sises fiz qu  engendra  Aymeris
 </l>
 <l><lb/>  Si ot a non Aymers li chetis
@@ -9270,7 +9359,7 @@
 </l>
 <l><lb/>  Sire fu de la terre
 </l></lg>
-    <lg type="">
+    <lg type="laisse" xml:id="L_115">
 <l><lb/>  Li siemes fiz Hermenjart au cuer fin
 </l>
 <l><lb/>  Et Aymeri le conte palazin
@@ -9297,7 +9386,7 @@
 </l>
 <l><lb/>  Si fu oirs de Nerbone
 </l></lg>
-    <lg type="">
+    <lg type="laisse" xml:id="L_116">
        <l><lb/>Entre ces freres si ot v. serors nees 
 </l>
 <l><lb/>  Plus furent beles que sereinnes ne  fees
@@ -9318,7 +9407,7 @@
 </l>
 <l><lb/>  Par eus crut li lingnajes
 </l></lg>
-    <lg type="">
+    <lg type="laisse" xml:id="L_117">
        <l><lb/>  L  ainee fille donerent a moillier
 </l>
 <l><lb/>  A un baron qui molt  fist a proisier
@@ -9338,7 +9427,7 @@
 <l><lb/>  Forment les dut Guillaumes avoir chier
 </l>
 <l><lb/>  Neveu furent au conte
-</l></lg><lg type="">
+</l></lg><lg type="laisse" xml:id="L_118">
    <l><lb/>  L  autre donerent  a j. baron vaillant
 </l>
 <l><lb/>  Raoul del Mans a  l  adure  talant
@@ -9362,7 +9451,7 @@
 <l><lb/>  Molt bien aida Guillaume le puissant
 </l>
 <l><lb/>  Et au riche lingnaje
-</l></lg><lg type="">
+</l></lg><lg type="laisse" xml:id="L_119">
    <l><lb/>  La tierce fille donent a un marchis
 </l>
 <l><lb/>  Qui d  Angleterre fu  hauz hom et de pris
@@ -9386,7 +9475,9 @@
 <l><lb/>  A  Doai gist li bons cors sainz de pris
 </l>
 <l><lb/>  Molt ot sainz el lingnaje
-</l></lg><lg type=""><l><lb/>  La carte fille Hermenjart de Pavie 
+</l></lg>
+<lg type="laisse" xml:id="L_120">
+<l><lb/> La carte fille Hermenjart de Pavie 
 </l>
 <l><lb/>  Donent Huon a la chiere hardie
 </l>
@@ -9412,7 +9503,8 @@
 </l>
 <l><lb/>  Qui guerroia Espangne
 </l></lg>
-    <lg type=""><l><lb/>  La menor fille Aymeri le baron
+    <lg type="laisse" xml:id="L_121">
+       <l><lb/>  La menor fille Aymeri le baron
 </l>
 <l><lb/>  La plus juennete Blancheflor ot a non
 </l>
@@ -9439,7 +9531,9 @@
 <l><lb/>  Prist Blanchefor a la clere facon 
 </l>
 <l><lb/> Roine fu de France
-</l></lg><lg type=""><l><lb/>  Si richement com ge ci vos devis
+</l></lg>
+<lg type="laisse" xml:id="L_122">
+<l><lb/> Si richement com ge ci vos devis
 </l>
 <l><lb/>  Si maria ses filles Aymeris
 </l>
