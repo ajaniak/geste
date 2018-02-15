@@ -2,6 +2,7 @@
 <?xml-model href="../../odd/out/Modele.rng" type="application/xml"  schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="../../odd/out/Modele.rng" type="application/xml"  schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <?xml-model href="../../odd/Modele.odd"?>
+<?xml-stylesheet type="text/xsl" href="workflow_tokenization_quasi_fonct.xsl"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ed_MortAymC" xml:lang="fr" type="ed">
    <teiHeader>
       <fileDesc>
@@ -88,7 +89,7 @@
       </profileDesc>
       <revisionDesc status="draft">
          <!-- Les notes de bas de pages n'ont pas encore réintégrés dans le body -->
-         <!-- Les span avec les corrections de coquille n'ont pas été supprimés dans les différentes div du back!! -->
+         <change who="#AJ" when="2018-02-14">Correction de quelques erreurs restantes dans le body.</change>
          <change who="#AJ" when="2018-02-13">Numérotation des laisses et nettoyage du body.</change>
          <change who="#AJ" when="2018-01-31">Structuration du body en laisse et en vers. Mise en place des lb et des pb. Intégration des pages de titres dans le front.Intégration de l'index de vocabulaire dans le back</change>
          <change who="#AJ" when="2018-01-24">Poursutie de l'intégration du front</change>
@@ -1168,11 +1169,11 @@
             <p>On pourrait dresser ainsi le tableau de nos mss. : <graphic
                   url="https://fr.wikisource.org/wiki/Page:Anonyme_-_La_Mort_Aymeri_de_Narbonne.djvu/51"
                />
-               <tree arity="2" order="8" >
-               <root xml:id="O'" children="#O">
-                  <label>O'</label>
-               </root>
-               <iNode xml:id="O" parent="#O'" children="#x #y"><label>O</label></iNode>
+               <tree arity="2" order="8">
+                  <root xml:id="Oprime" children="#O">
+                     <label>Oprime</label>
+                  </root>
+                  <iNode xml:id="O" parent="#Oprime" children="#x #y"><label>O</label></iNode>
                   <iNode xml:id="x" parent="#O" children="#A #B"><label>x</label></iNode>
                   <iNode xml:id="y" parent="#O" children="#C #D #D2"><label>y</label></iNode>
                   <leaf xml:id="A" parent="#x"><label>A</label></leaf>
@@ -1180,7 +1181,7 @@
                   <leaf xml:id="C" parent="#y"><label>C</label></leaf>
                   <leaf xml:id="D" parent="#y"><label>D</label></leaf>
                   <leaf xml:id="D2" parent="#y"><label>D2</label></leaf>
-            </tree>
+               </tree>
             </p>
             <p>Notre classification des mss. aboutissant à la constitution de deux familles, voici
                comme nous avons procédé pour l’établissement du texte. Il est bien évident qu’une
@@ -1561,7 +1562,7 @@
 
  
 <lg type="laisse" xml:id="L_009">
-    </l><pb n="10" facs="https://fr.wikisource.org/wiki/Page:Anonyme_-_La_Mort_Aymeri_de_Narbonne.djvu/67"/>
+  <pb n="10" facs="https://fr.wikisource.org/wiki/Page:Anonyme_-_La_Mort_Aymeri_de_Narbonne.djvu/67"/>
 <l><lb/>Granz fu li dels en la bone cité</l>
 <l><lb/>Tot por lo conte dant Aymeri lo ber.</l>
 <l><lb/>Hermenjart tienent, ne la porent tenser</l>
@@ -1599,9 +1600,9 @@
 <l><lb/>Qui lor metra lo sieje en la cité</l>
 <l><lb/>Dont li païs sera ars et gastez</l>
 <l><lb/>Et li mur fret et li pan esfondré</l>
-<l><lb/>    Et la tor peçoiée.</l>
+   <l><lb/>    Et la tor peçoiée.</l></lg>
 
-</lg><lg type="laisse" xml:id="L_010">
+<lg type="laisse" xml:id="L_010">
 
 <l><lb/>Quens Aymeris estoit chargiez de mal.</l>
 <l><lb/>Si plot a Deu que il li alaschasts;</l>
@@ -2858,12 +2859,12 @@
 <l><lb/>Dont est montez l’estoire perilloss:</l>
 <l><lb/>.XX. mile sont de la jent paienor</l>
 <l><lb/>Qui nos François tornerent al desoz,</l>
-<l><lb/>Ce fu domaje et pertes!
+   <l><lb/>Ce fu domaje et pertes!</l></lg>
 
- </l><pb n="55" facs="https://fr.wikisource.org/wiki/Page:Anonyme_-_La_Mort_Aymeri_de_Narbonne.djvu/112"/>
-</l></lg>
+ 
+
 <lg type="laisse" xml:id="L_053">
-
+   <pb n="55" facs="https://fr.wikisource.org/wiki/Page:Anonyme_-_La_Mort_Aymeri_de_Narbonne.djvu/112"/>
 <l><lb/>Quant François ont de lor seignor veü</l>
 <l><lb/>Qu’il ot son branc a l’amiral rendu,</l>
 <l><lb/>Savoir poez grant duel en ont eüs;</l>
@@ -2883,12 +2884,12 @@
 <l><lb/>Si lor lancierent lor espiez esmoluz.</l>
 <l><lb/>De .xx. qu’il erent ont les .v.abatuz</l>
 <l><lb/>Qui el chemin orent les chiés perduzs:</l>
-<l><lb/>Or ne furent que .xv.
+   <l><lb/>Or ne furent que .xv.</l></lg>
 
- </l><pb n="56" facs="https://fr.wikisource.org/wiki/Page:Anonyme_-_La_Mort_Aymeri_de_Narbonne.djvu/113"/>
-</l></lg>
+ 
+
 <lg type="laisse" xml:id="L_054">
-
+   <pb n="56" facs="https://fr.wikisource.org/wiki/Page:Anonyme_-_La_Mort_Aymeri_de_Narbonne.djvu/113"/>
 <l><lb/>Vont s’en li Franc brochant a esperon,</l>
 <l><lb/>Deci en France que ja ne fineronts;</l>
 <l><lb/>A Looys lor seignor le diront</l>
@@ -2941,12 +2942,12 @@
 <l><lb/>« Qui enz el cors et el cuer te ferront,</l>
 <l><lb/>« Car tes lignaje nos a pené toz jors,</l>
 <l><lb/>« Et tu meïsmes en est li plus cruoss;</l>
-<l><lb/>« Mahomet te confondes! »
+   <l><lb/>« Mahomet te confondes! »</l></lg>
 
- </l><pb n="58" facs="https://fr.wikisource.org/wiki/Page:Anonyme_-_La_Mort_Aymeri_de_Narbonne.djvu/115"/>
-</l></lg>
+ 
 <lg type="laisse" xml:id="L_055">
-
+   <pb n="58" facs="https://fr.wikisource.org/wiki/Page:Anonyme_-_La_Mort_Aymeri_de_Narbonne.djvu/115"/>
+   
 <l><lb/>« Di vas! paien, » Aymeris lor disoit,</l>
 <l><lb/>« Vos m’avez pris, bien sai que m’ocirroizs;</l>
 <l><lb/>« Ja ne ferai nes un de vos voloirs,</l>
@@ -3093,12 +3094,12 @@
 <l><lb/>« Mès or alons a l’amiral parler</l>
 <l><lb/>« Se ja nul plet i porrions encontrer,</l>
 <l><lb/>« Que nos rendist lo conte naturel,</l>
-<l><lb/>﻿« Lo seignor de Narbone. »
+   <l><lb/>﻿« Lo seignor de Narbone. »</l></lg>
 
- </l><pb n="63" facs="https://fr.wikisource.org/wiki/Page:Anonyme_-_La_Mort_Aymeri_de_Narbonne.djvu/120"/>
-</l></lg>
+ 
+
 <lg type="laisse" xml:id="L_060">
-
+   <pb n="63" facs="https://fr.wikisource.org/wiki/Page:Anonyme_-_La_Mort_Aymeri_de_Narbonne.djvu/120"/>
 <l><lb/>Quant Aymeris vit lo feu angoissos</l>
 <l><lb/>Qui fu ardanz, bruianz et doleross;</l>
 <l><lb/>Deu reclama par ses saintismes nonss:</l>
@@ -3727,12 +3728,12 @@
 <l><lb/>Et vint en terre por lo monde sauver,</l>
 <l><lb/>Li doinst anuit en tel leu assener</l>
 <l><lb/>Por quoi François resoient hérité</l>
-<l><lb/>De la cit de Nerbones!
+   <l><lb/>De la cit de Nerbones!</l></lg>
 
- </l><pb n="85" facs="https://fr.wikisource.org/wiki/Page:Anonyme_-_La_Mort_Aymeri_de_Narbonne.djvu/142"/>
-</l></lg>
+ 
+
 <lg type="laisse" xml:id="L_074">
-
+   <pb n="85" facs="https://fr.wikisource.org/wiki/Page:Anonyme_-_La_Mort_Aymeri_de_Narbonne.djvu/142"/>
 <l><lb/>Plest vos oïr com li nostre ont errés?</l>
 <l><lb/>Ainz que l’estor poïst estre afiné,</l>
 <l><lb/>Fu nuit oscure, nus n’i choisi son per,</l>
@@ -3809,12 +3810,12 @@
 <l><lb/>Cele nuit jurent entre l’eve et la broilles:</l>
 <l><lb/>Ni a cheval qui esfreer se voilles;</l>
 <l><lb/>Auquaires point, durement s’esviguore,</l>
-<l><lb/>Et trespasse la terre.
+   <l><lb/>Et trespasse la terre.</l></lg>
 
- </l><pb n="88" facs="https://fr.wikisource.org/wiki/Page:Anonyme_-_La_Mort_Aymeri_de_Narbonne.djvu/145"/>
-</l></lg>
+ 
+
 <lg type="laisse" xml:id="L_076">
-
+   <pb n="88" facs="https://fr.wikisource.org/wiki/Page:Anonyme_-_La_Mort_Aymeri_de_Narbonne.djvu/145"/>
 <l><lb/>Auquaires broche et passe lo païs,</l>
 <l><lb/>Isnelement, ne prist cesse ne fins;</l>
 <l><lb/>Aler quida au fil lo roi Sorbrin,</l>
@@ -3921,12 +3922,12 @@
 <l><lb/>Mieudre convers ne fu de mere nez,</l>
 <l><lb/>Qui plus amast sainte crestienté,</l>
 <l><lb/>Qui lor aida Nerbone a conquester.</l>
-<l><lb/>﻿Or vient chevalerie.
+   <l><lb/>﻿Or vient chevalerie.</l></lg>
 
- </l><pb n="92" facs="https://fr.wikisource.org/wiki/Page:Anonyme_-_La_Mort_Aymeri_de_Narbonne.djvu/149"/>
-</l></lg>
+
+
 <lg type="laisse" xml:id="L_078">
-
+   <pb n="92" facs="https://fr.wikisource.org/wiki/Page:Anonyme_-_La_Mort_Aymeri_de_Narbonne.djvu/149"/>
 <l><lb/>« Seignor baron, » dist li quens Aymeris,</l>
 <l><lb/>« Or est Auquaires durement mes amiss;</l>
 <l><lb/>« Mes fillex est et a Deu convertizs:</l>
@@ -4852,12 +4853,12 @@
 <l><lb/>Que il morroit ainz que l’ans fust passezs;</l>
 <l><lb/>Se fera il, tot est aterminezs;</l>
 <l><lb/>Dedenz un mois ert li quens afinez.</l>
-<l><lb/>De lui sera grant perte.
+   <l><lb/>De lui sera grant perte.</l></lg>
 
- </l><pb n="125" facs="https://fr.wikisource.org/wiki/Page:Anonyme_-_La_Mort_Aymeri_de_Narbonne.djvu/182"/>
-</l></lg>
+ 
+
 <lg type="laisse" xml:id="L_096">
-
+   <pb n="125" facs="https://fr.wikisource.org/wiki/Page:Anonyme_-_La_Mort_Aymeri_de_Narbonne.djvu/182"/>
 <l><lb/>Oez, seignor, que Dex vos beneïe,</l>
 <l><lb/>Li glorios, li filz sainte Marie.</l>
 <l><lb/>Granz fu la joie a Nerbone la riche</l>
@@ -5082,21 +5083,18 @@
 <l><lb/>Qu’enprès sa char avoit sainte Marie</l>
 <l><lb/>Quant ele fu de son chier fil delivres;</l>
 <l><lb/>Ce aporta en France la garnie.</l>
-<l><lb/>Ce fu une des jestes.
-
-<div style="text-align:center;clear:both;line-height:4em;">XCIX
-
+<l><lb/>Ce fu une des jestes.</l>
 <l><lb/>L’autre si fu du fort roi Charlemaine,</l>
 <l><lb/>Cel qui conquist Baviere et Alemaigne,</l>
 <l><lb/>Bascle, Navarre et Poitou et Bretaigne,</l>
 <l><lb/>Et Normendie et Anjou et le Maine,</l>
 <l><lb/>Oncle Rollant qui fu morz en Espaigne</l>
-<l><lb/>En la bataille fiere.
+   <l><lb/>En la bataille fiere.</l></lg>
 
- </l><pb n="133" facs="https://fr.wikisource.org/wiki/Page:Anonyme_-_La_Mort_Aymeri_de_Narbonne.djvu/190"/>
-</l></lg>
+
+
 <lg type="laisse" xml:id="L_099">
-
+   <pb n="133" facs="https://fr.wikisource.org/wiki/Page:Anonyme_-_La_Mort_Aymeri_de_Narbonne.djvu/190"/>
 <l><lb/>La tierce fu dant Aymeri lo riche.</l>
 <l><lb/>La soe jeste fu la plus seignories:</l>
 <l><lb/>Il ot .vii.filz, bons chevaliers nobiless;</l>
@@ -5180,12 +5178,12 @@
 <l><lb/>Li rois responts: « Ne vos esmaiez mie.</l>
 <l><lb/>« Se Dex m’aït, li filz sainte Marie,</l>
 <l><lb/>« Molt volentiers vos i ferai aïe</l>
-<l><lb/>« A la cité reprendre. »
+   <l><lb/>« A la cité reprendre. »</l></lg>
 
- </l><pb n="136" facs="https://fr.wikisource.org/wiki/Page:Anonyme_-_La_Mort_Aymeri_de_Narbonne.djvu/193"/>
-</l></lg>
+
+
 <lg type="laisse" xml:id="L_100">
-
+   <pb n="136" facs="https://fr.wikisource.org/wiki/Page:Anonyme_-_La_Mort_Aymeri_de_Narbonne.djvu/193"/>
 <l><lb/>Li ber Auquaires dant Aymeri apeles:</l>
 <l><lb/>« Sire parrains, com je puis dolanz estre.</l>
 <l><lb/>« Mon premier don voirement quit je perdre,</l>
@@ -5306,12 +5304,12 @@
 <l><lb/>« Li ponz se torne soz les arches fermées</l>
 <l><lb/>« Et de chaenes laiciées et coléess;</l>
 <l><lb/>« Ja plus par nuit n’ert la vile gardées;</l>
-<l><lb/>« Ja n’ert par force prise. »
+   <l><lb/>« Ja n’ert par force prise. »</l></lg>
 
- </l><pb n="140" facs="https://fr.wikisource.org/wiki/Page:Anonyme_-_La_Mort_Aymeri_de_Narbonne.djvu/197"/>
-</l></lg>
+ 
+
 <lg type="laisse" xml:id="L_104">
-
+   <pb n="140" facs="https://fr.wikisource.org/wiki/Page:Anonyme_-_La_Mort_Aymeri_de_Narbonne.djvu/197"/>
 <l><lb/>Dist Aymeriss: « Entendez, bele amies:</l>
 <l><lb/>« Je vos plevis par foi sanz tricherie,</l>
 <l><lb/>« Se je la preig par si faite devise,</l>
@@ -5334,12 +5332,12 @@
 <l><lb/>Li Sajetaire ne s’en gardoient mies:</l>
 <l><lb/>Ele lor a tel parole bastie</l>
 <l><lb/>Dont il perdront dedenz .iijors la vie</l>
-<l><lb/>﻿A l’assaut de la porte.
+   <l><lb/>﻿A l’assaut de la porte.</l></lg>
 
- </l><pb n="141" facs="https://fr.wikisource.org/wiki/Page:Anonyme_-_La_Mort_Aymeri_de_Narbonne.djvu/198"/>
-</l></lg>
+ 
+
 <lg type="laisse" xml:id="L_105">
-
+   <pb n="141" facs="https://fr.wikisource.org/wiki/Page:Anonyme_-_La_Mort_Aymeri_de_Narbonne.djvu/198"/>
 <l><lb/>Quant Aymeris entra en la cité,</l>
 <l><lb/>S’aloient ja li François adober</l>
 <l><lb/>Dedenz la vile et defors par les trés.</l>
@@ -6031,12 +6029,12 @@
 <l><lb/>Les Sajetaires ont fierement requiz,</l>
 <l><lb/>Devers la porte les ont si envaïz,</l>
 <l><lb/>Voillent ou non, les ont fors del pont mis</l>
-<l><lb/>﻿A la premiere pointe.
+   <l><lb/>﻿A la premiere pointe.</l></lg>
 
- </l><pb n="164" facs="https://fr.wikisource.org/wiki/Page:Anonyme_-_La_Mort_Aymeri_de_Narbonne.djvu/221"/>
-</l></lg>
+
+
 <lg type="laisse" xml:id="L_125">
-
+   <pb n="164" facs="https://fr.wikisource.org/wiki/Page:Anonyme_-_La_Mort_Aymeri_de_Narbonne.djvu/221"/>
 <l><lb/>Li Sajetaires a Joifroi coneü</l>
 <l><lb/>Qui en sa chartre ot longuement jeü.</l>
 <l><lb/>Quant il lo voit grant duel en a eüs;</l>
@@ -6222,12 +6220,12 @@
 <l><lb/>La guivre bret qui se sent angoissiers;</l>
 <l><lb/>Del cri qu’el fet retentist li rochierss;</l>
 <l><lb/>Lors i acorent li baron chevalier</l>
-<l><lb/>﻿Qui li copent la teste.
+   <l><lb/>﻿Qui li copent la teste.</l></lg>
 
- </l><pb n="170" facs="https://fr.wikisource.org/wiki/Page:Anonyme_-_La_Mort_Aymeri_de_Narbonne.djvu/227"/>
-</l></lg>
+ 
+
 <lg type="laisse" xml:id="L_130">
-
+   <pb n="170" facs="https://fr.wikisource.org/wiki/Page:Anonyme_-_La_Mort_Aymeri_de_Narbonne.djvu/227"/>
 <l><lb/>Quant a la guivre ont la teste copée,</l>
 <l><lb/>A grant merveilles l’ont entr’ax esgardée,</l>
 <l><lb/>Mes n’i font plus li baron demorée.</l>
@@ -6315,12 +6313,12 @@
 <l><lb/>« Et nos dolant, en quel païs fuironss?</l>
 <l><lb/>« Se ci nos trovent li encriesme felon,</l>
 <l><lb/>« Ne nos garra avoir ne raençon</l>
-<l><lb/>« Que ne perdons les vies. »
+   <l><lb/>« Que ne perdons les vies. »</l></lg>
 
- </l><pb n="173" facs="https://fr.wikisource.org/wiki/Page:Anonyme_-_La_Mort_Aymeri_de_Narbonne.djvu/230"/>
-</l></lg>
+
+
 <lg type="laisse" xml:id="L_132">
-
+   <pb n="173" facs="https://fr.wikisource.org/wiki/Page:Anonyme_-_La_Mort_Aymeri_de_Narbonne.djvu/230"/>
 <l><lb/>Por Aymeri le franc conte poissant,</l>
 <l><lb/>Firent un duel li petit et li grant</l>
 <l><lb/>Qu’en n’i oïst nes Damedeu tonant.</l>
@@ -6498,7 +6496,7 @@
          <note ref="#L_040"> XL. C rime en aje. — 965 A B si estoit p. — 966 omis dans A B. 967 D Il en a. — 968 D S. mi home q. — 970 A B Fort, D ancienor, de marbre. — 971 Quens Ay. si est, C de viel aaje. — 972 D Par nos .ii. corps. — 973 A B que ja n’i fera faille. — 974 omis dans A B. — 977 A B prouver. — 978 D les esg. — 981 D Si prenez garde molt bien que. — 983 A B li ferai, D feront, C li ardrons le visaje. — 984 A B amiable. — 985 A B laist, B te le l.</note>
          <note ref="#L_041"> XLI. C rime en on. — 986 C lor f., D fete. — 987 A B Et d’A. — 989 D l’en d.</note>
          <note ref="#L_042"> XLII. C ne distingue pas cette laisse de la précédente et continue à rimer en on. — 991 A B rapela. — 993 D il li. — 995 A B dant Ay. le sage. — 996 D Par nos .ii. corps bataille. — 997 D Il est, A B destrier. — 998 A Si s’en ala, B Puis s’en ala, D la praerie. — 999 A B et dit. — 1000 A B En la cité l’ac.</note>
-         <note ref="#L_043"> XLIII. — 1004 A B li vaillans ou il s. — 1005 A li b. — 1006 A B A midi fu levez de son m., C fu l’eur del m. — 1007 C arresnié p. — 1009 A B ici e., C ci fet e. — 1010 C la b. req., D vos req. — 1011 C demain sans respitier, B cel olivier, D ajoutes: Biaux est l’onbraje de pins et de loriers. — 1012 C poez. — 1013 A B Si vos verront, C Si que vos voient, D Si qu’il verront. — 1014 D La v.... et des oliers. — 1015 D te q., C vos vueil ja acointier. — 1016 A B qui tout a a jugier. — 1018 A B Tel chevalier n’a pas mellor. — 1019 D t’encontre a. — 1021 A chiet, C Sor ton e., D Amont el hiame. — 1022 D les f. et les q. — 1023 A B deci jusqu’el destrier, C D ajoutents: Que a la terre te fera trebuchier. — 1027 A B Que avant a a. — 1028 A B Pour ostel prenre ou peüst h., D ou doit h. — 1029 D Ovec lui moine, omis dans C. — 1032 D Poez s. que molt en f. — 1033 D en est s. — 1034 D ajoutes: De la retaille d’une hante d’espié. — 1035 D en vet. — 1036 A B Et .iiii. — 1038 D Tret l’esp. plus de l’une m. — 1040 A B Quens A. par le poing l’a tirié. — 1042 A B Tout n’est pas sens folie commencier. — 1044 A B Si li direz, C Et li dites. — 1045 A B Car ja m’avra. — 1047 A B <span class="coquille" title="S’est">s’est es a. sailliez. — 1048 omis dans A B. — 1049 A B Cil, C Si en va tost a l’a. — 1050 C Qu’il avra la bataille.</note>
+         <note ref="#L_043"> XLIII. — 1004 A B li vaillans ou il s. — 1005 A li b. — 1006 A B A midi fu levez de son m., C fu l’eur del m. — 1007 C arresnié p. — 1009 A B ici e., C ci fet e. — 1010 C la b. req., D vos req. — 1011 C demain sans respitier, B cel olivier, D ajoutes: Biaux est l’onbraje de pins et de loriers. — 1012 C poez. — 1013 A B Si vos verront, C Si que vos voient, D Si qu’il verront. — 1014 D La v.... et des oliers. — 1015 D te q., C vos vueil ja acointier. — 1016 A B qui tout a a jugier. — 1018 A B Tel chevalier n’a pas mellor. — 1019 D t’encontre a. — 1021 A chiet, C Sor ton e., D Amont el hiame. — 1022 D les f. et les q. — 1023 A B deci jusqu’el destrier, C D ajoutents: Que a la terre te fera trebuchier. — 1027 A B Que avant a a. — 1028 A B Pour ostel prenre ou peüst h., D ou doit h. — 1029 D Ovec lui moine, omis dans C. — 1032 D Poez s. que molt en f. — 1033 D en est s. — 1034 D ajoutes: De la retaille d’une hante d’espié. — 1035 D en vet. — 1036 A B Et .iiii. — 1038 D Tret l’esp. plus de l’une m. — 1040 A B Quens A. par le poing l’a tirié. — 1042 A B Tout n’est pas sens folie commencier. — 1044 A B Si li direz, C Et li dites. — 1045 A B Car ja m’avra. — 1047 A B s’est es a. sailliez. — 1048 omis dans A B. — 1049 A B Cil, C Si en va tost a l’a. — 1050 C Qu’il avra la bataille.</note>
          <note ref="#L_044"> XLIV. C rime en er. — 1051 D Dans. — 1052 A B a fet tost aporter. — 1053 A B adouber. — 1054 A B vestu li ont, D serré. — 1055 D de R., C ajoutes: Uns rois qui fu l’ot fet enbausemer. — 1056 D mois d’e. — 1058 C ajoutes: Et si fet home sa dolor oblier | Et de son mal garir et respasser. — 1059 A B L’elme laça, D Il lace l’e., C Raguel, D Raguemiau. — 1060 A un ague f., B d’un isle f. — 1061 A B .V. galies. — 1062 C ajoutes: I avait fait .i. charbocle fermer | De la clarté soloit vooir par mer. — 1063 A B L’espée ceint. — 1064 C A son col p., B qu’est listé. — 1065 A B Pierres y a qui jetoient clarté, C Pierres et brasmes. — 1066 D So ciel n’est chose, ne oiseau, ne biauté. — 1069 A B A ivoire, C D noielé. — 1070 C puceles i ot. — 1071 A B ne s’y puet acorder. — 1072 C note ne harpe, D harpe ne j. — 1073 A B mie .i. a, D paré. — 1074 A B Au col li pandent dant A. le b. — 1075 B armes. — 1076 C tinter. — 1077 A B Qu’en retentist. — 1078 D La hanste est en l’e. — 1081 omis dans A B. — 1082 C noielé, D d’yvoire d’outremer. — 1083 C furent, omis dans D. — 1084 A B vert, D taillis et gironé. — 1085 A B Jusques en t., omis dans D. — 1086 C qu’a. — 1087 A l’a commandé a Dé, B l’a a Dieu commandé, C Les barnajes. — 1088 B D a de pitié ploré. — 1089 C Qui forment se redote, D Car fierement se d.</note>
          <note ref="#L_045"> XLV. C rime en i. — 1090 A B Quenz, D sa p. — 1091 A B Tuit li ch. et li prestre p., D en plorent. — 1093 A B por Aymeri. — 1094-1095 omis dans A B. — 1096 A B monterent ensemble a un rote. — 1098 D sa t. — 1101 D deploia. — 1103 A B L’ol. pr. — 1104 A B Si que. — 1106 D que molt bien oï l’orent.</note>
          <note ref="#L_046"> XLVI. C rime en ant. — 1108 D danz. — 1109 A B Li d. — 1110 C foiz, D corné. — 1111 A B la vaillant, D ajoutes: Les mestres sales, les murs et les alvanz. — 1112 C Ay. crie a C.s; A gobillant, C atendant, D garpillant. — 1113 A B Adoubes toi. — 1114 A B et tu l’averas grant, D si gr. — 1115 A B Tele n’eüs encore en ton v. — 1116 C au jent c. — 1117 C o le s. — 1118 omis dans C, D o le hiaume. — 1119 A B Car je, C Ge la li ai p.</note>
@@ -6520,12 +6518,12 @@
          <note ref="#L_062"> LXII. D rime en on. — 1526 A B mauves homs. — 1527 C Pl. de v. et. — 1528 D De devant l. — 1530 C Or escotez a m. — 1531 C ajoutes: Et Tervagant et Jupin le menor | Qui tant sont biax et sainz et gloriox, | Se il m’aït, dame, jamès nul jor | Que je n’ardrai Ay. le contor. — 1532 D mie. — 1533 A B Se d. me f. le d., C Se me t... cele tor. — 1534 C q. tint m. — 1535 A B Sorbrin mon pere le riche pogneor. — 1536 D Charlles l’occist, A le riche e., B le vostre e., — 1537 C Sire, dit ele, desliez mon seignor. — 1538 omis dans C.</note>
          <note ref="#L_063"> LXIII. D rime en in, is, ir. — 1540 A B estoit gais et e., D fu forment esjoïz. — 1542 A B xxm. — 1543 C Et bien armer de lor a. t. — 1544 A B Pres de la c. — 1545 C desoz, A B Et pardessus ceig. les brans forbis. — 1546 A B S’ont afublé les bons mantiax hermins, C Puis afublent, D Et afublerent l. m. de samis. — 1548 C omis. — 1551 A B Afublé l’ont, D marterin. — 1552 A B omis, D sebelin. — 1553 C Et le montent, A B Et l’ont monté s. — 1554 A B A la cité ac. — 1556 A B les fist on r., C A. g. j., D A molt grant j... vet on r. — 1557 D furent. — 1558 C les murs et les postiz, D orent. — 1559 C Les fermetez. — 1560 C C M. g., A B bondir, D XIII g. — 1561 A B retentir.</note>
          <note ref="#L_064"> LXIV. D rime en or. — 1565 C omis, A B Qui ist plorant en contre. — 1566 A B Une espice a ne vi onque m., B ne vit nus homs m., D D’une bone herbe. — 1567 C Oster li fet. — 1568 A B omis. — 1569 D cele gent p. — 1570 A B sa cité de valor, D fort c. m. — 1571 A B et les rues et la tor, C la tor, D et la vile. — 1573 C qui fu a. — 1574 A B ilueques a d., C Borjois ocient. — 1575 C Les m., D li traïtor. — 1576 A B copent, D font molt grant desanor. — 1577 C si biax et si gl. — 1578 A B les deroberent tous. — 1579 A B y ont occis, A C V cent m., C D, .cccc. — 1580 A B omis, C Si debrisent. — 1581 A B departirent. — 1582 A B illec troverent, D La ont trové... missodor. — 1583 C .iii. o... et .iiim., D maint o... et maint m. — 1584 A B .iim. s. — 1585 A B Oisiaus de m. — 1587 A B Et n. — 1589-91 C omis. — 1590 B i. de valor. — 1591 B chev. — 1592 C conduient. — 1593 A B orent, C Itel av. n’ot onc l., D Ainz t. — 1594 A B conquistrent a Nerbonne le j. — 1595 C De la vile i. — 1596 A B ot au cuer irour. — 1597 A B a tel dolor. — 1598 A B le lievent li gloton. — 1601 D Forment. — 1602-3 A B omis. 1605 A B car le seüssiez v., C ajoutes: Et vos Guill. nobile poigneor, | Que nel savez, biau sire Hernaut le ros, | Trestuz mes filz et trestoz mes nevos, | Que fusse mis en chartre et en dolor. — 1607 C De ca v. — 1608 A B vendra, C omis. — 1609 A B m’otroit, D S’aideroiz votre pere.</note>
-         <note ref="#L_065"> LXV. D rime en ie. — 1610 C la vile t. — 1612 C Si ont. — 1613 C et les granz tors anties. — 1614 C la grant t... qu’il n’a, D Ne mès la t. dont il n’a. — 1615 C .iiii. e. — 1616 C Ainz qu’en v. D Ainz que i soient. — 1617 A B sales. — 1618 B tours. — 1619 A B omis. — 1620 C Sos les v. est l. — 1621 A B Ou Erm... se demente. — 1622 C est la dame e. — 1623 Si a a soi. — 1624 C Ele n’a tant dont ele .i. jor vive. <span class="coquille" title="— ">— 1626 A B .i. mui d’avoir p. 1627 A B Et .xxx. setier por un quartier de sinne. — 1628 B avise. — 1629-1630 A B omis. — 1631 A B les joes li p. — 1634 C estoit p. d. v. — 1635 C et de losangerie, D tricherie. — 1636 A B prent sa h. — 1637 C de grant ancessorie, D la pute jent haïe. — 1638 B N’i avait corde a pierre ou a bericle, D Il n’y ot c. — 1638-1639 C omis. — 1639 omis dans B. — 1640 C Mah. fu el haut estaje assise. — 1641 A B par guise. — 1642 A B D omis. — 1643 A B par mestrie. — 1644 A B sa ch. — 1645 C omis, D fu p. — 1646 C Il s’apensa, D Il se porpense, D tricherie. — 1648 A B il apela. — 1649 A B or ne me faillies m. — 1650 C Ainz en i. — 1652 A B Que a moi viegne, C et si ne demore mie, D si gart qu’elle no laist mie. — 1654 A B la garnie, D en baillie. — 1655 A B Que par force ai, D Que j’ai p. f. gaagnie et conq., C ajoute : Ci ert l’assalt des chrs. d’Egite, | Da cels de Cordres et de cels de Sebile. — 1656 A B l’erbete. — 1657 A B bele, C est la grant paerie. — 1658 C des alemanderies, D Et biax l’o. et l’erbe est reverdie. — 1661 A B Conduiront les, D Tramie. — 1663 C Que ne soient... desconfites. — 1664 C Volentiers. — 1665 A B Je i.</note>
+         <note ref="#L_065"> LXV. D rime en ie. — 1610 C la vile t. — 1612 C Si ont. — 1613 C et les granz tors anties. — 1614 C la grant t... qu’il n’a, D Ne mès la t. dont il n’a. — 1615 C .iiii. e. — 1616 C Ainz qu’en v. D Ainz que i soient. — 1617 A B sales. — 1618 B tours. — 1619 A B omis. — 1620 C Sos les v. est l. — 1621 A B Ou Erm... se demente. — 1622 C est la dame e. — 1623 Si a a soi. — 1624 C Ele n’a tant dont ele .i. jor vive. — 1626 A B .i. mui d’avoir p. 1627 A B Et .xxx. setier por un quartier de sinne. — 1628 B avise. — 1629-1630 A B omis. — 1631 A B les joes li p. — 1634 C estoit p. d. v. — 1635 C et de losangerie, D tricherie. — 1636 A B prent sa h. — 1637 C de grant ancessorie, D la pute jent haïe. — 1638 B N’i avait corde a pierre ou a bericle, D Il n’y ot c. — 1638-1639 C omis. — 1639 omis dans B. — 1640 C Mah. fu el haut estaje assise. — 1641 A B par guise. — 1642 A B D omis. — 1643 A B par mestrie. — 1644 A B sa ch. — 1645 C omis, D fu p. — 1646 C Il s’apensa, D Il se porpense, D tricherie. — 1648 A B il apela. — 1649 A B or ne me faillies m. — 1650 C Ainz en i. — 1652 A B Que a moi viegne, C et si ne demore mie, D si gart qu’elle no laist mie. — 1654 A B la garnie, D en baillie. — 1655 A B Que par force ai, D Que j’ai p. f. gaagnie et conq., C ajoute : Ci ert l’assalt des chrs. d’Egite, | Da cels de Cordres et de cels de Sebile. — 1656 A B l’erbete. — 1657 A B bele, C est la grant paerie. — 1658 C des alemanderies, D Et biax l’o. et l’erbe est reverdie. — 1661 A B Conduiront les, D Tramie. — 1663 C Que ne soient... desconfites. — 1664 C Volentiers. — 1665 A B Je i.</note>
          <note ref="#L_066"> LXVI. D rime en ié. — 1670 C les nes t. — 1671 A B Si entrent enz, C li sarr. chaele. — 1674-1683 A B omis. 1678 C la cité. — 1684 A B de N.</note>
          <note ref="#L_067"> LXVII. — 1685 C li cuivert mescreant, D Nagent p. — 1686 C D omis. — 1687 A B Li a. monte de m., C isnelement. — 1688 C Amoraves... persant. D .x. Almaçor. — 1689 A B qui a la t. — 1630 C apela. — 1691 C i. ça fors au vent, D issiez un peu avant. — 1693 C Se vos fetes, D son bon. — 1694 A B Je v. d., C persant. — 1695 A B poissant, C XV c. a. preu et v., D .xiiii. turs avra il plus v. — 1696 D n’ot A. le ferrant, et ajoutes: Et si avrez riche conte puissant. — 1697 C ajoutes: Melz que ne fist quens A. li blans. — 1698 C car cecés chien puant. — 1699 C omis, D Trop m’avez or t. — 1701 A B car li m... boulis a s. — 1702 A B .vii. anz. — 1703 A B abatriez mie p. vostre g. — 1704-1705 A B omis. — 1706 A B V. avons... a no t., D Je ai v. — 1707 A B entreci que a., D .iiiixx. voire a c. — 1708 A B omis. — 1709 C sanc, D a poi d’ire ne fant. — 1710 C III s., D c s... li c., A B escrient. — 1711 C que vas tu demorant, D Frans a. — 1712 D Assauz la tor, A B Assalons les et. — 1714 C enfondron, A B abatons, D abatrons cel auvanz. — 1717 D Et la richece seelée a a., C Et li mortiers qui fu fez de cler sanc. — 1718 A B Et l., D ont l. — 1719 A B Les, D Ses. — 1720 C Et, D Puis.</note>
          <note ref="#L_068"> LXVIII. — 1721 A B L’amiral a, C bonz a. — 1722 A B Fors que la t. — 1723 D avoit. — 1724 D la belle o le cler vis. — 1727 A B C omis. — 1728 A B enchaucent. — 1729 C Aymeri f. — 1730 C Tendrement plore li frans quens seignori. — 1732 C Lo roi del ciel, A B mist. — 1734 C repera. — 1736 A B Tout a, C Arrabiz. — 1737 A B Et .xv. c. pris. — 1738 A B Et m. a., C M. amena. — 1739 A B omis, D et Lectis. — 1740 A B IIII mil sarr., C Si amena. — 1741 C Que en champ ot. — 1745 A B Ça voi un bruit d., C ajoutes: Et confanons i voi deci a mil. — 1746 A B franc chevalier gentil. — 1747 C n’i s. — 1748 C Et il dient ja n’en serez desdiz, D Et cil respondent tot a v. devis. — 1749 C arriere m. 1750 C les b., B les haub. bl. v. — 1751 C Hiaumes l. — 1752 A B omis. — 1753-4 C omis. — 1755 D Si li a d. — 1756 D Car demandez s. — 1758 A B Et il r. tot a vostre plesir. — 1760 C Si li d. qui sont et de quel lin, et ajoutes: Et se il sont paien ou Sarr. — 1761 C Et cil d., A B qu’il n’en d. — 1762 A B A C. sommes qui fu f. a Sorbin, D Tuit s. homs au riche r. S., et ajoutes: Et si creom Mahom le poestif. — 1764 A B cele a. c. — 1766 C Mal le deïtes, ce a dit Aufelis. — 1767 A B preuz q. — 1768 C En N., A B Et a n. — 1769 A B Il m’a, D omis. — 1770 C et son esp. br., D broche. — 1771 C qui molt estoit hardi, D qu’il a premier choisi. — 1772 A failli. — 1773 A B desmaillié et parti. — 1774 C l’acier forbi. — 1775 C Mort l’abati, D o il sist. — 1776 C Vire, D Torne s... molt tost s’an d. — 1777 C .xiiii. mil. — 1778 A B omis, C Et li lancent .L. espiez forbiz. — 1779 A B li cuvert maleï, C Ne le tochent, D N’en tochent mie. que Jhu. le gari. — 1780 A B omis. — 1781 A B Cheval isnel ot qui tost le ravi, D ajoutes: Li rois Guiberz son messaje choissi, | Qui s’en venoit a force et a estrif, | Il en apele ses homs d’antor li. — 1782-1784 omis dans B. — 1784 A il a folement dit. — 1785 C Seignor baron ice sont s., B ce dist, ci s., — 1786 C Or vos r., A B a f. — 1787 C Qu’il, D Et n’en i.</note>
          <note ref="#L_069"> LXIX. D rime en on. — 1788 A B durement voisons. — 1789 C preuz et c. — 1790 D mil paiens. — 1791 C Et des a. — 1792 C Qui le s. v., A B servent. — 1793 A B igaus li s. — 1794 C Fiermont, D Painnemont. — 1795 C noir. — 1798 A B de la n’eschaperont. C Sanz bataille p. — 1799 D lié, s. — 1800 A B profont, C si s’en fuient, D s’entornent. — 1801 A B qui bien ataint les ont. — 1802 A B En ateignant les decoperent touz. — 1803 C fors I trestot sol. — 1804 A B Et cil ot n. — 1805 estoulz et o. — 1806 A B et fort et r. — 1807 A B il li court par v. — 1808 C o fu li c., D destort li c. — 1809 C a l., D Et fiert G. — 1810 A B desront, C Soz la b. — 1811 A B Et del haubert les mailles en confont, D Le bon h. — 1812 A B Jouste le cors. — 1814 A B ne cheï del arçon, C deguerpi arçon, D Mès li vassaux n’en guerpi ainz l’a. — 1815 C A Aigredure. — 1816 C L’ala f., A B son e, B son escu. — 1817 A B omis, C Que les pierres. — 1818 C deci a l’esperon, D arçon. — 1819 D mist. — 1821 D maldie.</note>
-         <note ref="#L_070"> LXX. D rime en i. — 1822 C le conte A. — 1823 A B ossi. — 1825 C ajoutes: Que liez fu de fort corde de lin. — 1826 C a point — 1827 C ala a G. — 1828 C Et li d. — 1829 A B sire, C Oïl biau p. Guib., D Guilbert r. — 1830 A B onc ne me fu amis, C ne fu jor mes a. — 1831 A B Desus l’erbe, D Lors descendi sor l’abre do roncin. — 1832 C A s’espée li copa. — 1833 A B cria, D Au pié. — 1835 A M’en irai je, B M’en fuirai je, o irai je en e. — 1836 A B omis, D chestivage. — 1837 C chier tenir. — 1838 A B Lessié vos ai, C Je vos l., D con dol anz et c., D Respont li peres. — 1840 A B Tu le f... issi, D Se tu l’as f. — 1841 A B seri. — 1843 C demoine a p. — 1844 D d’un roit e. — 1846 A B Certes molt mal le f. <span class="coquille" title="—">— 1847 A B omis. — 1848 D peres et a. — 1849 A B quis. — 1850 C en ses plaies, D C l’a mis. — 1851 A B S’il, C les f. et lo piz, D benderent d’un bliaut de samit, C ajoutes: Quant ce ont fait et après un petit. — 1852 D bonz, C li cortois A., C ajoutes: L’en li aporte a itant devant lui. — 1853 C li li vestent, A B Il li vestirent, D bon a. — 1854 A Si li lacent, B Et puis, C Et li metent el chief l’eaume flori. — 1855 C qui a lo b., D Puis li ont ceint un branc d’acier. — 1856 C d’azur bis. — 1857 C La hante est roide et l’acier poitevin, D Prist I espié au confanon asis, | L’ante en est droite et acier poitevin, C ajoutes: A V clox d’or lo confanon assis. — 1858 C Si le montent. — 1859 A B omis, D le riche roi o. — 1860 C finit la strophe icis; Or nos lerons del franc conte Ay., | Ci commence barnaje, puis recommence une nouvelle strophe toujours assonancée. D Or est rescox le preu conte Ay. — 1862 A B C’est a Ernaut, D Do conte H. — 1863 C D lo hardi — 1864 C lo flori, D lo marchis, C ajoutes: Et au lignaje qui tant par fu hardi. — 1866 C Chascun a tot .x.m. fervestiz, B de pris. — 1868 A B Si ont gardé, C amont lez .i. c. — 1869 D le puelle c. — 1870 A B Femmes, D plus de. — 1872 C Par devant ax. — 1873 C li arrabi, D Corsuble l’a. — 1874 D qui luist et r. — 1874-5 omis dans A B. — 1875 C Tote reluist la terre.</note>
+         <note ref="#L_070"> LXX. D rime en i. — 1822 C le conte A. — 1823 A B ossi. — 1825 C ajoutes: Que liez fu de fort corde de lin. — 1826 C a point — 1827 C ala a G. — 1828 C Et li d. — 1829 A B sire, C Oïl biau p. Guib., D Guilbert r. — 1830 A B onc ne me fu amis, C ne fu jor mes a. — 1831 A B Desus l’erbe, D Lors descendi sor l’abre do roncin. — 1832 C A s’espée li copa. — 1833 A B cria, D Au pié. — 1835 A M’en irai je, B M’en fuirai je, o irai je en e. — 1836 A B omis, D chestivage. — 1837 C chier tenir. — 1838 A B Lessié vos ai, C Je vos l., D con dol anz et c., D Respont li peres. — 1840 A B Tu le f... issi, D Se tu l’as f. — 1841 A B seri. — 1843 C demoine a p. — 1844 D d’un roit e. — 1846 A B Certes molt mal le f.— 1847 A B omis. — 1848 D peres et a. — 1849 A B quis. — 1850 C en ses plaies, D C l’a mis. — 1851 A B S’il, C les f. et lo piz, D benderent d’un bliaut de samit, C ajoutes: Quant ce ont fait et après un petit. — 1852 D bonz, C li cortois A., C ajoutes: L’en li aporte a itant devant lui. — 1853 C li li vestent, A B Il li vestirent, D bon a. — 1854 A Si li lacent, B Et puis, C Et li metent el chief l’eaume flori. — 1855 C qui a lo b., D Puis li ont ceint un branc d’acier. — 1856 C d’azur bis. — 1857 C La hante est roide et l’acier poitevin, D Prist I espié au confanon asis, | L’ante en est droite et acier poitevin, C ajoutes: A V clox d’or lo confanon assis. — 1858 C Si le montent. — 1859 A B omis, D le riche roi o. — 1860 C finit la strophe icis; Or nos lerons del franc conte Ay., | Ci commence barnaje, puis recommence une nouvelle strophe toujours assonancée. D Or est rescox le preu conte Ay. — 1862 A B C’est a Ernaut, D Do conte H. — 1863 C D lo hardi — 1864 C lo flori, D lo marchis, C ajoutes: Et au lignaje qui tant par fu hardi. — 1866 C Chascun a tot .x.m. fervestiz, B de pris. — 1868 A B Si ont gardé, C amont lez .i. c. — 1869 D le puelle c. — 1870 A B Femmes, D plus de. — 1872 C Par devant ax. — 1873 C li arrabi, D Corsuble l’a. — 1874 D qui luist et r. — 1874-5 omis dans A B. — 1875 C Tote reluist la terre.</note>
          <note ref="#L_071"> LXXI. Ce couplet manque dans D. — 1878 C es chans soz la rochiere. — 1879 omis dans A B. — 1880 A B bruiere. — 1881 C Que l’erbe fresche f. en la podriere. — 1882 C Folée fu des auferranz corsieres; A B, dont nous avons adopté la leçon, placent ce vers après le suivant. — 1884 B les l. abessierent, C o les l. descies. — 1884 C ajoutes: Et Sarr. arrangent lor mesnies. — 1885 A lor mesniée, B lor mesnie adouberent. — 1886 B A l’asembler tante lance brisierent. — 1887 B Et tant escu, tante targe froissierent. C ajoutes: Et tante lance par troncon debrisie. — 1888 B tote l’erbe jonchierent, C ajoutes: Li destrier fuient lor resnes traïnées. — 1889 C prist Mahon la versée, A B abatirent. — 1890 C fu par terre volée. — 1891 A esbahies, B durement s’esmaierent. — 1892 B trairent et rengierent. — 1893-5 omis dans C. — 1896 C Et li Franç. et paien as espées.</note>
          <note ref="#L_072"> LXXII. — 1899 C Franc et paien, D T. et Persant. — 1900 C Que onque .i. por p. — 1903 D fraite... croissi. — 1904 A B Et tant auberc., D faussir. — 1905 A B Tant pié, tant point. — 1906 omis dans A B. — 1909 C Jusq’au v... ont g. — 1911 A B Du c., C chacent.</note>
          <note ref="#L_073"> LXXIII. — 1913 A B du c. — 1914 A B A p. g., C A grant poine. — 1915 C tuit p. c. n. — 1916 C Que itant, A B Qui mis estoient as dames amener. — 1918 C D des lors q. — 1919 A B ferus et n., D Si sont el cors et lor destriers n. — 1920 C Et les escuz et, C D safrez, C ajoutes: Ont derrompu et toz esqartelez. — 1921 C D del c., D Par .i. petit s’est. — 1922 C Voient, A B a t. — 1923 C Corsolt li amirez, D Corsuble l’a. — 1925 A B Et environ l., D Environ aux les danzeles p. — 1927 C ajoutes: Et Tarvagant qui tant par fu sené. — 1928 A B pour b., C ajoutes: De maintenant se furent adobé. — 1929 C Lances bessies ressont a. — 1930 D Mès nos F. — 1931 C Qi les fierent des espées des lez. — 1934 D qaser. — 1935 A B depaner, D Tant blanc hauberc... decaser. — 1937 omis dans C, D contre terre v. — 1938 omis dans A B, D L’un mort sor l’autre trebuchier et verser. — 1939 C A Sarrazin, D Au S. — 1942 A B Fors que A., C Ce est A. — 1943 A B Isnelement en est fuiant t., C est eschapé. — 1944 omis dans A B, D amblé. — 1945 A B Devers, D Desus, C sa voie. — 1946 A B De l’autre part est a destre t., C A autre v. desor d. est alez. — 1947 C Ou il q. — 1948 omis dans A B, D Molt par vet t. — 1949 A B tous abrievez. — 1950 A B Et J. Crist, D le rois de majesté. — 1951 A B son pueple. — 1952 A B ancui, D la nuit. — 1953 A B raient lor herité. — 1954 A B la cité de Narbone.</note>
@@ -6792,7 +6790,7 @@
 <p><choice><sic>avison</sic><corr>avision</corr></choice> 311, 335, 426, 4015 ; vision, songe.</p>
 <p>avoez 2327 ; patron, protecteur.</p>
 <p>avoine 128.</p>
-<p>avoir 608 ; ind. prés. 1<hi rend="superscript">re</sup> p. plur. avomes 188, 2236 ; fut. avras 406 ; avra 282 ; prét. oi 298, 352, 357 ; ot 95, 293 ; orent 478, 690 ; fut. avras 406 ; avra 282 ; avrez 3047 ; cond. avroie 3219, averoie 4112 ; imp. subj. eüsse 3477 ; eüssions 3796.</p>
+<p>avoir 608 ; ind. prés. 1<hi rend="superscript">re</hi> p. plur. avomes 188, 2236 ; fut. avras 406 ; avra 282 ; prét. oi 298, 352, 357 ; ot 95, 293 ; orent 478, 690 ; fut. avras 406 ; avra 282 ; avrez 3047 ; cond. avroie 3219, averoie 4112 ; imp. subj. eüsse 3477 ; eüssions 3796.</p>
 <p>avoir subst. 199, 1592, 1625, 2354, 2971.</p>
 <p>avolant 322s; volant.</p>
 <p>aymant 3363s; pierre dure comme le diamant.</p>
@@ -8769,7 +8767,7 @@
           <p>v. 262 (var.) fait, corrigez frait.</p>
           <p>v. 300 ce vers est faux, on peut adopter la leçon de C.</p>
 
-          <p>v. <choice><sic>599</sic><corr>559</corr></choice></span>, 600, 603 (var.) D. corrigez DD<hi rend="superscript">2</hi>.</p>
+          <p>v. <choice><sic>599</sic><corr>559</corr></choice>, 600, 603 (var.) D. corrigez DD<hi rend="superscript">2</hi>.</p>
           <p>v. 640 estoires ; corrigez estoire.</p>
           <p>v. 646 n’en, lisez nen.</p>
           <p>v. 646 (var.) parentes, lisez parentés.</p>
@@ -8797,6 +8795,6 @@
           <pb facs="https://fr.wikisource.org/wiki/Page:Anonyme_-_La_Mort_Aymeri_de_Narbonne.djvu/299"/>
        </div>
        <!-- Les pages https://fr.wikisource.org/wiki/Page:Anonyme_-_La_Mort_Aymeri_de_Narbonne.djvu/300 et https://fr.wikisource.org/wiki/Page:Anonyme_-_La_Mort_Aymeri_de_Narbonne.djvu/301 contiennent la liste des publications de la Société des anciens textes français. -->
-       </div>
     </back>
     </text>
+</TEI>
