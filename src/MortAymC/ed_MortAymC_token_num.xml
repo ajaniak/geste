@@ -1093,10 +1093,10 @@
                part et des mss. de l’autre famille AB.</p>
             <p>On pourrait dresser ainsi le tableau de nos mss. : <graphic url="https://fr.wikisource.org/wiki/Page:Anonyme_-_La_Mort_Aymeri_de_Narbonne.djvu/51"/>
                <tree arity="2" order="8">
-               <root xml:id="O'" children="#O">
-                  <label>O'</label>
+               <root xml:id="Oprime" children="#O">
+                  <label>Oprime</label>
                </root>
-               <iNode xml:id="O" parent="#O'" children="#x #y"><label>O</label></iNode>
+               <iNode xml:id="O" parent="#Oprime" children="#x #y"><label>O</label></iNode>
                   <iNode xml:id="x" parent="#O" children="#A #B"><label>x</label></iNode>
                   <iNode xml:id="y" parent="#O" children="#C #D #D2"><label>y</label></iNode>
                   <leaf xml:id="A" parent="#x"><label>A</label></leaf>
