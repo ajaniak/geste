@@ -4,7 +4,7 @@
 <?xml-model href="../../odd/out/Modele.rng" 
     type="application/xml"  schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <?xml-model href="../../odd/Modele.odd"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ed_GuiBourgG" type="ed" xml:lang="fr">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ed_GuiBourgG" type="ed" xml:lang="fr"> <!-- type et version ? -->
     <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -93,6 +93,9 @@
         </profileDesc>
         <revisionDesc status="draft">
             <change who="#AM" when="2018-01-10">Encodage des métadonnées</change>
+            <change who="#AM" when="2018-01-24">Encodage du front</change>
+            <change who="#AM" when="2018-02-07">Encodage du body</change>
+            <change who="#AM" when="2018-02-10">Encodage du back</change>
         </revisionDesc>
     </teiHeader>
 
@@ -6533,7 +6536,7 @@
 <l><lb/>«Bien vous sarai et conduire et mener,</l>
 <l><lb/>«Qu’en Babilone ai mainte fois esté,</l>
 <l><lb/>«Et connois bien Gaudise l’amiré.</l>
-<l><lb/>«Aveuc toi veul sofrir et bien et <span class="coquille" title="me?">mel,</l>
+<l><lb/>«Aveuc toi veul sofrir et bien et <!-- <span class="coquille" title="me?"> -->mel,</l>
 <l><lb/>«Et si te di, par fine loiauté,</l>
 <l><lb/>«Par .ii. cemins te sarai bien mener,</l>
 <l><lb/>«Car d’une part et d’autre j’ai esté.</l>
@@ -12224,7 +12227,7 @@
 <l><lb/>«En i a nul de Bordele sor mer?»</l>
 <l><lb/>Et il respont: «Oïl, si m’aït Dés;</l>
 <l><lb/>«.I. en i a, qui est viex et barbés,</l>
-<l><lb/>«Bien a <span class="coquille" title=". c.">.c. ans d’éage trespasé,</l>
+<l><lb/>«Bien a <!-- <span class="coquille" title=". c."> -->.c. ans d’éage trespasé,</l>
 <l><lb/>«En son droit nom est apelés Guirrés.</l>
 <l><lb/>«Por l’amor Diu le deviemes paser,</l>
 <l><lb/>«Mais à droit port ne sons pas arivé.</l>
@@ -13186,7 +13189,7 @@
 <l><lb/>Et Gibouars est aveuc dant abé,</l>
 <l><lb/>Et le dant moine a Karles apielé,</l>
 <l><lb/>Car cil qui donnent sont adès honneré.</l>
-<l><lb/>«Gerars, dist Karles, dites moi que querés <span class="coquille" title="?">?»</l>
+<l><lb/>«Gerars, dist Karles, dites moi que querés <!-- <span class="coquille" title="?"> -->?»</l>
 <l><lb/>Dist Gerars: «Sire, certes, vous le sarés:</l>
 <l><lb/>«Or saciés bien, si me puist Diex salver,</l>
 <pb n="281" facs="https://fr.wikisource.org/wiki/Page:Anonyme_-_Huon_de_Bordeaux,_chanson_de_geste.djvu/419"/>
@@ -14038,7 +14041,7 @@
 <l><lb/>«Que vous fesistes moult a lonc tans passé,</l>
 <l><lb/>«Ne ainc n’en fustes à prestre confessés;</l>
 <l><lb/>«S’il ne m’estoit por vo cors avieuter,</l>
-<l><lb/>«Ja le diroie sans point de demorer<span class="coquille" title="»">.»</l>
+<l><lb/>«Ja le diroie sans point de demorer<!-- <span class="coquille" title="»"> -->.»</l>
 <l><lb/>Li rois l’entent, moult est espoentés;</l>
 <l><lb/>Durement crient c’Auberons li faés</l>
 <l><lb/>Ne li féist hontaige et cuvauté.</l>
