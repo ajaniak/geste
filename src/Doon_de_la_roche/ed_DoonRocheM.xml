@@ -2350,7 +2350,20 @@
                   établir le classement suivant de nos versions :<note n="1"><p>Ce classement est
                         loin d’être assuré pour le chant islandais, qui a pu être intermédiaire
                         entre N et le chant des îles Fœroe.</p></note>
-                  <!-- Stemma --></p>
+                  <tree>
+                      <root xml:id="O¹" children="#O² #trad_angl_perdue">
+                          <label>O¹</label>
+                      </root>
+                      <iNode xml:id="trad_angl_perdue" children="#N" parent="#O¹"><label><emph rend="italic">(trad. anglaise perdue)</emph>
+                     </label></iNode>
+                      <iNode xml:id="O²" children="#F #E" parent="#O¹"><label>O²</label>
+                      </iNode>
+                      <leaf xml:id="F" parent="#O²"><label>F</label></leaf>
+                      <leaf xml:id="E" parent="#O²"><label>E</label></leaf>
+                      <iNode xml:id="N" children="#chant_islandais #chant_Fœroe" parent="#trad_angl_perdue"><label>N</label></iNode>
+                      <leaf xml:id="chant_islandais" parent="#N"><label>chant islandais</label></leaf>
+                      <leaf xml:id="chant_Foeroe" parent="#N"><label>chant des îles Fœroe</label></leaf>
+                  </tree></p>
                <p>On pourrait faire valoir, contre ce classement, que F a en commun avec N des
                   traits qui ne sont pas dans E, notamment l’inimitié de Landri et du fils de la
                   marâtre <pb n="LXXVIII"
@@ -14031,7 +14044,7 @@ Plus ne vous en dirai, querez qui plus en die.</l>
 
 <div type="notes">
         
-<pb n="173" facs="https://fr.wikisource.org/wiki/281"/>
+<pb n="173" facs="https://fr.wikisource.org/wiki/Page:Anonyme - Doon de la Roche.djvu/281"/>
         <head>NOTES</head>
 
         <p><lb/>V. 56. Voici le passage du <emph rend="italic">Charroi de Nîmes</emph>, auquel renvoie la
@@ -14063,7 +14076,7 @@ Plus ne vous en dirai, querez qui plus en die.</l>
             paléographiquement, que <emph rend="italic">u</emph> pour <emph rend="italic">n</emph>,
             nous avons donné la préférence à <emph rend="italic">Audegour</emph>, qu’on peut 
             
-<pb n="174" facs="https://fr.wikisource.org/wiki/282"/>expliquer comme une
+<pb n="174" facs="https://fr.wikisource.org/wiki/Page:Anonyme - Doon de la Roche.djvu/282"/>expliquer comme une
             altération d’<emph rend="italic">Audegon</emph>, nom qui se trouve dans plusieurs
             chansons de geste (voir la <emph rend="italic">Table</emph> de M. E. Langlois), tandis
                 qu’<emph rend="italic">Andegour</emph> ne correspond à rien; on peut en outre
@@ -14107,7 +14120,7 @@ Plus ne vous en dirai, querez qui plus en die.</l>
             <emph rend="italic">Namenbuch</emph>, 2e édit. Bonn, 1900, I, 703, <emph rend="italic"
                 >Gunthelm</emph>, <emph rend="italic">Gunthalm</emph>.
 
-<pb n="175" facs="https://fr.wikisource.org/wiki/283"/></p>
+<pb n="175" facs="https://fr.wikisource.org/wiki/Page:Anonyme - Doon de la Roche.djvu/283"/></p>
         <p><lb/>V. 1661. En voyant que dans ce vers et plus loin, vv. 1665 et 1680, les montures des
                     <choice><sic>messages</sic><corr>messagers</corr></choice> qui jusqu’ici ont été
             qualifiées de <emph rend="italic">dromadaires</emph>, sont appelées <emph rend="italic"
@@ -14151,7 +14164,7 @@ Plus ne vous en dirai, querez qui plus en die.</l>
             fortification extérieure du château de La Roche) en guise de défi (comp. G. Paris,
                 <emph rend="italic">Mélanges de littérature franç. du</emph>
             
-<pb n="176" facs="https://fr.wikisource.org/wiki/284"/><emph rend="italic">moyen
+<pb n="176" facs="https://fr.wikisource.org/wiki/Page:Anonyme - Doon de la Roche.djvu/284"/><emph rend="italic">moyen
                 âge</emph>, p. 115, note 1), lâchent la <emph rend="italic">bare</emph>, dès qu’ils
             voient que Doon sort avec sa troupe, et tournent bride; Doon les poursuit.</p>
         <p><lb/>V. 2720. <emph rend="italic">Je te conjur ta loi et</emph> [<emph rend="italic"
@@ -14196,7 +14209,7 @@ Plus ne vous en dirai, querez qui plus en die.</l>
             l’auteur. Jofroi, qui figure ici comme compagnon de Landri, était représenté dans ce qui
             précède comme compagnon de 
             
-<pb n="177" facs="https://fr.wikisource.org/wiki/285"/>
+<pb n="177" facs="https://fr.wikisource.org/wiki/Page:Anonyme - Doon de la Roche.djvu/285"/>
             Doon; il est fait prisonnier en même temps que celui-ci au v. 2542. Par une confusion
             en sens contraire, Asson, le fidèle compagnon de Landri dans son voyage en Orient (v.
             1425, 1469) et qui se bat à ses côtés en même temps que Guinemant (v. 2542), partage au
@@ -14234,7 +14247,7 @@ Plus ne vous en dirai, querez qui plus en die.</l>
                 est clamés</emph>. Naturellement, on pourrait aussi interpréter <emph rend="italic"
                 >Pepins s’en est c.</emph>, mais cela 
             
-<pb n="178" facs="https://fr.wikisource.org/wiki/286"/>
+<pb n="178" facs="https://fr.wikisource.org/wiki/Page:Anonyme - Doon de la Roche.djvu/286"/>
             serait moins satisfaisant. Selon
             nous, le sujet est Doon, dont il a été raconté, v. 3226 et suivants, qu’il alla se
             plaindre à Pépin. Il faut peut-être supposer, après le v. 2961, un vers perdu, rappelant
@@ -14277,7 +14290,7 @@ Plus ne vous en dirai, querez qui plus en die.</l>
             dont il sera question dans la suite du récit. Ces <emph rend="italic">Saisnes</emph>,
             placés naturellement de l’autre côté du 
             
-<pb n="179" facs="https://fr.wikisource.org/wiki/287"/>
+<pb n="179" facs="https://fr.wikisource.org/wiki/Page:Anonyme - Doon de la Roche.djvu/287"/>
             Rhin (v. 3911), sont, dans les
             chansons de geste, toujours représentés comme païens. L’ambition de Tomile est de jouer,
             avec leur aide, le rôle d’un Isambart, d’un Girard de Fratte (dans la suite d’<emph
@@ -14322,7 +14335,7 @@ Plus ne vous en dirai, querez qui plus en die.</l>
                 l’avoir le traïtre.
         </p>
         
-<pb n="180" facs="https://fr.wikisource.org/wiki/288"/>
+<pb n="180" facs="https://fr.wikisource.org/wiki/Page:Anonyme - Doon de la Roche.djvu/288"/>
         <p><lb/>V. 4127. <emph rend="italic">Carsadoine</emph>. Ce personnage, nommé dans le manuscrit
                 <emph rend="italic">Lazadoine</emph>, est évidemment le même qui, au v. 4355, est
             nommé dans le manuscrit <emph rend="italic">Jazacoigne</emph> ou <emph rend="italic"
@@ -14368,7 +14381,7 @@ Plus ne vous en dirai, querez qui plus en die.</l>
 
 <div type="glossaire">
         
-<pb n="181" facs="https://fr.wikisource.org/wiki/289"/>
+<pb n="181" facs="https://fr.wikisource.org/wiki/Page:Anonyme - Doon de la Roche.djvu/289"/>
     <head xml:id="G_001">GLOSSAIRE</head>
 
     
@@ -14400,7 +14413,7 @@ Plus ne vous en dirai, querez qui plus en die.</l>
             430, <emph rend="italic">je vis de mes yeux</emph>; aus ielz, 1161, <emph rend="italic"
                 >de ses yeux</emph>; as mains et a baton, 3996; as mains te puis prendre, 2497. 
 
-<pb n="182" facs="https://fr.wikisource.org/wiki/290"/></p>
+<pb n="182" facs="https://fr.wikisource.org/wiki/Page:Anonyme - Doon de la Roche.djvu/290"/></p>
         <p><emph rend="italic">La concomitance de temps</emph>: a cest di, 468; a cel jor, 484; a
             jour que je soie vis, 480, <emph rend="italic">aucun</emph>
             <emph rend="italic">jour de ma vie</emph>; a nul jor, 492, 1497; a tant, 2431, 3322
@@ -14476,7 +14489,7 @@ Plus ne vous en dirai, querez qui plus en die.</l>
             <emph rend="italic">butin</emph>; parmi son hardement acoilli son corage, 4335, <emph
                 rend="italic">dans</emph>
             
-<pb n="183" facs="https://fr.wikisource.org/wiki/291"/><emph rend="italic">sa
+<pb n="183" facs="https://fr.wikisource.org/wiki/Page:Anonyme - Doon de la Roche.djvu/291"/><emph rend="italic">sa
                 hardiesse il trouva comment</emph>
             <emph rend="italic">disposer son cœur</emph>; — son chemin, 323, 2268, 3530, 4455, — son
             erree, 646, — son errement, 4455, — son oire, 1377, — sa voie, 3731, 4158, 4455, <emph
@@ -14565,7 +14578,7 @@ Plus ne vous en dirai, querez qui plus en die.</l>
         <p>ainc, 940, 1024, <emph rend="italic">etc.</emph>, <emph rend="italic">jamais</emph>
                 (<emph rend="italic">cf.</emph>
             
-<pb n="184" facs="https://fr.wikisource.org/wiki/292"/>ainz); — mais ... ne, 347,
+<pb n="184" facs="https://fr.wikisource.org/wiki/Page:Anonyme - Doon de la Roche.djvu/292"/>ainz); — mais ... ne, 347,
                 <emph rend="italic">jamais...</emph>
             <emph rend="italic">ne</emph>.</p>
         <p>ainçois, ainsois (<emph rend="italic">conj.</emph>), 350, 478, <emph rend="italic"
@@ -14648,7 +14661,7 @@ Plus ne vous en dirai, querez qui plus en die.</l>
         <p>antif, <emph rend="italic">fém.</emph> antive, 2350, 
             
 
-<pb n="185" facs="https://fr.wikisource.org/wiki/293"/>3026, antie, 4492, 4625, <emph
+<pb n="185" facs="https://fr.wikisource.org/wiki/Page:Anonyme - Doon de la Roche.djvu/293"/>3026, antie, 4492, 4625, <emph
                 rend="italic">antique</emph>.</p>
         <p>antrée, <emph rend="italic">voir</emph> entrant.</p>
         <p>anuier, <emph rend="italic">3</emph>e <emph rend="italic">p. sing. prés. subj.</emph>
@@ -14731,7 +14744,7 @@ Plus ne vous en dirai, querez qui plus en die.</l>
                 >p. plur. fut.</emph> asaudront, 2380, <emph rend="italic">attaquer</emph>. </p>
             
 
-<pb n="186" facs="https://fr.wikisource.org/wiki/294"/>
+<pb n="186" facs="https://fr.wikisource.org/wiki/Page:Anonyme - Doon de la Roche.djvu/294"/>
         <p>aseier, 3279, <emph rend="italic">goûter</emph> [<emph rend="italic">d’un
             mets</emph>].</p>
         <p>aseïr, <emph rend="italic">voir</emph> asseoir.</p>
@@ -14816,7 +14829,7 @@ Plus ne vous en dirai, querez qui plus en die.</l>
             <emph rend="italic">pas d’autorité</emph>. 
             
 
-<pb n="187" facs="https://fr.wikisource.org/wiki/295"/></p>
+<pb n="187" facs="https://fr.wikisource.org/wiki/Page:Anonyme - Doon de la Roche.djvu/295"/></p>
         <p>avenant (<emph rend="italic">adv.</emph>): vos parlez —, 4453, <emph rend="italic">vous
                 dites bien</emph>.</p>
         <p>avers, 56, <emph rend="italic">selon</emph> (<emph rend="italic">voir la
@@ -14905,7 +14918,7 @@ Plus ne vous en dirai, querez qui plus en die.</l>
         <p>baudor: a —, 113, 971, 1434, <emph rend="italic">avec joie</emph>.</p>
 
             
-<pb n="188" facs="https://fr.wikisource.org/wiki/296"/>
+<pb n="188" facs="https://fr.wikisource.org/wiki/Page:Anonyme - Doon de la Roche.djvu/296"/>
         <p>behorder, 4565, <emph rend="italic">combattre à la</emph>
             <emph rend="italic">lance</emph>, <emph rend="italic">jouter</emph>.</p>
         <p>bel (<emph rend="italic">cas suj. sing.</emph> beaus), <emph rend="italic">terme</emph>
@@ -14997,7 +15010,7 @@ Plus ne vous en dirai, querez qui plus en die.</l>
             2007, <emph rend="italic">pierre précieuse</emph>; 
 
             
-<pb n="189" facs="https://fr.wikisource.org/wiki/297"/><emph rend="italic">comp.</emph>
+<pb n="189" facs="https://fr.wikisource.org/wiki/Page:Anonyme - Doon de la Roche.djvu/297"/><emph rend="italic">comp.</emph>
             Roman de Troie, <emph rend="italic">Gloss.</emph>
             <emph rend="italic">v°</emph> prasme.</p>
         <p>braz, <emph rend="italic">voir</emph> berz.</p>
@@ -15086,7 +15099,7 @@ Plus ne vous en dirai, querez qui plus en die.</l>
                 >réclamer</emph>
             <emph rend="italic">en justice</emph>, <emph rend="italic">revendiquer</emph>. 
 
-<pb n="190" facs="https://fr.wikisource.org/wiki/298"/></p>
+<pb n="190" facs="https://fr.wikisource.org/wiki/Page:Anonyme - Doon de la Roche.djvu/298"/></p>
         <p>chamberier, 1539, <choice><sic>1647</sic><corr>1646</corr></choice>, <emph rend="italic"
                 >valet</emph>
             <emph rend="italic">de chambre</emph>.</p>
@@ -15172,7 +15185,7 @@ Plus ne vous en dirai, querez qui plus en die.</l>
                 >depuis ce moment jusqu’à</emph>. 
 
             
-<pb n="191" facs="https://fr.wikisource.org/wiki/299"/></p>
+<pb n="191" facs="https://fr.wikisource.org/wiki/Page:Anonyme - Doon de la Roche.djvu/299"/></p>
         <p>ciner, 2064, <emph rend="italic">faire un signe</emph>.</p>
         <p>cire, 561, 603, 2948 [<emph rend="italic">corr.</emph> tire], <emph rend="italic">étoffe
                 de soie</emph> (<emph rend="italic">de Tyr</emph>).</p>
@@ -15257,7 +15270,7 @@ Plus ne vous en dirai, querez qui plus en die.</l>
         <p>coneü, coneürent, <emph rend="italic">voir</emph> congnoistre. 
             
       
-<pb n="192" facs="https://fr.wikisource.org/wiki/300"/></p>
+<pb n="192" facs="https://fr.wikisource.org/wiki/Page:Anonyme - Doon de la Roche.djvu/300"/></p>
         <p>confanon, 2294, confenon, 1100, 1113, <emph rend="italic">oriflamme attachée au</emph>
             <emph rend="italic">haut de la lance</emph>; — s laciez,
                     <choice><sic>3073</sic><corr>3075</corr></choice>.</p>
@@ -15338,7 +15351,7 @@ Plus ne vous en dirai, querez qui plus en die.</l>
                 (<emph rend="italic">épithète de</emph> mul, dromadaire, cheval, destrier). 
             
             
-            <pb n="193" facs="https://fr.wikisource.org/wiki/301"/></p>
+            <pb n="193" facs="https://fr.wikisource.org/wiki/Page:Anonyme - Doon de la Roche.djvu/301"/></p>
         <p>cordoan, 1716, cordoain, 1949, 3162, cordoen, 1577, <emph rend="italic">en cuir</emph>
             <emph rend="italic">de Cordoue</emph>.</p>
         <p>coreços, coresos, <emph rend="italic">voir</emph> corosos.</p>
@@ -15421,7 +15434,7 @@ Plus ne vous en dirai, querez qui plus en die.</l>
             <emph rend="italic">du cœur</emph>; avrai le — noir, 1289, <emph rend="italic">j’aurai
                 le cœur</emph>
             
-<pb n="194" facs="https://fr.wikisource.org/wiki/302"/><emph rend="italic"
+<pb n="194" facs="https://fr.wikisource.org/wiki/Page:Anonyme - Doon de la Roche.djvu/302"/><emph rend="italic"
                 >triste</emph>; de —, 810, 821, 3663, <emph rend="italic">du fond du cœur</emph>; de
             mon —, 812, <emph rend="italic">même sens</emph>.</p>
         <p>cuidier, 636, 874, <emph rend="italic">etc.</emph>, <emph rend="italic">1</emph>e <emph
@@ -15503,7 +15516,7 @@ Plus ne vous en dirai, querez qui plus en die.</l>
                 rend="italic">d’un vêtement</emph>].</p>
         <p>defiler, 3007, <emph rend="italic">couler</emph>. 
             
-            <pb n="195" facs="https://fr.wikisource.org/wiki/303"/></p>
+            <pb n="195" facs="https://fr.wikisource.org/wiki/Page:Anonyme - Doon de la Roche.djvu/303"/></p>
         <p>defors (<emph rend="italic">adv.</emph>), 1625, <emph rend="italic">dehors</emph>; (<emph
                 rend="italic">prép.</emph>), 741, <emph rend="italic">en dehors de</emph>.</p>
         <p>defubler, <emph rend="italic">voir</emph> deffubler.</p>
@@ -15585,7 +15598,7 @@ Plus ne vous en dirai, querez qui plus en die.</l>
         <p>descombreement, 165, <emph rend="italic">ouvertement</emph>.</p>
         <p>desconforté, 882, <emph rend="italic">découragé</emph>. 
             
-<pb n="196" facs="https://fr.wikisource.org/wiki/304"/></p>
+<pb n="196" facs="https://fr.wikisource.org/wiki/Page:Anonyme - Doon de la Roche.djvu/304"/></p>
         <p>desduire: le sien cors —, 2186, <emph rend="italic">s’amuser</emph>, <emph rend="italic"
                 >se distraire</emph>; se —, 2635, <emph rend="italic">se réjouir</emph>; 516 (<emph
                 rend="italic">par</emph>
@@ -15667,7 +15680,7 @@ Plus ne vous en dirai, querez qui plus en die.</l>
         <p>desver, 406, 1313, 1327, 2376, <emph rend="italic">devenir fou</emph>; se —, 1306, 
             
             
- <pb n="197" facs="https://fr.wikisource.org/wiki/305"/><emph rend="italic">même
+ <pb n="197" facs="https://fr.wikisource.org/wiki/Page:Anonyme - Doon de la Roche.djvu/305"/><emph rend="italic">même
                 sens</emph>; desvé, 297, 696, <emph rend="italic">etc.</emph>, <emph rend="italic"
                 >fou</emph>; avoir le sen desvé, 1787, 2066, <emph rend="italic">être
             fou</emph>.</p>
@@ -15756,7 +15769,7 @@ Plus ne vous en dirai, querez qui plus en die.</l>
         <p>droit (<emph rend="italic">adj.</emph>), <emph rend="italic">direct</emph>: — e
             ansesserie, 4147, — heritage, 3558, 
             
-            <pb n="198" facs="https://fr.wikisource.org/wiki/306"/>— tenement, 3124; <emph
+            <pb n="198" facs="https://fr.wikisource.org/wiki/Page:Anonyme - Doon de la Roche.djvu/306"/>— tenement, 3124; <emph
                 rend="italic">direct</emph>, <emph rend="italic">légitime</emph>: droiz emperere,
                     <choice><sic>428, 659,</sic><corr>428,</corr></choice> — seignor, 590, 3261,
             3298; <emph rend="italic">légitime</emph>: — baptisement, 156; <emph rend="italic"
@@ -15841,7 +15854,7 @@ Plus ne vous en dirai, querez qui plus en die.</l>
         <p>empirier (<emph rend="italic">v. trans.</emph>), 3840, <emph rend="italic"
                 >endommager</emph>; (<emph rend="italic">v. intr.</emph>) 1444 
             
-            <pb n="199" facs="https://fr.wikisource.org/wiki/307"/><emph rend="italic">empirer</emph>;
+            <pb n="199" facs="https://fr.wikisource.org/wiki/Page:Anonyme - Doon de la Roche.djvu/307"/><emph rend="italic">empirer</emph>;
             n’ert li dux enpiriez, 3258, <emph rend="italic">le duc ne s’en portera</emph>
             <emph rend="italic">pas plus mal</emph>.</p>
         <p>emploié, 4518, <emph rend="italic">placé</emph>, <emph rend="italic">mis à sa</emph>
@@ -15927,7 +15940,7 @@ Plus ne vous en dirai, querez qui plus en die.</l>
         <p>engignier, 3065, 3736, enginier, 941, <emph rend="italic">tromper</emph>; <emph
                 rend="italic">voir</emph> enganer. 
             
-            <pb n="200" facs="https://fr.wikisource.org/wiki/308"/></p>
+            <pb n="200" facs="https://fr.wikisource.org/wiki/Page:Anonyme - Doon de la Roche.djvu/308"/></p>
         <p>engin, 896, 1012, engien, 2942, 2954, <emph rend="italic">ruse</emph>, <emph
                 rend="italic">manœuvre</emph>; 3836, 3926, <emph rend="italic">machine de
                 guerre</emph>.</p>
@@ -16008,7 +16021,7 @@ Plus ne vous en dirai, querez qui plus en die.</l>
         <p>entrencontrer (s’), 4471-2, <emph rend="italic">se</emph>
             <emph rend="italic">rencontrer</emph>. 
             
-            <pb n="201" facs="https://fr.wikisource.org/wiki/309"/></p>
+            <pb n="201" facs="https://fr.wikisource.org/wiki/Page:Anonyme - Doon de la Roche.djvu/309"/></p>
         <p>entreprendre, 197, <emph rend="italic">saisir</emph>, <emph rend="italic"
             >attaquer</emph>; de péchié entrepris, 235, <emph rend="italic">entaché de péché</emph>;
             — por, 3449, <emph rend="italic">prendre pour</emph> (<emph rend="italic">1</emph>re
@@ -16174,7 +16187,7 @@ Plus ne vous en dirai, querez qui plus en die.</l>
                 >allumé</emph>; de sens — e, 560, <emph rend="italic">aimant la sagesse</emph>.</p>
         <p>essaiant, 1180, <emph rend="italic">brave</emph>, <emph rend="italic">courageux</emph>.
                 
-<pb n="203" facs="https://fr.wikisource.org/wiki/311"/></p>
+<pb n="203" facs="https://fr.wikisource.org/wiki/Page:Anonyme - Doon de la Roche.djvu/311"/></p>
         <p>essaier, 3502, 3522, <emph rend="italic">mettre à</emph>
             <emph rend="italic">l’épreuve</emph>.</p>
         <p>essaucier, 5, 4130, <emph rend="italic">élever</emph>.</p>
@@ -16266,7 +16279,7 @@ Plus ne vous en dirai, querez qui plus en die.</l>
                 rend="italic">tumulte</emph> (?).</p>
         <p>façon, 151, 2249, <emph rend="italic">visage</emph>. 
             
-            <pb n="204" facs="https://fr.wikisource.org/wiki/312"/></p>
+            <pb n="204" facs="https://fr.wikisource.org/wiki/Page:Anonyme - Doon de la Roche.djvu/312"/></p>
         <p>faé, 1678, <emph rend="italic">doué par les fées</emph>, <emph rend="italic"
                 >heureux</emph>.</p>
         <p>faillir, <emph rend="italic">3</emph>e <emph rend="italic">p. sing. impf. subj.</emph>
@@ -16353,7 +16366,7 @@ Plus ne vous en dirai, querez qui plus en die.</l>
         <p>ferrant, 1159, <emph rend="italic">gris</emph> (<emph rend="italic">épithète de</emph>
             cheval). 
             
-<pb n="205" facs="https://fr.wikisource.org/wiki/313"/></p>
+<pb n="205" facs="https://fr.wikisource.org/wiki/Page:Anonyme - Doon de la Roche.djvu/313"/></p>
         <p>ferré, 1577, 1949, <emph rend="italic">muni d’une</emph>
             <emph rend="italic">pointe en fer</emph>.</p>
         <p>ferrée, 646 [<emph rend="italic">faute du ms. pour</emph> errée; <emph rend="italic"
@@ -16530,7 +16543,7 @@ Plus ne vous en dirai, querez qui plus en die.</l>
                 rend="italic">voir</emph>; ne — l’ore, 2402, <emph rend="italic">s’attendre à
                 tout</emph>
             
-<pb n="207" facs="https://fr.wikisource.org/wiki/315"/><emph rend="italic"
+<pb n="207" facs="https://fr.wikisource.org/wiki/Page:Anonyme - Doon de la Roche.djvu/315"/><emph rend="italic"
                 >moment</emph>; 2258, <emph rend="italic">considérer</emph>
             <emph rend="italic">comme valable</emph>; (<emph rend="italic">réfl.</emph>): el ne se
             garde d’ome, 582, 917, <emph rend="italic">etc.</emph>, <emph rend="italic">elle laisse
@@ -16617,7 +16630,7 @@ Plus ne vous en dirai, querez qui plus en die.</l>
         <p>grever, <emph rend="italic">3</emph>e <emph rend="italic">p. sing. prés. subj.</emph>
             griet, 1525, 1528, <emph rend="italic">grever</emph>, <emph rend="italic"
                 >affliger</emph>. 
-<pb n="208" facs="https://fr.wikisource.org/wiki/316"/></p>
+<pb n="208" facs="https://fr.wikisource.org/wiki/Page:Anonyme - Doon de la Roche.djvu/316"/></p>
         <p>grief, <choice><sic>2447</sic><corr>2446</corr></choice>, 4598, <emph rend="italic"
                 >difficile</emph>, <emph rend="italic">laborieux</emph>.</p>
         <p>griet, <emph rend="italic">voir</emph> grever.</p>
@@ -16707,7 +16720,7 @@ Plus ne vous en dirai, querez qui plus en die.</l>
                 rend="italic">donner l’hospitalité</emph>
             <emph rend="italic">à qqn</emph>; 1662, 2163, <emph rend="italic">etc.</emph>, 
             
-            <pb n="209" facs="https://fr.wikisource.org/wiki/317"/>— avec qqn, 3222, 3231,
+            <pb n="209" facs="https://fr.wikisource.org/wiki/Page:Anonyme - Doon de la Roche.djvu/317"/>— avec qqn, 3222, 3231,
                 <emph rend="italic">etc.</emph>, <emph rend="italic">loger chez qqn</emph>; 1309,
                 <emph rend="italic">loger</emph>, <emph rend="italic">prendre logis</emph>; estre
             herbergié, 2427, <emph rend="italic">être campé</emph>; s’ —, 3521, <emph rend="italic"
@@ -16801,7 +16814,7 @@ Plus ne vous en dirai, querez qui plus en die.</l>
                 <choice><sic>425</sic><corr>427</corr></choice>, 465, <emph rend="italic"
                 >etc.</emph>; ne — ... mais, 1280, ne 
             
-            <pb n="210" facs="https://fr.wikisource.org/wiki/318"/>—..., 893, 1311, <emph
+            <pb n="210" facs="https://fr.wikisource.org/wiki/Page:Anonyme - Doon de la Roche.djvu/318"/>—..., 893, 1311, <emph
                 rend="italic">etc.</emph>; mais — ne, 597, 616, <emph rend="italic">jamais
             ne</emph>; — ne... ne, <choice><sic>1295</sic><corr>1297</corr></choice>
             <emph rend="italic">jamais ni...</emph>
@@ -16890,7 +16903,7 @@ Plus ne vous en dirai, querez qui plus en die.</l>
             laier.</p>
         <p>laissier, 667, 832, <emph rend="italic">etc.</emph>, ' <b>
             
-            <pb n="211" facs="https://fr.wikisource.org/wiki/319"/><emph rend="italic"
+            <pb n="211" facs="https://fr.wikisource.org/wiki/Page:Anonyme - Doon de la Roche.djvu/319"/><emph rend="italic"
                     >abandonner</emph>, <emph rend="italic">délaisser</emph>; 2765, 3239,</b>
             <emph rend="italic">quitter</emph> (<emph rend="italic">cf.</emph> laier).</p>
         <p>lait, 730, <emph rend="italic">voir</emph> laier.</p>
@@ -16980,7 +16993,7 @@ Plus ne vous en dirai, querez qui plus en die.</l>
         <p>1. loer, 2096, <emph rend="italic">conseiller</emph>.</p>
         <p>2. loer, 55, 104, <emph rend="italic">payer, récompenser</emph>. 
             
-            <pb n="212" facs="https://fr.wikisource.org/wiki/320"/></p>
+            <pb n="212" facs="https://fr.wikisource.org/wiki/Page:Anonyme - Doon de la Roche.djvu/320"/></p>
         <p>logier: estre logié, 2435, <emph rend="italic">camper</emph>.</p>
         <p>loiaument, 3158 (<emph rend="italic">mot altéré</emph>).</p>
         <p>loier, 3252, 4015, <emph rend="italic">récompense</emph>, <emph rend="italic"
@@ -17068,7 +17081,7 @@ Plus ne vous en dirai, querez qui plus en die.</l>
             <emph rend="italic">peu</emph>) <emph rend="italic">me fier à la famille</emph>.</p>
         <p>maleoit, <emph rend="italic">voir</emph> maleït. 
             
-            <pb n="213" facs="https://fr.wikisource.org/wiki/321"/></p>
+            <pb n="213" facs="https://fr.wikisource.org/wiki/Page:Anonyme - Doon de la Roche.djvu/321"/></p>
         <p>malmetre (<emph rend="italic">v. trans.</emph>), 1115, 2296, <emph rend="italic">mettre
                 hors d’usage</emph>, <emph rend="italic">briser</emph>; (<emph rend="italic">v.
                 intr.</emph>), 1444, <emph rend="italic">tomber malade</emph>; mal mis, 210, <emph
@@ -17150,7 +17163,7 @@ Plus ne vous en dirai, querez qui plus en die.</l>
         <p>maubre, 1895, 3265, 3556, 3594, 3600, 3972, 4203, <emph rend="italic">marbre</emph>.</p>
         <p>maus, <emph rend="italic">voir</emph> mal. 
             
-            <pb n="214" facs="https://fr.wikisource.org/wiki/322"/></p>
+            <pb n="214" facs="https://fr.wikisource.org/wiki/Page:Anonyme - Doon de la Roche.djvu/322"/></p>
         <p>maufé, 3291, <emph rend="italic">diable</emph>.</p>
         <p>mautalent, <emph rend="italic">voir</emph> maltalent.</p>
         <p>mauvaise (<emph rend="italic">adj. pris substantivt</emph>). 410, 479, 737, 742, <emph
@@ -17232,7 +17245,7 @@ Plus ne vous en dirai, querez qui plus en die.</l>
             <emph rend="italic">qui prête au blâme</emph>.</p>
         <p>mesprison, 4033, <emph rend="italic">injustice</emph>, <emph rend="italic">mauvais
                 traitement</emph>. 
-<pb n="215" facs="https://fr.wikisource.org/wiki/323"/></p>
+<pb n="215" facs="https://fr.wikisource.org/wiki/Page:Anonyme - Doon de la Roche.djvu/323"/></p>
         <p>mesqueneü, <emph rend="italic">voir</emph> mescongnoistre.</p>
         <p>message, 306, <emph rend="italic">etc.</emph>, mesage, 4301, messaige, 1744, <emph
                 rend="italic">etc.</emph>, <emph rend="italic">messager</emph>.</p>
@@ -17320,7 +17333,7 @@ Plus ne vous en dirai, querez qui plus en die.</l>
         <p>muer, 2536, 2564, <emph rend="italic">etc.</emph>, <emph rend="italic">changer</emph>; se
             —, 2686, <emph rend="italic">changer de position</emph>, <emph rend="italic">se
                 tourner</emph>. 
-<pb n="216" facs="https://fr.wikisource.org/wiki/324"/></p>
+<pb n="216" facs="https://fr.wikisource.org/wiki/Page:Anonyme - Doon de la Roche.djvu/324"/></p>
         <p>muire, <emph rend="italic">voir</emph> morir.</p>
         <p>mul, 322, 355, <emph rend="italic">etc.</emph>, mur, 2972, <emph rend="italic"
                 >mulet</emph>.</p>
@@ -17514,7 +17527,7 @@ Plus ne vous en dirai, querez qui plus en die.</l>
                 soie</emph>; 1826, 2014, <emph rend="italic">couverture</emph>
             <emph rend="italic">de cheval en soie</emph>; 
             
-            <pb n="218" facs="https://fr.wikisource.org/wiki/326"/>1993, <emph rend="italic">doublure
+            <pb n="218" facs="https://fr.wikisource.org/wiki/Page:Anonyme - Doon de la Roche.djvu/326"/>1993, <emph rend="italic">doublure
                 de tente en</emph>
             <emph rend="italic">soie</emph>.</p>
         <p>pais: aiez —, 617, 918, <emph rend="italic">etc.</emph>, <emph rend="italic">tenez-vous
@@ -17606,7 +17619,7 @@ Plus ne vous en dirai, querez qui plus en die.</l>
                 >battu</emph>, <emph rend="italic">déconfit</emph>.</p>
         <p>pastorel, <emph rend="italic">cas rég. plur.</emph>
             
-<pb n="219" facs="https://fr.wikisource.org/wiki/327"/>pastoriaus, 3345, 3349,
+<pb n="219" facs="https://fr.wikisource.org/wiki/Page:Anonyme - Doon de la Roche.djvu/327"/>pastoriaus, 3345, 3349,
                 <emph rend="italic">jeune pâtre</emph>.</p>
         <p>paumier, 3346, 3351, <emph rend="italic">etc.</emph>, <emph rend="italic"
             >pèlerin</emph>.</p>
@@ -17693,7 +17706,7 @@ Plus ne vous en dirai, querez qui plus en die.</l>
         <p>picois, 1578, 1950, <emph rend="italic">pointe</emph> [<emph rend="italic">d’un</emph>
             <emph rend="italic">bâton</emph>]. 
             
-            <pb n="220" facs="https://fr.wikisource.org/wiki/328"/></p>
+            <pb n="220" facs="https://fr.wikisource.org/wiki/Page:Anonyme - Doon de la Roche.djvu/328"/></p>
         <p>pié: en piez, 1021, <emph rend="italic">debout</emph>; plain —, 520, 744, demi —,
                     <choice><sic>1974</sic><corr>974</corr></choice>, <emph rend="italic">un pied
                 entier</emph>, <emph rend="italic">un demi-pied</emph> [<emph rend="italic">de
@@ -17771,7 +17784,7 @@ Plus ne vous en dirai, querez qui plus en die.</l>
                 >puissance</emph> (<emph rend="italic">cf.</emph> poesté).</p>
         <p>poesté, 3708 (<emph rend="italic">à l’asson.</emph>), <emph rend="italic">comme</emph>
             poeste. 
-<pb n="221" facs="https://fr.wikisource.org/wiki/329"/></p>
+<pb n="221" facs="https://fr.wikisource.org/wiki/Page:Anonyme - Doon de la Roche.djvu/329"/></p>
         <p>poi ranier, 3087 [<emph rend="italic">corr.</emph> bois ramier (?)].</p>
         <p>poi, <emph rend="italic">voir</emph> po.</p>
         <p>poigneor 1433, <emph rend="italic">combattant</emph>.</p>
@@ -17953,7 +17966,7 @@ Plus ne vous en dirai, querez qui plus en die.</l>
                 2 genres</emph>), <emph rend="italic">cas suj.</emph>
             <emph rend="italic">sing.</emph> pros, 2292, 2946, prouz, 
             
-            <pb n="223" facs="https://fr.wikisource.org/wiki/331"/>3624, proz, 348,
+            <pb n="223" facs="https://fr.wikisource.org/wiki/Page:Anonyme - Doon de la Roche.djvu/331"/>3624, proz, 348,
                     <choice><sic>369</sic><corr>469</corr></choice>, 602, 1274, <emph rend="italic"
                 >etc.</emph>, <emph rend="italic">sage</emph>, <emph rend="italic"
             >vaillant</emph>.</p>
@@ -18041,7 +18054,7 @@ Plus ne vous en dirai, querez qui plus en die.</l>
                 subj.</emph>) — muere ne — vive, 839, <emph rend="italic">qui soit vivant</emph>
             <emph rend="italic">ou mort</emph> (<emph rend="italic">présent ou passé</emph>); 
           
-            <pb n="224" facs="https://fr.wikisource.org/wiki/332"/>— que chant ne — lait, 730,
+            <pb n="224" facs="https://fr.wikisource.org/wiki/Page:Anonyme - Doon de la Roche.djvu/332"/>— que chant ne — lait, 730,
                 <emph rend="italic">quel que soit celui qui</emph>
             <emph rend="italic">chante ou non</emph>; — que plort ne — chant, 2135, <emph
                 rend="italic">qu’importe</emph>
@@ -18129,7 +18142,7 @@ Plus ne vous en dirai, querez qui plus en die.</l>
                 >rançon</emph>.</p>
         <p>regeter, <choice><sic>2274</sic><corr>2273</corr></choice>, <emph rend="italic"
                 >curer</emph>. 
-<pb n="225" facs="https://fr.wikisource.org/wiki/333"/></p>
+<pb n="225" facs="https://fr.wikisource.org/wiki/Page:Anonyme - Doon de la Roche.djvu/333"/></p>
         <p>regne, 104, <choice><sic>105</sic><corr>115</corr></choice>, <emph rend="italic"
                 >etc.</emph>, regné, 315, 1522, <emph rend="italic">etc.</emph>, reigne, 1401, 2496,
             4005, roigne, 3150, <emph rend="italic">royaume</emph>; 627, 2235, 2250, <emph
@@ -18219,7 +18232,7 @@ Plus ne vous en dirai, querez qui plus en die.</l>
                 (<emph rend="italic">v.</emph>
             <emph rend="italic">intr.</emph>), 1119, <emph rend="italic">crier de nouveau</emph>.
                 
-<pb n="226" facs="https://fr.wikisource.org/wiki/334"/></p>
+<pb n="226" facs="https://fr.wikisource.org/wiki/Page:Anonyme - Doon de la Roche.djvu/334"/></p>
         <p>1. resembler, 3537, <emph rend="italic">paraître</emph>, <emph rend="italic"
                 >sembler</emph>.</p>
         <p>2. resembler (se), 2176, <emph rend="italic">réunir</emph>
@@ -18313,7 +18326,7 @@ Plus ne vous en dirai, querez qui plus en die.</l>
                 >simplement</emph>.</p>
         <p>saintisme, 147, <emph rend="italic">très saint</emph>. 
             
-            <pb n="227" facs="https://fr.wikisource.org/wiki/335"/></p>
+            <pb n="227" facs="https://fr.wikisource.org/wiki/Page:Anonyme - Doon de la Roche.djvu/335"/></p>
         <p>sale, 12, 989, <emph rend="italic">etc.</emph>, <emph rend="italic">grande salle</emph>
             <emph rend="italic">du palais</emph>.</p>
         <p>salt, <emph rend="italic">voir</emph> sauver.</p>
@@ -18408,7 +18421,7 @@ Plus ne vous en dirai, querez qui plus en die.</l>
             <emph rend="italic">fou</emph>.</p>
         <p>sendel, 1618, <emph rend="italic">étoffe de soie</emph>. 
             
-            <pb n="228" facs="https://fr.wikisource.org/wiki/336"/></p>
+            <pb n="228" facs="https://fr.wikisource.org/wiki/Page:Anonyme - Doon de la Roche.djvu/336"/></p>
         <p>sené, 40, 643, <emph rend="italic">etc.</emph>, <emph rend="italic">sage</emph>, <emph
                 rend="italic">sensé</emph>; bien —, <choice><sic>642</sic><corr>643</corr></choice>,
                 <emph rend="italic">bien pourvu de</emph>
@@ -18488,7 +18501,7 @@ Plus ne vous en dirai, querez qui plus en die.</l>
         <p>solier, <choice><sic>2190</sic><corr>2191</corr></choice>, <emph rend="italic"
                 >étage</emph>; — lanceïs, 3928, <emph rend="italic">pont volant</emph>. 
             
-            <pb n="229" facs="https://fr.wikisource.org/wiki/337"/></p>
+            <pb n="229" facs="https://fr.wikisource.org/wiki/Page:Anonyme - Doon de la Roche.djvu/337"/></p>
         
         <p>soloir, <emph rend="italic">1</emph>e <emph rend="italic">p. sing. ind. prés.</emph>
             suel, 2796; <emph rend="italic">3</emph>e <emph rend="italic">p. sing. impf.</emph>
@@ -18753,7 +18766,7 @@ Plus ne vous en dirai, querez qui plus en die.</l>
                 rend="italic">ou</emph> iert trestorné, 935, 1500, 1860, <emph rend="italic"
                 >etc.</emph>, <emph rend="italic">c’est décidé</emph>, 
             
-            <pb n="232" facs="https://fr.wikisource.org/wiki/340"/><emph rend="italic">on n’y changera
+            <pb n="232" facs="https://fr.wikisource.org/wiki/Page:Anonyme - Doon de la Roche.djvu/340"/><emph rend="italic">on n’y changera
                 rien</emph>; n’en serez trestornée, 952, <emph rend="italic">vous</emph>
             <emph rend="italic">n’échapperez pas à votre destinée</emph>; se —, 3784, <emph
                 rend="italic">se détourner</emph>.</p>
@@ -18844,7 +18857,7 @@ Plus ne vous en dirai, querez qui plus en die.</l>
                 <choice><sic>2077</sic><corr>2076</corr></choice>, — a plaisir, 229, — en plaisir,
             231, — a talant, 244, <emph rend="italic">plaire</emph>. 
             
-            <pb n="233" facs="https://fr.wikisource.org/wiki/341"/></p>
+            <pb n="233" facs="https://fr.wikisource.org/wiki/Page:Anonyme - Doon de la Roche.djvu/341"/></p>
         <p>venjance: faire sa —, 2897, <emph rend="italic">établir un plan de vengeance</emph>.</p>
         <p>venter, 706, 4043, <emph rend="italic">jeter au vent</emph>.</p>
         <p>ventre, <emph rend="italic">poitrine</emph>: le cuer qu’il ot ou ventre, 1104, 1117.</p>
@@ -18937,7 +18950,7 @@ Plus ne vous en dirai, querez qui plus en die.</l>
             3076, <emph rend="italic">2</emph>e <emph rend="italic">p. plur.</emph> vousistes, 2259,
                 <emph rend="italic">3</emph>e <emph rend="italic">p. plur.</emph>, voldrent, 1603,
             1982, voudrent, 3530, 
-<pb n="234" facs="https://fr.wikisource.org/wiki/342"/>vourent, 3390; <emph rend="italic">subj. prés</emph>. <emph rend="italic">2</emph>e
+<pb n="234" facs="https://fr.wikisource.org/wiki/Page:Anonyme - Doon de la Roche.djvu/342"/>vourent, 3390; <emph rend="italic">subj. prés</emph>. <emph rend="italic">2</emph>e
                 <emph rend="italic">p. plur.</emph> veulliez, 3387: <emph rend="italic">impf.
                 1</emph>e <emph rend="italic">p. sing.</emph> vosisse, 720, 3329, vousisse, 3297,
                 <emph rend="italic">2</emph>e <emph rend="italic">p.</emph> vosisses, 474, 489,
@@ -18975,7 +18988,7 @@ Plus ne vous en dirai, querez qui plus en die.</l>
 </div>
 
          <div type="index_noms">
-            <pb n="235" facs="https://fr.wikisource.org/wiki/343"/>
+            <pb n="235" facs="https://fr.wikisource.org/wiki/Page:Anonyme - Doon de la Roche.djvu/343"/>
             <head>TABLE DES NOMS PROPRES</head>
             
             <p>Afrique: or d’ —, 609 (<emph rend="italic">cf.</emph> Aufriquant).</p>
@@ -18995,7 +19008,7 @@ Plus ne vous en dirai, querez qui plus en die.</l>
             <p>Anjou, 4114.</p>
             <p>Antecrist, 3904.</p>
             <p>Antoine, 2768, <emph rend="italic">localité attribuée à l’Italie, le nom semble être</emph> <emph rend="italic">une altération de</emph> Hantone. 
-            </p><pb n="236" facs="https://fr.wikisource.org/wiki/344"/>
+            </p><pb n="236" facs="https://fr.wikisource.org/wiki/Page:Anonyme - Doon de la Roche.djvu/344"/>
             <p>Antoine, 2327, <emph rend="italic">partisan de Tomile</emph>.</p>
             <p>Apolin, 4401, <emph rend="italic">dieu des</emph> Sesnes.</p>
             <p>Arabe, <emph rend="italic">Arabie</emph>: or d’ —, 4418.</p>
@@ -19033,7 +19046,7 @@ Plus ne vous en dirai, querez qui plus en die.</l>
             <p>* Carsadoine 4127 [<emph rend="italic">ms.</emph> Lazadoine], 4355 [<emph rend="italic">ms.</emph> Jazacoigne], <emph rend="italic">roi de</emph> Sasoingne, <emph rend="italic">tué par Pépin</emph>.</p>
             <p>Clarembaus (<emph rend="italic">cas sujet</emph>) de Dinant, 1074, <emph rend="italic">partisan de Tomile</emph>.</p>
             <p>Coloigne, 112 [<emph rend="italic">ms.</emph> Coulongne], <emph rend="italic">etc.</emph>, Coloigne sor mer, 1622, <emph rend="italic">Cologne, ville habitée par</emph> 
-               <pb n="237" facs="https://fr.wikisource.org/wiki/345"/><emph rend="italic">Doon et où se passe le drame de l’accusation d’Olive et toute la conjuration contre Landri; l’archevêque de C. protège les envoyés de l’empereur Alexandre contre Tomile</emph>, 1603 <emph rend="italic">et suiv.</emph>; <emph rend="italic">Doon en est chassé</emph>, 2168 <emph rend="italic">et suiv.</emph>; <emph rend="italic">Doonreprend la ville</emph>, 4059 <emph rend="italic">et suiv.</emph>; <emph rend="italic">Pépin y va avec Doon et Olive</emph>, 4614 <emph rend="italic">et suiv.</emph>; <emph rend="italic">voir</emph> Joserant, Simon, Tomile.</p>
+               <pb n="237" facs="https://fr.wikisource.org/wiki/Page:Anonyme - Doon de la Roche.djvu/345"/><emph rend="italic">Doon et où se passe le drame de l’accusation d’Olive et toute la conjuration contre Landri; l’archevêque de C. protège les envoyés de l’empereur Alexandre contre Tomile</emph>, 1603 <emph rend="italic">et suiv.</emph>; <emph rend="italic">Doon en est chassé</emph>, 2168 <emph rend="italic">et suiv.</emph>; <emph rend="italic">Doonreprend la ville</emph>, 4059 <emph rend="italic">et suiv.</emph>; <emph rend="italic">Pépin y va avec Doon et Olive</emph>, 4614 <emph rend="italic">et suiv.</emph>; <emph rend="italic">voir</emph> Joserant, Simon, Tomile.</p>
             <p>Constantin (palais), 2759, 2792, <emph rend="italic">palais bâti à Constantinople par Constantin le Grand</emph>.</p>
             <p>Constantinoble, 864, 1638, 2526, 2614, 2723, 4267, Constentinoble, 1383, <emph rend="italic">etc.</emph>; 2424, 4435, <emph rend="italic">etc.</emph>, <emph rend="italic">Constantinople</emph>.</p>
             <p><br /></p>
@@ -19066,7 +19079,7 @@ Plus ne vous en dirai, querez qui plus en die.</l>
             <p>Frobert, 3330 <emph rend="italic">et suiv.</emph>, <emph rend="italic">fauxnom que se donne Doon</emph>.</p>
             <p><br /></p>
             <p>Garnier, 2484, <emph rend="italic">chevalier de l’armée hongroise</emph>. 
-            </p><pb n="238" facs="https://fr.wikisource.org/wiki/346"/>
+            </p><pb n="238" facs="https://fr.wikisource.org/wiki/Page:Anonyme - Doon de la Roche.djvu/346"/>
             <p>Gautier, 3246, <emph rend="italic">fils de Bernard</emph>.</p>
             <p>Gautier, <emph rend="italic">chevalier</emph>, <emph rend="italic">cousin germainde Doon</emph>, 1760 <emph rend="italic">et suiv.</emph>, <emph rend="italic">est chargé par l’archevêque de Cologne de réclamer à Tomile les dromadaires des envoyés de Constantinople</emph>.</p>
             <p>Gautier de Sorbrie, 3939, <emph rend="italic">partisande Landri</emph>.</p>
@@ -19097,7 +19110,7 @@ Plus ne vous en dirai, querez qui plus en die.</l>
             <p>Henri, <emph rend="italic">père de l’ingénieur Gillibert</emph>, 3925.</p>
             <p>Hermins, 1429, <emph rend="italic">Arméniens</emph>.</p>
             <p>Herupe, 452, <emph rend="italic">région entre Seine et Loire</emph> (<emph rend="italic">Cf.</emph> R. de Cambrai, <emph rend="italic">Table</emph>).</p>
-            <p>Hervi, <emph rend="italic">traître</emph>, <emph rend="italic">cousin de</emph>  <pb n="239" facs="https://fr.wikisource.org/wiki/347"/> <emph rend="italic">Tomile</emph>, 120, appelé plus loin Hervis de Lion, 1130.</p>
+            <p>Hervi, <emph rend="italic">traître</emph>, <emph rend="italic">cousin de</emph>  <pb n="239" facs="https://fr.wikisource.org/wiki/Page:Anonyme - Doon de la Roche.djvu/347"/> <emph rend="italic">Tomile</emph>, 120, appelé plus loin Hervis de Lion, 1130.</p>
             <p>1. Hongre (li), 2427, 2522, 2526, <emph rend="italic">les Hongrois</emph>.</p>
             <p>2. Hongre, 2427, 2436, <emph rend="italic">fleuve qui, semble-t-il, sépare la</emph> <emph rend="italic">Hongrie de l’Empire grec</emph>.</p>
             <p>Hongrie, Honguerie, <emph rend="italic">pays où réside l’évêque Auberi</emph>, 2162; <emph rend="italic">royaume de Dorame</emph>, 2414, 2421; 4044; escu d’*Angarie [<emph rend="italic">ms.</emph> Angie], 4069.</p>
@@ -19127,7 +19140,7 @@ Plus ne vous en dirai, querez qui plus en die.</l>
             <p>Lion, 1130, <emph rend="italic">voir</emph> Hervi.</p>
             <p>Loereing, 435, Loherain, 2155, Loorain, 2307, <emph rend="italic">Lorrain</emph>.</p>
             <p>Loeraigne, 2335, Loereigne, 519, 1243, Loeroigne, 90, 
-               <pb n="240" facs="https://fr.wikisource.org/wiki/348"/>130, 880, 2385, Looraingne, 2816, <emph rend="italic">Lorraine</emph>; les puis de Leoroingne, 2910, <emph rend="italic">montagnes placées par l’auteur en Italie</emph>.</p>
+               <pb n="240" facs="https://fr.wikisource.org/wiki/Page:Anonyme - Doon de la Roche.djvu/348"/>130, 880, 2385, Looraingne, 2816, <emph rend="italic">Lorraine</emph>; les puis de Leoroingne, 2910, <emph rend="italic">montagnes placées par l’auteur en Italie</emph>.</p>
             <p>Loqueste, <emph rend="italic">traître tué par Landri</emph>, 4634.</p>
             <p><br /></p>
             <p>Mahom, 4401, Mahomet, 4354, <emph rend="italic">dieu des</emph> Sesnes.</p>
@@ -19164,7 +19177,7 @@ Plus ne vous en dirai, querez qui plus en die.</l>
             <p>Pepin, <emph rend="italic">roi de France</emph>, 11, 38, <emph rend="italic">etc.</emph>; <emph rend="italic">qualifié roi</emph>, 11, <emph rend="italic">etc.</emph>, <emph rend="italic">empereur</emph>, 41, 54, <emph rend="italic">etc.</emph>, le roi Franc, 2126; <emph rend="italic">a tué le lion</emph>, 220, 2226, 2855.</p>
             <p>Pere (saint), <emph rend="italic">voir</emph> Pierre.</p>
             <p>Pierre (saint), <emph rend="italic">qu’on vénère à Rome</emph>, 3325, 3478; <emph rend="italic">qu’on vénère à Cologne</emph>, 2153, 3544 (<emph rend="italic">voir</emph> Saint Pierre); le grand chemin saint Pere, 1378, <emph rend="italic">le chemin qui mène à Rome</emph>; S. Pere au Bras, <emph rend="italic">voir</emph> Saint Pere au Bras. 
-            </p><pb n="241" facs="https://fr.wikisource.org/wiki/349"/>
+            </p><pb n="241" facs="https://fr.wikisource.org/wiki/Page:Anonyme - Doon de la Roche.djvu/349"/>
             <p>Pisant, 2911, <emph rend="italic">contrée de Pise</emph> (?).</p>
             <p>Plaisance: iaume de —, 2517.</p>
             <p>Pohiers, 14, <emph rend="italic">habitants de Poix</emph> (<emph rend="italic">Somme</emph>). <emph rend="italic">Cf. Raoul de Cambrai</emph>, table.</p>
@@ -19204,7 +19217,7 @@ Plus ne vous en dirai, querez qui plus en die.</l>
             <p>Simon de Cologne, 3872, <emph rend="italic">partisande Doon</emph>.</p>
             <p>Sobrie, 3113 <emph rend="italic">et suiv.</emph>, 3641, 3665, 3714, 3720, <emph rend="italic">ville conquise</emph> (<emph rend="italic">sur les païens</emph>?) <emph rend="italic">par Florent, père de Doon</emph>; <emph rend="italic">c’est en réalité la ville lointaine de Sobrie, transportée arbitrairement</emph> <emph rend="italic">par l’auteur de Doon dans la vallée du Rhin. Le nom est emprunté à</emph> Élie de Saint-Gilles; <emph rend="italic">cri de guerrede Doon</emph>, 3601.</p>
             <p>Soissons, 3313. 
-            </p><pb n="242" facs="https://fr.wikisource.org/wiki/350"/>
+            </p><pb n="242" facs="https://fr.wikisource.org/wiki/Page:Anonyme - Doon de la Roche.djvu/350"/>
             <p>Sorable, 3756, <emph rend="italic">ville de Grifonde Hautefeuille</emph>.</p>
             <p>Sorbrie, <emph rend="italic">voir</emph> Gautier.</p>
             <p>Sulie, Surie, <emph rend="italic">Syrie</emph>, 604: mur de — 2972, mul de —, 3002, 4157.</p>
