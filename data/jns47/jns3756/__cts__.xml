@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ti:work xmlns:ti="http://chs.harvard.edu/xmlns/cts"
+    groupUrn="urn:cts:froLit:jns47"
+    urn="urn:cts:froLit:jns47.jns3756"
+    xml:lang="fro"
+    >
+    <!--
+      Work must have at least one title node.
+      Title node needs xml:lang declaration, it reflects the language of the title.
+    -->
+    <ti:title xml:lang="fre">Doon de la Roche</ti:title>
+    <!-- 
+      For each "text", either edition, translation, or commentary, there should be a ti:edition, ti:translation, or ti:commentary node
+
+      The edition nodes has two attributes :
+        - The first one, workUrn, contains only the urn up to the work component
+        - The second, urn, contains the full urn
+    -->
+    <ti:edition 
+        workUrn="urn:cts:froLit:jns47.jns3756" 
+        urn="urn:cts:froLit:jsn47.jns3756.perseus-lat2"
+        >
+        <!--
+          Edition, Translation, and Commentary must have at least one label node.
+          Label represents the title of the edition.
+          Label node needs xml:lang declaration, it reflects the language of the title.
+        -->
+        <ti:label xml:lang="fre">Doon de la Roche, chanson de geste</ti:label>
+        <!--
+          Edition, Translation, and Commentary must have at least one description node.
+          Description node needs xml:lang declaration, it reflects the language of the description.
+          
+        -->
+        <ti:description xml:lang="fre"> <!-- Que met-on ? -->
+            Doon de la Roche, chanson de geste, chanson de geste publiée par P. Meyer et G. Huet en 1921
+        </ti:description>
+    </ti:edition>
+    
+   
+</ti:work>
