@@ -2975,7 +2975,7 @@
             </div>
         </front>
         <body xml:lang="fro">
-            <lg type="laisse">
+            <lg type="laisse" xml:id="L_001">
 <l n="1"><lb/><w>Segnour</w><pc type="supplied">,</pc> <w>oiiés</w><pc type="supplied">,</pc> <w>ke</w> <w>Jhesus</w> <w>bien</w> <w>vous</w> <w>fache</w></l>
 <l n="2"><lb/><w>Li</w> <w>glorieus</w> <w>ki</w> <w>nous</w> <w>fist</w> <w>à</w> <w>s’ymage</w><pc type="supplied">!</pc></l>
 <l n="3"><lb/><w>Boine</w> <w>canchon</w> <w>estraite</w> <w>de</w> <w>lignaige</w><pc type="supplied">,</pc></l>
@@ -3006,7 +3006,7 @@
 <l n="27"><lb/><w>Ens</w> <w>son</w> <w>estant</w> <w>n’ot</w> <w>de</w> <w>grant</w> <w>que</w> <pc type="supplied">.</pc><w>iii</w><pc type="supplied">.</pc> <w>piés</w><pc type="supplied">,</pc></l>
 <l n="28"><lb/><w>Et</w> <w>s’ert</w> <w>faés</w><pc type="supplied">,</pc> <w>de</w> <w>vreté</w> <w>le</w> <w>sachiés</w><pc type="supplied">.</pc></l>
 </lg>
-<lg type="laisse">
+<lg type="laisse" xml:id="L_002">
 <l n="29"><lb/><w>Che</w> <w>fu</w> <w>à</w> <w>Pentecouste</w><pc type="supplied">,</pc> <w>le</w> <w>haut</w> <w>jor</w> <w>enforcié</w><pc type="supplied">,</pc></l>
 <l n="30"><lb/><w>C’à</w> <w>Paris</w> <w>tint</w> <w>sa</w> <w>cort</w> <w>Karles</w> <w>o</w> <w>le</w> <w>vis</w> <w>fier</w><pc type="supplied">.</pc></l>
 <l n="31"><lb/><w>Assés</w> <w>i</w> <w>ot</w> <w>Alemans</w> <w>et</w> <w>Pohiers</w><pc type="supplied">,</pc></l>
@@ -3285,7 +3285,7 @@
 <l n="296"><lb/><w>Et</w> <w>lour</w> <w>taurai</w> <w>lour</w> <w>teres</w> <w>et</w> <w>lor</w> <w>fiés</w><pc type="supplied">;</pc></l>
 <l n="297"><lb/><w>Et</w> <w>s’il</w> <w>i</w> <w>vienent</w><pc type="supplied">,</pc> <w>je</w> <w>les</w> <w>tenrai</w> <w>moult</w> <w>chiers</w><pc type="supplied">.</pc> <w/></l>
 </lg>
-<lg type="laisse">
+            <lg type="laisse" xml:id="L_003">
 <l n="298"><lb/><w>—</w> <w>Sire</w><pc type="supplied">,</pc> <w>dist</w> <w>Nales</w><pc type="supplied">,</pc> <w>por</w> <w>Diu</w> <w>le</w> <w>raemant</w><pc type="supplied">,</pc></l>
 <l n="299"><lb/><w>Par</w> <w>qués</w> <w>mesaiges</w> <w>mandés</w> <w>vous</w> <w>les</w> <w>enfant</w><pc type="supplied">?</pc></l>
 <l n="300"><lb/><w>—</w> <w>Nales</w><pc type="supplied">,</pc> <w>dist</w> <w>Karles</w><pc type="supplied">,</pc> <w>Gautier</w> <w>et</w> <w>Engerran</w></l>
@@ -3316,7 +3316,7 @@
 <l n="324"><lb/><w>La</w> <w>dame</w> <w>trovent</w><pc type="supplied">,</pc> <w>aveuc</w> <w>li</w> <w>ses</w> <w>enfans</w><pc type="supplied">,</pc></l>
 <l n="325"><lb/><w>Si</w> <w>les</w> <w>saluent</w> <w>bel</w> <w>et</w> <w>cortoisemant</w><pc type="supplied">.</pc> <w/></l>
 </lg>
-<lg type="laisse">
+<lg type="laisse" xml:id="L_004">
 <l n="326"><lb/><w>Li</w> <w>doi</w> <w>mesaige</w> <w>pensent</w> <w>de</w> <w>l’esploitier</w><pc type="supplied">,</pc></l>
 <l n="327"><lb/><w>Desc’à</w> <w>Bordele</w> <w>ne</w> <w>vaurent</w> <w>atargier</w><pc type="supplied">.</pc></l>
 <l n="328"><lb/><w>Chou</w> <w>fu</w> <w>en</w> <w>mai</w><pc type="supplied">,</pc> <w>çou</w> <w>oï</w> <w>tesmoignier</w><pc type="supplied">,</pc></l>
@@ -3553,7 +3553,7 @@
 <l n="553"><lb/><w>C’avenir</w> <w>doit</w> <w>as</w> <w>jouenes</w> <w>bacheliers</w><pc type="supplied">:</pc></l>
 <l n="554"><lb/><w>Puis</w> <w>ne</w> <w>vit</w> <w>Huon</w> <w>en</w> <w>trestout</w> <w>son</w> <w>aé</w><pc type="supplied">!</pc> <w/></l>
 </lg>
-<lg type="laisse">
+<lg type="laisse" xml:id="L_005">
 <l n="555"><lb/><w>Hues</w> <w>s’en</w> <w>torne</w><pc type="supplied">,</pc> <w>ne</w> <w>vaut</w> <w>plus</w> <w>atargier</w><pc type="supplied">,</pc></l>
 <l n="556"><lb/><w>Il</w><pc type="supplied">,</pc> <w>et</w> <w>Gerars</w><pc type="supplied">,</pc> <w>et</w> <w>tout</w> <w>si</w> <w>chevalier</w><pc type="supplied">.</pc></l>
 <l n="557"><lb/><w>Li</w> <w>france</w> <w>dame</w> <w>lor</w> <w>vint</w> <w>à</w> <w>l’encontrer</w><pc type="supplied">,</pc></l>
@@ -3583,7 +3583,7 @@
 <l n="580"><lb/><w>Ne</w> <w>sevent</w> <w>mie</w> <w>le</w> <w>duel</w> <w>ne</w> <w>le</w> <w>mescief</w></l>
 <l n="581"><lb/><w>Des</w> <w>traïtors</w> <w>qui</w> <w>sont</w> <w>u</w> <w>bos</w> <w>mucié</w><pc type="supplied">.</pc> <w/></l>
 </lg>
-<lg type="laisse">
+<lg type="laisse" xml:id="L_006">
 <l n="582"><lb/><w>Or</w> <w>vont</w> <w>à</w> <w>cort</w> <w>li</w> <w>dolant</w> <w>orfelin</w><pc type="supplied">.</pc></l>
 <l n="583"><lb/><w>Bele</w> <w>est</w> <w>la</w> <w>route</w> <w>que</w> <w>mainnent</w> <w>li</w> <w>mescin</w><pc type="supplied">;</pc></l>
 <l n="584"><lb/><w>Hues</w> <w>apele</w> <w>son</w> <w>frere</w> <w>Gerardin</w><pc type="supplied">:</pc></l>
@@ -4100,7 +4100,7 @@
 <l n="1080"><lb/><w>—</w> <w>Hues</w><pc type="supplied">,</pc> <w>dist</w> <w>Karles</w><pc type="supplied">,</pc> <w>ne</w> <w>soiiés</w> <w>esbahis</w><pc type="supplied">;</pc></l>
 <l n="1081"><lb/><w>Vous</w> <w>n’arés</w> <w>garde</w> <w>pour</w> <w>homme</w> <w>du</w> <w>païs</w><pc type="supplied">»</pc> <w/></l>
 </lg>
-<lg type="laisse">
+<lg type="laisse" xml:id="L_007">
 <l n="1082"><lb/><w>Or</w> <w>faites</w> <w>pais</w><pc type="supplied">,</pc> <w>segnor</w><pc type="supplied">,</pc> <w>pour</w> <w>Diu</w> <w>le</w> <w>grant</w><pc type="supplied">,</pc></l>
 <l n="1083"><lb/><w>S’oiiés</w> <w>cançon</w> <w>de</w> <w>moult</w> <w>fier</w> <w>contenant</w><pc type="supplied">,</pc></l>
 <l n="1084"><lb/><w>Si</w> <w>c’Amauris</w><pc type="supplied">,</pc> <w>li</w> <w>cuivers</w> <w>souduiant</w><pc type="supplied">,</pc></l>
@@ -4258,7 +4258,7 @@
 <l n="1232"><lb/><w>Karles</w> <w>escoute</w><pc type="supplied">,</pc> <w>s’ot</w> <w>le</w> <w>duel</w> <w>mener</w> <w>grant</w><pc type="supplied">;</pc></l>
 <l n="1233"><lb/><w>Dist</w> <w>à</w> <w>Nalon</w><pc type="supplied">:</pc> <pc type="supplied">«</pc><w>J’oi</w> <w>nommer</w> <w>mon</w> <w>enfant</w><pc type="supplied">»</pc> <w/></l>
 </lg>
-<lg type="laisse">
+<lg type="laisse" xml:id="L_008">
 <l n="1234"><lb/><w>Charles</w> <w>escoute</w><pc type="supplied">,</pc> <w>qui</w> <w>le</w> <w>poil</w> <w>ot</w> <w>fluri</w><pc type="supplied">,</pc></l>
 <pb n="38" facs="https://fr.wikisource.org/wiki/Page:Anonyme_-_Huon_de_Bordeaux,_chanson_de_geste.djvu/176"/>
 <l n="1235"><lb/><w>Et</w> <w>ot</w> <w>mener</w> <w>et</w> <w>le</w> <w>noise</w> <w>et</w> <w>le</w> <w>cri</w><pc type="supplied">;</pc></l>
@@ -4310,7 +4310,7 @@
 <l n="1280"><lb/><w>Et</w> <w>or</w> <w>le</w> <w>veus</w> <w>chi</w> <w>d’un</w> <w>coutel</w> <w>ferir</w><pc type="supplied">!</pc></l>
 <l n="1281"><lb/><w>Ce</w> <w>seroit</w> <w>mourdres</w><pc type="supplied">,</pc> <w>si</w> <w>me</w> <w>soit</w> <w>Dix</w> <w>amis</w><pc type="supplied">»</pc> <w/></l>
 </lg>
-<lg type="laisse">
+<lg type="laisse" xml:id="L_009">
 <l n="1282"><lb/><w>Grant</w> <w>fu</w> <w>li</w> <w>deus</w> <w>ens</w> <w>el</w> <w>palais</w> <w>luisant</w><pc type="supplied">.</pc></l>
 <l n="1283"><lb/><w>Pleurent</w> <w>ces</w> <w>dames</w><pc type="supplied">,</pc> <w>escuier</w> <w>et</w> <w>serjant</w><pc type="supplied">;</pc></l>
 <l n="1284"><lb/><w>Trestout</w> <w>regretent</w> <w>Karlot</w> <w>le</w> <w>combatant</w><pc type="supplied">.</pc></l>
@@ -4393,7 +4393,7 @@
 <l n="1359"><lb/><w>Se</w> <w>riens</w> <w>set</w> <w>dire</w> <w>Amauris</w> <w>sor</w> <w>l’enfant</w><pc type="supplied">,</pc></l>
 <l n="1360"><lb/><w>Si</w> <w>le</w> <w>desraisne</w> <w>tost</w> <w>et</w> <w>isnelemant</w><pc type="supplied">»</pc> <w/></l>
 </lg>
-<lg type="laisse">
+<lg type="laisse" xml:id="L_010">
 <l n="1361"><lb/><w>Charles</w> <w>regarde</w> <w>duc</w> <w>Nalon</w> <w>le</w> <w>flori</w><pc type="supplied">:</pc></l>
 <l n="1362"><lb/><w>Consilliés</w> <w>moi</w><pc type="supplied">,</pc> <w>sire</w> <w>Nales</w><pc type="supplied">,</pc> <w>fait</w> <w>il</w><pc type="supplied">;</pc></l>
 <l n="1363"><lb/><w>Que</w> <w>dirai</w> <w>jou</w> <w>de</w> <w>mon</w> <w>fil</w> <w>q’est</w> <w>ochis</w><pc type="supplied">?</pc></l>
@@ -4494,7 +4494,7 @@
 <l n="1455"><lb/><w>Vous</w> <w>ne</w> <w>tenrés</w> <w>plain</w> <w>pié</w> <w>de</w> <w>vo</w> <w>païs</w><pc type="supplied">,</pc></l>
 <l n="1456"><lb/><w>Ains</w> <w>en</w> <w>serés</w> <w>tost</w> <w>cachié</w> <w>et</w> <w>honni</w><pc type="supplied">,</pc> <w/></l>
 </lg>
-<lg type="laisse">
+<lg type="laisse" xml:id="L_011">
 <l n="1457"><lb/><w>Li</w> <w>gage</w> <w>furent</w> <w>otroiié</w> <w>et</w> <w>donné</w><pc type="supplied">,</pc></l>
 <l n="1458"><lb/><w>Et</w> <w>li</w> <w>ostaige</w> <w>envers</w> <w>Karlon</w> <w>livré</w><pc type="supplied">.</pc></l>
 <l n="1459"><lb/><w>Ens</w> <w>boins</w> <w>aniaus</w> <w>les</w> <w>fist</w> <w>on</w> <w>enserrer</w><pc type="supplied">;</pc></l>
@@ -4735,7 +4735,7 @@
 <l n="1687"><lb/><w>Segnor</w><pc type="supplied">,</pc> <w>dist</w> <w>il</w><pc type="supplied">,</pc> <w>por</w> <w>Dieu</w> <w>de</w> <w>paradis</w><pc type="supplied">,</pc></l>
 <l n="1688"><lb/><w>Alés</w> <w>el</w> <w>camp</w><pc type="supplied">;</pc> <w>ja</w> <w>sera</w> <w>miedis</w><pc type="supplied">.</pc> <w/></l>
 </lg>
-<lg type="laisse">
+<lg type="laisse" xml:id="L_012">
 <l n="1689"><lb/><w>Baron</w><pc type="supplied">,</pc> <w>dist</w> <w>Nales</w><pc type="supplied">,</pc> <w>envers</w> <w>moi</w> <w>entendés</w><pc type="supplied">:</pc></l>
 <l n="1690"><lb/><w>Voiiés</w> <w>le</w> <w>roi</w> <w>sor</w> <w>les</w> <w>crestiax</w> <w>monté</w><pc type="supplied">,</pc></l>
 <l n="1691"><lb/><w>Et</w> <w>les</w> <w>barons</w> <w>sor</w> <w>les</w> <w>murs</w> <w>aroutés</w><pc type="supplied">,</pc></l>
@@ -4766,7 +4766,7 @@
 <l n="1715"><lb/><w>—</w> <w>Certes</w><pc type="supplied">,</pc> <w>dist</w> <w>Karles</w><pc type="supplied">,</pc> <w>et</w> <w>je</w> <w>n’en</w> <w>ferai</w> <w>el</w><pc type="supplied">;</pc></l>
 <l n="1716"><lb/><w>Ensi</w> <w>ert</w> <w>il</w><pc type="supplied">,</pc> <w>cui</w> <w>qu’en</w> <w>doie</w> <w>peser</w><pc type="supplied">.</pc> <w/></l>
 </lg>
-<lg type="laisse">
+<lg type="laisse" xml:id="L_013">
 <l n="1717"><lb/><w>Entendés</w> <w>moi</w><pc type="supplied">,</pc> <w>dist</w> <w>li</w> <w>rois</w><pc type="supplied">,</pc> <w>Amauris</w><pc type="supplied">;</pc></l>
 <l n="1718"><lb/><w>Tel</w> <w>vous</w> <w>di</w> <w>ge</w><pc type="supplied">,</pc> <w>si</w> <w>me</w> <w>soit</w> <w>Dix</w> <w>amis</w><pc type="supplied">:</pc></l>
 <l n="1719"><lb/><w>Se</w> <w>vous</w> <w>aviés</w> <w>Huon</w> <w>en</w> <w>camp</w> <w>ocis</w><pc type="supplied">,</pc></l>
@@ -4806,7 +4806,7 @@
 <l n="1752"><lb/><w>Biax</w> <w>fu</w> <w>li</w> <w>enfes</w> <w>de</w> <w>membres</w> <w>et</w> <w>de</w> <w>vis</w><pc type="supplied">;</pc></l>
 <l n="1753"><lb/><w>Plus</w> <w>bel</w> <w>enfant</w> <w>n’avoit</w> <w>ens</w> <w>el</w> <w>païs</w><pc type="supplied">.</pc> <w/></l>
 </lg>
-<lg type="laisse">
+<lg type="laisse" xml:id="L_014">
 <l n="1754"><lb/><w>Or</w> <w>sont</w> <w>el</w> <w>camp</w> <w>li</w> <w>doi</w> <w>baron</w> <w>entré</w><pc type="supplied">.</pc></l>
 <l n="1755"><lb/><w>D’une</w> <w>part</w> <w>fu</w> <w>Amauris</w> <w>devisés</w><pc type="supplied">;</pc></l>
 <l n="1756"><lb/><w>Grans</w> <w>fu</w> <w>et</w> <w>fors</w> <w>et</w> <w>ricement</w> <w>armés</w><pc type="supplied">,</pc></l>
@@ -5106,7 +5106,7 @@
 <l n="2042"><lb/><w>Et</w> <w>qe</w> <w>il</w> <w>puist</w> <w>Amauri</w> <w>conquester</w><pc type="supplied">»</pc> <w/></l>
 <pb n="62" facs="https://fr.wikisource.org/wiki/Page:Anonyme_-_Huon_de_Bordeaux,_chanson_de_geste.djvu/200"/>
 </lg>
-<lg type="laisse">
+<lg type="laisse" xml:id="L_015">
 <l n="2043"><lb/><w>L’abes</w> <w>Lietris</w> <w>a</w> <w>s’orisson</w> <w>feni</w><pc type="supplied">:</pc></l>
 <l n="2044"><lb/><w>Hé</w><pc type="supplied">!</pc> <w>Dix</w><pc type="supplied">,</pc> <w>dist</w> <w>il</w><pc type="supplied">,</pc> <w>qui</w> <w>onques</w> <w>ne</w> <w>menti</w><pc type="supplied">,</pc></l>
 <l n="2045"><lb/><w>Aidiés</w> <w>Huon</w><pc type="supplied">,</pc> <w>le</w> <w>damoisel</w> <w>de</w> <w>pris</w><pc type="supplied">,</pc></l>
@@ -5548,7 +5548,7 @@
 <l n="2469"><lb/><w>Moult</w> <w>le</w> <w>maudient</w> <w>li</w> <w>homme</w> <w>du</w> <w>rené</w><pc type="supplied">;</pc></l>
 <l n="2470"><lb/><w>Souvent</w> <w>regretent</w> <w>Huon</w> <w>le</w> <w>baceler</w><pc type="supplied">.</pc></l>
 </lg>
-<lg type="laisse">
+<lg type="laisse" xml:id="L_016">
 <l n="2471"><lb/><w>Or</w> <w>vous</w> <w>lairai</w> <w>de</w> <w>Gerardin</w> <w>ester</w><pc type="supplied">;</pc></l>
 <l n="2472"><lb/><w>Quant</w> <w>tans</w> <w>en</w> <w>ert</w><pc type="supplied">,</pc> <w>bien</w> <w>sarai</w> <w>retorner</w><pc type="supplied">.</pc></l>
 <l n="2473"><lb/><w>Si</w> <w>vous</w> <w>dirai</w> <w>de</w> <w>Huon</w> <w>le</w> <w>menbré</w><pc type="supplied">,</pc></l>
@@ -5693,7 +5693,7 @@
 <l n="2608"><lb/><w>Or</w> <w>s’en</w> <w>va</w> <w>Hues</w><pc type="supplied">,</pc> <w>quant</w> <w>fu</w> <w>aceminés</w><pc type="supplied">,</pc></l>
 <l n="2609"><lb/><w>Droit</w> <w>vers</w> <w>Brandis</w><pc type="supplied">,</pc> <w>o</w> <w>et</w> <w>lui</w> <w>son</w> <w>barné</w><pc type="supplied">.</pc> <w/></l>
 </lg>
-<lg type="laisse">
+<lg type="laisse" xml:id="L_017">
 <l n="2610"><lb/><w>Hues</w> <w>s’en</w> <w>vait</w><pc type="supplied">,</pc> <w>de</w> <w>noient</w> <w>ne</w> <w>s’areste</w><pc type="supplied">;</pc></l>
 <l n="2611"><lb/><w>Souvent</w> <w>regrete</w> <w>son</w> <w>païs</w> <w>et</w> <w>sa</w> <w>tere</w><pc type="supplied">,</pc></l>
 <l n="2612"><lb/><w>Souvent</w> <w>parla</w> <w>de</w> <w>se</w> <w>mere</w> <w>la</w> <w>bele</w><pc type="supplied">,</pc></l>
@@ -5726,7 +5726,7 @@
 <l n="2638"><lb/><w>Dont</w> <w>Jhesu</w> <w>Cris</w> <w>fist</w> <w>s’amie</w> <w>et</w> <w>s’ancele</w><pc type="supplied">;</pc></l>
 <l n="2639"><lb/><w>Qui</w> <w>velt</w> <w>edier</w><pc type="supplied">,</pc> <w>desconfis</w> <w>ne</w> <w>puet</w> <w>estre</w><pc type="supplied">»</pc> <w/></l>
 </lg>
-<lg type="laisse">
+<lg type="laisse" xml:id="L_018">
 <l n="2640"><lb/><w>Or</w> <w>s’en</w> <w>va</w> <w>Hues</w> <w>qe</w> <w>moult</w> <w>se</w> <w>dementa</w><pc type="supplied">;</pc></l>
 <l n="2641"><lb/><w>Du</w> <w>cuer</w> <w>dou</w> <w>ventre</w> <w>moult</w> <w>souvent</w> <w>souspira</w><pc type="supplied">,</pc></l>
 <l n="2642"><lb/><w>De</w> <w>ses</w> <w>biax</w> <w>iex</w> <w>moult</w> <w>tenrement</w> <w>plora</w><pc type="supplied">.</pc></l>
@@ -5757,7 +5757,7 @@
 <l n="2666"><lb/><w>Sire</w><pc type="supplied">,</pc> <w>dist</w> <w>il</w><pc type="supplied">,</pc> <w>cil</w> <w>Diex</w> <w>qui</w> <w>tot</w> <w>cria</w><pc type="supplied">,</pc></l>
 <l n="2667"><lb/><w>Il</w> <w>gart</w> <w>vo</w> <w>cors</w> <w>d’enconbrier</w> <w>et</w> <w>de</w> <w>mal</w><pc type="supplied">»</pc> <w/></l>
 </lg>
-<lg type="laisse">
+<lg type="laisse" xml:id="L_019">
 <l n="2668"><lb/><w>Droit</w> <w>à</w> <w>Brandis</w> <w>vint</w> <w>l’enfes</w> <w>Huelins</w><pc type="supplied">,</pc></l>
 <l n="2669"><lb/><w>Il</w> <w>et</w> <w>si</w> <w>homme</w><pc type="supplied">,</pc> <w>sor</w> <w>les</w> <w>cevax</w> <w>de</w> <w>pris</w><pc type="supplied">.</pc></l>
 <l n="2670"><lb/><w>Le</w> <w>maronnier</w> <w>trovent</w><pc type="supplied">,</pc> <w>qui</w> <w>fu</w> <w>asis</w></l>
@@ -5773,7 +5773,7 @@
 <l n="2680"><lb/><w>Ne</w> <w>sui</w> <w>pas</w><pc type="supplied">,</pc> <w>certes</w><pc type="supplied">,</pc> <w>sire</w> <w>de</w> <w>cest</w> <w>païs</w><pc type="supplied">:</pc></l>
 <l n="2681"><lb/><w>Maronniers</w> <w>sui</w> <w>et</w> <w>de</w> <w>chou</w> <w>me</w> <w>garis</w><pc type="supplied">»</pc> <w/></l>
 </lg>
-<lg type="laisse">
+<lg type="laisse" xml:id="L_020">
 <l n="2682"><lb/><w>Devant</w> <w>Garin</w> <w>fu</w> <w>Huelins</w> <w>li</w> <w>ber</w><pc type="supplied">.</pc></l>
 <l n="2683"><lb/><w>Li</w> <w>maronniers</w> <w>l’en</w> <w>prist</w> <w>à</w> <w>apeler</w><pc type="supplied">,</pc></l>
 <l n="2684"><lb/><w>Du</w> <w>cuer</w> <w>du</w> <w>ventre</w> <w>conmenche</w> <w>à</w> <w>souspirer</w><pc type="supplied">;</pc></l>
@@ -6038,7 +6038,7 @@
 <l n="2935"><lb/><w>Tint</w> <w>une</w> <w>haue</w> <w>et</w> <w>fist</w> <w>moult</w> <w>le</w> <w>lassé</w><pc type="supplied">;</pc></l>
 <l n="2936"><lb/><w>Moult</w> <w>se</w> <w>penoit</w> <w>des</w> <w>maus</w> <w>pas</w> <w>relever</w><pc type="supplied">.</pc> <w/></l>
 </lg>
-<lg type="laisse">
+<lg type="laisse" xml:id="L_021">
 <l n="2937"><lb/><w>Li</w> <w>enfes</w> <w>Hues</w> <w>choisi</w> <w>le</w> <w>penéant</w><pc type="supplied">;</pc></l>
 <l n="2938"><lb/><w>Quant</w> <w>le</w> <w>regarde</w><pc type="supplied">,</pc> <w>moult</w> <w>se</w> <w>va</w> <w>mervilant</w><pc type="supplied">.</pc></l>
 <l n="2939"><lb/><w>U</w> <w>voit</w> <w>ses</w> <w>hommes</w><pc type="supplied">,</pc> <w>se</w> <w>les</w> <w>va</w> <w>apielant</w><pc type="supplied">:</pc></l>
@@ -6149,7 +6149,7 @@
 <l n="3041"><lb/><w>Là</w> <w>irai</w> <w>jou</w> <w>mon</w> <w>mesaige</w> <w>contant</w><pc type="supplied">.</pc></l>
 <l n="3042"><lb/><w>Or</w> <w>vous</w> <w>ai</w> <w>dit</w> <w>trestout</w> <w>mon</w> <w>convenant</w><pc type="supplied">»</pc> <w/></l>
 </lg>
-<lg type="laisse">
+<lg type="laisse" xml:id="L_022">
 <l n="3043"><lb/><w>Sire</w><pc type="supplied">,</pc> <w>dist</w> <w>Hues</w><pc type="supplied">,</pc> <w>se</w> <w>me</w> <w>puist</w> <w>Diex</w> <w>salver</w><pc type="supplied">,</pc></l>
 <l n="3044"><lb/><w>Or</w> <w>vous</w> <w>ai</w> <w>dit</w> <w>comment</w> <w>jou</w> <w>ai</w> <w>ouvré</w><pc type="supplied">,</pc></l>
 <l n="3045"><lb/><w>Et</w> <w>si</w> <w>vous</w> <w>ai</w> <w>trestout</w> <w>dit</w> <w>verité</w><pc type="supplied">;</pc></l>
@@ -6402,7 +6402,7 @@
 <l n="3285"><lb/><w>Et</w> <w>dist</w> <w>Geriaumes</w><pc type="supplied">:</pc> <pc type="supplied">«</pc><w>Mar</w> <w>vous</w> <w>esmaïrés</w><pc type="supplied">,</pc></l>
 <l n="3286"><lb/><w>Car</w> <w>tout</w> <w>a</w> <w>fait</w> <w>li</w> <w>fel</w> <w>nains</w> <w>bocerés</w><pc type="supplied">»</pc> <w/></l>
 </lg>
-<lg type="laisse">
+<lg type="laisse" xml:id="L_023">
 <l n="3287"><lb/><w>Li</w> <w>enfes</w> <w>Hues</w> <w>fu</w> <w>forment</w> <w>esmaiiés</w><pc type="supplied">;</pc></l>
 <l n="3288"><lb/><w>Dist</w> <w>à</w> <w>ses</w> <w>hommes</w><pc type="supplied">:</pc> <pc type="supplied">«</pc><w>Dessendons</w> <w>des</w> <w>destriers</w><pc type="supplied">;</pc></l>
 <l n="3289"><lb/><w>Je</w> <w>cuit</w><pc type="supplied">,</pc> <w>par</w> <w>foi</w><pc type="supplied">,</pc> <w>c’à</w> <w>mort</w> <w>sommes</w> <w>jugié</w><pc type="supplied">.</pc></l>
@@ -6444,7 +6444,7 @@
 <l n="3324"><lb/><w>Car</w> <w>onqes</w><pc type="supplied">,</pc> <w>puis</w> <w>que</w> <w>je</w> <w>fu</w> <w>bautisiés</w><pc type="supplied">,</pc></l>
 <l n="3325"><lb/><w>N’oc</w> <w>tel</w> <w>paour</w><pc type="supplied">,</pc> <w>se</w> <w>me</w> <w>puist</w> <w>Dix</w> <w>edier</w><pc type="supplied">»</pc> <w/></l>
 </lg>
-<lg type="laisse">
+<lg type="laisse" xml:id="L_024">
 <l n="3326"><lb/><w>Nostre</w> <w>baron</w> <w>ne</w> <w>sont</w> <w>pas</w> <w>aresté</w><pc type="supplied">,</pc></l>
 <l n="3327"><lb/><w>Ains</w> <w>sont</w> <w>errant</w> <w>sor</w> <w>les</w> <w>cevax</w> <w>monté</w><pc type="supplied">,</pc></l>
 <pb n="100" facs="https://fr.wikisource.org/wiki/Page:Anonyme_-_Huon_de_Bordeaux,_chanson_de_geste.djvu/238"/>
@@ -6664,7 +6664,7 @@
 <l n="3535"><lb/><w>Plus</w> <w>tost</w> <w>i</w> <w>sui</w> <w>et</w> <w>venus</w> <w>et</w> <w>alés</w></l>
 <l n="3536"><lb/><w>Que</w> <pc type="supplied">.</pc><w>i</w><pc type="supplied">.</pc> <w>chevaus</w> <w>n’ait</w> <w>arpent</w> <w>mesuré</w><pc type="supplied">»</pc> <w/></l>
 </lg>
-<lg type="laisse">
+<lg type="laisse" xml:id="L_025">
 <l n="3537"><lb/><w>Dist</w> <w>Auberons</w><pc type="supplied">:</pc> <pc type="supplied">«</pc><w>Je</w> <w>fui</w> <w>nés</w> <w>à</w> <w>Monmur</w><pc type="supplied">,</pc></l>
 <l n="3538"><lb/><w>Une</w> <w>cité</w> <w>qui</w> <w>mon</w> <w>ancestre</w> <w>fu</w><pc type="supplied">;</pc></l>
 <l n="3539"><lb/><w>Plus</w> <w>tot</w> <w>i</w> <w>sui</w> <w>et</w> <w>alés</w> <w>et</w> <w>venus</w></l>
@@ -6679,7 +6679,7 @@
 <l n="3548"><lb/><w>Sor</w> <w>vo</w> <w>voloir</w> <w>n’en</w> <w>estra</w> <w>plais</w> <w>tenus</w><pc type="supplied">»</pc></l>
 <l n="3549"><lb/><w>Dist</w> <w>Auberons</w><pc type="supplied">:</pc> <pc type="supplied">«</pc><w>Tu</w> <w>as</w> <w>bien</w> <w>respondu</w><pc type="supplied">»</pc> <w/></l>
 </lg>
-<lg type="laisse">
+<lg type="laisse" xml:id="L_026">
 <l n="3550"><lb/><w>Dist</w> <w>Auberons</w><pc type="supplied">:</pc> <pc type="supplied">«</pc><w>Hues</w><pc type="supplied">,</pc> <w>or</w> <w>m’entendés</w><pc type="supplied">:</pc></l>
 <l n="3551"><lb/><w>Encor</w> <w>n’ai</w> <w>mie</w><pc type="supplied">,</pc> <w>par</w> <w>Dieu</w><pc type="supplied">,</pc> <w>trestot</w> <w>conté</w></l>
 <l n="3552"><lb/><w>Çou</w> <w>qe</w> <w>les</w> <w>fées</w> <w>me</w> <w>donnerent</w> <w>de</w> <w>gré</w><pc type="supplied">.</pc></l>
@@ -6719,7 +6719,7 @@
 <l n="3585"><lb/><w>Vous</w> <w>et</w> <w>vostre</w> <w>homme</w> <w>c’avés</w> <w>ci</w> <w>amené</w><pc type="supplied">;</pc></l>
 <l n="3586"><lb/><w>C’ert</w> <w>de</w> <w>par</w> <w>Dieu</w> <w>tot</w> <w>çou</w> <w>que</w> <w>vous</w> <w>verrés</w><pc type="supplied">»</pc> <w/></l>
 </lg>
-<lg type="laisse">
+<lg type="laisse" xml:id="L_027">
 <l n="3587"><lb/><w>Dist</w> <w>Auberons</w><pc type="supplied">:</pc> <pc type="supplied">«</pc><w>Segnor</w><pc type="supplied">,</pc> <w>jus</w> <w>vous</w> <w>couciés</w><pc type="supplied">»</pc></l>
 <l n="3588"><lb/><w>Et</w> <w>cil</w> <w>si</w> <w>fisent</w> <w>de</w> <w>gré</w> <w>et</w> <w>volentiers</w><pc type="supplied">.</pc></l>
 <l n="3589"><lb/><w>Et</w> <w>Auberons</w> <w>commence</w> <w>à</w> <w>souhaidier</w><pc type="supplied">.</pc></l>
@@ -6731,7 +6731,7 @@
 <l n="3595"><lb/><w>Asés</w> <w>i</w> <w>ot</w> <w>et</w> <w>canbres</w> <w>et</w> <w>soliers</w><pc type="supplied">.</pc> <w/></l>
 <pb n="108" facs="https://fr.wikisource.org/wiki/Page:Anonyme_-_Huon_de_Bordeaux,_chanson_de_geste.djvu/246"/>
 </lg>
-<lg type="laisse">
+<lg type="laisse" xml:id="L_028">
 <l n="3596"><lb/><w>Rois</w> <w>Auberons</w> <w>fist</w> <w>forment</w> <w>à</w> <w>loer</w><pc type="supplied">.</pc></l>
 <l n="3597"><lb/><w>Dist</w> <w>as</w> <w>barons</w><pc type="supplied">:</pc> <pc type="supplied">«</pc><w>Segnor</w><pc type="supplied">,</pc> <w>sus</w> <w>vous</w> <w>levés</w><pc type="supplied">»</pc></l>
 <l n="3598"><lb/><w>Cil</w> <w>salent</w> <w>sus</w><pc type="supplied">,</pc> <w>si</w> <w>se</w> <w>sont</w> <w>esgardé</w><pc type="supplied">:</pc></l>
@@ -6934,7 +6934,7 @@
 <l n="3790"><lb/><w>I</w><pc type="supplied">.</pc> <w>vregier</w> <w>voit</w><pc type="supplied">,</pc> <w>cele</w> <w>part</w> <w>est</w> <w>alés</w><pc type="supplied">:</pc></l>
 <l n="3791"><lb/><w>Une</w> <w>fontaine</w> <w>i</w> <w>coroit</w> <w>molt</w> <w>soués</w><pc type="supplied">.</pc> <w/></l>
 </lg>
-<lg type="laisse">
+<lg type="laisse" xml:id="L_029">
 <l n="3792"><lb/><w>Li</w> <w>enfes</w> <w>Hues</w> <w>de</w> <w>noient</w> <w>n’atarga</w><pc type="supplied">;</pc></l>
 <l n="3793"><lb/><w>Son</w> <w>droit</w> <w>cemin</w> <w>durement</w> <w>cevauça</w><pc type="supplied">.</pc></l>
 <l n="3794"><lb/><w>XV</w><pc type="supplied">.</pc> <w>lieuées</w> <w>avoient</w> <w>erré</w> <w>ja</w><pc type="supplied">;</pc></l>
@@ -6978,7 +6978,7 @@
 <l n="3831"><lb/><w>Se</w> <w>c’est</w> <w>por</w> <w>nient</w><pc type="supplied">,</pc> <w>Hues</w> <w>le</w> <w>comperra</w><pc type="supplied">.</pc> <w/></l>
 <pb n="115" facs="https://fr.wikisource.org/wiki/Page:Anonyme_-_Huon_de_Bordeaux,_chanson_de_geste.djvu/253"/>
 </lg>
-<lg type="laisse">
+<lg type="laisse" xml:id="L_030">
 <l n="3832"><lb/><w>Hues</w> <w>corna</w> <w>le</w> <w>cor</w> <w>d’ivoire</w> <w>cler</w><pc type="supplied">,</pc></l>
 <l n="3833"><lb/><w>Et</w> <w>li</w> <pc type="supplied">.</pc><w>xiiii</w><pc type="supplied">.</pc> <w>ont</w> <w>fait</w> <w>joie</w> <w>au</w> <w>corner</w><pc type="supplied">.</pc></l>
 <l n="3834"><lb/><w>Li</w> <w>vieus</w> <w>Geriaumes</w> <w>commença</w> <w>à</w> <w>crier</w><pc type="supplied">:</pc></l>
@@ -7334,7 +7334,7 @@
 <l n="4174"><lb/><w>—</w> <w>Sire</w><pc type="supplied">,</pc> <w>dist</w> <w>Hues</w><pc type="supplied">,</pc> <w>c’arés</w> <w>vous</w> <w>gaaignié</w><pc type="supplied">,</pc></l>
 <l n="4175"><lb/><w>Se</w> <w>vous</w> <w>nous</w> <w>faites</w> <w>ocire</w> <w>et</w> <w>detrenchier</w><pc type="supplied">?</pc> <w/></l>
 </lg>
-<lg type="laisse">
+<lg type="laisse" xml:id="L_031">
 <l n="4176"><lb/><w>Sire</w><pc type="supplied">,</pc> <w>dist</w> <w>Hues</w><pc type="supplied">,</pc> <w>moult</w> <w>grant</w> <w>tort</w> <w>en</w> <w>avés</w><pc type="supplied">;</pc></l>
 <l n="4177"><lb/><w>Por</w> <w>l’amor</w> <w>Dieu</w><pc type="supplied">,</pc> <w>et</w> <w>qe</w> <w>nous</w> <w>demandés</w><pc type="supplied">?</pc></l>
 <l n="4178"><lb/><w>—</w> <w>Vasal</w><pc type="supplied">,</pc> <w>dist</w> <w>Oedes</w><pc type="supplied">,</pc> <w>aparmain</w> <w>le</w> <w>sarés</w><pc type="supplied">:</pc></l>
@@ -7487,7 +7487,7 @@
 <l n="4321"><lb/><w>Dont</w> <w>s’en</w> <w>torna</w><pc type="supplied">,</pc> <w>vers</w> <w>le</w> <w>cartre</w> <w>est</w> <w>alés</w><pc type="supplied">.</pc></l>
 <l n="4322"><lb/><w>Or</w> <w>orrés</w> <w>ja</w> <w>comme</w> <w>il</w> <w>s’est</w> <w>porpensés</w><pc type="supplied">.</pc> <w/></l>
 </lg>
-<lg type="laisse">
+<lg type="laisse" xml:id="L_032">
 <l n="4323"><lb/><w>Va</w> <w>s’ent</w> <w>Joifrois</w> <w>que</w> <w>bien</w> <w>se</w> <w>porpensa</w><pc type="supplied">;</pc></l>
 <l n="4324"><lb/><w>Vint</w> <w>ens</w> <w>le</w> <w>cartre</w><pc type="supplied">,</pc> <w>[bviixx]</w> <w>François</w> <w>trova</w><pc type="supplied">.</pc></l>
 <l n="4325"><lb/><w>Segnor</w><pc type="supplied">,</pc> <w>dist</w> <w>il</w><pc type="supplied">,</pc> <w>vers</w> <w>moi</w> <w>entendés</w> <w>çà</w><pc type="supplied">:</pc></l>
@@ -7523,7 +7523,7 @@
 <l n="4354"><lb/><w>Et</w> <w>à</w> <w>costés</w> <w>les</w> <w>brans</w> <w>d’achier</w> <w>çaint</w> <w>a</w><pc type="supplied">;</pc></l>
 <l n="4355"><lb/><w>Ens</w> <w>el</w> <w>palais</w> <w>Joifrois</w> <w>les</w> <w>amena</w><pc type="supplied">.</pc> <w/></l>
 </lg>
-<lg type="laisse">
+<lg type="laisse" xml:id="L_033">
 <l n="4356"><lb/><w>Li</w> <w>baron</w> <w>furent</w> <w>fervestu</w> <w>et</w> <w>armé</w><pc type="supplied">;</pc></l>
 <l n="4357"><lb/><w>Joifrois</w> <w>les</w> <w>a</w> <w>ens</w> <w>el</w> <w>palais</w> <w>mené</w><pc type="supplied">.</pc></l>
 <l n="4358"><lb/><w>Et</w> <w>Huelins</w> <w>a</w> <w>son</w> <w>oncle</w> <w>apielé</w><pc type="supplied">:</pc></l>
@@ -7790,7 +7790,7 @@
 <l n="4611"><lb/><w>Atant</w> <w>se</w> <w>sont</w> <w>anbedoi</w> <w>desevré</w><pc type="supplied">,</pc></l>
 <l n="4612"><lb/><w>Et</w> <w>Hues</w> <w>est</w> <w>ens</w> <w>la</w> <w>chité</w> <w>remés</w><pc type="supplied">.</pc> <w/></l>
 </lg>
-<lg type="laisse">
+<lg type="laisse" xml:id="L_034">
 <l n="4613"><lb/><w>Rois</w> <w>Auberons</w> <w>de</w> <w>Huon</w> <w>departi</w><pc type="supplied">,</pc></l>
 <l n="4614"><lb/><w>Si</w> <w>s’en</w> <w>rala</w> <w>arriere</w> <w>en</w> <w>son</w> <w>païs</w><pc type="supplied">.</pc></l>
 <l n="4615"><lb/><w>Ens</w> <w>la</w> <w>chité</w> <w>est</w> <w>remés</w> <w>Huelins</w><pc type="supplied">;</pc></l>
@@ -7805,7 +7805,7 @@
 <l n="4624"><lb/><w>Le</w> <w>congiet</w> <w>prisent</w> <w>as</w> <w>barons</w> <w>du</w> <w>païs</w><pc type="supplied">,</pc></l>
 <l n="4625"><lb/><w>Puis</w> <w>les</w> <w>commandent</w> <w>à</w> <w>Dieu</w> <w>de</w> <w>paradis</w><pc type="supplied">.</pc> <w/></l>
 </lg>
-<lg type="laisse">
+<lg type="laisse" xml:id="L_035">
 <l n="4626"><lb/><w>Or</w> <w>s’en</w> <w>va</w> <w>Hues</w> <w>qui</w> <w>le</w> <w>cors</w> <w>ot</w> <w>vaillant</w><pc type="supplied">.</pc></l>
 <l n="4627"><lb/><w>Ainc</w> <w>n’aresta</w> <w>l’enfes</w> <w>ne</w> <w>tant</w> <w>ne</w> <w>quant</w><pc type="supplied">;</pc></l>
 <l n="4628"><lb/><w>Toute</w> <w>jour</w> <w>oirre</w> <w>entre</w> <w>lui</w> <w>et</w> <w>sa</w> <w>gant</w></l>
@@ -7900,7 +7900,7 @@
 <l n="4714"><lb/><w>Or</w> <w>le</w> <w>conduie</w> <w>Jhesus</w> <w>li</w> <w>raemant</w><pc type="supplied">,</pc></l>
 <l n="4715"><lb/><w>Que</w><pc type="supplied">,</pc> <w>bien</w> <w>saciés</w><pc type="supplied">,</pc> <w>li</w> <w>mestiers</w> <w>en</w> <w>est</w> <w>grant</w><pc type="supplied">!</pc> <w/></l>
 </lg>
-<lg type="laisse">
+<lg type="laisse" xml:id="L_036">
 <l n="4716"><lb/><w>Droit</w> <w>vers</w> <w>Dunostre</w> <w>l’enfes</w> <w>Hues</w> <w>s’en</w> <w>va</w><pc type="supplied">;</pc></l>
 <l n="4717"><lb/><w>Le</w> <w>cor</w> <w>d’ivoire</w> <w>aveuques</w> <w>lui</w> <w>porta</w><pc type="supplied">.</pc></l>
 <l n="4718"><lb/><w>Trestout</w> <w>à</w> <w>pié</w> <w>li</w> <w>enfes</w> <w>s’en</w> <w>ala</w><pc type="supplied">.</pc></l>
@@ -8141,7 +8141,7 @@
 <l n="4946"><lb/><w>Se</w> <w>il</w> <w>s’esvelle</w><pc type="supplied">,</pc> <w>je</w> <w>sui</w> <w>à</w> <w>mort</w> <w>livré</w><pc type="supplied">;</pc></l>
 <l n="4947"><lb/><w>Ne</w> <w>sai</w> <w>que</w> <w>faire</w><pc type="supplied">,</pc> <w>se</w> <w>me</w> <w>puist</w> <w>Dix</w> <w>salver</w><pc type="supplied">»</pc> <w/></l>
 </lg>
-<lg type="laisse">
+<lg type="laisse" xml:id="L_037">
 <l n="4948"><lb/><w>Segnor</w> <w>preudomme</w><pc type="supplied">,</pc> <w>certes</w><pc type="supplied">,</pc> <w>bien</w> <w>le</w> <w>véés</w><pc type="supplied">,</pc></l>
 <l n="4949"><lb/><w>Près</w> <w>est</w> <w>de</w> <w>vespre</w><pc type="supplied">,</pc> <w>et</w> <w>je</w> <w>sui</w> <w>moult</w> <w>lassé</w><pc type="supplied">:</pc></l>
 <l n="4950"><lb/><w>Or</w> <w>vous</w> <w>proi</w> <w>tous</w><pc type="supplied">,</pc> <w>si</w> <w>cier</w> <w>con</w> <w>vous</w> <w>m’avés</w><pc type="supplied">,</pc></l>
@@ -8159,7 +8159,7 @@
 <l n="4962"><lb/><w>Avers</w> <w>fu</w> <w>et</w> <w>escars</w> <w>qui</w> <w>les</w> <w>fit</w> <w>estorer</w><pc type="supplied">,</pc></l>
 <l n="4963"><lb/><w>Ne</w> <w>qui</w> <w>ains</w> <w>les</w> <w>donna</w> <w>à</w> <w>cortois</w> <w>menestrel</w><pc type="supplied">.</pc> <w/></l>
 </lg>
-<lg type="laisse">
+<lg type="laisse" xml:id="L_038">
 <l n="4964"><lb/><w>Or</w> <w>vous</w> <w>redoi</w> <w>de</w> <w>Huelin</w> <w>parler</w><pc type="supplied">,</pc></l>
 <l n="4965"><lb/><w>Qui</w> <w>fu</w> <w>au</w> <w>lit</w> <w>le</w> <w>gaiant</w> <w>d’outre</w> <w>mer</w><pc type="supplied">.</pc></l>
 <l n="4966"><lb/><w>En</w> <w>son</w> <w>cuer</w> <w>pense</w> <w>conment</w> <w>pora</w> <w>ouvrer</w><pc type="supplied">;</pc></l>
@@ -8535,7 +8535,7 @@
 <l n="5325"><lb/><w>Que</w> <w>on</w> <w>péust</w> <w>véoir</w> <w>ne</w> <w>esgarder</w><pc type="supplied">.</pc></l>
 <l n="5326"><lb/><w>Li</w> <w>enfes</w> <w>Hues</w> <w>en</w> <w>fu</w> <w>tous</w> <w>esfraés</w><pc type="supplied">.</pc> <w/></l>
 </lg>
-<lg type="laisse">
+<lg type="laisse" xml:id="L_039">
 <l n="5327"><lb/><w>Li</w> <w>enfes</w> <w>Hues</w> <w>esgarda</w> <w>le</w> <w>luiton</w><pc type="supplied">,</pc></l>
 <l n="5328"><lb/><w>Moult</w> <w>le</w> <w>vit</w> <w>bel</w> <w>et</w> <w>de</w> <w>gente</w> <w>façon</w><pc type="supplied">;</pc></l>
 <l n="5329"><lb/><w>Il</w> <w>l’apiela</w> <w>bielement</w><pc type="supplied">,</pc> <w>sans</w> <w>tençon</w><pc type="supplied">:</pc></l>
@@ -8562,7 +8562,7 @@
 <pb n="160" facs="https://fr.wikisource.org/wiki/Page:Anonyme_-_Huon_de_Bordeaux,_chanson_de_geste.djvu/298"/>
 <l n="5350"><lb/><w>Que</w> <w>jou</w> <w>seroie</w> <pc type="supplied">.</pc><w>xxx</w><pc type="supplied">.</pc> <w>ans</w> <w>en</w> <w>mer</w> <w>luiton</w><pc type="supplied">.</pc> <w/></l>
 </lg>
-<lg type="laisse">
+<lg type="laisse" xml:id="L_040">
 <l n="5351"><lb/><w>—</w> <w>Amis</w><pc type="supplied">,</pc> <w>biax</w> <w>frere</w><pc type="supplied">,</pc> <w>dist</w> <w>Huelins</w> <w>li</w> <w>ber</w><pc type="supplied">,</pc></l>
 <l n="5352"><lb/><w>Por</w> <w>l’amor</w> <w>Diu</w> <w>qui</w> <w>tout</w> <w>a</w> <w>à</w> <w>sauver</w><pc type="supplied">,</pc></l>
 <l n="5353"><lb/><w>M’oserai</w> <w>jou</w> <w>en</w> <w>ton</w> <w>gent</w> <w>cors</w> <w>fier</w><pc type="supplied">»</pc></l>
@@ -8616,13 +8616,13 @@
 <l n="5400"><lb/><w>M</w><pc type="supplied">.</pc> <w>paiens</w> <w>trove</w> <w>qui</w> <w>viennent</w> <w>d’oiseler</w><pc type="supplied">,</pc></l>
 <l n="5401"><lb/><w>Et</w> <w>autres</w> <pc type="supplied">.</pc><w>m</w><pc type="supplied">.</pc> <w>qui</w> <w>i</w> <w>doivent</w> <w>aler</w><pc type="supplied">.</pc> <w/></l>
 </lg>
-<lg type="laisse">
+<lg type="laisse" xml:id="L_041">
 <l n="5402"><lb/><w>Mil</w> <w>en</w> <w>trova</w> <w>qui</w> <w>ferent</w> <w>les</w> <w>cevaus</w><pc type="supplied">,</pc></l>
 <l n="5403"><lb/><w>Et</w> <w>autres</w> <pc type="supplied">.</pc><w>m</w><pc type="supplied">.</pc> <w>qui</w> <w>traient</w> <w>es</w> <w>travaus</w><pc type="supplied">.</pc></l>
 <l n="5404"><lb/><w>M</w><pc type="supplied">.</pc> <w>en</w> <w>trova</w> <w>qui</w> <w>juent</w> <w>as</w> <w>escas</w><pc type="supplied">,</pc></l>
 <l n="5405"><lb/><w>Et</w> <w>autres</w> <pc type="supplied">.</pc><w>m</w><pc type="supplied">.</pc> <w>qui</w> <w>del</w> <w>ju</w> <w>furent</w> <w>mas</w><pc type="supplied">.</pc> <w/></l>
 </lg>
-<lg type="laisse">
+<lg type="laisse" xml:id="L_042">
 <l n="5406"><lb/><w>M</w><pc type="supplied">.</pc> <w>en</w> <w>trova</w><pc type="supplied">,</pc> <w>saciés</w> <w>à</w> <w>ensiant</w><pc type="supplied">,</pc></l>
 <l n="5407"><lb/><w>Qui</w> <w>as</w> <w>puceles</w> <w>juent</w> <w>à</w> <w>lor</w> <w>talant</w><pc type="supplied">,</pc></l>
 <l n="5408"><lb/><w>El</w> <w>autres</w> <pc type="supplied">.</pc><w>m</w><pc type="supplied">.</pc> <w>qui</w> <w>del</w> <w>vin</w> <w>sont</w> <w>bevant</w><pc type="supplied">.</pc> <w/></l>
@@ -8630,7 +8630,7 @@
 <l n="5410"><lb/><w>Et</w> <w>autres</w> <pc type="supplied">.</pc><w>m</w><pc type="supplied">.</pc> <w>qui</w> <w>repairié</w> <w>en</w> <w>sont</w><pc type="supplied">.</pc></l>
 <l n="5411"><lb/><w>Tout</w> <w>chil</w> <w>millier</w> <w>esgarderent</w> <w>Huon</w><pc type="supplied">.</pc> <w/></l>
 </lg>
-<lg type="laisse">
+<lg type="laisse" xml:id="L_043">
 <l n="5412"><lb/><w>Par</w> <w>les</w> <w>paiens</w> <w>dont</w> <w>il</w> <w>vit</w> <w>tel</w> <w>plenté</w></l>
 <pb n="162" facs="https://fr.wikisource.org/wiki/Page:Anonyme_-_Huon_de_Bordeaux,_chanson_de_geste.djvu/300"/>
 <l n="5413"><lb/><w>A</w> <w>il</w> <w>l’anel</w> <w>en</w> <w>son</w> <w>brac</w> <w>oublié</w><pc type="supplied">;</pc></l>
@@ -8686,7 +8686,7 @@
 <l n="5462"><lb/><w>Hues</w> <w>li</w> <w>mostre</w> <w>le</w> <w>bon</w> <w>anel</w> <w>d’or</w> <w>cler</w><pc type="supplied">.</pc></l>
 <l n="5463"><lb/><w>Et</w> <w>cil</w> <w>li</w> <w>cort</w> <w>le</w> <w>porte</w> <w>desfremer</w><pc type="supplied">.</pc> <w/></l>
 </lg>
-<lg type="laisse">
+<lg type="laisse" xml:id="L_044">
 <l n="5464"><lb/><w>Lor</w> <w>s’en</w> <w>va</w> <w>Hues</w><pc type="supplied">,</pc> <w>ki</w> <w>moult</w> <w>se</w> <w>dementa</w><pc type="supplied">,</pc></l>
 <l n="5465"><lb/><w>Car</w> <w>il</w> <w>set</w> <w>bien</w> <w>que</w> <w>folie</w> <w>pensa</w></l>
 <l n="5466"><lb/><w>A</w> <w>icele</w> <w>eure</w> <w>qu’il</w> <w>menti</w> <w>et</w> <w>fausa</w><pc type="supplied">.</pc></l>
@@ -8701,7 +8701,7 @@
 <l n="5475"><lb/><w>Et</w><pc type="supplied">,</pc> <w>par</w> <w>celui</w> <w>qui</w> <w>le</w> <w>mont</w> <w>estora</w><pc type="supplied">,</pc></l>
 <l n="5476"><lb/><w>Aussi</w> <w>croi</w> <w>jou</w> <w>que</w> <w>ja</w> <w>mot</w> <w>n’en</w> <w>sara</w><pc type="supplied">»</pc> <w/></l>
 </lg>
-<lg type="laisse">
+<lg type="laisse" xml:id="L_045">
 <l n="5477"><lb/><w>Or</w> <w>faites</w> <w>pais</w><pc type="supplied">,</pc> <w>s’il</w> <w>vous</w> <w>plaist</w><pc type="supplied">,</pc> <w>escoutés</w><pc type="supplied">,</pc></l>
 <pb n="164" facs="https://fr.wikisource.org/wiki/Page:Anonyme_-_Huon_de_Bordeaux,_chanson_de_geste.djvu/302"/>
 <l n="5478"><lb/><w>Se</w> <w>vous</w> <w>dirai</w> <w>cançon</w><pc type="supplied">,</pc> <w>se</w> <w>vous</w> <w>volés</w><pc type="supplied">;</pc></l>
@@ -8714,7 +8714,7 @@
 <l n="5485"><lb/><w>Du</w> <w>pooir</w> <w>d’Auberon</w> <w>et</w> <w>de</w> <w>sa</w> <w>disnité</w><pc type="supplied">,</pc></l>
 <l n="5486"><lb/><w>Qui</w> <w>n’iront</w> <w>à</w> <w>lour</w> <w>bourses</w> <w>pour</w> <w>ma</w> <w>feme</w> <w>donner</w><pc type="supplied">.</pc> <w/></l>
 </lg>
-<lg type="laisse">
+<lg type="laisse" xml:id="L_046">
 <l n="5487"><lb/><w>Li</w> <w>fieus</w> <w>Seuwin</w> <w>nul</w> <w>point</w> <w>ne</w> <w>s’aresta</w><pc type="supplied">;</pc></l>
 <l n="5488"><lb/><w>Isnelement</w> <w>le</w> <w>tierc</w> <w>pont</w> <w>trespasa</w><pc type="supplied">.</pc></l>
 <l n="5489"><lb/><w>Vers</w> <w>le</w> <w>quart</w> <w>pont</w> <w>Huelins</w> <w>s’en</w> <w>ala</w><pc type="supplied">;</pc></l>
@@ -8765,7 +8765,7 @@
 <l n="5533"><lb/><w>Bien</w> <w>sai</w> <w>de</w> <w>voir</w> <w>diables</w> <w>m’encanta</w></l>
 <l n="5534"><lb/><w>Quant</w> <w>je</w> <w>menti</w> <w>à</w> <w>ce</w> <w>pont</w> <w>par</w> <w>delà</w><pc type="supplied">»</pc> <w/></l>
 </lg>
-<lg type="laisse">
+<lg type="laisse" xml:id="L_047">
 <l n="5535"><lb/><w>Dès</w> <w>ore</w> <w>a</w> <w>Hues</w> <w>les</w> <pc type="supplied">.</pc><w>iiii</w><pc type="supplied">.</pc> <w>pons</w> <w>pasés</w><pc type="supplied">.</pc></l>
 <l n="5536"><lb/><w>Quant</w> <w>il</w> <w>fu</w> <w>outre</w> <w>et</w> <w>il</w> <w>fu</w> <w>aroutés</w><pc type="supplied">,</pc></l>
 <l n="5537"><lb/><w>Dont</w> <w>pert</w> <w>le</w> <w>voie</w> <w>du</w> <w>grant</w> <w>palais</w> <w>listé</w><pc type="supplied">.</pc></l>
@@ -8789,7 +8789,7 @@
 <l n="5554"><lb/><w>Hues</w> <w>i</w> <w>fu</w><pc type="supplied">,</pc> <w>li</w> <w>damoisiaus</w> <w>de</w> <w>pris</w><pc type="supplied">;</pc></l>
 <l n="5555"><lb/><w>Ses</w> <w>mains</w> <w>lava</w><pc type="supplied">,</pc> <w>deseure</w> <w>s’est</w> <w>asis</w><pc type="supplied">.</pc> <w/></l>
 </lg>
-<lg type="laisse">
+<lg type="laisse" xml:id="L_048">
 <l n="5556"><lb/><w>Sele</w> <w>fontaine</w><pc type="supplied">,</pc> <pc type="supplied">.</pc><w>i</w><pc type="supplied">.</pc> <w>serpent</w> <w>le</w> <w>gardoit</w><pc type="supplied">;</pc></l>
 <l n="5557"><lb/><w>Ja</w> <w>nus</w> <w>mauvais</w> <w>n’i</w> <w>metera</w> <w>le</w> <w>doit</w></l>
 <l n="5558"><lb/><w>Qui</w> <w>soit</w> <w>traïtres</w> <w>ne</w> <w>qui</w> <w>fause</w> <w>sa</w> <w>loit</w><pc type="supplied">,</pc></l>
@@ -8799,7 +8799,7 @@
 <l n="5562"><lb/><w>De</w> <w>l’aige</w> <w>but</w><pc type="supplied">,</pc> <w>ses</w> <w>blances</w> <w>mains</w> <w>lavoit</w><pc type="supplied">;</pc></l>
 <l n="5563"><lb/><w>Ore</w> <w>oublia</w> <w>chou</w> <w>que</w> <w>faire</w> <w>devoit</w><pc type="supplied">.</pc> <w/></l>
 </lg>
-<lg type="laisse">
+<lg type="laisse" xml:id="L_049">
 <l n="5564"><lb/><w>Hues</w> <w>fu</w> <w>ens</w><pc type="supplied">,</pc> <w>el</w> <w>vregié</w> <w>est</w> <w>entrés</w><pc type="supplied">.</pc></l>
 <l n="5565"><lb/><w>A</w> <w>le</w> <w>fontaine</w> <w>Gaudise</w> <w>l’amiré</w></l>
 <l n="5566"><lb/><w>Li</w> <w>bers</w> <w>i</w> <w>fu</w> <w>asis</w> <w>por</w> <w>reposer</w><pc type="supplied">;</pc></l>
@@ -8835,7 +8835,7 @@
 <l n="5595"><lb/><w>Le</w> <w>cor</w> <w>mist</w> <w>jus</w><pc type="supplied">,</pc> <w>se</w> <w>laissa</w> <w>le</w> <w>corner</w><pc type="supplied">;</pc></l>
 <l n="5596"><lb/><w>De</w> <w>ses</w> <w>biaus</w> <w>iex</w> <w>commença</w> <w>à</w> <w>plorer</w><pc type="supplied">.</pc> <w/></l>
 </lg>
-<lg type="laisse">
+<lg type="laisse" xml:id="L_050">
 <l n="5597"><lb/><w>Quant</w> <w>or</w> <w>voit</w> <w>Hues</w> <w>c’Auberons</w> <w>ne</w> <w>verra</w><pc type="supplied">,</pc></l>
 <l n="5598"><lb/><w>Saciés</w> <w>de</w> <w>voir</w> <w>moult</w> <w>grant</w> <w>duel</w> <w>demena</w><pc type="supplied">:</pc></l>
 <l n="5599"><lb/><w>Hé</w><pc type="supplied">!</pc> <w>las</w><pc type="supplied">,</pc> <w>dist</w> <w>Hues</w><pc type="supplied">,</pc> <w>cis</w> <w>caitis</w> <w>que</w> <w>fera</w><pc type="supplied">?</pc></l>
@@ -8851,7 +8851,7 @@
 <l n="5608"><lb/><w>Ne</w> <w>me</w> <w>souvint</w> <w>de</w> <w>çou</w> <w>que</w> <w>me</w> <w>carças</w><pc type="supplied">;</pc></l>
 <l n="5609"><lb/><w>Se</w> <w>t’ies</w> <w>preudom</w><pc type="supplied">,</pc> <w>tout</w> <w>le</w> <w>me</w> <w>pardonras</w><pc type="supplied">»</pc></l>
 </lg>
-<lg type="laisse">
+<lg type="laisse" xml:id="L_051">
 <l n="5610"><lb/><w>Puis</w> <w>dist</w> <w>après</w><pc type="supplied">:</pc> <pc type="supplied">«</pc><w>Dehait</w> <w>plus</w> <w>plouera</w><pc type="supplied">!</pc></l>
 <l n="5611"><lb/><w>Se</w> <w>il</w> <w>me</w> <w>faut</w><pc type="supplied">,</pc> <w>la</w> <w>Dame</w> <w>m’aidera</w></l>
 <l n="5612"><lb/><w>Qui</w> <w>le</w> <w>cors</w> <w>Diu</w> <w>en</w> <w>ses</w> <w>dous</w> <w>flans</w> <w>porta</w><pc type="supplied">;</pc></l>
@@ -8863,7 +8863,7 @@
 <l n="5618"><lb/><w>L’espée</w> <w>ot</w> <w>çainte</w><pc type="supplied">,</pc> <w>son</w> <w>elme</w> <w>deslaça</w><pc type="supplied">;</pc></l>
 <l n="5619"><lb/><w>Vers</w> <w>le</w> <w>palais</w> <w>l’enfes</w> <w>Hues</w> <w>s’en</w> <w>va</w><pc type="supplied">.</pc> <w/></l>
 </lg>
-<lg type="laisse">
+<lg type="laisse" xml:id="L_052">
 <l n="5620"><lb/><w>Vers</w> <w>le</w> <w>palais</w> <w>s’en</w> <w>va</w> <w>Hues</w> <w>li</w> <w>ber</w><pc type="supplied">;</pc></l>
 <l n="5621"><lb/><w>Tant</w> <w>atendi</w> <w>el</w> <w>palais</w> <w>à</w> <w>entrer</w></l>
 <l n="5622"><lb/><w>Que</w> <w>l’amirés</w> <w>fu</w> <w>asis</w> <w>au</w> <w>disner</w><pc type="supplied">.</pc></l>
@@ -8947,7 +8947,7 @@
 <l n="5698"><lb/><w>Et</w> <w>Hues</w> <w>est</w> <w>arriere</w> <w>retournés</w><pc type="supplied">;</pc></l>
 <l n="5699"><lb/><w>U</w> <w>voit</w> <w>Gaudise</w><pc type="supplied">,</pc> <w>se</w> <w>l’en</w> <w>a</w> <w>apielé</w><pc type="supplied">.</pc> <w/></l>
 </lg>
-<lg type="laisse">
+<lg type="laisse" xml:id="L_053">
 <l n="5700"><lb/><w>Amirés</w> <w>sire</w><pc type="supplied">,</pc> <w>ce</w> <w>dist</w> <w>Hues</w> <w>li</w> <w>frans</w><pc type="supplied">,</pc></l>
 <l n="5701"><lb/><w>Je</w> <w>ne</w> <w>sui</w> <w>mie</w> <w>en</w> <w>vostre</w> <w>Dieu</w> <w>créans</w><pc type="supplied">;</pc></l>
 <l n="5702"><lb/><w>Ne</w> <w>pris</w> <w>Mahon</w> <w>le</w> <w>monte</w> <w>d’un</w> <w>besans</w><pc type="supplied">,</pc></l>
@@ -8980,7 +8980,7 @@
 <l n="5728"><lb/><w>Dist</w> <w>l’amirés</w><pc type="supplied">:</pc> <pc type="supplied">«</pc><w>Je</w> <w>n’en</w> <w>ferai</w> <w>noiant</w><pc type="supplied">;</pc></l>
 <l n="5729"><lb/><w>Ne</w> <w>pris</w> <w>vo</w> <w>Dieu</w> <pc type="supplied">.</pc><w>i</w><pc type="supplied">.</pc> <w>denier</w> <w>valissant</w><pc type="supplied">.</pc> <w/></l>
 </lg>
-<lg type="laisse">
+<lg type="laisse" xml:id="L_054">
 <l n="5730"><lb/><w>—</w> <w>Dans</w> <w>amirés</w><pc type="supplied">,</pc> <w>dist</w> <w>Hues</w><pc type="supplied">,</pc> <w>entendés</w><pc type="supplied">:</pc></l>
 <l n="5731"><lb/><w>Encor</w> <w>vous</w> <w>mande</w> <w>rois</w> <w>Karlemaines</w> <w>el</w><pc type="supplied">,</pc></l>
 <l n="5732"><lb/><w>Car</w> <w>il</w> <w>vous</w> <w>mande</w> <pc type="supplied">.</pc><w>m</w><pc type="supplied">.</pc> <w>espreviers</w> <w>mué</w><pc type="supplied">,</pc></l>
@@ -9091,7 +9091,7 @@
 <l n="5834"><lb/><w>Et</w> <w>si</w> <w>a</w> <w>dit</w> <w>que</w> <w>on</w> <w>li</w> <w>doinst</w> <w>asés</w><pc type="supplied">.</pc></l>
 <l n="5835"><lb/><w>Hé</w><pc type="supplied">!</pc> <w>las</w><pc type="supplied">,</pc> <w>dist</w> <w>Hues</w><pc type="supplied">,</pc> <w>con</w> <w>ci</w> <w>a</w> <w>mal</w> <w>ostel</w><pc type="supplied">»</pc></l>
 </lg>
-<lg type="laisse">
+<lg type="laisse" xml:id="L_055">
 <l n="5836"><lb/><w>Or</w> <w>vous</w> <w>dirai</w> <w>de</w> <w>la</w> <w>dame</w> <w>al</w> <w>vis</w> <w>cler</w><pc type="supplied">,</pc></l>
 <l n="5837"><lb/><w>Qui</w> <w>estoit</w> <w>fille</w> <w>Gaudise</w> <w>l’amiré</w><pc type="supplied">.</pc></l>
 <l n="5838"><lb/><w>Ens</w> <w>son</w> <w>lit</w> <w>jut</w> <w>et</w> <w>ne</w> <w>pot</w> <w>reposer</w><pc type="supplied">;</pc></l>
@@ -9239,7 +9239,7 @@
 <l n="5976"><lb/><w>Que</w> <w>n’i</w> <w>laissierent</w> <w>qui</w> <w>vaille</w> <pc type="supplied">.</pc><w>i</w><pc type="supplied">.</pc> <w>ail</w> <w>pelé</w><pc type="supplied">.</pc> <w/></l>
 <pb n="179" facs="https://fr.wikisource.org/wiki/Page:Anonyme_-_Huon_de_Bordeaux,_chanson_de_geste.djvu/317"/>
 </lg>
-<lg type="laisse">
+<lg type="laisse" xml:id="L_056">
 <l n="5977"><lb/><w>Or</w> <w>ont</w> <w>li</w> <pc type="supplied">.</pc><w>xiii</w><pc type="supplied">.</pc> <w>conquesté</w> <w>le</w> <w>calant</w><pc type="supplied">.</pc></l>
 <l n="5978"><lb/><w>A</w> <w>grant</w> <w>plenté</w> <w>i</w> <w>ot</w> <w>or</w> <w>et</w> <w>argent</w><pc type="supplied">;</pc></l>
 <l n="5979"><lb/><w>Tout</w> <w>emporterent</w> <w>par</w> <w>dedens</w> <w>la</w> <w>tor</w> <w>grant</w><pc type="supplied">,</pc></l>
@@ -9277,7 +9277,7 @@
 <pb n="180" facs="https://fr.wikisource.org/wiki/Page:Anonyme_-_Huon_de_Bordeaux,_chanson_de_geste.djvu/318"/>
 <l n="6011"><lb/><w>Diex</w> <w>les</w> <w>conduie</w> <w>par</w> <w>son</w> <w>disne</w> <w>commant</w><pc type="supplied">!</pc> <w/></l>
 </lg>
-<lg type="laisse">
+<lg type="laisse" xml:id="L_057">
 <l n="6012"><lb/><w>Par</w> <w>haute</w> <w>mer</w> <w>s’en</w> <w>vont</w> <w>no</w> <w>chevalier</w><pc type="supplied">;</pc></l>
 <l n="6013"><lb/><w>Diex</w> <w>les</w> <w>conduie</w> <w>qui</w> <w>tout</w> <w>a</w> <w>à</w> <w>baillier</w><pc type="supplied">!</pc></l>
 <l n="6014"><lb/><w>Les</w> <w>a</w> <w>Geriaumes</w> <w>menés</w> <w>et</w> <w>convoiés</w><pc type="supplied">;</pc></l>
@@ -9293,7 +9293,7 @@
 <l n="6024"><lb/><w>Vers</w> <w>le</w> <w>chité</w> <w>s’en</w> <w>vont</w> <w>sans</w> <w>delaiier</w><pc type="supplied">;</pc></l>
 <l n="6025"><lb/><w>Or</w> <w>les</w> <w>conduie</w> <w>chil</w> <w>qui</w> <w>tout</w> <w>doit</w> <w>jugier</w><pc type="supplied">!</pc> <w/></l>
 </lg>
-<lg type="laisse">
+<lg type="laisse" xml:id="L_058">
 <l n="6026"><lb/><w>Si</w> <w>comme</w> <w>il</w> <w>durent</w> <w>ens</w> <w>en</w> <w>la</w> <w>vile</w> <w>entrer</w><pc type="supplied">,</pc></l>
 <l n="6027"><lb/><w>Li</w> <w>viex</w> <w>Geriaumes</w> <w>les</w> <w>prist</w> <w>à</w> <w>apeler</w><pc type="supplied">.</pc></l>
 <l n="6028"><lb/><w>Baron</w><pc type="supplied">,</pc> <w>dist</w> <w>il</w><pc type="supplied">,</pc> <w>envers</w> <w>moi</w> <w>entendés</w><pc type="supplied">:</pc></l>
@@ -9544,7 +9544,7 @@
 <l n="6266"><lb/><w>Ses</w> <w>prisonniers</w> <w>a</w> <w>sovent</w> <w>visetés</w><pc type="supplied">;</pc></l>
 <l n="6267"><lb/><w>Il</w> <w>et</w> <w>la</w> <w>dame</w> <w>les</w> <w>ont</w> <w>bien</w> <w>revidés</w><pc type="supplied">.</pc></l>
 </lg>
-<lg type="laisse">
+<lg type="laisse" xml:id="L_059">
 <l n="6268"><lb/><w>Or</w> <w>vous</w> <w>lairai</w> <w>chi</w> <w>des</w> <w>François</w> <w>ester</w><pc type="supplied">;</pc></l>
 <l n="6269"><lb/><w>Quant</w> <w>tans</w> <w>sera</w><pc type="supplied">,</pc> <w>bien</w> <w>sarai</w> <w>retorner</w><pc type="supplied">,</pc></l>
 <l n="6270"><lb/><w>Si</w> <w>vous</w> <w>dirai</w> <w>d’Agrapart</w> <w>le</w> <w>dervé</w><pc type="supplied">:</pc></l>
@@ -9792,7 +9792,7 @@
 <l n="6505"><lb/><w>Vaut</w> <w>miex</w> <w>que</w> <w>chil</w> <w>que</w> <w>j’ai</w> <w>devant</w> <w>nommé</w><pc type="supplied">,</pc></l>
 <l n="6506"><lb/><w>Li</w> <w>plus</w> <w>vrais</w> <w>Dix</w> <w>te</w> <w>puist</w> <w>hui</w> <w>ramener</w><pc type="supplied">»</pc> <w/></l>
 </lg>
-<lg type="laisse">
+<lg type="laisse" xml:id="L_060">
 <l n="6507"><lb/><w>Droit</w> <w>vers</w> <w>le</w> <w>parc</w> <w>va</w> <w>Hues</w> <w>au</w> <w>cors</w> <w>gent</w><pc type="supplied">,</pc></l>
 <l n="6508"><lb/><w>Et</w> <w>Agrapars</w> <w>enmi</w> <w>le</w> <w>pré</w> <w>l’atent</w><pc type="supplied">.</pc></l>
 <l n="6509"><lb/><w>Il</w> <w>li</w> <w>escrie</w> <w>à</w> <w>se</w> <w>vois</w> <w>hautement</w><pc type="supplied">:</pc></l>
@@ -9819,7 +9819,7 @@
 <l n="6529"><lb/><w>De</w> <w>par</w> <w>Mahom</w><pc type="supplied">,</pc> <w>ma</w> <w>tere</w> <w>te</w> <w>calent</w><pc type="supplied">»</pc></l>
 <l n="6530"><lb/><w>Adont</w> <w>s’eslongent</w> <w>anbedui</w> <pc type="supplied">.</pc><w>i</w><pc type="supplied">.</pc> <w>arpent</w><pc type="supplied">.</pc> <w/></l>
 </lg>
-<lg type="laisse">
+<lg type="laisse" xml:id="L_061">
 <l n="6531"><lb/><w>Anbedui</w> <w>sont</w> <w>maintenant</w> <w>desfié</w><pc type="supplied">,</pc></l>
 <l n="6532"><lb/><w>Puis</w><pc type="supplied">,</pc> <w>s’entreslongent</w> <w>par</w> <w>moult</w> <w>grande</w> <w>fierté</w><pc type="supplied">.</pc></l>
 <l n="6533"><lb/><w>Sour</w> <w>les</w> <w>escus</w> <w>grans</w> <w>cos</w> <w>se</w> <w>sont</w> <w>donné</w><pc type="supplied">,</pc></l>
@@ -9880,7 +9880,7 @@
 <pb n="197" facs="https://fr.wikisource.org/wiki/Page:Anonyme_-_Huon_de_Bordeaux,_chanson_de_geste.djvu/335"/>
 <l n="6587"><lb/><w>Fu</w> <w>ses</w> <w>drois</w> <w>sers</w> <w>de</w> <w>son</w> <w>cief</w> <w>racatés</w><pc type="supplied">.</pc></l>
 </lg>
-<lg type="laisse">
+<lg type="laisse" xml:id="L_062">
 <l n="6588"><lb/><w>Par</w> <w>moult</w> <w>grant</w> <w>feste</w> <w>sont</w> <w>asis</w> <w>au</w> <w>disner</w><pc type="supplied">;</pc></l>
 <l n="6589"><lb/><w>Jouste</w> <w>Gaudise</w> <w>sist</w> <w>Hues</w> <w>au</w> <w>vis</w> <w>cler</w><pc type="supplied">.</pc></l>
 <l n="6590"><lb/><w>Dist</w> <w>l’amirés</w><pc type="supplied">:</pc> <pc type="supplied">«</pc><w>Hues</w><pc type="supplied">,</pc> <w>c’as</w> <w>en</w> <w>pensé</w><pc type="supplied">?</pc></l>
@@ -10003,7 +10003,7 @@
 <l n="6704"><lb/><w>Adont</w> <w>li</w> <w>fait</w> <pc type="supplied">.</pc><w>i</w><pc type="supplied">.</pc> <w>calant</w> <w>aprester</w><pc type="supplied">;</pc></l>
 <l n="6705"><lb/><w>Tant</w> <w>est</w> <w>divers</w> <w>nus</w> <w>nel</w> <w>poroit</w> <w>conter</w><pc type="supplied">.</pc> <w/></l>
 </lg>
-<lg type="laisse">
+<lg type="laisse" xml:id="L_063">
 <l n="6706"><lb/><w>La</w> <w>nés</w> <w>fu</w> <w>grande</w> <w>et</w> <w>de</w> <w>biele</w> <w>façon</w></l>
 <l n="6707"><lb/><w>Et</w> <w>tant</w> <w>divers</w> <w>que</w> <w>nel</w> <w>dirait</w> <w>nus</w> <w>hom</w><pc type="supplied">:</pc></l>
 <l n="6708"><lb/><w>La</w> <w>mers</w> <w>i</w> <w>fu</w> <w>portraite</w> <w>et</w> <w>li</w> <w>poison</w><pc type="supplied">,</pc></l>
@@ -10017,7 +10017,7 @@
 <l n="6716"><lb/><w>Congiet</w> <w>a</w> <w>pris</w> <w>li</w> <w>petis</w> <w>Auberon</w><pc type="supplied">,</pc></l>
 <l n="6717"><lb/><w>Au</w> <w>departir</w> <w>ala</w> <w>baisier</w> <w>Huon</w><pc type="supplied">.</pc> <w/></l>
 </lg>
-<lg type="laisse">
+<lg type="laisse" xml:id="L_064">
 <l n="6718"><lb/><w>Rois</w> <w>Auberons</w> <w>a</w> <w>congiet</w> <w>demandé</w><pc type="supplied">,</pc></l>
 <l n="6719"><lb/><w>Et</w> <w>Huelins</w> <w>si</w> <w>l’a</w> <w>baissié</w> <w>asés</w><pc type="supplied">.</pc></l>
 <l n="6720"><lb/><w>Quant</w> <w>l’ot</w> <w>baisié</w><pc type="supplied">,</pc> <w>si</w> <w>commence</w> <w>à</w> <w>plorer</w><pc type="supplied">.</pc></l>
@@ -10354,7 +10354,7 @@
 <l n="7041"><lb/><w>Mais</w> <w>aussi</w> <w>nu</w> <w>con</w> <w>vous</w> <w>le</w> <w>troverés</w><pc type="supplied">,</pc></l>
 <l n="7042"><lb/><w>Le</w> <w>porterés</w> <w>sor</w> <w>le</w> <w>rive</w> <w>de</w> <w>mer</w><pc type="supplied">.</pc> <w/></l>
 </lg>
-<lg type="laisse">
+<lg type="laisse" xml:id="L_065">
 <l n="7043"><lb/><w>—</w> <w>Sire</w> <w>Auberons</w><pc type="supplied">,</pc> <w>dist</w> <w>Malabruns</w> <w>li</w> <w>frans</w><pc type="supplied">,</pc></l>
 <l n="7044"><lb/><w>U</w> <w>troverai</w> <w>Huelin</w> <w>le</w> <w>vaillant</w><pc type="supplied">»</pc></l>
 <l n="7045"><lb/><w>Dist</w> <w>Auberons</w><pc type="supplied">:</pc> <pc type="supplied">«</pc><w>Ens</w> <w>l’ille</w> <w>Moysant</w><pc type="supplied">;</pc></l>
@@ -10378,7 +10378,7 @@
 <l n="7062"><lb/><w>Sovent</w> <w>maudist</w> <w>Auberon</w> <w>le</w> <w>vaillant</w><pc type="supplied">.</pc></l>
 <l n="7063"><lb/><w>Atant</w> <w>es</w> <w>vous</w> <w>Malebrun</w> <w>acourant</w><pc type="supplied">.</pc> <w/></l>
 </lg>
-<lg type="laisse">
+<lg type="laisse" xml:id="L_066">
 <l n="7064"><lb/><w>Chil</w> <w>Malabruns</w> <w>est</w> <w>dedens</w> <w>l’ille</w> <w>entrés</w><pc type="supplied">;</pc></l>
 <l n="7065"><lb/><w>Huelin</w> <w>trove</w> <w>ù</w> <w>gist</w> <w>moult</w> <w>abosmés</w><pc type="supplied">.</pc></l>
 <l n="7066"><lb/><w>Il</w> <w>le</w> <w>salue</w> <w>de</w> <w>Dieu</w> <w>de</w> <w>maïsté</w><pc type="supplied">:</pc></l>
@@ -10414,13 +10414,13 @@
 <l n="7095"><lb/><w>Car</w> <w>ansi</w> <w>l’ai</w> <w>ge</w> <w>Auberon</w> <w>créanté</w><pc type="supplied">.</pc></l>
 <l n="7096"><lb/><w>—</w> <w>A</w> <w>foi</w><pc type="supplied">,</pc> <w>dist</w> <w>Hues</w><pc type="supplied">,</pc> <w>[bDix</w> <w>le</w> <w>puist</w> <w>craventer]</w><pc type="supplied">!</pc> <w/></l>
 </lg>
-<lg type="laisse">
+<lg type="laisse" xml:id="L_067">
 <l n="7097"><lb/><w>—</w> <w>Tu</w> <w>dis</w> <w>trop</w> <w>mal</w><pc type="supplied">,</pc> <w>ceu</w> <w>a</w> <w>dit</w> <w>Malabrons</w><pc type="supplied">;</pc></l>
 <l n="7098"><lb/><w>Quanque</w> <w>tu</w> <w>dis</w> <w>sait</w> <w>bien</w> <w>li</w> <w>petiz</w> <w>hons</w><pc type="supplied">.</pc></l>
 <l n="7099"><lb/><w>—</w> <w>Certes</w><pc type="supplied">,</pc> <w>dit</w> <w>Hues</w><pc type="supplied">,</pc> <w>je</w> <w>nou</w> <w>doute</w> <pc type="supplied">.</pc><w>i</w><pc type="supplied">.</pc> <w>bouton</w><pc type="supplied">,</pc></l>
 <l n="7100"><lb/><w>Car</w> <w>trop</w> <w>m’a</w> <w>fait</w> <w>de</w> <w>mal</w> <w>et</w> <w>de</w> <w>dolour</w><pc type="supplied">.</pc> <w/></l>
 </lg>
-<lg type="laisse">
+<lg type="laisse" xml:id="L_068">
 <l n="7101"><lb/><w>Malebruns</w> <w>freres</w><pc type="supplied">,</pc> <w>dist</w> <w>Huelins</w> <w>li</w> <w>ber</w><pc type="supplied">,</pc></l>
 <l n="7102"><lb/><w>Lairés</w> <w>me</w> <w>vous</w> <w>où</w> <w>vous</w> <w>m’an</w> <w>pourterez</w><pc type="supplied">»</pc></l>
 <l n="7103"><lb/><w>Dit</w> <w>Malebrons</w><pc type="supplied">:</pc> <pc type="supplied">«</pc><w>Hues</w><pc type="supplied">,</pc> <w>or</w> <w>m’antendés</w><pc type="supplied">:</pc></l>
@@ -10575,7 +10575,7 @@
 <l n="7248"><lb/><w>Quant</w> <w>Hues</w> <w>l’ot</w> <w>ne</w> <w>dist</w> <w>ne</w> <w>o</w> <w>ne</w> <w>non</w><pc type="supplied">,</pc></l>
 <l n="7249"><lb/><w>Tous</w> <w>cois</w> <w>se</w> <w>teut</w><pc type="supplied">,</pc> <w>si</w> <w>baissa</w> <w>le</w> <w>menton</w><pc type="supplied">.</pc> <w/></l>
 </lg>
-<lg type="laisse">
+<lg type="laisse" xml:id="L_069">
 <l n="7250"><lb/><w>Garinet</w> <w>frere</w><pc type="supplied">,</pc> <w>ç’a</w> <w>dit</w> <w>li</w> <w>menestrés</w><pc type="supplied">,</pc></l>
 <l n="7251"><lb/><w>Me</w> <w>sire</w> <w>est</w> <w>mors</w><pc type="supplied">,</pc> <w>Mahons</w> <w>en</w> <w>ait</w> <w>pité</w><pc type="supplied">!</pc></l>
 <l n="7252"><lb/><w>Or</w> <w>m’en</w> <w>vois</w> <w>droit</w> <w>à</w> <w>Monbranc</w> <w>la</w> <w>cité</w><pc type="supplied">,</pc></l>
@@ -11170,7 +11170,7 @@
 <l n="7824"><lb/><w>Car</w> <w>venés</w> <w>ore</w> <w>ces</w> <w>mantiax</w> <w>asanler</w><pc type="supplied">»</pc></l>
 <l n="7825"><lb/><w>Li</w> <w>Sarrasin</w> <w>en</w> <w>rient</w> <w>de</w> <w>tous</w> <w>lés</w><pc type="supplied">.</pc></l>
 </lg>
-<lg type="laisse">
+<lg type="laisse" xml:id="L_070">
 <l n="7826"><lb/><w>Or</w> <w>vous</w> <w>lairai</w> <w>chi</w> <w>de</w> <w>Huon</w> <w>ester</w><pc type="supplied">,</pc></l>
 <l n="7827"><lb/><w>Et</w> <w>de</w> <w>ses</w> <w>hommes</w> <w>vous</w> <w>vaurai</w> <w>deviser</w><pc type="supplied">,</pc></l>
 <l n="7828"><lb/><w>Du</w> <w>viel</w> <w>Geriaume</w> <w>et</w> <w>de</w> <w>l’autre</w> <w>barné</w><pc type="supplied">.</pc></l>
@@ -11752,7 +11752,7 @@
 <l n="8387"><lb/><w>Car</w> <w>trop</w> <w>sont</w> <w>ja</w> <w>de</w> <w>Sarrasin</w> <w>dervé</w><pc type="supplied">»</pc></l>
 <l n="8388"><lb/><w>Et</w> <w>cil</w> <w>si</w> <w>font</w><pc type="supplied">,</pc> <w>arriere</w> <w>sont</w> <w>torné</w><pc type="supplied">.</pc> <w/></l>
 </lg>
-<lg type="laisse">
+<lg type="laisse" xml:id="L_071">
 <l n="8389"><lb/><w>L’estor</w> <w>fu</w> <w>grans</w><pc type="supplied">,</pc> <w>mais</w> <w>mal</w> <w>estoit</w> <w>partis</w><pc type="supplied">,</pc></l>
 <l n="8390"><lb/><w>Car</w> <w>paiien</w> <w>furent</w> <pc type="supplied">.</pc><w>xxxm</w><pc type="supplied">.</pc> <w>fervesti</w><pc type="supplied">,</pc></l>
 <l n="8391"><lb/><w>Et</w> <w>que</w> <pc type="supplied">.</pc><w>xiiii</w><pc type="supplied">.</pc> <w>ne</w> <w>furent</w> <w>li</w> <w>marcis</w><pc type="supplied">.</pc></l>
@@ -11808,7 +11808,7 @@
 <l n="8440"><lb/><w>Resbaudis</w> <w>nos</w><pc type="supplied">,</pc> <w>par</w> <w>amor</w> <w>je</w> <w>t’en</w> <w>pri</w><pc type="supplied">,</pc></l>
 <l n="8441"><lb/><w>Car</w> <w>por</w> <w>toi</w> <w>sommes</w> <w>malement</w> <w>estormi</w><pc type="supplied">»</pc> <w/></l>
 </lg>
-<lg type="laisse">
+<lg type="laisse" xml:id="L_072">
 <l n="8442"><lb/><w>Li</w> <w>menestreus</w> <w>ne</w> <w>se</w> <w>vot</w> <w>arester</w><pc type="supplied">;</pc></l>
 <l n="8443"><lb/><w>Erraument</w> <w>a</w> <w>sa</w> <w>vïele</w> <w>atempré</w><pc type="supplied">,</pc></l>
 <l n="8444"><lb/><w>A</w> <w>trente</w> <w>cordes</w> <w>fait</w> <w>se</w> <w>harpe</w> <w>soner</w><pc type="supplied">.</pc></l>
@@ -12266,7 +12266,7 @@
 <l n="8883"><lb/><w>Dist</w> <w>Gibouars</w><pc type="supplied">:</pc> <pc type="supplied">«</pc><w>Mar</w> <w>vous</w> <w>esmaierés</w><pc type="supplied">,</pc></l>
 <l n="8884"><lb/><w>Car</w> <w>bien</w> <w>vous</w> <w>sai</w> <w>gentil</w> <w>consel</w> <w>donner</w><pc type="supplied">»</pc> <w/></l>
 </lg>
-<lg type="laisse">
+<lg type="laisse" xml:id="L_073">
 <l n="8885"><lb/><w>Dist</w> <w>Gibouars</w><pc type="supplied">:</pc> <pc type="supplied">«</pc><w>Gerars</w><pc type="supplied">,</pc> <w>or</w> <w>vous</w> <w>taisiés</w><pc type="supplied">;</pc></l>
 <l n="8886"><lb/><w>Consel</w> <w>arés</w><pc type="supplied">,</pc> <w>sel</w> <w>volés</w> <w>otriier</w><pc type="supplied">:</pc></l>
 <l n="8887"><lb/><w>Je</w> <w>vous</w> <w>dirai</w> <w>con</w> <w>porés</w> <w>esploitier</w><pc type="supplied">.</pc></l>
@@ -12289,7 +12289,7 @@
 <l n="8903"><lb/><w>Et</w> <w>puis</w> <w>l’irés</w> <w>Karlemaine</w> <w>nonchier</w><pc type="supplied">»</pc></l>
 <l n="8904"><lb/><w>Et</w> <w>dist</w> <w>Gerars</w><pc type="supplied">:</pc> <pc type="supplied">«</pc><w>A</w> <w>vostre</w> <w>plaisir</w> <w>iert</w><pc type="supplied">»</pc> <w/></l>
 </lg>
-<lg type="laisse">
+<lg type="laisse" xml:id="L_074">
 <l n="8905"><lb/><w>Dist</w> <w>Gibouars</w><pc type="supplied">:</pc> <pc type="supplied">«</pc><w>Gerars</w> <w>fieus</w><pc type="supplied">,</pc> <w>entendés</w><pc type="supplied">:</pc></l>
 <l n="8906"><lb/><w>A</w> <w>l’abéie</w> <w>à</w> <w>vostre</w> <w>frere</w> <w>irés</w><pc type="supplied">;</pc></l>
 <l n="8907"><lb/><w>C’un</w> <w>escuier</w> <w>aveuc</w> <w>vous</w> <w>ne</w> <w>menrés</w><pc type="supplied">.</pc></l>
@@ -12503,7 +12503,7 @@
 <l n="9109"><lb/><w>Le</w> <w>porte</w> <w>font</w> <w>ouvrir</w> <w>et</w> <w>desfremer</w><pc type="supplied">,</pc></l>
 <l n="9110"><lb/><w>Au</w> <w>camp</w> <w>se</w> <w>metent</w><pc type="supplied">,</pc> <w>se</w> <w>sont</w> <w>aceminé</w><pc type="supplied">.</pc> <w/></l>
 </lg>
-<lg type="laisse">
+<lg type="laisse" xml:id="L_075">
 <l n="9111"><lb/><w>Hues</w> <w>s’en</w> <w>vait</w><pc type="supplied">,</pc> <w>se</w> <w>part</w> <w>de</w> <w>l’abéie</w><pc type="supplied">,</pc></l>
 <l n="9112"><lb/><w>Et</w> <w>aveuc</w> <w>lui</w> <w>sa</w> <w>courtoise</w> <w>maisnie</w><pc type="supplied">;</pc></l>
 <l n="9113"><lb/><w>XIIII</w><pc type="supplied">.</pc> <w>furent</w><pc type="supplied">,</pc> <w>la</w> <w>dame</w> <w>fu</w> <w>quinsime</w><pc type="supplied">.</pc></l>
@@ -12617,7 +12617,7 @@
 <l n="9218"><lb/><w>Du</w> <w>bruelet</w> <w>ist</w> <w>et</w> <w>sa</w> <w>chevalerie</w><pc type="supplied">,</pc></l>
 <l n="9219"><lb/><w>Huon</w> <w>asalent</w><pc type="supplied">,</pc> <w>lui</w> <w>et</w> <w>sa</w> <w>compaignie</w><pc type="supplied">.</pc> <w/></l>
 </lg>
-<lg type="laisse">
+<lg type="laisse" xml:id="L_076">
 <l n="9220"><lb/><w>Hors</w> <w>du</w> <w>bruelet</w> <w>est</w> <w>Gibouars</w> <w>issus</w><pc type="supplied">;</pc></l>
 <l n="9221"><lb/><w>En</w> <w>se</w> <w>compaigne</w> <w>ot</w> <w>bien</w> <pc type="supplied">.</pc><w>lx</w><pc type="supplied">.</pc> <w>escus</w><pc type="supplied">.</pc></l>
 <l n="9222"><lb/><w>Quant</w> <w>les</w> <w>voit</w> <w>Hues</w><pc type="supplied">,</pc> <w>li</w> <w>sans</w> <w>li</w> <w>est</w> <w>méus</w><pc type="supplied">;</pc></l>
@@ -12653,7 +12653,7 @@
 <l n="9251"><lb/><w>Les</w> <w>dens</w> <w>li</w> <w>a</w> <w>et</w> <w>le</w> <w>barbe</w> <w>tolu</w></l>
 <l n="9252"><lb/><w>Qui</w> <w>fu</w> <w>Gaudise</w><pc type="supplied">,</pc> <w>qui</w> <w>tant</w> <w>ot</w> <w>de</w> <w>vertu</w><pc type="supplied">.</pc> <w/></l>
 </lg>
-<lg type="laisse">
+<lg type="laisse" xml:id="L_077">
 <l n="9253"><lb/><w>Gerars</w> <w>li</w> <w>fel</w><pc type="supplied">,</pc> <w>cui</w> <w>Dix</w> <w>puist</w> <w>craventer</w><pc type="supplied">,</pc></l>
 <l n="9254"><lb/><w>Ot</w> <w>abatu</w> <w>Geriaume</w> <w>le</w> <w>barbé</w><pc type="supplied">;</pc></l>
 <l n="9255"><lb/><w>Ouvert</w> <w>li</w> <w>ont</w> <w>le</w> <w>flanc</w> <w>et</w> <w>le</w> <w>costé</w><pc type="supplied">,</pc></l>
@@ -12853,7 +12853,7 @@
 <l n="9443"><lb/><w>Que</w> <w>de</w> <w>tous</w> <w>ciaus</w> <w>qui</w> <w>de</w> <w>mere</w> <w>sont</w> <w>né</w><pc type="supplied">.</pc></l>
 <l n="9444"><lb/><w>—</w> <w>Vous</w> <w>avés</w> <w>droit</w><pc type="supplied">,</pc> <w>dist</w> <w>Karles</w><pc type="supplied">,</pc> <w>en</w> <w>non</w> <w>Dé</w><pc type="supplied">»</pc> <w/></l>
 </lg>
-<lg type="laisse">
+<lg type="laisse" xml:id="L_078">
 <l n="9445"><lb/><w>Dist</w> <w>Gerars</w><pc type="supplied">:</pc> <pc type="supplied">«</pc><w>Sire</w><pc type="supplied">,</pc> <w>entendés</w> <w>ma</w> <w>raison</w><pc type="supplied">:</pc></l>
 <l n="9446"><lb/><w>Vous</w> <w>m’adoubastes</w><pc type="supplied">,</pc> <w>que</w> <w>de</w> <w>fi</w> <w>le</w> <w>set</w> <w>on</w><pc type="supplied">,</pc></l>
 <l n="9447"><lb/><w>Et</w> <w>me</w> <w>cauçastes</w> <w>mon</w> <w>doré</w> <w>esperon</w><pc type="supplied">.</pc></l>
@@ -12933,7 +12933,7 @@
 <l n="9519"><lb/><w>Et</w> <w>cil</w> <w>respondent</w><pc type="supplied">:</pc> <pc type="supplied">«</pc><w>Il</w> <w>n’a</w> <w>dit</w> <w>se</w> <w>voir</w> <w>non</w><pc type="supplied">.</pc></l>
 <l n="9520"><lb/><w>—</w> <w>Par</w> <w>foi</w><pc type="supplied">,</pc> <w>dist</w> <w>Nales</w><pc type="supplied">,</pc> <w>vous</w> <w>estes</w> <w>tuit</w> <w>larron</w><pc type="supplied">!</pc> <w/></l>
 </lg>
-<lg type="laisse">
+<lg type="laisse" xml:id="L_079">
 <l n="9521"><lb/><w>—</w> <w>Nales</w><pc type="supplied">,</pc> <w>dist</w> <w>Karles</w><pc type="supplied">,</pc> <w>quel</w> <w>consel</w> <w>me</w> <w>donrés</w></l>
 <l n="9522"><lb/><w>De</w> <w>ces</w> <pc type="supplied">.</pc><w>ii</w><pc type="supplied">.</pc> <w>freres</w> <w>que</w> <w>vous</w> <w>ici</w> <w>véés</w><pc type="supplied">?</pc></l>
 <l n="9523"><lb/><w>—</w> <w>Sire</w><pc type="supplied">,</pc> <w>dist</w> <w>Nales</w><pc type="supplied">,</pc> <w>onqes</w> <w>mais</w> <w>n’oï</w> <w>tel</w><pc type="supplied">:</pc></l>
@@ -13003,7 +13003,7 @@
 <l n="9585"><lb/><w>Et</w> <w>si</w> <w>enmaine</w> <w>trestous</w> <w>les</w> <pc type="supplied">.</pc><w>xi</w><pc type="supplied">.</pc> <w>pers</w><pc type="supplied">,</pc></l>
 <l n="9586"><lb/><w>Et</w> <w>li</w> <w>dousimes</w> <w>fu</w> <w>Hues</w> <w>li</w> <w>menbrés</w><pc type="supplied">.</pc> <w/></l>
 </lg>
-<lg type="laisse">
+<lg type="laisse" xml:id="L_080">
 <l n="9587"><lb/><w>Li</w> <w>rois</w> <w>a</w> <w>fait</w> <w>son</w> <w>oirre</w> <w>aparellier</w><pc type="supplied">;</pc></l>
 <l n="9588"><lb/><w>Il</w> <w>fait</w> <w>monter</w> <w>bien</w> <pc type="supplied">.</pc><w>viixx</w><pc type="supplied">.</pc> <w>chevaliers</w><pc type="supplied">,</pc></l>
 <l n="9589"><lb/><w>Les</w> <pc type="supplied">.</pc><w>xi</w><pc type="supplied">.</pc> <w>pers</w> <w>n’i</w> <w>vot</w> <w>pas</w> <w>obliier</w><pc type="supplied">.</pc></l>
@@ -13355,7 +13355,7 @@
 <l n="9925"><lb/><w>Dist</w> <w>à</w> <w>Gautier</w><pc type="supplied">:</pc> <pc type="supplied">«</pc><w>Alés</w><pc type="supplied">,</pc> <w>se</w> <w>vous</w> <w>séés</w><pc type="supplied">;</pc></l>
 <l n="9926"><lb/><w>Vostre</w> <w>parole</w> <w>ne</w> <w>doit</w> <w>avant</w> <w>aler</w><pc type="supplied">»</pc> <w/></l>
 </lg>
-<lg type="laisse">
+<lg type="laisse" xml:id="L_081">
 <l n="9927"><lb/><w>Ce</w> <w>dist</w> <w>Henris</w><pc type="supplied">:</pc> <pc type="supplied">«</pc><w>Nobile</w> <w>chevalier</w><pc type="supplied">,</pc></l>
 <l n="9928"><lb/><w>Si</w> <w>m’aït</w> <w>Dex</w> <w>qui</w> <w>tot</w> <w>a</w> <w>à</w> <w>jugier</w><pc type="supplied">,</pc></l>
 <l n="9929"><lb/><w>Jou</w> <w>sui</w> <w>qui</w> <w>dis</w> <w>loiaument</w><pc type="supplied">,</pc> <w>sans</w> <w>trichier</w><pc type="supplied">,</pc></l>
@@ -13375,7 +13375,7 @@
 <l n="9942"><lb/><w>Li</w> <w>quens</w> <w>de</w> <w>Flandre</w> <w>s’est</w> <w>après</w> <w>lui</w> <w>dreciet</w><pc type="supplied">,</pc></l>
 <l n="9943"><lb/><w>Si</w> <w>a</w> <w>parlé</w> <w>à</w> <w>loi</w> <w>de</w> <w>boin</w> <w>guerrier</w><pc type="supplied">.</pc> <w/></l>
 </lg>
-<lg type="laisse">
+<lg type="laisse" xml:id="L_082">
 <l n="9944"><lb/><w>En</w> <w>piés</w> <w>se</w> <w>drece</w> <w>de</w> <w>Flandre</w> <w>Baudouins</w><pc type="supplied">,</pc></l>
 <l n="9945"><lb/><w>Dist</w> <w>à</w> <w>Henri</w><pc type="supplied">:</pc> <pc type="supplied">«</pc><w>Or</w> <w>vous</w> <w>alés</w> <w>séir</w><pc type="supplied">;</pc></l>
 <l n="9946"><lb/><w>Rien</w> <w>ne</w> <w>ferons</w> <w>de</w> <w>tot</w> <w>çou</w> <w>qu’avés</w> <w>dit</w><pc type="supplied">.</pc></l>
@@ -13396,7 +13396,7 @@
 <l n="9961"><lb/><w>Çou</w> <w>seroit</w> <w>boin</w> <w>qui</w> <w>là</w> <w>poroit</w> <w>venir</w><pc type="supplied">»</pc></l>
 <l n="9962"><lb/><w>Dont</w> <w>se</w> <w>rasiet</w> <w>li</w> <w>frans</w> <w>quens</w> <w>Baudouins</w><pc type="supplied">.</pc> <w/></l>
 </lg>
-<lg type="laisse">
+<lg type="laisse" xml:id="L_083">
 <l n="9963"><lb/><w>Après</w> <w>parla</w> <w>li</w> <w>viés</w> <w>quens</w> <w>de</w> <w>Challon</w><pc type="supplied">;</pc></l>
 <l n="9964"><lb/><w>Il</w> <w>dist</w> <w>au</w> <w>conte</w><pc type="supplied">:</pc> <pc type="supplied">«</pc><w>Vous</w> <w>estes</w> <w>moult</w> <w>preudon</w><pc type="supplied">,</pc></l>
 <l n="9965"><lb/><w>Si</w> <w>avés</w> <w>dit</w> <w>une</w> <w>bele</w> <w>raison</w><pc type="supplied">;</pc></l>
@@ -13412,7 +13412,7 @@
 <l n="9974"><lb/><w>Hé</w><pc type="supplied">!</pc> <w>gentis</w> <w>dus</w><pc type="supplied">,</pc> <w>escourciés</w> <w>no</w> <w>raison</w><pc type="supplied">»</pc></l>
 <l n="9975"><lb/><w>Nales</w> <w>l’entent</w><pc type="supplied">,</pc> <w>ne</w> <w>dit</w> <w>ne</w> <w>o</w> <w>ne</w> <w>non</w><pc type="supplied">.</pc> <w/></l>
 </lg>
-<lg type="laisse">
+<lg type="laisse" xml:id="L_084">
 <l n="9976"><lb/><w>A</w> <w>un</w> <w>consel</w> <w>sont</w> <w>tuit</w> <w>li</w> <pc type="supplied">.</pc><w>xi</w><pc type="supplied">.</pc> <w>per</w><pc type="supplied">,</pc></l>
 <l n="9977"><lb/><w>Et</w> <w>Hues</w> <w>siet</w> <w>là</w> <w>fors</w> <w>lés</w> <pc type="supplied">.</pc><w>i</w><pc type="supplied">.</pc> <w>piler</w><pc type="supplied">.</pc></l>
 <l n="9978"><lb/><w>Dix</w><pc type="supplied">!</pc> <w>com</w> <w>François</w> <w>ont</w> <w>l’enfant</w> <w>regardé</w><pc type="supplied">!</pc></l>
@@ -13444,7 +13444,7 @@
 <l n="10003"><lb/><w>Dame</w><pc type="supplied">,</pc> <w>dist</w> <w>Hues</w><pc type="supplied">,</pc> <w>or</w> <w>ne</w> <w>vous</w> <w>dementés</w><pc type="supplied">;</pc></l>
 <l n="10004"><lb/><w>Vous</w> <w>ne</w> <w>savés</w> <w>que</w> <w>Dix</w> <w>ait</w> <w>en</w> <w>pensé</w><pc type="supplied">»</pc></l>
 </lg>
-<lg type="laisse">
+<lg type="laisse" xml:id="L_085">
 <l n="10005"><lb/><w>Or</w> <w>vous</w> <w>dirai</w> <w>de</w> <w>Nalon</w> <w>le</w> <w>barbé</w><pc type="supplied">.</pc></l>
 <l n="10006"><lb/><w>Ses</w> <w>compaignons</w> <w>a</w> <w>ensanle</w> <w>apelés</w><pc type="supplied">;</pc></l>
 <l n="10007"><lb/><w>Signor</w><pc type="supplied">,</pc> <w>dist</w> <w>il</w><pc type="supplied">,</pc> <w>envers</w> <w>moi</w> <w>entendés</w><pc type="supplied">:</pc></l>
@@ -13466,7 +13466,7 @@
 <l n="10023"><lb/><w>A</w> <w>me</w> <w>parole</w> <w>trestuit</w> <w>vous</w> <w>acordés</w><pc type="supplied">.</pc></l>
 <l n="10024"><lb/><w>—</w> <w>Sire</w><pc type="supplied">,</pc> <w>font</w> <w>il</w><pc type="supplied">,</pc> <w>Jhesu</w> <w>vous</w> <w>puist</w> <w>sauver</w><pc type="supplied">»</pc> <w/></l>
 </lg>
-<lg type="laisse">
+<lg type="laisse" xml:id="L_086">
 <l n="10025"><lb/><w>Li</w> <pc type="supplied">.</pc><w>xi</w><pc type="supplied">.</pc> <w>per</w> <w>furent</w> <w>de</w> <w>grant</w> <w>renon</w><pc type="supplied">;</pc></l>
 <l n="10026"><lb/><w>Trestuit</w> <w>se</w> <w>metent</w> <w>sor</w> <w>le</w> <w>voloir</w> <w>Nalon</w><pc type="supplied">.</pc></l>
 <l n="10027"><lb/><w>Fors</w> <w>de</w> <w>le</w> <w>canbre</w> <w>issirent</w> <w>li</w> <w>baron</w><pc type="supplied">,</pc></l>
@@ -13500,7 +13500,7 @@
 <l n="10054"><lb/><w>Mais</w><pc type="supplied">,</pc> <w>par</w> <w>celui</w> <w>qui</w> <w>sofri</w> <w>pasion</w><pc type="supplied">,</pc></l>
 <l n="10055"><lb/><w>Cou</w> <w>ne</w> <w>li</w> <w>valt</w> <w>la</w> <w>monte</w> <w>d’un</w> <w>boton</w><pc type="supplied">.</pc> <w/></l>
 </lg>
-<lg type="laisse">
+<lg type="laisse" xml:id="L_087">
 <l n="10056"><lb/><w>—</w> <w>Sire</w><pc type="supplied">,</pc> <w>dist</w> <w>Nales</w><pc type="supplied">,</pc> <w>en</w> <w>nom</w> <w>Diu</w><pc type="supplied">,</pc> <w>tort</w> <w>avés</w><pc type="supplied">.</pc></l>
 <l n="10057"><lb/><w>Or</w> <w>esgardés</w><pc type="supplied">,</pc> <w>por</w> <w>Diu</w> <w>de</w> <w>maïsté</w><pc type="supplied">,</pc></l>
 <l n="10058"><lb/><w>En</w> <w>con</w> <w>fait</w> <w>lieu</w> <w>nous</w> <w>devés</w> <w>conjurer</w></l>
