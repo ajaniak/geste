@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ti:work xmlns:ti="http://chs.harvard.edu/xmlns/cts"
+  groupUrn="urn:cts:froLit:jns47"
+  urn="urn:cts:froLit:jns47.jns3755"
+  xml:lang="fro"
+>
+    <ti:title xml:lang="fre">Aimeri de Narbonne</ti:title>
+
+    <ti:edition 
+      workUrn="urn:cts:froLit:jns47.jns3755" 
+      urn="urn:cts:froLit:jns47.jns3755.ed_AimeriD"
+    >
+      
+        <ti:label xml:lang="fre">Aymeri de Narbonne, chanson de geste</ti:label>
+       
+        <ti:description xml:lang="fre">
+	Aymeri de Narbonne : chanson de geste : publiée d'après les manuscrits de Londres et de Paris / par Louis Demaison, 1887, numérisée par l’University of Oxford Text Archive.           
+        </ti:description>
+    </ti:edition>
+        <ti:about urn="urn:cts:froLit:jns47.jns3755.ed_MortAymC"/>
+</ti:work>
+
