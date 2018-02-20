@@ -1,4 +1,8 @@
-<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../odd/out/Modele.rng" type="application/xml"  schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="../../odd/out/Modele.rng" type="application/xml"  schematypens="http://purl.oclc.org/dsdl/schematron"?><?xml-model href="../../odd/Modele.odd"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ed_DoonRocheM" type="ed" xml:lang="fr" version="5">
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../odd/out/Modele.rng" type="application/xml"  schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="../../odd/out/Modele.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="../../odd/Modele.odd"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ed_DoonRocheM" type="ed" xml:lang="fr" version="5">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -87,10 +91,31 @@
 
             <language cert="unknown" resp="#ED" ident="fro" usage="100">Lorraine</language>
          </langUsage>
+      
       </profileDesc>
       <revisionDesc status="draft">
          <change who="#ED" when="2018-01-10" status="draft">Encodage des métadonnées</change>
       </revisionDesc>
+       <encodingDesc><refsDecl n="CTS">
+           <cRefPattern 
+               n="level3"
+               matchPattern="(\w+).(\w+).(\w+)"
+               replacementPattern="#xpath(/tei:TEI/tei:text/tei:body/tei:div/tei:div[@n='$1']/tei:div[@n='$2']/tei:div[@n='$3'])">
+               <p>This pointer pattern extracts level1 and level2 and level3</p>
+           </cRefPattern>
+           <cRefPattern 
+               n="level2"
+               matchPattern="(\w+).(\w+)"
+               replacementPattern="#xpath(/tei:TEI/tei:text/tei:body/tei:div/tei:div[@n='$1']/tei:div[@n='$2'])">
+               <p>This pointer pattern extracts level1 and level2</p>
+           </cRefPattern>
+           <cRefPattern 
+               n="level1"
+               matchPattern="(\w+)"
+               replacementPattern="#xpath(/tei:TEI/tei:text/tei:body/tei:div/tei:div[@n='$1'])">
+               <p>This pointer pattern extracts level1</p>
+           </cRefPattern>
+       </refsDecl></encodingDesc>
    </teiHeader>
 
    <text xml:lang="fre">
