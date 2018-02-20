@@ -102,6 +102,8 @@
 
       <revisionDesc status="draft">
          <!-- Les notes de bas de pages n'ont pas encore réintégrés dans le body -->
+         <change who="#AJ" when="2018-02-20" status="draft">Mise à jour des métadonnées et
+            finalisation du schéma Capitains.</change>
          <change who="#AJ" when="2018-02-19" status="draft">Ajout des éléments de
             Capitainisation</change>
          <change who="#AJ" when="2018-02-14" status="draft">Correction de quelques erreurs restantes

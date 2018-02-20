@@ -102,6 +102,8 @@
         </encodingDesc>
 
         <revisionDesc status="draft">
+            <change who="#AJ" when="2018-02-20" status="draft">Mise à jour des métadonnées et
+                finalisation du schéma Capitains.</change>
             <change who="#AJ" when="2018-02-19" status="draft">Modifications pour la mise en place
                 du xpath de Capitains au niveau du mots.</change>
             <change who="#AJ" when="2018-02-14" status="draft">Mise en place de la tokenisation par
