@@ -149,7 +149,7 @@
             <lb n="4"/>M. Antoine THOMAS.</p></div>
          <pb n="I" facs="https://fr.wikisource.org/wiki/Page%3AAnonyme_-_Doon_de_la_Roche.djvu/5"/>
          <div type="introduction">
-            <div>
+            
             
             <head>INTRODUCTION</head>
 
@@ -457,7 +457,7 @@
                      Meyer, rédigée en vue de l’Introduction à l’édition projetée.</p>
                </div>
 
-               <div><!-- 2e partie -->
+               <div><!-- 2e partie du chapitre -->
                      <head>
                         <title>Phonétique.</title>
                      </head>
@@ -2921,7 +2921,7 @@
                   <p rend="align(right)">Antoine THOMAS.</p>
                </div>
             </div>
-         </div></div>
+         </div>
       </front>
 
    <body xml:lang="fro">
@@ -13252,7 +13252,7 @@
             <p>Aumarie, <emph rend="italic">Almeria</emph> (<emph rend="italic">Espagne</emph>) drap d’ — 4069.</p>
             <p>Autefeulle, 4178, Autefueille, 2872, Autefuelle, 4183, Hautefeulle, 4168, <emph rend="italic">château de Grifon pris par Landri</emph>, 4167, <emph rend="italic">et suiv.</emph>; <emph rend="italic">voir</emph> Grifon d’A.</p>
             <p>Auterme, 1320, 1355, <emph rend="italic">bourgeoisde Paris</emph>.</p>
-            <p><br/></p>
+            <p><lb/></p>
             <p>Bacce a la porte, 859 (?).</p>
             <p>Baivier, <emph rend="italic">voir</emph> Bavier.</p>
             <p>* Balegué [<emph rend="italic">ms.</emph> Baligné], 4555, <emph rend="italic">Balaguer</emph> (<emph rend="italic">Catalogne</emph>).</p>
@@ -13271,7 +13271,7 @@
             <p>Bretaigne, 4113.</p>
             <p>Breton, 435.</p>
             <p>Brohimax de Sesoine, 4353, Brohemax, 4370, 4383, <emph rend="italic">roi des Saxons, emmène prisonnier Pépin le Bref</emph>.</p>
-            <p><br/></p>
+            <p><lb/></p>
             <p>Calabre, 2192 (<emph rend="italic">nommé comme uin pays lointain</emph>), 2761, 2908.</p>
             <p>* Carsadoine 4127 [<emph rend="italic">ms.</emph> Lazadoine], 4355 [<emph rend="italic">ms.</emph> Jazacoigne], <emph rend="italic">roi de</emph> Sasoingne, <emph rend="italic">tué par Pépin</emph>.</p>
             <p>Clarembaus (<emph rend="italic">cas sujet</emph>) de Dinant, 1074, <emph rend="italic">partisan de Tomile</emph>.</p>
@@ -13279,7 +13279,7 @@
                <pb n="237" facs="https://fr.wikisource.org/wiki/Page:Anonyme - Doon de la Roche.djvu/345"/><emph rend="italic">Doon et où se passe le drame de l’accusation d’Olive et toute la conjuration contre Landri; l’archevêque de C. protège les envoyés de l’empereur Alexandre contre Tomile</emph>, 1603 <emph rend="italic">et suiv.</emph>; <emph rend="italic">Doon en est chassé</emph>, 2168 <emph rend="italic">et suiv.</emph>; <emph rend="italic">Doonreprend la ville</emph>, 4059 <emph rend="italic">et suiv.</emph>; <emph rend="italic">Pépin y va avec Doon et Olive</emph>, 4614 <emph rend="italic">et suiv.</emph>; <emph rend="italic">voir</emph> Joserant, Simon, Tomile.</p>
             <p>Constantin (palais), 2759, 2792, <emph rend="italic">palais bâti à Constantinople par Constantin le Grand</emph>.</p>
             <p>Constantinoble, 864, 1638, 2526, 2614, 2723, 4267, Constentinoble, 1383, <emph rend="italic">etc.</emph>; 2424, 4435, <emph rend="italic">etc.</emph>, <emph rend="italic">Constantinople</emph>.</p>
-            <p><br/></p>
+            <p><lb/></p>
             <p>Damedé, 982, Damedeu, 1225, Damedieu, 827 (<emph rend="italic">cas rég.</emph>), Damedex, 117, Damedeus, 1156, Damediex, 523, 542, Damedieus, 1000, 1125 (<emph rend="italic">cas suj.</emph>), <emph rend="italic">le seigneur Dieu</emph>.</p>
             <p>Daon l’Alement, <emph rend="italic">voir</emph> Doon.</p>
             <p>Dé, <emph rend="italic">voir</emph> Dieu.</p>
@@ -13289,12 +13289,12 @@
             <p>Doon de La Roche, <emph rend="italic">cas suj.</emph> Do [<emph rend="italic">ms.</emph> Doz], 50, 64, <emph rend="italic">etc.</emph>, Do l’Alemanz [<emph rend="italic">ms.</emph> Daon l’Alement], 15, Do li Alemanz, 505, Do de la Roche, 32, 72, <emph rend="italic">etc.</emph>, Doons, 38; <emph rend="italic">cas rég.</emph> Doon, 2, 9, <emph rend="italic">etc.</emph></p>
             <p>Dorames (<emph rend="italic">cas suj.</emph>), <emph rend="italic">roi deHongrie, attaque Alexandre empereur de Constantinople etest battu</emph>, 2423 <emph rend="italic">et suiv.</emph>, 4220.</p>
             <p>Dunoe, 2909, <emph rend="italic">le Danube, placé par l’auteur en Italie</emph>.</p>
-            <p><br/></p>
+            <p><lb/></p>
             <p>Esmerez (<emph rend="italic">cas suj.</emph>), 2996, <emph rend="italic">fait partie de l’armée de l’évêque</emph> <emph rend="italic">Auberi</emph>.</p>
             <p>Espaigne, <emph rend="italic">Espagne</emph>: mule d’ —, 3775.</p>
             <p>Espire, <emph rend="italic">Spire, fait partie dudomaine de Tomile</emph>, 563, 605, 848, 2373, 2656, 3021; porte d’ —, <emph rend="italic">au château de la Roche</emph>, 3021; <emph rend="italic">voir</emph> Salvain.</p>
             <p>Espovante-felon, 3331, <emph rend="italic">faux nom que Doon donne à Jofroi</emph>.</p>
-            <p><br/></p>
+            <p><lb/></p>
             <p>Finepople, 865, <emph rend="italic">Philippopoli,ville de Thrace</emph>.</p>
             <p>Flamant, 14, 999, <emph rend="italic">habitants desFlandres</emph>.</p>
             <p>Flandres, 2267.</p>
@@ -13307,7 +13307,7 @@
             <p>François (= <emph rend="italic">franc</emph>), 822, 999, 2258, 2849, 4294: <emph rend="italic">épithète donnée à Landri</emph>.</p>
             <p>Frisons, 14, 999, <emph rend="italic">habitants dela Frise</emph>.</p>
             <p>Frobert, 3330 <emph rend="italic">et suiv.</emph>, <emph rend="italic">fauxnom que se donne Doon</emph>.</p>
-            <p><br/></p>
+            <p><lb/></p>
             <p>Garnier, 2484, <emph rend="italic">chevalier de l’armée hongroise</emph>. 
             </p><pb n="238" facs="https://fr.wikisource.org/wiki/Page:Anonyme - Doon de la Roche.djvu/346"/>
             <p>Gautier, 3246, <emph rend="italic">fils de Bernard</emph>.</p>
@@ -13331,7 +13331,7 @@
             <p>Guenelon, <emph rend="italic">cas suj.</emph> Guenes, 1142, <emph rend="italic">traître, neveu de Tomile</emph>, 119, 1128, <emph rend="italic">frère d’Hardré et d’Hélie</emph>, 3779.</p>
             <p>Guinemant, 2328, <emph rend="italic">partisan deTomile</emph>.</p>
             <p>Guinemant, <emph rend="italic">partisan d’Olive et de Landri</emph>, 661, 1020, <emph rend="italic">etc.</emph>, <emph rend="italic">donné à tort comme compagnon de captivité de Doon</emph>, 2859.</p>
-            <p><br/></p>
+            <p><lb/></p>
             <p>Hardré, <emph rend="italic">traître</emph>, <emph rend="italic">fils de Grifon,cousin de Tomile et de Guenelon</emph>, 120; <emph rend="italic">ménage une trêve avec Doon</emph>, 1128 <emph rend="italic">et suiv.</emph>; <emph rend="italic">conseillede voler les dromadaires des envoyés de Constantinople</emph>, 1605 <emph rend="italic">et suiv.</emph>; <emph rend="italic">fait prisonnier par Landri</emph>, 3783 <emph rend="italic">et suiv.</emph>; <emph rend="italic">nommé par erreur</emph> Hardris, 3818.</p>
             <p>Hauquetant, <emph rend="italic">traître, tué par Landri</emph>, 4633.</p>
             <p>Hautefeulle, <emph rend="italic">voir</emph> Autefeulle.</p>
@@ -13346,7 +13346,7 @@
             <p>Hongrie, Honguerie, <emph rend="italic">pays où réside l’évêque Auberi</emph>, 2162; <emph rend="italic">royaume de Dorame</emph>, 2414, 2421; 4044; escu d’*Angarie [<emph rend="italic">ms.</emph> Angie], 4069.</p>
             <p>* Huon (<emph rend="italic">cas suj.</emph> Hues) de Pontalie, <emph rend="italic">accompagne Landri et Pépin à Constantinople</emph>, 4495.</p>
             <p>Huissant-sur-mer, 1791, <emph rend="italic">Wissant, Pas-de-Calais, cant. de</emph> <emph rend="italic">Marquise</emph>.</p>
-            <p><br/></p>
+            <p><lb/></p>
             <p>Jazacoigne, <emph rend="italic">voir</emph> Carsadoine.</p>
             <p>Jehan, <emph rend="italic">évêque de Constantinople</emph>, 4632.</p>
             <p>Jehan, <emph rend="italic">homme de la suite deDoon</emph>, 227.</p>
@@ -13358,7 +13358,7 @@
             <p>Jofroi de Maïance, <emph rend="italic">cas suj.</emph> Jofroiz, Joffroiz, <emph rend="italic">cousin de Doon, se montre favorable à Olive</emph>, 370 <emph rend="italic">et suiv.</emph>; <emph rend="italic">aide Doon à défendre La Roche contre Tomile</emph>, 2382 <emph rend="italic">et suiv.</emph>; <emph rend="italic">accompagneDoon en Hongrie et est fait prisonnier avec lui</emph>, 2407, <emph rend="italic">et suiv.</emph>; <emph rend="italic">est donné par erreur comme compagnon de Landri</emph>, 2782, <emph rend="italic">accompagne Doon chez le maire Bernard et à La Roche</emph>, 3138 <emph rend="italic">et suiv.</emph></p>
             <p>Joserant de Coloigne, <emph rend="italic">partisan de Tomile, tué par Landri</emph>, 1114; <emph rend="italic">un autre personnage du même nom est tué par Doon</emph>, 2296.</p>
             <p>Justamont, <emph rend="italic">père de Carsadoine, roi de</emph> Sasoingne, <emph rend="italic">tué par Pépin</emph>, 4127.</p>
-            <p><br/></p>
+            <p><lb/></p>
             <p>* Lalice, 1428, <emph rend="italic">Laodicée en Phrygie</emph>.</p>
             <p>Landri, <emph rend="italic">cas suj.</emph> Landris, <emph rend="italic">dimin.</emph> Landriet, 280, 292, 531, 831, <emph rend="italic">fils de Doon</emph>, 108, <emph rend="italic">etc.</emph></p>
             <p>Lant (val), 2912, <emph rend="italic">probablementle</emph> «Land» <emph rend="italic">de l’itinéraire d’Albert de Stade</emph> (<emph rend="italic">Mon. Germ. Script</emph>., <span class="romain" title="Nombre 16 écrit en chiffres romains" style="text-transform:uppercase;font-variant:normal">XVI</span>, 337, col. 6), <emph rend="italic">dernière station en Maurienne, avant la traversée du Mont-Cenis, aujourd’hui</emph> <emph rend="italic">Lanslebourg</emph>. (<emph rend="italic">Cf.</emph> J. Bédier, <emph rend="italic">Les légendes épiques</emph>, <span class="romain" title="Nombre 2 écrit en chiffres romains" style="text-transform:uppercase;font-variant:normal">II</span>, 148.)</p>
@@ -13372,7 +13372,7 @@
             <p>Loeraigne, 2335, Loereigne, 519, 1243, Loeroigne, 90, 
                <pb n="240" facs="https://fr.wikisource.org/wiki/Page:Anonyme - Doon de la Roche.djvu/348"/>130, 880, 2385, Looraingne, 2816, <emph rend="italic">Lorraine</emph>; les puis de Leoroingne, 2910, <emph rend="italic">montagnes placées par l’auteur en Italie</emph>.</p>
             <p>Loqueste, <emph rend="italic">traître tué par Landri</emph>, 4634.</p>
-            <p><br/></p>
+            <p><lb/></p>
             <p>Mahom, 4401, Mahomet, 4354, <emph rend="italic">dieu des</emph> Sesnes.</p>
             <p>Maiance, Maience, 2394, 2808, 2915, 2921, 3060, 3707, <emph rend="italic">est assiégé par Doon</emph>, 3832 <emph rend="italic">et suiv.</emph>; <emph rend="italic">voir</emph> Asson.</p>
             <p>Malingre, <emph rend="italic">fils de Doon et d’Audegour</emph>, 938, 956, <emph rend="italic">etc.</emph></p>
@@ -13393,15 +13393,15 @@
             <p>Morïene, 2913, <emph rend="italic">la Maurienne</emph>.</p>
             <p>Morise, <emph rend="italic">refuse de suivre Landri</emph>, 1242 <emph rend="italic">et suiv.</emph></p>
             <p>Moriz le chenuz, <emph rend="italic">neveu deDoon</emph>, 370, 399, <emph rend="italic">se montre favorable à Olive</emph>, 1020 <emph rend="italic">et suiv.</emph></p>
-            <p><br/></p>
+            <p><lb/></p>
             <p>Noiron (Pré), 1554, 3325, 3478, <emph rend="italic">ager Vaticanus, puis Prati di Castello, à Rome</emph>.</p>
             <p>Normandie, 4114.</p>
             <p>Normant, <emph rend="italic">cas rég.</emph> Normans, 14, 435, 999, <emph rend="italic">Normands</emph>.</p>
-            <p><br/></p>
+            <p><lb/></p>
             <p>Olive, <emph rend="italic">à l’asson.</emph> Olivain, 3409, 3446, Olivant, 3457, <emph rend="italic">sœur de Pépin et femme de Doon</emph>, 43, 50, <emph rend="italic">etc.</emph></p>
             <p>Oton, <emph rend="italic">partisan de Doon</emph>, 3871.</p>
             <p>Outré, <emph rend="italic">envoyé de l’empereur de Constantinople en France</emph>, 1502 <emph rend="italic">et suiv.</emph></p>
-            <p><br/></p>
+            <p><lb/></p>
             <p>Paris: <emph rend="italic">Pépin y tient sa cour</emph>, 12, 38, 311, 325, 574, 575, 1283, 2229.</p>
             <p>Pavie, 1791, <emph rend="italic">ville d’Italie</emph>.</p>
             <p>Pepin, <emph rend="italic">roi de France</emph>, 11, 38, <emph rend="italic">etc.</emph>; <emph rend="italic">qualifié roi</emph>, 11, <emph rend="italic">etc.</emph>, <emph rend="italic">empereur</emph>, 41, 54, <emph rend="italic">etc.</emph>, le roi Franc, 2126; <emph rend="italic">a tué le lion</emph>, 220, 2226, 2855.</p>
@@ -13416,7 +13416,7 @@
             <p>Pontalie, <emph rend="italic">voir</emph> Huon.</p>
             <p>Pu[i]lle, 2173, 2192, 2600, 2918, <emph rend="italic">Pouille</emph>.</p>
             <p>Pullois, 2778, <emph rend="italic">habitants de laPouille</emph>.</p>
-            <p><br/></p>
+            <p><lb/></p>
             <p>Raol de Vaudone, 2328, <emph rend="italic">partisande Tomile</emph>.</p>
             <p>Rin, 1091, *1123, 3911, 4332, 4395, <emph rend="italic">le Rhin, fleuve</emph>.</p>
             <p>Roche, <emph rend="italic">pour</emph> La Roche, 1610.</p>
@@ -13426,7 +13426,7 @@
             <p>Rome, 3398, 4556, Romme, 115, 1379, 1524, <emph rend="italic">Rome</emph>.</p>
             <p>Roon, <emph rend="italic">refuse de prendre leparti de Landri</emph>, 1242 <emph rend="italic">et suiv.</emph></p>
             <p>Roucien as grenons enfumez, 69, <emph rend="italic">surnom donné à Doon en manière de plaisanterie</emph>.</p>
-            <p><br/></p>
+            <p><lb/></p>
             <p>Saine la ville, <emph rend="italic">voir</emph> Seine la ville.</p>
             <p>Saint-Gile, <emph rend="italic">voir</emph> Amorant.</p>
             <p>Saint Pere au Bras, 1380, <emph rend="italic">Brindisi</emph> (?). (<emph rend="italic">Cf.</emph> J. Bédier, <emph rend="italic">Les Légendes épiques</emph>, <span class="romain" title="Nombre 2 écrit en chiffres romains" style="text-transform:uppercase;font-variant:normal">II</span>, 252-253.)</p>
@@ -13454,13 +13454,13 @@
             <p>Sulïen, <emph rend="italic">de Syrie</emph>: mul —, 3086.</p>
             <p>Surie, <emph rend="italic">voir</emph> Sulie.</p>
             <p>Symon, <emph rend="italic">voir</emph> Simon.</p>
-            <p><br/></p>
+            <p><lb/></p>
             <p>Tomiles, <emph rend="italic">cas rég.</emph> Tomile, 116, 119, <emph rend="italic">etc.</emph>, Tomiles de Coloigne, 137, 158, <emph rend="italic">traître, frère de Grifon de Hautefeuille,oncle de Guenelon</emph>.</p>
             <p>Tosquaigne, 2918, <emph rend="italic">Toscane</emph>.</p>
             <p>Tosquanz (<emph rend="italic">cas rég. plur.</emph>), 2601, <emph rend="italic">Toscans</emph>.</p>
             <p>Tresmoigne, 2768, 4356, <emph rend="italic">Crémone en Italie</emph> (?).</p>
             <p>Turcople, 866, 3849, <emph rend="italic">Turcomans</emph>.</p>
-            <p><br/></p>
+            <p><lb/></p>
             <p>Vaillie, <emph rend="italic">voir</emph> Valie.</p>
             <p>Val Lant, <emph rend="italic">voir</emph> Lant.</p>
             <p>Valfondée, 2601, <emph rend="italic">localité en Italie</emph>.</p>
@@ -13487,8 +13487,8 @@
                xix). —
                1630, saint Pere. — 1665, li mès. — 1713, enganez, <emph rend="italic">et ajouter en note</emph>: 1713,
                enganez, <emph rend="italic">ms.</emph> engigniez; <emph rend="italic">cf. plus loin</emph>, <emph rend="italic">v.</emph> 1914. — 1848, senestre
-               le[z]. — 1857, foi. — 1914, <i>peut-être faut-il maintenir dans le texte</i> enginié,
-               <i>leçon du ms.</i> (<emph rend="italic">cf.</emph> v. 1713 <emph rend="italic">et</emph> Introd., <emph rend="italic">p.</emph>
+               le[z]. — 1857, foi. — 1914, <emph rend="italic">peut-être faut-il maintenir dans le texte</emph> enginié,
+                <emph rend="italic">leçon du ms.</> (<emph rend="italic">cf.</emph> v. 1713 <emph rend="italic">et</emph> Introd., <emph rend="italic">p.</emph>
                xxviii.) —
                1924, nen. — 1995, Dieus ne fist. — 2066, <emph rend="italic">var.</emph>, sanc. — 2080, de bon aire;
                <emph rend="italic">ajouter aux var.</emph>: <emph rend="italic">ms.</emph> de bonnaire. — 2215, juré Tomile. — 2253,
@@ -13500,7 +13500,7 @@
                <emph rend="italic">aux var.</emph>: acorerai, <emph rend="italic">ms.</emph> acorecerai. — 3397, li povre[s]. — 3478, 3544,
                saint Pere. — 3678, ne place Dieu. — 3710, Vos menrez. — 3795, puis je bien dire. — 3909,
                <emph rend="italic">var.</emph>: <emph rend="italic">supprimer</emph>
-               <i>les 12 derniers mots</i>. — 4027, Del massacre, <emph rend="italic">et ajouter aux</emph>
+                    <emph rend="italic">les 12 derniers mots</i>. — 4027, Del massacre, <emph rend="italic">et ajouter aux</emph>
                <emph rend="italic">var.</emph>: <emph rend="italic">ms.</emph> maltagre. — 4086, <emph rend="italic">var.</emph>: <emph rend="italic">supprimer les six
                   derniers</emph>
                <emph rend="italic">mots</emph>. — 4101, saint Pere (<emph rend="italic">cf.</emph> Introd., <emph rend="italic">p.</emph>
