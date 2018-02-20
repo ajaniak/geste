@@ -79,7 +79,9 @@
             <language cert="unknown" resp="DEAF" ident="fro" usage="100">traits
                bourguignons</language>
          </langUsage>
-         <refsDecl n="CTS">  
+      </profileDesc>
+         <encodingDesc>
+            <refsDecl n="CTS">  
             <cRefPattern 
                n="mots"
                matchPattern="(\w+).(\w+).(\w+)"
@@ -99,7 +101,8 @@
                <p>Ce pointeur prend en compte les laisses</p>
             </cRefPattern>
          </refsDecl>
-      </profileDesc>
+         </encodingDesc>
+      
       <revisionDesc status="draft">
          <!-- Les notes de bas de pages n'ont pas encore réintégrés dans le body -->
          <change who="#AJ" when="2018-02-19" status="draft">Ajout des éléments de Capitainisation</change>

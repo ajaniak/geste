@@ -77,7 +77,8 @@
       <langUsage>
          <language cert="unknown" resp="DEAF" ident="fro" usage="100">traits de bourguignons</language>
       </langUsage>
-       <refsDecl n="CTS">  
+   </profileDesc>
+      <encodingDesc> <refsDecl n="CTS">  
            <cRefPattern 
                n="mots"
                matchPattern="(\w+).(\w+).(\w+)"
@@ -96,8 +97,8 @@
                replacementPattern="#xpath(/tei:TEI/tei:text/tei:body/tei:lg[@n='$1'])">
                <p>Ce pointeur prend en compte les laisses</p>
            </cRefPattern>
-       </refsDecl>
-   </profileDesc>
+       </refsDecl></encodingDesc>
+  
    <revisionDesc status="draft">
        <change who="#AJ" when="2018-02-19" status="draft">Modifications pour la mise en place du xpath de Capitains au niveau du mots.</change>
        <change who="#AJ" when="2018-02-14" status="draft">Mise en place de la tokenisation par la xsl.</change>
