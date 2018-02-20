@@ -123,11 +123,11 @@
          <lb n="3"/>ANCIENS TEXTES FRANÇAIS
          <lb n="4"/>DOON DE LA ROCHE
             <lb n="5"/>publié par
-            <lb n="6"/>Paul MEYER et Gédéon HUET</head></div>
+            <lb n="6"/>Paul MEYER et Gédéon HUET</head>
          <pb n="2" facs="https://fr.wikisource.org/wiki/Page%3AAnonyme_-_Doon_de_la_Roche.djvu/2"/>
-         <div type="page_de_titre"><head>Le Puy-en-Velay. — Imprimerie Peyriller, Rouchon et Gamon.</head></div>
+         <head><lb/>Le Puy-en-Velay. — Imprimerie Peyriller, Rouchon et Gamon.</head>
          <pb n="3" facs="https://fr.wikisource.org/wiki/Page%3AAnonyme_-_Doon_de_la_Roche.djvu/3"/>
-         <div type="page_de_titre"> <head>DOON DE LA ROCHE
+         <head>DOON DE LA ROCHE
            <lb n="1"/>CHANSON DE GESTE
             <lb n="2"/>publiée par
             <lb n="3"/>Paul MEYER et Gédéon HUET
@@ -136,21 +136,18 @@
             <lb n="6"/>éditeur
             <lb n="7"/>5, quai malaquais (VIe)
          <lb n="8"/>M DCCCCXXI</head>
-        </div>
+        
          <pb n="4" facs="https://fr.wikisource.org/wiki/Page%3AAnonyme_-_Doon_de_la_Roche.djvu/4"/>
-         <div type="page_de_titre"><p>Publication proposée à la Société le 24 avril 1878.</p>
+         <p>Publication proposée à la Société le 24 avril 1878.</p>
             
-            <p>Approuvée par le Conseil dans sa séance du 22 mai suivant, sur le rapport d’une Commission composée de MM. Henri Michelant, Gaston Paris et Gaston Raynaud.</p>
-            
-            
+            <p>Approuvée par le Conseil dans sa séance du 22 mai suivant, sur le <lb/>rapport d’une Commission composée de MM. Henri MICHELANT, <lb/>Gaston PARIS et Gaston RAYNAUD.</p>
+
             <p><lb n="1"/>Commissaire responsable :
             <lb n="2"/>(en remplacement de Gaston Paris,
             <lb n="3"/>mort avant le commencement de l’impression)
             <lb n="4"/>M. Antoine THOMAS.</p></div>
          <pb n="I" facs="https://fr.wikisource.org/wiki/Page%3AAnonyme_-_Doon_de_la_Roche.djvu/5"/>
          <div type="introduction">
-            
-            
             <head>INTRODUCTION</head>
                 
              <p><title type="sub">CHAPITRE PREMIER</title>
@@ -13061,8 +13058,8 @@
             <lb/>
         </p>
         <div type="U"><p>uis, 906, 1043, <emph rend="italic">etc.</emph>, <emph rend="italic">porte</emph>.</p>
-        <p>umilier (s’), 3042, <emph rend="italic">devenir bon</emph>, <emph rend="italic">miséricordieux</emph>.</p>
-        <p></div>
+        <p>umilier (s’), 3042, <emph rend="italic">devenir bon</emph>, <emph rend="italic">miséricordieux</emph>.</p></div>
+        <p>
             <lb/>
         </p>
         <div type="V"><p>va, <choice><sic>2790</sic><corr type="editorial">2789</corr></choice>, <emph rend="italic">interjection</emph>.</p>
