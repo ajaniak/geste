@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ti:work xmlns:ti="http://chs.harvard.edu/xmlns/cts"
+    groupUrn="urn:cts:froLit:jn47"
+    urn="urn:cts:froLit:jns60310"
+    xml:lang="fro"
+    >
+    
+    <ti:title xml:lang="fro">Huon de Bordeaux</ti:title>
+    <!-- 
+      For each "text", either edition, translation, or commentary, there should be a ti:edition, ti:translation, or ti:commentary node
+
+      The edition nodes has two attributes :
+        - The first one, workUrn, contains only the urn up to the work component
+        - The second, urn, contains the full urn
+    -->
+    <ti:edition 
+        workUrn="urn:cts:froLit:jn47"
+        urn="urn:cts:froLit:jns60130.ed_HuonG"
+        >
+        
+        <ti:label xml:lang="fre"><title type="main">Huon de Bordeaux</title> <title type="sub">Chanson de geste</title></ti:label>
+        
+        <ti:description xml:lang="fre">
+            <p><lb/><title type="main">HUON DE BORDEAUX</title>
+                <lb/><title type="sub">CHANSON DE GESTE</title></p>
+            <p><lb/>Publiée pour la première fois <lb/>d’après les manuscrits de Tours, de Paris <lb/>et de Turin <lb/>PAR <lb/>MM. F. GUESSARD ET C. GRANDMAISON</p>
+            <p><lb/>À PARIS <lb/>Chez F. Vieweg, Libraire-Éditeur <lb/>Maison A. FRANK <lb/>rue de
+                richelieu, n° 67 <lb/>MDCCCLX</p>
+        </ti:description>
+    </ti:edition>
+    
+</ti:work>
+
