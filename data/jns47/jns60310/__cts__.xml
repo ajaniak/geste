@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ti:work xmlns:ti="http://chs.harvard.edu/xmlns/cts"
+    groupUrn="urn:cts:froLit:jns47"
+    urn="urn:cts:froLit:jns47:jns60310"
+    xml:lang="fro"
+    >
+    
+    <ti:title xml:lang="fre">Huon de Bordeaux</ti:title>
+  
+    <ti:edition 
+        workUrn="urn:cts:froLit:jns47.jns60130"
+        urn="urn:cts:froLit:jns47.jns60130.ed_HuonG"
+        >
+        
+        <ti:label xml:lang="fre"><title type="main">Huon de Bordeaux</title>, <title type="sub">Chanson de geste</title></ti:label>
+        
+        <ti:description xml:lang="fre">
+            F. Guessard – C. Grandmaison, Huon de Bordeaux, Paris (Vieweg) 1860 (Anc. Poètes) ; numérisé par Wikisource			
+        </ti:description>
+    </ti:edition>
+    <ti:about urn="urn:cts:froLit:jns47.jns60310.ed.huong"/>
+</ti:work>
+

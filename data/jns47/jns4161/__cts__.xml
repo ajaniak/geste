@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ti:work xmlns:ti="http://chs.harvard.edu/xmlns/cts"
+  groupUrn="urn:cts:froLit:jns47"
+  urn="urn:cts:froLit:jns47.jns4161"
+  xml:lang="fro"
+>
+    <ti:title xml:lang="fre">La Mort Aymeri de Narbonne</ti:title>
+
+    <ti:edition 
+      workUrn="urn:cts:froLit:jns47.jns4161" 
+      urn="urn:cts:froLit:jns47.jns4161.ed_MortAymC"
+    >
+      
+        <ti:label xml:lang="fre"><title type="main">La Mort Aymeri de Narbonne</title>,<title type="sub"> chanson de geste</title></ti:label>
+       
+        <ti:description xml:lang="fre">
+          La Mort Aymeri de Narbonne, chanson de geste publiée d'après les manuscrits de Londres et de Paris par J. Couraye du Parc, Société des anciens textes français, Firmin Didot, Paris, 1884 ; numérisé par Wikisource.          
+        </ti:description>
+    </ti:edition>
+        <ti:about urn="urn:cts:froLit:jns47.jns4161.ed_MortAymC"/>
+</ti:work>
+
