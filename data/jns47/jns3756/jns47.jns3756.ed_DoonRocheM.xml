@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<!--  
 <?xml-model href="../../../odd/out/Modele.rng" type="application/xml"  schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="../../../odd/out/Modele.rng" type="application/xml"  schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<?xml-model href="../../../odd/Modele.odd"?>
+<?xml-model href="../../../odd/Modele.odd"?>-->
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ed_DoonRocheM" type="ed" xml:lang="fr" version="5">
    <teiHeader>
       <fileDesc>
@@ -2211,16 +2212,18 @@
                   établir le classement suivant de nos versions :<note n="1"><p>Ce classement est
                         loin d’être assuré pour le chant islandais, qui a pu être intermédiaire
                         entre N et le chant des îles Fœroe.</p></note>
+                   <graphic
+                       url="https://fr.wikisource.org/wiki/Page%3AAnonyme_-_Doon_de_la_Roche.djvu/81"/>
                    <tree>
-                       <root xml:id="O¹" children="#O² #trad_angl_perdue">
+                       <root xml:id="O1" children="#O2 #trad_angl_perdue">
                            <label>O¹</label>
                        </root>
                        <iNode xml:id="trad_angl_perdue" children="#N" parent="#O¹"><label><emph rend="italic">(trad. anglaise perdue)</emph>
                        </label></iNode>
-                       <iNode xml:id="O²" children="#F #E" parent="#O¹"><label>O²</label>
+                       <iNode xml:id="O2" children="#F #E" parent="#O1"><label>O²</label>
                        </iNode>
-                       <leaf xml:id="F" parent="#O²"><label>F</label></leaf>
-                       <leaf xml:id="E" parent="#O²"><label>E</label></leaf>
+                       <leaf xml:id="F" parent="#O2"><label>F</label></leaf>
+                       <leaf xml:id="E" parent="#O2"><label>E</label></leaf>
                        <iNode xml:id="N" children="#chant_islandais #chant_Fœroe" parent="#trad_angl_perdue"><label>N</label></iNode>
                        <leaf xml:id="chant_islandais" parent="#N"><label>chant islandais</label></leaf>
                        <leaf xml:id="chant_Foeroe" parent="#N"><label>chant des îles Fœroe</label></leaf>
