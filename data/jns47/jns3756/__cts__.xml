@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ti:work xmlns:ti="http://chs.harvard.edu/xmlns/cts"
+    groupUrn="urn:cts:froLit:jns47"
+    urn="urn:cts:froLit:jns47.jns3756"
+    xml:lang="fro"
+    >
+    
+    <ti:title xml:lang="fre">Doon de la Roche</ti:title>
+    
+    <ti:edition 
+        workUrn="urn:cts:froLit:jns47.jns3756" 
+        urn="urn:cts:froLit:jsn47.jns3756.ed_DoonM"
+        >
+        
+        <ti:label xml:lang="fre" ><title type="main">Doon de la Roche</title></ti:label>
+        <ti:label xml:lang="fre" ><title type="sub">Chanson de geste</title></ti:label>
+        
+        <ti:description xml:lang="fre"> 
+          <p>P. Meyer – G. Huet, Doon de la Roche, Paris (Champion) 1921 (SATF 65) ; numérisé par Wikisource</p>
+        </ti:description>
+    </ti:edition>
+    
+   
+</ti:work>
