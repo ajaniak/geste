@@ -113,7 +113,7 @@
        
    </teiHeader>
 
-   <text xml:lang="fro" xml:base="urn:cts:froLit:jns47.jns3756.ed_DoonRocheM.xml">
+   <text xml:lang="fro" xml:base="urn:cts:froLit:jns47.jns3756.ed_DoonRocheM">
 
       <front>
          <pb n="1" facs="https://fr.wikisource.org/wiki/Page%3AAnonyme_-_Doon_de_la_Roche.djvu/1"/>
