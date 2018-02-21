@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <ti:work xmlns:ti="http://chs.harvard.edu/xmlns/cts"
-    groupUrn="urn:cts:froLit:jn47"
+    groupUrn="urn:cts:froLit:jns47"
     urn="urn:cts:froLit:jns47:jns60310"
     xml:lang="fro"
     >
@@ -9,7 +9,7 @@
     <ti:title xml:lang="fre">Huon de Bordeaux</ti:title>
   
     <ti:edition 
-        workUrn="urn:cts:froLit:jn47.jns60130"
+        workUrn="urn:cts:froLit:jns47.jns60130"
         urn="urn:cts:froLit:jns47.jns60130.ed_HuonG"
         >
         
