@@ -13442,7 +13442,7 @@
          
          
          <div type="errata"><!-- Numérotation par défaut de la dernière page car échec du test pour la capitanisation sans sa présence -->
-             <pb n="243" title="https://fr.wikisource.org/wiki/Page:Anonyme_-_Doon_de_la_Roche.djvu/351"/>
+             <pb n="243" facs="https://fr.wikisource.org/wiki/Page:Anonyme_-_Doon_de_la_Roche.djvu/351"/>
             <head>ERRATA<lb/>CORRECTIONS ET ADDITIONS</head>
             
             <p><emph rend="italic">Lire</emph>:</p>
