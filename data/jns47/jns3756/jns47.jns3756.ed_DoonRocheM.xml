@@ -125,7 +125,7 @@
             <lb n="5"/>publié par
             <lb n="6"/>Paul MEYER et Gédéon HUET</head>
          <pb n="2" facs="https://fr.wikisource.org/wiki/Page%3AAnonyme_-_Doon_de_la_Roche.djvu/2"/>
-         <head><lb/>Le Puy-en-Velay. — Imprimerie Peyriller, Rouchon et Gamon.</head>
+         <head><lb n="1"/>Le Puy-en-Velay. — Imprimerie Peyriller, Rouchon et Gamon.</head>
          <pb n="3" facs="https://fr.wikisource.org/wiki/Page%3AAnonyme_-_Doon_de_la_Roche.djvu/3"/>
          <head>DOON DE LA ROCHE
            <lb n="1"/>CHANSON DE GESTE
@@ -140,12 +140,12 @@
          <pb n="4" facs="https://fr.wikisource.org/wiki/Page%3AAnonyme_-_Doon_de_la_Roche.djvu/4"/>
          <p>Publication proposée à la Société le 24 avril 1878.</p>
             
-            <p>Approuvée par le Conseil dans sa séance du 22 mai suivant, sur le <lb/>rapport d’une Commission composée de MM. Henri MICHELANT, <lb/>Gaston PARIS et Gaston RAYNAUD.</p>
+            <p>Approuvée par le Conseil dans sa séance du 22 mai suivant, sur le <lb n="1"/>rapport d’une Commission composée de MM. Henri MICHELANT, <lb n="2"/>Gaston PARIS et Gaston RAYNAUD.</p>
 
-            <p><lb n="1"/>Commissaire responsable :
-            <lb n="2"/>(en remplacement de Gaston Paris,
-            <lb n="3"/>mort avant le commencement de l’impression)
-            <lb n="4"/>M. Antoine THOMAS.</p></div>
+            <p><lb n="3"/>Commissaire responsable :
+            <lb n="4"/>(en remplacement de Gaston Paris,
+            <lb n="5"/>mort avant le commencement de l’impression)
+            <lb n="6"/>M. Antoine THOMAS.</p></div>
          <pb n="I" facs="https://fr.wikisource.org/wiki/Page%3AAnonyme_-_Doon_de_la_Roche.djvu/5"/>
          <div type="introduction">
             <head>INTRODUCTION</head>
@@ -9252,7 +9252,7 @@
             variante, d’après le texte établi par M. Meyer lui-même (<emph rend="italic">Recueil
                 d’anciens textes</emph>, p. 280, v. 36-38)</p>
         <p>
-            <quote><lb n="2"/>Nostre empereres a ses barons fievez.<lb n="3"/> Cel done terre, cel chastel, cel
+            <quote defective="false"><lb n="2"/>Nostre empereres a ses barons fievez.<lb n="3"/> Cel done terre, cel chastel, cel
                 cité,<lb n="4"/> Cel bour et ville <emph rend="italic">selonc</emph> ce que il set.</quote>
         </p>
         <p><lb n="5"/>V. 102-109. On remarquera que la ville où eut lieu le mariage de Doon et d’Olive n’est
@@ -9358,7 +9358,7 @@
             il a été question dans le vers précédent. Des équivoques syntaxiques toutes semblables
             se trouvent ailleurs dans notre chanson; par exemple, v. 2545-46:</p>
         <p>
-            <quote><lb n="4"/>Mout fu granz li eschas que <emph rend="italic">il</emph> ont conquesté.<lb n="5"/> Enz en
+            <quote defective="false"><lb n="4"/>Mout fu granz li eschas que <emph rend="italic">il</emph> ont conquesté.<lb n="5"/> Enz en
                 parfonde chartre <emph rend="italic">les</emph> fist li rois jeter.</quote>
         </p>
         <p><lb n="6"/>Le <emph rend="italic">les</emph> du v. 2546 désigne Doon et Jofroi, dont il a été
@@ -9470,7 +9470,7 @@
             <emph rend="italic">Duchesse</emph>, p. 19, v. 601-602, à propos du supplice du traître
             Milon:</p>
         <p>
-           <quote><lb n="2"/>Puis li ont fait la hart entor le col noer,<lb n="3"/>
+           <quote defective="false"><lb n="2"/>Puis li ont fait la hart entor le col noer,<lb n="3"/>
                 <emph rend="italic">Contremont la sacherent</emph>, si l’ont fait ancroer.</quote>
         </p>
         <p><lb n="4"/>Cette façon de pendre diffère de celle généralement connue, où l’on obligeait le condamné
@@ -9484,7 +9484,7 @@
             faudrait peut-être corriger: Por <emph rend="italic">le present Tomile</emph>; comp. v.
             4136-4157:</p>
         <p>
-            <quote><lb n="6"/>Quant vo seror faillistes<lb n="7"/> Et vo nevou petit <emph rend="italic">por</emph>
+            <quote defective="false"><lb n="6"/>Quant vo seror faillistes<lb n="7"/> Et vo nevou petit <emph rend="italic">por</emph>
                 l’avoir le traïtre.</quote>
         </p>
         
@@ -9913,7 +9913,7 @@
             <emph rend="italic">procure tout, fait de bien</emph>
             <emph rend="italic">grandes choses</emph>.</p></div>
         
-            <lb/>
+            <lb n="1"/>
         
         <div type="B"><p>bacheler, 1900, bachelier [<emph rend="italic">ms.</emph> bechelet], 4502, <emph rend="italic">jeune homme</emph>.</p>
         <p>bachelerie, 4503, <emph rend="italic">valeur</emph>, <emph rend="italic">habileté</emph>.</p>
@@ -10074,7 +10074,7 @@
         <p>* buisnart [<emph rend="italic">ms.</emph> bimart], 1013, <emph rend="italic">sot</emph>,
                 <emph rend="italic">imbécile</emph>.</p></div>
        
-            <lb/>
+            <lb n="1"/>
         
         <div type="C"><p>* çaint [<emph rend="italic">ms.</emph> cain], 3417, <emph rend="italic">ceinture</emph>.</p>
         <p>car, 75, 131, <emph rend="italic">etc.</emph>, <emph rend="italic">conf.
@@ -10400,7 +10400,7 @@
                 <emph rend="italic">gradin</emph>; <emph rend="italic">au fém.</emph> cuverte, 654,
             887, <emph rend="italic">etc.</emph></p></div>
         
-    <lb/>
+    <lb n="1"/>
         <div type="D"><p>daintié [<emph rend="italic">ms.</emph> dointié], 3103, <emph rend="italic">bien</emph>,
                 <emph rend="italic">terre</emph>.</p>
         <p>Damedeus (<emph rend="italic">cas suj.</emph>), 1156, Damedex, 117, Damedieus, 1000,
@@ -10684,7 +10684,7 @@
         <p>durer: tant com l’espée dure, 3790, tant com hante li dure, 1849, 4182, <emph rend="italic">de toute la longueur</emph>
             <emph rend="italic">de l’épée, de la lance</emph>.</p></div>
        
-            <lb/>
+            <lb n="1"/>
         
         <div type="E"><p>eage, aage: ses aages, 532, <emph rend="italic">son</emph>
             <emph rend="italic">développement corporel par</emph>
@@ -11056,7 +11056,7 @@
             2974, <emph rend="italic">larmes</emph>.</p>
         <p>ez, <emph rend="italic">voir</emph> es.</p></div>
         
-            <lb/>
+            <lb n="1"/>
         
         <div type="F"><p>fable, 3572, <emph rend="italic">conte récité par un</emph>
             <emph rend="italic">jongleur</emph>; 3612, <emph rend="italic">bruit</emph>, <emph rend="italic">tumulte</emph> (?).</p>
@@ -11235,7 +11235,7 @@
         <p>fust, 1032, <emph rend="italic">bâton</emph>; 1051, <emph rend="italic">bois de</emph>
             <emph rend="italic">lance</emph>.</p></div>
         
-            <lb/>
+            <lb n="1"/>
         
         <div type="G"><p>gaaignier, gaainnier, 3186, 3193, <emph rend="italic">faire de la culture</emph>, <emph rend="italic">labourer</emph>.</p>
         <p>gab, <emph rend="italic">cas rég. plur.</emph> gas, 1011, <emph rend="italic">plaisanterie</emph>.</p>
@@ -11362,7 +11362,7 @@
             <emph rend="italic">de</emph>.</p>
         <p>gurpir, 1258, <emph rend="italic">quitter</emph>.</p></div>
         
-            <lb/>
+            <lb n="1"/>
         
         <div type="H"><p>habergier, <emph rend="italic">voir</emph> herbergier.</p>
         <p>haï! 439, 448, <emph rend="italic">etc.</emph>, <emph rend="italic">exclamation</emph>
@@ -11433,7 +11433,7 @@
         <p>huisset, 1215, <emph rend="italic">petite porte</emph>.</p>
         <p>hurter, 1341, <emph rend="italic">pousser violemment</emph>.</p></div>
         
-            <lb/>
+            <lb n="1"/>
         
         <div type="I"><p>iaume, <emph rend="italic">voir</emph> heaume.</p>
         <p>ieve, 4024, <emph rend="italic">jument</emph>.</p>
@@ -11466,7 +11466,7 @@
                 substantivt</emph>) à l’ — de, 3854, <emph rend="italic">au</emph>
             <emph rend="italic">sortir de</emph>.</p></div>
         
-            <lb/>
+            <lb n="2"/>
         
         <div type="J"><p>ja, 398, 711, <emph rend="italic">etc.</emph>, <emph rend="italic">déjà</emph>; 1247,
             1315, <emph rend="italic">jamais</emph> (<emph rend="italic">affirm.</emph>); <emph rend="italic">explétif</emph>, 545, 581, <emph rend="italic">etc.</emph>; — ne, 818,
@@ -11529,7 +11529,7 @@
             <emph rend="italic">arrêt de justice</emph>, <emph rend="italic">supplice</emph>.</p>
         <p>jut, <emph rend="italic">voir</emph> gesir.</p></div>
       
-            <lb/>
+            <lb n="1"/>
         
         <div type="L"><p>laidement, 283, <choice><sic>965</sic><corr type="editorial">964</corr></choice>, 3275, <emph rend="italic">méchamment</emph>.</p>
         <p>laier (?) [<emph rend="italic">cf.</emph> laissier], 421, 2429, 2437, <emph rend="italic">etc.</emph>, <emph rend="italic">laisser</emph>; 4374, <emph rend="italic">lâcher</emph>; 3418, <emph rend="italic">laisser</emph>, <emph rend="italic">négliger</emph>
@@ -11631,7 +11631,7 @@
         <p>losengerie, 126, <emph rend="italic">tromperie</emph>.</p>
         <p>losengier, 115, 3818, <emph rend="italic">menteur</emph>, <emph rend="italic">intrigant</emph>.</p></div>
         
-            <lb/>
+            <lb n="1"/>
         
         <div type="M"><p>madre, <emph rend="italic">bois veiné</emph>: hanap de —, 3430.</p>
         <p>maginois, <emph rend="italic">riche</emph>, <emph rend="italic">somptueux</emph>: palais
@@ -11887,7 +11887,7 @@
         <p>musart, 3248, 3375, <emph rend="italic">sot</emph>, <emph rend="italic">étourdi</emph>.</p>
         <p>musié: pain —, 3269 (?).</p></div>
        
-            <lb/>
+            <lb n="1"/>
         
         <div type="N"><p>nasel, 2520, <choice><sic>2539</sic><corr type="editorial">2538</corr></choice>,
                     <choice><sic>2631</sic><corr type="editorial">2621</corr></choice>, 3005, 3871, 3941, <emph rend="italic">partie du heaume</emph>
@@ -11924,7 +11924,7 @@
         <p>nuns (<emph rend="italic">adj.</emph>), 7, 1203; (<emph rend="italic">pron.</emph>),
             3597, <emph rend="italic">aucun</emph>.</p></div>
        
-            <lb/>
+            <lb n="2"/>
         
         <div type="O"><p>o, 51, 171, <emph rend="italic">etc.</emph>, <emph rend="italic">avec</emph>; ensemble —,
             2351, 2426, 3623, <emph rend="italic">même</emph>
@@ -12021,7 +12021,7 @@
         <p>ovré, 1964, ouvré, 3428, <emph rend="italic">fabriqué</emph>.</p>
         <p>oz, <emph rend="italic">voir</emph> ost.</p></div>
         
-            <lb/>
+            <lb n="1"/>
         
         <div type="P"><p>paiennie, 1239, 1271, <emph rend="italic">le pays</emph>
             <emph rend="italic">des païens</emph>.</p>
@@ -12466,7 +12466,7 @@
             <emph rend="italic">chose</emph>] <emph rend="italic">libre de servitude</emph>; tenir
             —, 551, <choice><sic>2950</sic><corr type="editorial">2960</corr></choice>, 2994, <emph rend="italic">tenir libre de servitude</emph>.</p></div>
         
-            <lb/>
+            <lb n="1"/>
         
         <div type="R"><p>racorder, 2202, <emph rend="italic">réconcilier</emph>.</p>
         <p>rafichier, 2411, <emph rend="italic">reprendre</emph> [<emph rend="italic">un</emph>
@@ -12652,7 +12652,7 @@
         <p>ru, rueve, ruevent, ruis, <emph rend="italic">voir</emph> rover.</p>
         <p>* ruiste [<emph rend="italic">ms.</emph> rulle], 2853, <emph rend="italic">violent</emph>.</p></div>
         
-            <lb/>
+            <lb n="1"/>
         
         <div type="S"><p>sable, 1573, 1945, 2005, <emph rend="italic">gibeline</emph>.</p>
         <p>sablon, 3785, <emph rend="italic">sable</emph>.</p>
@@ -12852,7 +12852,7 @@
             <emph rend="italic">haut</emph>; 1021, 3266, <emph rend="italic">en haut</emph> (<emph rend="italic">avec mouv.</emph>); 2017, <emph rend="italic">dessus</emph>; la —,
             1334, <emph rend="italic">là-haut</emph>; 2235, <emph rend="italic">là-bas</emph>, <emph rend="italic">au loin</emph>; (<emph rend="italic">prép.</emph>), 322, 3002, <emph rend="italic">etc.</emph>, <emph rend="italic">sur</emph>.</p></div>
         
-            <lb/>
+            <lb n="1"/>
         
         <div type="T"><p>tables, 2324, <emph rend="italic">sorte de jeu</emph>, <emph rend="italic">forme</emph>
             <emph rend="italic">primitive du tric-trac</emph>.</p>
@@ -13054,12 +13054,12 @@
         <p>tumeresce, 4563, <emph rend="italic">femme qui</emph> «<emph rend="italic">tume</emph>»,
                 <emph rend="italic">acrobate</emph>.</p></div>
       
-            <lb/>
+            <lb n="1"/>
         
         <div type="U"><p>uis, 906, 1043, <emph rend="italic">etc.</emph>, <emph rend="italic">porte</emph>.</p>
         <p>umilier (s’), 3042, <emph rend="italic">devenir bon</emph>, <emph rend="italic">miséricordieux</emph>.</p></div>
        
-            <lb/>
+            <lb n="2"/>
         
         <div type="V"><p>va, <choice><sic>2790</sic><corr type="editorial">2789</corr></choice>, <emph rend="italic">interjection</emph>.</p>
         <p>vaillant, 4, 7, 37, <emph rend="italic">etc.</emph>, vaillissant, 133, <emph rend="italic">la valeur de</emph>.</p>
@@ -13176,11 +13176,11 @@
         <p>vuidier, <emph rend="italic">p. pa. fém. sing.</emph>
             <choice><sic>veudie</sic><corr type="editorial">vuidie</corr></choice>, 2161, <emph rend="italic">quitter</emph>, <emph rend="italic">abandonner</emph>.</p></div>
        
-            <lb/>
+            <lb n="1"/>
         
         <div type="W"><p>waignon, gaignon, 3302, 3337, <emph rend="italic">gros chien</emph>, <emph rend="italic">mâtin</emph>.</p></div>
         
-            <lb/>
+            <lb n="2"/>
        
         <div type="Y"><p>ysopé, <emph rend="italic">voir</emph> isopé.</p></div>
     
@@ -13222,7 +13222,7 @@
             <p>Aumarie, <emph rend="italic">Almeria</emph> (<emph rend="italic">Espagne</emph>) drap d’ — 4069.</p>
             <p>Autefeulle, 4178, Autefueille, 2872, Autefuelle, 4183, Hautefeulle, 4168, <emph rend="italic">château de Grifon pris par Landri</emph>, 4167, <emph rend="italic">et suiv.</emph>; <emph rend="italic">voir</emph> Grifon d’A.</p>
             <p>Auterme, 1320, 1355, <emph rend="italic">bourgeoisde Paris</emph>.</p></div>
-            <lb/>
+            <lb n="1"/>
             <div type="B"><p>Bacce a la porte, 859 (?).</p>
             <p>Baivier, <emph rend="italic">voir</emph> Bavier.</p>
             <p>* Balegué [<emph rend="italic">ms.</emph> Baligné], 4555, <emph rend="italic">Balaguer</emph> (<emph rend="italic">Catalogne</emph>).</p>
@@ -13241,7 +13241,7 @@
             <p>Bretaigne, 4113.</p>
             <p>Breton, 435.</p>
             <p>Brohimax de Sesoine, 4353, Brohemax, 4370, 4383, <emph rend="italic">roi des Saxons, emmène prisonnier Pépin le Bref</emph>.</p></div>
-            <lb/>
+            <lb n="2"/>
             <div type="C"><p>Calabre, 2192 (<emph rend="italic">nommé comme uin pays lointain</emph>), 2761, 2908.</p>
             <p>* Carsadoine 4127 [<emph rend="italic">ms.</emph> Lazadoine], 4355 [<emph rend="italic">ms.</emph> Jazacoigne], <emph rend="italic">roi de</emph> Sasoingne, <emph rend="italic">tué par Pépin</emph>.</p>
             <p>Clarembaus (<emph rend="italic">cas sujet</emph>) de Dinant, 1074, <emph rend="italic">partisan de Tomile</emph>.</p>
@@ -13249,7 +13249,7 @@
                <pb n="237" facs="https://fr.wikisource.org/wiki/Page:Anonyme - Doon de la Roche.djvu/345"/><emph rend="italic">Doon et où se passe le drame de l’accusation d’Olive et toute la conjuration contre Landri; l’archevêque de C. protège les envoyés de l’empereur Alexandre contre Tomile</emph>, 1603 <emph rend="italic">et suiv.</emph>; <emph rend="italic">Doon en est chassé</emph>, 2168 <emph rend="italic">et suiv.</emph>; <emph rend="italic">Doonreprend la ville</emph>, 4059 <emph rend="italic">et suiv.</emph>; <emph rend="italic">Pépin y va avec Doon et Olive</emph>, 4614 <emph rend="italic">et suiv.</emph>; <emph rend="italic">voir</emph> Joserant, Simon, Tomile.</p>
             <p>Constantin (palais), 2759, 2792, <emph rend="italic">palais bâti à Constantinople par Constantin le Grand</emph>.</p>
             <p>Constantinoble, 864, 1638, 2526, 2614, 2723, 4267, Constentinoble, 1383, <emph rend="italic">etc.</emph>; 2424, 4435, <emph rend="italic">etc.</emph>, <emph rend="italic">Constantinople</emph>.</p></div>
-            <lb/>
+            <lb n="1"/>
             <div type="D"><p>Damedé, 982, Damedeu, 1225, Damedieu, 827 (<emph rend="italic">cas rég.</emph>), Damedex, 117, Damedeus, 1156, Damediex, 523, 542, Damedieus, 1000, 1125 (<emph rend="italic">cas suj.</emph>), <emph rend="italic">le seigneur Dieu</emph>.</p>
             <p>Daon l’Alement, <emph rend="italic">voir</emph> Doon.</p>
             <p>Dé, <emph rend="italic">voir</emph> Dieu.</p>
@@ -13259,12 +13259,12 @@
             <p>Doon de La Roche, <emph rend="italic">cas suj.</emph> Do [<emph rend="italic">ms.</emph> Doz], 50, 64, <emph rend="italic">etc.</emph>, Do l’Alemanz [<emph rend="italic">ms.</emph> Daon l’Alement], 15, Do li Alemanz, 505, Do de la Roche, 32, 72, <emph rend="italic">etc.</emph>, Doons, 38; <emph rend="italic">cas rég.</emph> Doon, 2, 9, <emph rend="italic">etc.</emph></p>
             <p>Dorames (<emph rend="italic">cas suj.</emph>), <emph rend="italic">roi deHongrie, attaque Alexandre empereur de Constantinople etest battu</emph>, 2423 <emph rend="italic">et suiv.</emph>, 4220.</p>
             <p>Dunoe, 2909, <emph rend="italic">le Danube, placé par l’auteur en Italie</emph>.</p></div>
-            <lb/>
+            <lb n="2"/>
             <div type="E"><p>Esmerez (<emph rend="italic">cas suj.</emph>), 2996, <emph rend="italic">fait partie de l’armée de l’évêque</emph> <emph rend="italic">Auberi</emph>.</p>
             <p>Espaigne, <emph rend="italic">Espagne</emph>: mule d’ —, 3775.</p>
             <p>Espire, <emph rend="italic">Spire, fait partie dudomaine de Tomile</emph>, 563, 605, 848, 2373, 2656, 3021; porte d’ —, <emph rend="italic">au château de la Roche</emph>, 3021; <emph rend="italic">voir</emph> Salvain.</p>
             <p>Espovante-felon, 3331, <emph rend="italic">faux nom que Doon donne à Jofroi</emph>.</p></div>
-            <lb/>
+            <lb n="3"/>
             <div type="F"><p>Finepople, 865, <emph rend="italic">Philippopoli,ville de Thrace</emph>.</p>
             <p>Flamant, 14, 999, <emph rend="italic">habitants desFlandres</emph>.</p>
             <p>Flandres, 2267.</p>
@@ -13277,7 +13277,7 @@
             <p>François (= <emph rend="italic">franc</emph>), 822, 999, 2258, 2849, 4294: <emph rend="italic">épithète donnée à Landri</emph>.</p>
             <p>Frisons, 14, 999, <emph rend="italic">habitants dela Frise</emph>.</p>
             <p>Frobert, 3330 <emph rend="italic">et suiv.</emph>, <emph rend="italic">fauxnom que se donne Doon</emph>.</p></div>
-            <lb/>
+            <lb n="4"/>
             <div type="G"><p>Garnier, 2484, <emph rend="italic">chevalier de l’armée hongroise</emph>. 
             </p><pb n="238" facs="https://fr.wikisource.org/wiki/Page:Anonyme - Doon de la Roche.djvu/346"/>
             <p>Gautier, 3246, <emph rend="italic">fils de Bernard</emph>.</p>
@@ -13301,7 +13301,7 @@
             <p>Guenelon, <emph rend="italic">cas suj.</emph> Guenes, 1142, <emph rend="italic">traître, neveu de Tomile</emph>, 119, 1128, <emph rend="italic">frère d’Hardré et d’Hélie</emph>, 3779.</p>
             <p>Guinemant, 2328, <emph rend="italic">partisan deTomile</emph>.</p>
             <p>Guinemant, <emph rend="italic">partisan d’Olive et de Landri</emph>, 661, 1020, <emph rend="italic">etc.</emph>, <emph rend="italic">donné à tort comme compagnon de captivité de Doon</emph>, 2859.</p></div>
-            <lb/>
+            <lb n="1"/>
             <div type="H"><p>Hardré, <emph rend="italic">traître</emph>, <emph rend="italic">fils de Grifon,cousin de Tomile et de Guenelon</emph>, 120; <emph rend="italic">ménage une trêve avec Doon</emph>, 1128 <emph rend="italic">et suiv.</emph>; <emph rend="italic">conseillede voler les dromadaires des envoyés de Constantinople</emph>, 1605 <emph rend="italic">et suiv.</emph>; <emph rend="italic">fait prisonnier par Landri</emph>, 3783 <emph rend="italic">et suiv.</emph>; <emph rend="italic">nommé par erreur</emph> Hardris, 3818.</p>
             <p>Hauquetant, <emph rend="italic">traître, tué par Landri</emph>, 4633.</p>
             <p>Hautefeulle, <emph rend="italic">voir</emph> Autefeulle.</p>
@@ -13316,7 +13316,7 @@
             <p>Hongrie, Honguerie, <emph rend="italic">pays où réside l’évêque Auberi</emph>, 2162; <emph rend="italic">royaume de Dorame</emph>, 2414, 2421; 4044; escu d’*Angarie [<emph rend="italic">ms.</emph> Angie], 4069.</p>
             <p>* Huon (<emph rend="italic">cas suj.</emph> Hues) de Pontalie, <emph rend="italic">accompagne Landri et Pépin à Constantinople</emph>, 4495.</p>
             <p>Huissant-sur-mer, 1791, <emph rend="italic">Wissant, Pas-de-Calais, cant. de</emph> <emph rend="italic">Marquise</emph>.</p></div>
-            <lb/>
+            <lb n="1"/>
             <div type="J"><p>Jazacoigne, <emph rend="italic">voir</emph> Carsadoine.</p>
             <p>Jehan, <emph rend="italic">évêque de Constantinople</emph>, 4632.</p>
             <p>Jehan, <emph rend="italic">homme de la suite deDoon</emph>, 227.</p>
@@ -13328,7 +13328,7 @@
             <p>Jofroi de Maïance, <emph rend="italic">cas suj.</emph> Jofroiz, Joffroiz, <emph rend="italic">cousin de Doon, se montre favorable à Olive</emph>, 370 <emph rend="italic">et suiv.</emph>; <emph rend="italic">aide Doon à défendre La Roche contre Tomile</emph>, 2382 <emph rend="italic">et suiv.</emph>; <emph rend="italic">accompagneDoon en Hongrie et est fait prisonnier avec lui</emph>, 2407, <emph rend="italic">et suiv.</emph>; <emph rend="italic">est donné par erreur comme compagnon de Landri</emph>, 2782, <emph rend="italic">accompagne Doon chez le maire Bernard et à La Roche</emph>, 3138 <emph rend="italic">et suiv.</emph></p>
             <p>Joserant de Coloigne, <emph rend="italic">partisan de Tomile, tué par Landri</emph>, 1114; <emph rend="italic">un autre personnage du même nom est tué par Doon</emph>, 2296.</p>
             <p>Justamont, <emph rend="italic">père de Carsadoine, roi de</emph> Sasoingne, <emph rend="italic">tué par Pépin</emph>, 4127.</p></div>
-            <lb/>
+            <lb n="2"/>
             <div type="L"><p>* Lalice, 1428, <emph rend="italic">Laodicée en Phrygie</emph>.</p>
             <p>Landri, <emph rend="italic">cas suj.</emph> Landris, <emph rend="italic">dimin.</emph> Landriet, 280, 292, 531, 831, <emph rend="italic">fils de Doon</emph>, 108, <emph rend="italic">etc.</emph></p>
             <p>Lant (val), 2912, <emph rend="italic">probablementle</emph> «Land» <emph rend="italic">de l’itinéraire d’Albert de Stade</emph> (<emph rend="italic">Mon. Germ. Script</emph>., XVI, 337, col. 6), <emph rend="italic">dernière station en Maurienne, avant la traversée du Mont-Cenis, aujourd’hui</emph> <emph rend="italic">Lanslebourg</emph>. (<emph rend="italic">Cf.</emph> J. Bédier, <emph rend="italic">Les légendes épiques</emph>, II, 148.)</p>
@@ -13342,7 +13342,7 @@
             <p>Loeraigne, 2335, Loereigne, 519, 1243, Loeroigne, 90, 
                <pb n="240" facs="https://fr.wikisource.org/wiki/Page:Anonyme - Doon de la Roche.djvu/348"/>130, 880, 2385, Looraingne, 2816, <emph rend="italic">Lorraine</emph>; les puis de Leoroingne, 2910, <emph rend="italic">montagnes placées par l’auteur en Italie</emph>.</p>
             <p>Loqueste, <emph rend="italic">traître tué par Landri</emph>, 4634.</p></div>
-            <lb/>
+            <lb n="1"/>
             <div type="M"><p>Mahom, 4401, Mahomet, 4354, <emph rend="italic">dieu des</emph> Sesnes.</p>
             <p>Maiance, Maience, 2394, 2808, 2915, 2921, 3060, 3707, <emph rend="italic">est assiégé par Doon</emph>, 3832 <emph rend="italic">et suiv.</emph>; <emph rend="italic">voir</emph> Asson.</p>
             <p>Malingre, <emph rend="italic">fils de Doon et d’Audegour</emph>, 938, 956, <emph rend="italic">etc.</emph></p>
@@ -13363,15 +13363,15 @@
             <p>Morïene, 2913, <emph rend="italic">la Maurienne</emph>.</p>
             <p>Morise, <emph rend="italic">refuse de suivre Landri</emph>, 1242 <emph rend="italic">et suiv.</emph></p>
             <p>Moriz le chenuz, <emph rend="italic">neveu deDoon</emph>, 370, 399, <emph rend="italic">se montre favorable à Olive</emph>, 1020 <emph rend="italic">et suiv.</emph></p></div>
-            <lb/>
+            <lb n="2"/>
             <div type="N"><p>Noiron (Pré), 1554, 3325, 3478, <emph rend="italic">ager Vaticanus, puis Prati di Castello, à Rome</emph>.</p>
             <p>Normandie, 4114.</p>
             <p>Normant, <emph rend="italic">cas rég.</emph> Normans, 14, 435, 999, <emph rend="italic">Normands</emph>.</p></div>
-            <lb/>
+            <lb n="3"/>
             <div type="O"><p>Olive, <emph rend="italic">à l’asson.</emph> Olivain, 3409, 3446, Olivant, 3457, <emph rend="italic">sœur de Pépin et femme de Doon</emph>, 43, 50, <emph rend="italic">etc.</emph></p>
             <p>Oton, <emph rend="italic">partisan de Doon</emph>, 3871.</p>
             <p>Outré, <emph rend="italic">envoyé de l’empereur de Constantinople en France</emph>, 1502 <emph rend="italic">et suiv.</emph></p></div>
-            <lb/>
+            <lb n="4"/>
             <div type="P"><p>Paris: <emph rend="italic">Pépin y tient sa cour</emph>, 12, 38, 311, 325, 574, 575, 1283, 2229.</p>
             <p>Pavie, 1791, <emph rend="italic">ville d’Italie</emph>.</p>
             <p>Pepin, <emph rend="italic">roi de France</emph>, 11, 38, <emph rend="italic">etc.</emph>; <emph rend="italic">qualifié roi</emph>, 11, <emph rend="italic">etc.</emph>, <emph rend="italic">empereur</emph>, 41, 54, <emph rend="italic">etc.</emph>, le roi Franc, 2126; <emph rend="italic">a tué le lion</emph>, 220, 2226, 2855.</p>
@@ -13386,7 +13386,7 @@
             <p>Pontalie, <emph rend="italic">voir</emph> Huon.</p>
             <p>Pu[i]lle, 2173, 2192, 2600, 2918, <emph rend="italic">Pouille</emph>.</p>
             <p>Pullois, 2778, <emph rend="italic">habitants de laPouille</emph>.</p></div>
-            <lb/>
+            <lb n="1"/>
             <div type="R"><p>Raol de Vaudone, 2328, <emph rend="italic">partisande Tomile</emph>.</p>
             <p>Rin, 1091, *1123, 3911, 4332, 4395, <emph rend="italic">le Rhin, fleuve</emph>.</p>
             <p>Roche, <emph rend="italic">pour</emph> La Roche, 1610.</p>
@@ -13396,7 +13396,7 @@
             <p>Rome, 3398, 4556, Romme, 115, 1379, 1524, <emph rend="italic">Rome</emph>.</p>
             <p>Roon, <emph rend="italic">refuse de prendre leparti de Landri</emph>, 1242 <emph rend="italic">et suiv.</emph></p>
             <p>Roucien as grenons enfumez, 69, <emph rend="italic">surnom donné à Doon en manière de plaisanterie</emph>.</p></div>
-            <lb/>
+            <lb n="2"/>
             <div type="S"><p>Saine la ville, <emph rend="italic">voir</emph> Seine la ville.</p>
             <p>Saint-Gile, <emph rend="italic">voir</emph> Amorant.</p>
             <p>Saint Pere au Bras, 1380, <emph rend="italic">Brindisi</emph> (?). (<emph rend="italic">Cf.</emph> J. Bédier, <emph rend="italic">Les Légendes épiques</emph>, II, 252-253.)</p>
@@ -13424,13 +13424,13 @@
             <p>Sulïen, <emph rend="italic">de Syrie</emph>: mul —, 3086.</p>
             <p>Surie, <emph rend="italic">voir</emph> Sulie.</p>
             <p>Symon, <emph rend="italic">voir</emph> Simon.</p></div>
-            <lb/>
+            <lb n="1"/>
             <div type="T"><p>Tomiles, <emph rend="italic">cas rég.</emph> Tomile, 116, 119, <emph rend="italic">etc.</emph>, Tomiles de Coloigne, 137, 158, <emph rend="italic">traître, frère de Grifon de Hautefeuille,oncle de Guenelon</emph>.</p>
             <p>Tosquaigne, 2918, <emph rend="italic">Toscane</emph>.</p>
             <p>Tosquanz (<emph rend="italic">cas rég. plur.</emph>), 2601, <emph rend="italic">Toscans</emph>.</p>
             <p>Tresmoigne, 2768, 4356, <emph rend="italic">Crémone en Italie</emph> (?).</p>
             <p>Turcople, 866, 3849, <emph rend="italic">Turcomans</emph>.</p></div>
-           <lb/>
+           <lb n="2"/>
             <div type="V"><p>Vaillie, <emph rend="italic">voir</emph> Valie.</p>
             <p>Val Lant, <emph rend="italic">voir</emph> Lant.</p>
             <p>Valfondée, 2601, <emph rend="italic">localité en Italie</emph>.</p>
@@ -13443,7 +13443,7 @@
          
          <div type="errata"><!-- Numérotation par défaut de la dernière page car échec du test pour la capitanisation sans sa présence -->
              <pb n="243" facs="https://fr.wikisource.org/wiki/Page:Anonyme_-_Doon_de_la_Roche.djvu/351"/>
-            <head>ERRATA<lb/>CORRECTIONS ET ADDITIONS</head>
+            <head>ERRATA<lb n="1"/>CORRECTIONS ET ADDITIONS</head>
             
             <p><emph rend="italic">Lire</emph>:</p>
             <p>V. 103, mois duré. — 528, par amoit. — 614, <emph rend="italic">suppr. la note</emph>
@@ -13481,5 +13481,4 @@
       </back>
    </text>
 </TEI>
-
 
