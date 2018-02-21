@@ -87,11 +87,21 @@
             <origPlace cert="unknown" resp="DEAF" type="lieuManuscrit">Lorraine</origPlace>
             <origDate cert="unknown" resp="DEAF" type="dateManuscrit" notBefore="1480" notAfter="1500">1480-1500</origDate>
          </creation>
-         <langUsage>
-
-            <language cert="unknown" resp="#ED" ident="fro" usage="100">Lorraine</language>
+         <langUsage><language cert="unknown" resp="#ED" ident="fro" usage="100">Lorraine</language>
          </langUsage>
       </profileDesc>
+       
+       <encodingDesc><refsDecl n="CTS">
+           <cRefPattern n="mots" matchPattern="(\w+).(\w+).(\w+)" replacementPattern="#xpath(/tei:TEI/tei:text/tei:body/tei:lg[@n='$1']/tei:l[@n='$2']/tei:w[@n='$3'])">
+               <p>Ce pointeur pointe vers les mots du texte</p>
+           </cRefPattern>
+           <cRefPattern n="vers" matchPattern="(\w+).(\w+)" replacementPattern="#xpath(/tei:TEI/tei:text/tei:body/tei:lg[@n='$1']/tei:l[@n='$2'])">
+               <p>Ce pointeur pointe vers les vers du texte</p>
+           </cRefPattern>
+           <cRefPattern n="laisse" matchPattern="(\w+)" replacementPattern="#xpath(/tei:TEI/tei:text/tei:body/tei:lg[@n='$1'])">
+               <p>Ce pointeur pointe vers les laisses du texte</p>
+           </cRefPattern>
+       </refsDecl></encodingDesc>
       <revisionDesc status="draft">
           <change who="#ED" when="2018-02-19" status="draft">Ajout de la numérotation des mots pour la capitanisation</change>
          <change who="#ED" when="2018-02-19" status="draft">Numérotation des via XSL</change>
@@ -100,17 +110,7 @@
           <change who="#ED" when="2018-02-15" status="draft">Encodage du body</change>
           <change who="#ED" when="2018-01-10" status="draft">Encodage des métadonnées</change>
       </revisionDesc>
-       <encodingDesc><refsDecl n="CTS">
-           <cRefPattern n="mots" matchPattern="(\w+).(\w+).(\w+)" replacementPattern="#xpath(/tei:TEI/tei:text/tei:body/tei:div/tei:lg[@n='$1']/tei:l[@n='$2']/tei:w[@n='$3'])">
-               <p>Ce pointeur pointe vers les mots du texte</p>
-           </cRefPattern>
-           <cRefPattern n="vers" matchPattern="(\w+).(\w+)" replacementPattern="#xpath(/tei:TEI/tei:text/tei:body/tei:div/tei:lg[@n='$1']/tei:l[@n='$2'])">
-               <p>Ce pointeur pointe vers les vers du texte</p>
-           </cRefPattern>
-           <cRefPattern n="laisse" matchPattern="(\w+)" replacementPattern="#xpath(/tei:TEI/tei:text/tei:body/tei:div/tei:lg[@n='$1'])">
-               <p>Ce pointeur pointe vers les laisses du texte</p>
-           </cRefPattern>
-       </refsDecl></encodingDesc>
+       
    </teiHeader>
 
    <text xml:lang="fro" xml:base="jns47.jns3756.ed_DoonRocheM.xml">
