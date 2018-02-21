@@ -6,7 +6,7 @@ python:
 install:
   - pip3 install HookTest>=1.0.0
 
-script: hooktest --scheme epidoc --workers 3 --verbose --manifest --console --countword --allowfailure ./
+script: hooktest --scheme tei --workers 3 --verbose --manifest --console --countword --allowfailure ./
 
 before_deploy:
 - hooktest-build --travis --txt ./
