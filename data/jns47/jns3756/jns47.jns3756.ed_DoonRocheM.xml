@@ -113,7 +113,7 @@
        </refsDecl></encodingDesc>
    </teiHeader>
 
-   <text xml:lang="fre">
+   <text xml:lang="fre" xml:base="jns47.jns3756.ed_DoonRocheM.xml">
 
       <front>
          <pb n="1" facs="https://fr.wikisource.org/wiki/Page%3AAnonyme_-_Doon_de_la_Roche.djvu/1"/>
