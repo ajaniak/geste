@@ -123,7 +123,7 @@
          <change who="#AJ" when="2018-01-10" status="draft">Réalisation du TeiHeader</change>
       </revisionDesc>
    </teiHeader>
-   <text xml:lang="fre" xml:base="urn:cts:froLit:jns47.jns4161.ed_MortAymC">
+   <text xml:lang="fro" xml:base="urn:cts:froLit:jns47.jns4161.ed_MortAymC">
       <front>
          <div type="page_de_titre">
 
